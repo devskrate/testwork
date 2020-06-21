@@ -2,7 +2,7 @@
 layout: post
 title:  "Mi Notebook 14, Mi Notebook Horizon Edition launched in India."
 author: mohit
-category: [Tech, Laptops]
+category: [tech, laptops]
 image: assets/img/mi/MiLaptop-Bannerjpg.jpg
 tags: [Xiaomi, Laptop, MiLaptop]
 redirect_from:
