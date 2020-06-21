@@ -1,14 +1,17 @@
 # Site Settings
 name: DevsKrate
-title: DevsKrate | Everything about Tech
-description: Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.
+title: DevsKrate | Tech, Code and Gadgets
+description: Everything about Tech, Gadgets and Developments. Paradise of Delelopers and Techies
+image: /assets/img/page-img.png
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
+  - Tech
+  - Developer
+  - Techies
+  - Gadgets
+  - Tutorials
+  - Code
+email: contact@devskrate.com
 disqus_username: disqus_username
 show_hero: true
 menu:
@@ -41,7 +44,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://newui.devskrate.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
