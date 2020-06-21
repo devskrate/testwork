@@ -1,8 +1,8 @@
 ---
 layout: author
 photo: /assets/img/nikhil.jpg
-name: Nikhil Pyreddy
-display_name: Nikhil
+name: nikhil
+display_name: Nikhil Pyreddy
 position: Chief Editor
 bio: Student Developer
 github_username: srisatyalokesh

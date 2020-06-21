@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/satya.jpg
-name: sri satya lokesh
+name: satya
 display_name: Satya Lokesh
 position: Designer, Developer and Blogger
 bio: Software Engineer at <a href="dhan.ai">Dhan AI</a>.
