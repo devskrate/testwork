@@ -46,8 +46,8 @@ layout: main
             <article class="box-item">
                 <span class="category">
                     {% for category_post in post.category %}
-                        <a style="display: inline;" href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ category_post }}">
-                            <span>{{ category_post }} ,   </span>
+                        <a style="display: inline;margin-right:15px;" href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ category_post }}">
+                            <span>{{ category_post }}  </span>
                         </a>
                     {% endfor %}
                 </span>
@@ -86,7 +86,7 @@ layout: main
                             <p class="description">{{ post.description }}</p>
                         </a>
                         <div class="tags">
-                            {% for tag in post.tags %}
+                            {% for tag in post.tags limit:{{ default_no_of_tags }} %}
                                 {% if tag != "" %}
                                     <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">#{{ tag }}</a>
                                 {% endif %}
