@@ -5,17 +5,31 @@ description: Meet our team.
 permalink: /authors/
 ---
 
-<h1>Staff</h1>
+<h1>Authors</h1>
 
 <div class="staff">
   {% for author in site.authors %}
     <div class="item">
-      <h2 class="name">
-        <a href="{{ site.baseurl }}{{ author.url }}">{{ author.display_name }}</a>
-      </h2>
-      {% if author.position %}
-        <h3 class="position">{{ author.position }}</h3>
-      {% endif %}
+      <table>
+        <tr class="author-info">
+          <td>
+            <h2 class="name"><a class="name" href="{{ site.baseurl }}{{ author.url }}">{{ author.display_name }}</a></h2>
+            {% if author.position %}
+              <h3 class="position">{{ author.position }}</h3>
+            {% endif %}
+            {% if author.bio %} 
+              <h3 class="position">{{ author.bio }}</h3>
+            {% endif %}
+            </div>
+          </td>
+          <td >
+            <img class="author-photo" src="{{author.photo}}">
+          </td>
+        </tr>
+      </table> 
     </div>
   {% endfor %}
 </div>
+
+
+      
