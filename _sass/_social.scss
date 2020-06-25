@@ -2,8 +2,6 @@
     @include center(rem(800px));
     background: $accentDark;
     padding: rem(20px) rem(25px);
-    margin-top: rem(50px);
-    margin-bottom: rem(120px);
     @include mainFont(300);
   
     @include media(">=sm") {
