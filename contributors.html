@@ -1,0 +1,21 @@
+---
+layout: page
+title: Contributors
+description: Meet our Development team.
+permalink: /contributors/
+---
+
+<h1>Development Team</h1>
+
+<div class="staff">
+  {% for contributor in site.contributors %}
+    <div class="item">
+      <h2 class="name">
+        <a href="{{ site.baseurl }}{{ contributor.url }}">{{ contributor.display_name }}</a>
+      </h2>
+      {% if contributor.bio %}
+        <h3 class="position">{{ contributor.bio }}</h3>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>
