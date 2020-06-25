@@ -1,5 +1,5 @@
 ---
-layout: author
+layout: contributor
 photo: /assets/img/satya.jpg
 name: vasavi
 display_name: Vasavi
