@@ -1,18 +1,21 @@
 .social {
     @include center(rem(800px));
     background: $accentDark;
-    padding: rem(20px) rem(25px);
+    
     @include mainFont(300);
-  
-    @include media(">=sm") {
-      margin-top: rem(100px);
-    }
   
     p {
       text-decoration: none;
       color: $primaryDark;
       font-size: rem(16px);
       line-height: rem(25px);
+      margin-top: 8px;
+      margin-bottom: 15px;
+
+      @include media(">=sm") {
+        margin-top: 22px;
+        margin-bottom: 0;
+      }
     }
   
     span {
@@ -20,13 +23,14 @@
     }
   
     svg {
-      @include size(28, 28);
+      @include size(15,15);
       display: inline-block;
       vertical-align: middle;
       margin-right: rem(10px);
   
       @include media(">=sm") {
         margin-right: rem(20px);
+        @include size(20, 20);
       }
   
       &.love {
