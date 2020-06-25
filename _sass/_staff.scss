@@ -14,7 +14,7 @@
     float: right;
     
     @include media(">=sm") {
-      width: rem(200px);
+      width: rem(155px);
       margin-bottom: rem(30px);
     }
   }
@@ -25,7 +25,11 @@
     
 
     &.name {
-      padding-bottom: 10px;
+      padding-bottom: 3px;
+
+      @include media(">=sm") {
+        padding-bottom: 15px;
+      }
     }
 
     &.position {
@@ -34,26 +38,35 @@
       font-style: italic;
       color: #999;
       padding-top: 0;
-      padding-bottom: 10px;
     }
   }
 }
 
-table{
+.staff .item table{
   width: 100%;
   text-align: left;
   border: none !important;
+  margin-top: 15px;
+  margin-bottom: 0;
 }
 
-.author-info{
-  vertical-align: middle;
-}
 
-.author-info{
+.staff .item table .author-info{
   vertical-align: top;
   text-align: left;
+
+
+  
 }
 
 .staff .item td{
   border-color: white;
+}
+
+.staff .item h2{
+  padding-top: 10px;
+
+  @include media(">=sm") {
+    padding-top: 22px;
+  }
 }
