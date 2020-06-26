@@ -72,7 +72,8 @@ footer {
     list-style-type: none;
 
     li {
-      margin-bottom: rem(10px);
+      display: inline;
+      margin-right: 10px;
     }
 
     a {
@@ -80,7 +81,7 @@ footer {
       font-size: rem(15px);
       
       &:hover {
-        text-decoration: underline;
+        color: $themeColor;
       }
     }
   }
