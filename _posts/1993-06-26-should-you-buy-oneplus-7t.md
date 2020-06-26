@@ -3,7 +3,7 @@ layout: post
 title: "Is it Worth: Buying OnePlus 7T over OnePlus 8"
 author: nikhil
 categories: [ANDROID]
-image: assets/imag/oneplus/op7tvs8.jpg
+image: assets/img/oneplus/op7tvs8.jpg
 tags: [comparision, Is It Worth]
 ---
 
@@ -29,7 +29,7 @@ td{
 
 |                        | OnePlus 7T                                                                                                      | OnePlus 8                                                                                                    |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-|                        | <center><img src="{{ site.baseurl }}/assets/imag/oneplus/oneplus-7t-render.jpg" alt="OnePlus 7T" title="OnePlus 7T"/></center> | <center><img src="{{ site.baseurl }}/assets/ima/oneplus/oneplus-8-render.jpg" alt="OnePlus 8" title="OnePlus 8"/></center> |
+|                        | <center><img src="{{ site.baseurl }}/assets/img/oneplus/oneplus-7t-render.jpg" alt="OnePlus 7T" title="OnePlus 7T"/></center> | <center><img src="{{ site.baseurl }}/assets/img/oneplus/oneplus-8-render.jpg" alt="OnePlus 8" title="OnePlus 8"/></center> |
 | **Operating System**   | Android 10                                                                                                      | Android 10                                                                                                   |
 | **Display**            | 6.55 inches, 20:9 aspect ratio, 1080x2400 (402 ppi) resolution, Fluid AMOLED                                    | 6.55 inches, 20:9 aspect ratio, 1080x2400 (402 ppi) resolution, Fluid AMOLED                                 |
 | **Processor**          | Snapdragon 855+                                                                                                 | Snapdragon 865                                                                                               |
@@ -54,7 +54,7 @@ You've already got everything about the two phones and OnePlus 8 and 7T have a w
 
 From hardware perspective, with the OnePlus 8 making a few minor improvements in areas like the display, battery, storage options, and of course, 5G support. The only perk is that OnePlus 8 is that, it is packed with a more energy efficient processor making its battery life a whole lot improved.
 
-<img src="{{ site.baseurl }}/assets/imag/oneplus/cpu-performance.jpg" />
+<img src="{{ site.baseurl }}/assets/img/oneplus/cpu-performance.jpg" />
 
 But the whole lot of caviar comes here as OnePlus 7T already has a decent full-day battery life and in a country like India where 5G is mere dream until the end of 2022. Also OnePlus 7T had a advantage of ultra wide camera for beautiful and wide angled photos.
 
