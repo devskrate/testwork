@@ -711,3 +711,40 @@
     }
   }
 }
+
+.post-content .post-info a{
+  margin-left: 25px;
+  text-decoration: underline;
+  color: darken($lightGray, 30%);
+
+}
+
+.post-content .post-info a:hover{
+  color: $themeColor;
+}
+
+.post-content .categories{
+  padding: 15px;
+}
+
+.post-content .categories a{
+  background-color: darken($lightGray, 30%);
+  color: black;
+  margin-right: 15px;
+  padding: 8px;
+  border-radius: 2px;
+  font-size: 13px;
+
+  @include media(">=sm") {
+    font-size: 15px;
+  }
+}
+
+.post-content .categories a:hover{
+  color: $themeColor;
+  background-color: white;
+}
+
+.post-content .tags a{
+  margin-right: 10px;
+}

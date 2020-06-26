@@ -1,14 +1,14 @@
 ---
 layout: contributor
-photo: /assets/img/satya.jpg
-name: vasavi
+photo: /assets/img/vasavi.jpg
+name: Vasavi Lagishetty
 display_name: Vasavi
-position: Designer, Developer and Blogger
-bio: Software Engineer at <a href="dhan.ai">Dhan AI</a>.
-github_username: srisatyalokesh
-facebook_username: srisatyalokesh2.12
-twitter_username: codewithsatya
-instagram_username: man_with_3_eyes
-linkedin_username: srisatyalokesh
-medium_username: srisatyalokesh
+position: Designer, Developer
+bio: Software Engineer at <a href="valuelabs.com">ValueLabs</a>.
+github_username: vasavilagishetty
+facebook_username: vasavi2910
+twitter_username: 
+instagram_username: 
+linkedin_username: vasavi2910
+medium_username: 
 ---
