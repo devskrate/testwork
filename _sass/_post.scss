@@ -374,10 +374,10 @@
         transition: all 0.3s;
 
         &:hover {
-          color: rgba(0, 0, 0, 0.5);
+          color: $themeColor;
           img {
-            -webkit-filter: grayscale(100%);
-            filter: grayscale(100%);
+            -webkit-filter: grayscale(50%);
+            filter: grayscale(50%);
           }
         }
       }
