@@ -2,9 +2,10 @@
 layout: post
 title: "Is it Worth: Buying OnePlus 7T over OnePlus 8"
 author: nikhil
-categories: [ANDROID]
+category: [ANDROID]
 image: assets/img/oneplus/op7tvs8.jpg
 tags: [comparision, Is It Worth]
+paginate: true
 ---
 
 It's been a month and half since OnePlus had launched the OnePlus 8 series in India and almost lost the title of **Flagship Killer** because of its price starting at ₹44,999/-. OnePlus 8 is the a minor upgrade over the 7T which has a present price tag of ₹34,999/-. Now the question is **Can we buy OnePlus 7T over OnePlus 8 in India?**.
@@ -51,6 +52,8 @@ td{
 
 <br/>
 You've already got everything about the two phones and OnePlus 8 and 7T have a whole _lot_ in common.
+
+--page-break--
 
 From hardware perspective, with the OnePlus 8 making a few minor improvements in areas like the display, battery, storage options, and of course, 5G support. The only perk is that OnePlus 8 is that, it is packed with a more energy efficient processor making its battery life a whole lot improved.
 
