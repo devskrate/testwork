@@ -714,13 +714,16 @@
 
 .post-content .post-info a{
   margin-left: 25px;
-  text-decoration: underline;
-  color: darken($lightGray, 30%);
+  background-color: $themeColor;
+  padding: 5px 10px 5px 10px;
+  border-radius: 3px;
+  color: black;
 
 }
 
 .post-content .post-info a:hover{
   color: $themeColor;
+  background-color: white;
 }
 
 .post-content .categories{
