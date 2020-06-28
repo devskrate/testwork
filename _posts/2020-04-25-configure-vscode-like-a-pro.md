@@ -1,9 +1,12 @@
 ---
+date: 2020-04-25 07:23:49
 layout: post
 title:  "Configure your VS Code like a pro"
-author: satya
-categories: [ Devlopment, DevStuff, VisualStudioCode]
+subtitle:
+description:
 image: assets/images/vscode/vscode-home.png
+author: satya
+category: [ Devlopment, DevStuff, VisualStudioCode]
 tags: [developers, microsoft, vscode, DevStuff, configuring, featured]
 ---
 

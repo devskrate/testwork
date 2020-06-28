@@ -1,10 +1,16 @@
 ---
+date: 2020-05-17 17:26:40
 layout: post
-title: "What is Microsoft Student Partner?"
-author: nikhil
-categories: [microsoft, learning]
-image: assets/images/microsoft/msp-featured-image.jpg
+title: What is Microsoft Student Partner?
+subtitle: Microsoft Student Partner is a Sudent Ambassador Program by Microsoft
+description:  Here is everything about Microsoft Student Partner and how to apply for it?
+image: https://devskrate.github.io/assets/blog-banners/msp.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/msp-opt.jpg
+category: [students]
 tags: [microsoft, student partner, ambassador]
+author: nikhil
+paginate: false
+is_generated: false
 ---
 
 There are many organizations that run student ambassador programs for students going through colleges and universities. One among those, but the most reputed program is offered by Microsoft named as <a href="https://studentambassadors.microsoft.com/en-us" target="_blank">Microsoft Learn Student Ambassador program</a>, formaly Microsoft Student Partner Program.

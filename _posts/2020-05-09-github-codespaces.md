@@ -1,9 +1,12 @@
 ---
+date: 2020-05-09 18:02:18
 layout: post
 title:  GitHub CodeSpaces - Your instant Dev Environment
-author: satya
-categories: [ Codespaces, GitHub ]
+subtitle:
+description:
 image: assets/images/mlogs/github/codespaces.png
+author: satya
+category: [ Codespaces, GitHub ]
 tags: [Microsoft, vscode, extensions, github]
 ---
 
