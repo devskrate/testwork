@@ -1,58 +1,65 @@
 ---
 date: 2020-05-26 23:56:06
 layout: post
-title:  GitHub CLI - Enhance your command line experience
+title: GitHub CLI - Enhance your command line experience
 subtitle: sample
 description: sample
 author: satya
 image: assets/images/mlogs/github/github-cli.png
-category: [ Tech, Developers]
+category: [Tech, Developers]
 tags: [commandline, linux, git, developers, beta]
 ---
 
 Here is an easier and more seamless way to work with GitHub from the command line — [GitHub CLI](https://cli.github.com/), currently it is in **beta**. Millions of developers rely on GitHub for software development to make it more fun and collaborative.
 The tool `gh` brings the [GitHub](https://github.com/) experience right to your terminal.
 
+#### Installation
 
-#### Installation 
 You can install GitHub CLI today on most of the Operating Systems available -
-- macOS     
-- Windows     
-- Linux     
+
+- macOS
+- Windows
+- Linux
 
 Install this from [here](https://github.com/cli/cli#installation-and-upgrading)
 
 It’s available today for GitHub Team and Enterprise Cloud, but not yet available for GitHub Enterprise Server. This will have support support for Enterprise Server when it’s out of beta.
 
 #### How to use?
+
 `gh` currently suppports with `issues` and `pull requests` because many developers use them every day. Here are few examples provided by GitHub on how `gh` can improve your experience when contributing to an open source project.
 
-- #####  Filter lists to your needs
-    Find an open source project you want to contribute to and clone the repository. And then, to see where maintainers want community contributions, use `gh` to **filter the issues** to only show those with `help-wanted` labels.
+- ##### Filter lists to your needs
 
-    ![gh-example1]({{ site.baseurl }}/assets/images/mlogs/github/gh-cli1.png)
+  Find an open source project you want to contribute to and clone the repository. And then, to see where maintainers want community contributions, use `gh` to **filter the issues** to only show those with `help-wanted` labels.
 
-- #####  Quickly view the details
-    Find an **issue** describing a bug that seems like something you can fix, and use `gh` to quickly open it in the browser to get all the details you need to get started. 
-         
-    ![gh-example2]({{ site.baseurl }}/assets/images/mlogs/github/gh-cli2.png)
+  ![gh-example1](https://devskrate.github.io/assets/images/mlogs/github/gh-cli1.png)
 
-- #####  Create a pull request
-    Create a **branch**, make several commits to fix the bug described in the issue, and use `gh` to create a *pull request* to share your contribution. By using GitHub CLI to create *pull requests*, it also automatically creates a fork when you don’t already have one, and it pushes your branch and creates your *pull request* to get your change merged
+- ##### Quickly view the details
 
-    ![gh-example3]({{ site.baseurl }}/assets/images/mlogs/github/gh-cli3.png)
+  Find an **issue** describing a bug that seems like something you can fix, and use `gh` to quickly open it in the browser to get all the details you need to get started.
+    
+   ![gh-example2](https://devskrate.github.io/assets/images/mlogs/github/gh-cli2.png)
 
-- #####  View the status of your work
-    Get a quick snapshot the next morning of what happened since you created your *pull request*. `gh` shows the review and check **status** of your *pull requests*
+- ##### Create a pull request
 
-    ![gh-example4]({{ site.baseurl }}/assets/images/mlogs/github/gh-cli4.png)
+  Create a **branch**, make several commits to fix the bug described in the issue, and use `gh` to create a _pull request_ to share your contribution. By using GitHub CLI to create _pull requests_, it also automatically creates a fork when you don’t already have one, and it pushes your branch and creates your _pull request_ to get your change merged
 
-- #####  Easily check out pull requests
-    One of the maintainers reviewed your *pull request* and requested changes. You probably switched branches since then, so use `gh` to checkout the *pull request* branch. We never remember the right commands either! Make the changes, push them, and soon enough the pull request is merged—congratulations!
+  ![gh-example3](https://devskrate.github.io/assets/images/mlogs/github/gh-cli3.png)
 
-    ![gh-example5]({{ site.baseurl }}/assets/images/mlogs/github/gh-cli5.png)
+- ##### View the status of your work
 
-####  How to contribute to GitHub CLI
+  Get a quick snapshot the next morning of what happened since you created your _pull request_. `gh` shows the review and check **status** of your _pull requests_
+
+  ![gh-example4](https://devskrate.github.io/assets/images/mlogs/github/gh-cli4.png)
+
+- ##### Easily check out pull requests
+
+  One of the maintainers reviewed your _pull request_ and requested changes. You probably switched branches since then, so use `gh` to checkout the _pull request_ branch. We never remember the right commands either! Make the changes, push them, and soon enough the pull request is merged—congratulations!
+
+  ![gh-example5](https://devskrate.github.io/assets/images/mlogs/github/gh-cli5.png)
+
+#### How to contribute to GitHub CLI
 
 GitHub CLI is an open-source project by GitHub. From [here](http://github.com/cli/cli) you can contribute to this project
 

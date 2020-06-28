@@ -17,11 +17,11 @@ Both Microsoft Teams and Slack are collaboration platform tools that combines pe
 
 Back then, Slack began as an internal tool for Stewart Butterfield's company Tiny Speck during the development of Glitch, an online game. Then Slack was launched in August 2013.
 
-<img src="{{ site.baseurl }}/assets/images/internet/slack-intro.jpg" alt="Slack" title="Slack" />
+<img src="https://devskrate.github.io/assets/images/internet/slack-intro.jpg" alt="Slack" title="Slack" />
 
 In 2016, Satya Nadella and Bill Gates met up to discuss an important matter. They wanted to bid 8 billion USD to acquire Slack, the SaaS giant that dominated the team chat app space. The meeting had a surprising conclusion: instead of buying Slack, they decided to build their own team chat app tool. In November 2016, Microsoft Teams was officially launched.
 
-<img src="{{ site.baseurl }}/assets/images/internet/teams-intro.jpg" alt="Microsoft Teams" title="Microsoft Teams" />
+<img src="https://devskrate.github.io/assets/images/internet/teams-intro.jpg" alt="Microsoft Teams" title="Microsoft Teams" />
 
 And now, both Teams and Slack had gained a good amount of daily active users.
 
@@ -48,7 +48,7 @@ Microsoft Teams and Slack take slightly different approaches to integration with
 #### Slack integrations
 
 Slack boasts a ton of integrations with a variety of different apps—more than 800 for paid plans, to be exact.  
-<img src="{{ site.baseurl }}/assets/images/internet/slack-integrations.png" alt="Slack Integrations" title="Slack Integrations" />  
+<img src="https://devskrate.github.io/assets/images/internet/slack-integrations.png" alt="Slack Integrations" title="Slack Integrations" />  
 The sheer number and variety of apps available means that you can customize your Slack workspace to make your workflow seamless.
 
 #### Microsoft Teams integrations
@@ -57,7 +57,7 @@ While Slack offers more options for customization, Microsoft Teams takes a diffe
 
 Essentially, Teams isn't meant to be a standalone tool. It's a fully integrated Office 365 collaboration hub, allowing users to move seamlessly between tasks and apps within the Teams window.
 
-<img src="{{ site.baseurl }}/assets/images/internet/teams-integrations.jpg" alt="Teams Integrations" title="Teams Integrations" />
+<img src="https://devskrate.github.io/assets/images/internet/teams-integrations.jpg" alt="Teams Integrations" title="Teams Integrations" />
 
 ### Wrapping up
 

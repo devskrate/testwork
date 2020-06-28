@@ -27,7 +27,7 @@ Espanso uses the concept of Matches (keyword recognition) i.e., when you type a 
 
 Fire up a text editor or browser, or any other program that accepts text input. Type the word :espanso and it will magically be replaced with the phrase "Hi there!". In this case ":espanso" is the keyword and "Hi There" is the replaced text.
 
-![Espanso Demo]({{ site.baseurl}}/assets/images/mlogs/espanso/espanso_feature.gif)
+![Espanso Demo](https://devskrate.github.io/assets/images/mlogs/espanso/espanso_feature.gif)
 
 If you haven't guessed it already, Espanso is the Italian word for Expanded.
 
@@ -35,7 +35,7 @@ IndicateTLS highlights TLS security protocol version in Firefox's address bar
 Capture images and annotate them quickly with Draft Notes
 Capture images and annotate them quickly with Draft Notes
 
-![Espanso Demo]({{ site.baseurl}}/assets/images/mlogs/espanso/espanso-highlighted.jpeg)
+![Espanso Demo](https://devskrate.github.io/assets/images/mlogs/espanso/espanso-highlighted.jpeg)
 
 So, how do we customize Espanso?
 Go to the application's "Roaming" folder in your User directory.
@@ -51,7 +51,7 @@ The indentation is necessary for the syntax to work. So if your match isn't bein
 Let's try adding a new one. Write a new trigger word and choose a replacement phrase. To make it easy, you can just copy the "espanso" trigger, paste it in a new line and edit it.
 Save the document, exit Espanso and start it again. Now type :ghx and it should be replaced with gHacks.net. That's incredibly easy, isn't it? You can use it to add email signatures, URLs, HTML Tags, commonly used phrases, responses, etc, and save some time.
 
-![Espanso Demo]({{ site.baseurl}}/assets/images/mlogs/espanso/espanso_yml.jpeg)
+![Espanso Demo](https://devskrate.github.io/assets/images/mlogs/espanso/espanso_yml.jpeg)
 
 You can even replace a text with an image, the syntax is slightly different.
 

@@ -6,7 +6,7 @@ subtitle: Samsung students benefits
 description: Samsung India is offering exclusive benefits to students with their college or institutional mailID
 image: https://devskrate.github.io/assets/blog-banners/samsung-student-program-feature.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/samsung-student-program-feature-opt.jpg
-category: [ student ]
+category: [student]
 tags: [student, offers, deals]
 author: puneeth
 ---
@@ -20,10 +20,10 @@ You can browse through this link: [https://www.samsung.com/in/store/campus/](htt
 But you should login with your educational mail for browsing these offers.
 
 <p align="center">
-  <img width="45%" style="border:0.5px solid black" alt="Samsung Student Program" src="{{site.baseurl}}/assets/images/samsung/samsung-student-program.jpg">
+  <img width="45%" style="border:0.5px solid black" alt="Samsung Student Program" src="https://devskrate.github.io/assets/images/samsung/samsung-student-program.jpg">
 </p>
 *This is the mail we got from samsung
 
-+ After comparing the prices with the e-commerce websites like Amazon and Flipkart, the prices are Rs 1000/- lower for smartphones.
+- After comparing the prices with the e-commerce websites like Amazon and Flipkart, the prices are Rs 1000/- lower for smartphones.
 
 We can go with these are offers, but at the time of lightning deals are these offers worth it, we need to know.

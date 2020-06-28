@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Student developer windows and linux usage"
+title: "Student developer windows and linux usage"
 author: puneeth
-categories: [ windows, linux, os ]
+categories: [windows, linux, os]
 image: assets/images/studentdev.png
 tags: [os, linux, windows, student]
 ---
@@ -11,7 +11,7 @@ Generally, many developers prefer to use either linux or mac. But, mac is a very
 
 Now coming to linux, we can't just define it. It is very addictable using linux.
 
-![WindowsvsLinux]({{ site.baseurl }}/assets/images/winvslinux.png)
+![WindowsvsLinux](https://devskrate.github.io/assets/images/winvslinux.png)
 
 ## 1. Performance:
 
@@ -31,8 +31,9 @@ Windows only has one theme, and which is less customizable. Linux has many flavo
 
 No system is safe, when comes to security, though Linux is more secure compared to Windows.
 There are various constraints for this.
-+ Windows is widely is used OS, so it is a target.
-+ Windows is preparatory software i.e source code is hidden, so bugs and flaws can only fixed by the company. But Linux is opensource so anyone can fix it.
+
+- Windows is widely is used OS, so it is a target.
+- Windows is preparatory software i.e source code is hidden, so bugs and flaws can only fixed by the company. But Linux is opensource so anyone can fix it.
 
 ## 5. Support:
 

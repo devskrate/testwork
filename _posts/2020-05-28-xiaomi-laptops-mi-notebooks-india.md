@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Xiaomi’s MI Laptop's Finally Coming To India"
+title: "Xiaomi’s MI Laptop's Finally Coming To India"
 author: mohit
-categories: [ Laptop]
+categories: [Laptop]
 image: assets/images/mi/mi-laptops-finally-launching-in-india.jpg
 tags: [Xiaomi, Redmi, Laptop]
 ---
 
 In China, Xiaomi has disrupted the laptop market in 2016 with the introduction of the Mi Notebook, It was such a good value for money product, **most reviewers ended calling it a steal**. Ever since then Xioami has expanded their laptop lineup and recently even unveiled its Redmi lineup of laptops in China and Indian Mi Fans and even tech enthusiasts like us have been asking Xiaomi to bring them to India. Finally, Xiaomi heard our voice and started teasing the arrival of the Mi Laptop range to India.
 
-![Mi Laptop]({{ site.baseurl}}/assets/images/mi/mi-notebook.jpg)
+![Mi Laptop](https://devskrate.github.io/assets/images/mi/mi-notebook.jpg)
 
-Xiaomi India’s Managing Director Manu Kumar Jain posted a teaser video on twitter with the slogan **“Its Time”** 
+Xiaomi India’s Managing Director Manu Kumar Jain posted a teaser video on twitter with the slogan **“Its Time”**
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">𝐈𝐓&#39;𝐒 𝐓𝐈𝐌𝐄 !!<br><br>Mi fans, you have waited and waited and waited. And now, IT&#39;s TIME!<br><br>RT with <a href="https://twitter.com/hashtag/WhatsNextFromMi?src=hash&amp;ref_src=twsrc%5Etfw">#WhatsNextFromMi</a> if you know what&#39;s coming? 😎 🔁 <a href="https://twitter.com/hashtag/Xiaomi?src=hash&amp;ref_src=twsrc%5Etfw">#Xiaomi</a> ❤️ <a href="https://t.co/FUUNU9WoCk">pic.twitter.com/FUUNU9WoCk</a></p>&mdash; Manu Kumar Jain (@manukumarjain) <a href="https://twitter.com/manukumarjain/status/1265576370664624130?ref_src=twsrc%5Etfw">May 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
