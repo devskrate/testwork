@@ -4,8 +4,8 @@ layout: post
 title: 6 photo-editing apps for mobile photographers
 subtitle: Best photo editing apps for mobile photographers
 description: Here are the 6 best photo editing apps for both Android and iOS
-image: https://devskrate.github.io/assets/blog-banners/transfer-fb-to-photos.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/transfer-fb-to-photos-opt.jpg
+image: https://devskrate.github.io/assets/blog-banners/transfer-fb-to-photos.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/transfer-fb-to-photos-opt.webp
 category: [apps]
 tags: [photo editing, android, ios]
 author: nikhil

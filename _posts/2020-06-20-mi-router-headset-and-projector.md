@@ -3,7 +3,7 @@ layout: post
 title: "New products launched by  Xiaomi in the last week"
 author: mohit
 categories: [Tech]
-image: assets/images/mi/mi-products-banner-2020.jpg
+image: assets/images/mi/mi-products-banner-2020.webp
 tags: [Mi, MiBand, Fitness Tracker]
 ---
 
@@ -11,13 +11,13 @@ Xiaomi in India is famously known for its smartphone, fitness tracker, and lapto
 
 #### Xiaomi Bluetooth Headset Pro:
 
-![Xiaomi Bluetooth Headset Pro ](https://devskrate.github.io/assets/images/mi/xiaomi-bluetooth-headset-pro.jpg)
+![Xiaomi Bluetooth Headset Pro ](https://devskrate.github.io/assets/images/mi/xiaomi-bluetooth-headset-pro.webp)
 
 Xiaomi has been doing well when it comes to wireless headsets and to add up in this line up the company launched a new TWS called the Xiaomi Bluetooth Headset Pro. Let's see what this has to offer.
 
 Unlike many other TWS which come with two earbuds, this only comes with only one but you can wear it both sides since the earbud it capable of rotating 180 degrees. The headset uses a dual microphone design to reduce outside noise. It comes with a 12mm dynamic speaker for richer sound.
 
-![Xiaomi Bluetooth Headset Pro ](https://devskrate.github.io/assets/images/mi/xioami-headset-pro-turning.jpg)
+![Xiaomi Bluetooth Headset Pro ](https://devskrate.github.io/assets/images/mi/xioami-headset-pro-turning.webp)
 
 This is powered by Qualcomm QCC3020 wireless audio SoC. This TWS headset also comes with a 100mAH battery which can provide 8 hours of talk time on a single charger. This also comes with a charging case having 600mAH battery which further extends the battery life to about 40 hours. The case is charged using a type c port and also supports quick charger. This headset also supports Bluetooth 5.0.
 
@@ -25,7 +25,7 @@ It also features support for XiaoAI voice assistant as well as Google Assistant 
 
 #### Redmi AX5 Wi-Fi 6 Router:
 
-![Redmi AX5 Wi-Fi 6 Router ](https://devskrate.github.io/assets/images/mi/redmi-router.jpg)
+![Redmi AX5 Wi-Fi 6 Router ](https://devskrate.github.io/assets/images/mi/redmi-router.webp)
 
 Xiaomi under its sub-brand Redmi launched a router that supports Wifi 6 for 249 Yuan which is 2700 Rupees(apx), This is one of the cheapest router to come with Wifi 6. Let's see what does it offer for that price.
 
@@ -35,7 +35,7 @@ Speaking of Speed, the company claims router can support speeds of up to 1775Mbp
 
 #### Mi Laser Projector 1S 4K:
 
-![Mi Laser Projector 1S 4K ](https://devskrate.github.io/assets/images/mi/Mi-Laser-Projector-1S-4K.jpg)
+![Mi Laser Projector 1S 4K ](https://devskrate.github.io/assets/images/mi/Mi-Laser-Projector-1S-4K.webp)
 
 Xiaomi, also launched a projector called the Mi Laser Projector 1S 4K. The highlight of this projector has to be the fact that it can use short-focus that allows the device to cast from 80 inches and up to 150 inches from just a few centimeters away and the company claims that an 80-inch screen can be cast when the projector is placed just 5.5-inch away and for the maximum 150-inch display, the projector needs to be placed at a distance of at least 19 inches, which is of great convenience.
 
@@ -45,12 +45,12 @@ It also has HDMI and USB 3.0 for connectivity and the company claims that the li
 
 #### Xiaomi Mi Power Bank 3:
 
-![Mi Power Bank 3](https://devskrate.github.io/assets/images/mi/mi-power-bank-3.jpg)
+![Mi Power Bank 3](https://devskrate.github.io/assets/images/mi/mi-power-bank-3.webp)
 
 The Mi Power Bank 3 is the largest power bank released by the company till date. Let’s see what features it has got to offer. Speaking of capacity it offers 30,000 mAh capacity which is enough to charge even huge phones with 5000mAH battery six times.
 
 First talking about the ports it has two full-size USB-A ports, one USB-C and one MicroUSB. You can get 18W of power output from the USB-A ports and USB-C and the power bank itself can charge via both the USB-C and micro USB. The type-c port can charge the power bank at 24W, while the Micro USB is restricted at 18W.
 
-![Mi Power Bank 3](https://devskrate.github.io/assets/images/mi/mi-power-bank-3-ports.jpg)
+![Mi Power Bank 3](https://devskrate.github.io/assets/images/mi/mi-power-bank-3-ports.webp)
 
 This power bank even offers to low-current mode for slower charging option to charge accessories like a smartwatch or even Bluetooth earbuds-this can be accessed by tapping the power button twice. Talking about the price, In China the power bank is priced at 170 Yuan which roughly converts to 2000 Indian Rupees. This is expected to India very soon, so stay tuned for that.

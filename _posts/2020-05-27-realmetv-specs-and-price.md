@@ -3,7 +3,7 @@ layout: post
 title: "REALME Launched 32, 43 inch smart TV in India starting at Rs 12,999"
 author: mohit
 categories: [TV]
-image: assets/images/realme/realmetv-main.jpg
+image: assets/images/realme/realmetv-main.webp
 tags: [Realme, SmartTV, AndroidTv]
 ---
 
@@ -19,13 +19,13 @@ Realme's tv as mentioned above comes in at two sizes namely the 32 and the 43 in
 
 The stand-out feature of this Tv has to be its design. It comes an almost bezel-less design, which Realme is calling **Premium Bezel-less Design**. The size of the bezel is as thin as 8.7mm on the top and around the sides, but the bottom bezel is a bit thicker and it houses the realme logo. You can either prop up the TV or wall-mount it, that's entirely up to your choice.
 
-![RealmeTV Design](https://devskrate.github.io/assets/images/realme/realmetv-design.jpg)
+![RealmeTV Design](https://devskrate.github.io/assets/images/realme/realmetv-design.webp)
 
 #### Software:
 
 This smart TV comes with **Andriod TV 9.0**, which is Google’s latest OS for television sets. There are no additional skins on top and that's a good thing. It comes with Youtube, Prime Video, Netflix, and Live TV pre-installed. You can also download more apps and games from the play store. It also comes with chrome-cast built-in,to syn content of your phone with the TV. Since it is an android TV, It also comes with google assistant of hands-free voice commands.
 
-![RealmeTV Android TV 9.0](https://devskrate.github.io/assets/images/realme/realmeTV-software.jpg)
+![RealmeTV Android TV 9.0](https://devskrate.github.io/assets/images/realme/realmeTV-software.webp)
 
 #### Internals:
 
@@ -35,7 +35,7 @@ Powering this TV is the quad-core 64-bit MediaTek chipset (featuring ARM Cortex 
 
 Speaking about connectivity it comes with 2.4GHZ WIFI, Bluetooth 5.0, and more. The fact that this does not come with WIFI 5 standard is a bit of a letdown.
 
-![RealmeTV Ports](https://devskrate.github.io/assets/images/realme/realmeTV-ports.jpg)
+![RealmeTV Ports](https://devskrate.github.io/assets/images/realme/realmeTV-ports.webp)
 
 This TV comes with a decent port selection, 3x HDMI, 2x USB, 1x Ethernet, 1x SPDIF, 1x AV port, 1x antenna in port, and a 3.5mm audio jack.
 
@@ -43,7 +43,7 @@ This TV comes with a decent port selection, 3x HDMI, 2x USB, 1x Ethernet, 1x SPD
 
 The remote looks similar to another smart remote from XIAOMI and ONE PLUS. It comes with a power On/Off button, a mute button, a Circular button for navigation at the top.below the circular button is the back, home, and settings button. Below them are the quick buttons for Netflix, YouTube, and Prime Video. It also comes with assistant button for quick voice commands and a plus, minus buttons to the left and right side of it, to increase and decrease volume. It can be operated both via the infrared and Bluetooth.
 
-![RealmeTV Smart Remote](https://devskrate.github.io/assets/images/realme/realmetv-remote.jpg)
+![RealmeTV Smart Remote](https://devskrate.github.io/assets/images/realme/realmetv-remote.webp)
 
 #### Price and Availability:
 

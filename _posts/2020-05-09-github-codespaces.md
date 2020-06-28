@@ -48,7 +48,7 @@ You can automatically set up dependencies and SSH keys. Go from code to commit f
 
 As we said earlier Codespaces is your Visual Studio Code experience. you can install all the best [vscode extensions](https://devskrate.com/configure-vscode-like-a-pro/)
 
-![github-codespaces](https://devskrate.github.io/assets/images/mlogs/github/github-vscode.jpg)
+![github-codespaces](https://devskrate.github.io/assets/images/mlogs/github/github-vscode.webp)
 
 ###### 4. Develop from anywhere, anytime
 

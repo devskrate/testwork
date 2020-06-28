@@ -3,7 +3,7 @@ layout: post
 title: "Snapdragon 690 with 5G support for budget phones"
 author: mohit
 categories: [Tech]
-image: assets/images/android/sanpdragon-690-banner.jpg
+image: assets/images/android/sanpdragon-690-banner.webp
 tags: [Qualcomm, Snapdragon]
 ---
 
@@ -17,7 +17,7 @@ Speaking of connectivity, It will have support for Wifi standard like Wifi 6, Wi
 
 Here are the complete specs released by snapdragon -
 
-<center><a href="https://devskrate.github.io/assets/images/android/snapdragon-690-details.jpg" data-lightbox="image-2" data-title="Snapdragon 690"><img width="40%" src="https://devskrate.github.io/assets/images/android/snapdragon-690-details.jpg"></a></center>
+<center><a href="https://devskrate.github.io/assets/images/android/snapdragon-690-details.webp" data-lightbox="image-2" data-title="Snapdragon 690"><img width="40%" src="https://devskrate.github.io/assets/images/android/snapdragon-690-details.webp"></a></center>
 
 The 5G modem in this will only support slower sub-6GHz versions of 5G, not the faster mmWave standard. This 5G modem in this chipset will allow for a wider adoption of this technology. We can see 5G enabled smartphones powered by the Snapdragon 690 in the year 2021 at a price point of 10,000 to 20,000 rupees.
 

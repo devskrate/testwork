@@ -4,8 +4,7 @@ layout: post
 title:  "One Plus 8 V/s Realme X50 Pro 5G V/s Vivo iQOO 3:The Best Flagship Killer?"
 author: mohit
 categories: [ Tech, Android,]
-image: https://github.com/devskrate/assets/blob/master/blog-banners/best-flagship-2020-q1.jpg
-optimized_image: https://github.com/devskrate/assets/blob/master/blog-banners/best-flagship-2020-q1-opt.jpg
+image: https://github.com/devskrate/assets/blob/master/blog-banners/best-flagship-2020-q1.webp
 tags: [Flagship Killer, OnePlus, Realme ,iQOO]
 ---
 

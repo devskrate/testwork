@@ -21,7 +21,7 @@ You can quickly open a new container tab by clicking on the container image or b
 - **Edit containers**:
 You can edit your containers and can create your own containers easily.
 <p align="center">
-  <img src="https://devskrate.github.io/assets/images/mlogs/mozilla/firefox-container-t.jpg">
+  <img src="https://devskrate.github.io/assets/images/mlogs/mozilla/firefox-container-t.webp">
 </p>
 
 - **Look and Feel**:

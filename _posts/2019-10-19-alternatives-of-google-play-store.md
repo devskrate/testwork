@@ -71,7 +71,7 @@ Try apps that are not available in your country.
 XDA Labs is built entirely in-house by the XDA developers and is the best way to access the forums while on mobile. It’s fully Material Design, ad-free, and fast.
 
 ![XDA Labs logo](https://devskrate.github.io/assets/images/alternatives/google-play-store/xda-labs-logo.webp)
-<img src="https://devskrate.github.io/assets/images/alternatives/google-play-store/panel.jpg" alt="XDA labs" style="width:500px; height:200"/>
+<img src="https://devskrate.github.io/assets/images/alternatives/google-play-store/panel.webp" alt="XDA labs" style="width:500px; height:200"/>
 
 ##### pros:
 
@@ -106,7 +106,7 @@ This app lets you access thousands of free applications from GetJar.com. Check o
 
 The SlideME Application Manager (SAM) app provides access to a curated list of the very best of Android applications available from SlideME. All the apps are manually approved and tested on a wide variety of devices, to make sure you get the best experience possible on your device, from your device.
 
-<img src="https://devskrate.github.io/assets/images/alternatives/google-play-store/slideme.jpg" alt="getjar" style="width:400px; height:200px"/>
+<img src="https://devskrate.github.io/assets/images/alternatives/google-play-store/slideme.webp" alt="getjar" style="width:400px; height:200px"/>
 
 <a href="http://slideme.org/application/slideme-marketplace" target="_blank"><button style="cursor: pointer; color: whitesmoke; background-color: black; display: inline-block;text-decoration: none; border: none; max-width: 100%; font-size:20px">Download Slide Me
 </button></a>

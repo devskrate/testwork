@@ -37,8 +37,8 @@ In Android 11, whenever an app requests a permission related to location, microp
 
 Now you can access the built-in screen recorder functionality from the Quick Settings panel. Tapping on this starts a 3 second timer before the screen starts being recorded. There’s also a handy notification to stop, pause, or cancel the screen record.
 
-<img src="https://devskrate.github.io/assets/images/android/android-11-native-screen-recorder-on.jpg" alt="Screen recorder" style="width:350px; border:1px solid black;"/>
-<img src="https://devskrate.github.io/assets/images/android/android-11-native-screen-recorder-start.jpg" alt="Screen recorder" style="width:350px; border:1px solid black; border:1px solid black;"/>
+<img src="https://devskrate.github.io/assets/images/android/android-11-native-screen-recorder-on.webp" alt="Screen recorder" style="width:350px; border:1px solid black;"/>
+<img src="https://devskrate.github.io/assets/images/android/android-11-native-screen-recorder-start.webp" alt="Screen recorder" style="width:350px; border:1px solid black; border:1px solid black;"/>
 
 ### 5. Improved Do Not Disturb
 
@@ -51,7 +51,7 @@ In android 10 Dark mode has been introuduced, system-wide. Now, it has some impr
 - You can turn it on at sunset and can turn at sun rise.
 - You can also turn it on or of at a specific time.
 
-<img src="https://devskrate.github.io/assets/images/android/android-11-scheduled-dark-mode.jpg" alt="Dark Mode Scheduling" style="width:350px; border:1px solid black;"/>
+<img src="https://devskrate.github.io/assets/images/android/android-11-scheduled-dark-mode.webp" alt="Dark Mode Scheduling" style="width:350px; border:1px solid black;"/>
 
 ### 7. Pin Apps in the Share Menu
 

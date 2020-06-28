@@ -3,7 +3,7 @@ layout: post
 title:  "Apple AR Glasses: The Next Big Thing after the original iPhone."
 author: mohit
 categories: [Tech]
-image: assets/images/sony/PS5.jpg
+image: assets/images/sony/PS5.webp
 tags: [Apple , AR , Glasses ,]
 ---
 Apple is well known for bringing **groundbreaking technology** like The Macintosh, which brought a Graphical User Interface(GUI), The iPod, which changed the entire MP3 Player and the iPhone, which paved the path for the advanced technology we are enjoying in our current smartphones. After the original iPhone, Apple launched several other products, some were good while some were bad but none of them were revolutionary and Apple's AR glasses plans to change that. 

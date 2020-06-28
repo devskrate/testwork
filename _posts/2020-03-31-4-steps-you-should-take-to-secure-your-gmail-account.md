@@ -73,7 +73,7 @@ Again, if this information is out of date and you get locked out of your account
 
 It's possible that a hacker (or an ex) is accessing your account without your knowledge. To check, sign in to your Gmail account and scroll to the bottom of the page. You'll see a line that says "Last account activity..."
 
-<img src="account_activity.jpg" />
+<img src="account_activity.webp" />
 
 At the end of that line, click **Details** to see when, how and where your account is being used. If you suspect any unkosher activity, click on the button labeled **Sign out of all other Gmail web sessions** and immediately change your password.
 
