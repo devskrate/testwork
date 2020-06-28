@@ -2,8 +2,9 @@
 layout: post
 title:  "Realme Buds Q with 10mm Drivers"
 author: mohit
-categories: [Tech]
-image: assets/images/realme/realme-buds-q-banner.jpg
+category: [Tech]
+image: https://devskrate.github.io/assets/blog-banners/realme-buds-q-banner.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/realme-buds-q-banner.webp
 tags: [Realme, Realme Buds Q, TWS ,]
 ---
 The market for TWS in India is growing rapidly and to add for heat to the competition Realme has introduced the Realme Buds Q in India.
