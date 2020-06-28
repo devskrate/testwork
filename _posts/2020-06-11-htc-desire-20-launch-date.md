@@ -2,10 +2,9 @@
 layout: post
 title:  "HTC Desire 20 launch date"
 author: puneeth
-category: [android,tech]
-image: assets/img/htc-desire-20.webp
+categories: [ ANDROID, TECH ]
+image: assets/images/htc-desire-20.png
 tags: [smartphones, android, htc]
-is_generated: false
 ---
 
 Many people now even don't remember HTC, but it is not dead.. Previously it made windows based smartphones, but it has not sustained in the recent markets.
