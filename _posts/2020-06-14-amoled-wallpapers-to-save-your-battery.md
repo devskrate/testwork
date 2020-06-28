@@ -1,9 +1,12 @@
 ---
+date: 2020-06-14 17:06:54
 layout: post
 title:  How AMOLED Wallpapers can save your battery?
-author: satya
-categories: [ Tech, Android]
+subtitle:
+description:
 image: assets/images/walls/amoled-walls.png
+author: satya
+category: [ Tech, Android]
 tags: [giveaway, wallpapers, featured]
 ---
 

@@ -1,9 +1,12 @@
 ---
+date: 2020-05-26 23:56:06
 layout: post
 title:  GitHub CLI - Enhance your command line experience
+subtitle:
+description:
 author: satya
-categories: [ Tech, Developers]
 image: assets/images/mlogs/github/github-cli.png
+category: [ Tech, Developers]
 tags: [commandline, linux, git, developers, beta]
 ---
 
