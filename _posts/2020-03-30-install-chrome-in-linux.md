@@ -3,7 +3,7 @@ layout: post
 title: "Install Google Chrome in Ubuntu/Linux"
 author: puneeth
 categories: [linux, browser, google]
-image: assets/images/linux/ubuntu-logo.gif
+image: https://devskrate.github.io/assets/blog-banners/ubuntu-logo.gif
 tags: [linux, PC, Operating system, chrome, google]
 ---
 

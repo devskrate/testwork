@@ -3,7 +3,7 @@ layout: post
 title:  "New iPhones Might Delay Due To the Pandemic Says The Famous Apple Analyst : Ming-Chi Kuo"
 author: mohit
 categories: [ Apple, iPhone 12,iPhone SE Plus, iPhone ]
-image: assets/images/apple/iphone-12-renders.webp
+image: https://devskrate.github.io/assets/blog-banners/iphone-12-renders.webp
 tags: [apple, iphone]
 ---
 

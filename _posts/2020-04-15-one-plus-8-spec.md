@@ -3,7 +3,7 @@ layout: post
 title: "One Plus 8 - Flagship Killer or Wallet Killer"
 author: mohit
 categories: [oneplus, android, mobile]
-image: assets/images/oneplus/oneplus8-display.webp
+image: https://devskrate.github.io/assets/blog-banners/oneplus8-display.webp
 tags: [oneplus, android, google]
 ---
 

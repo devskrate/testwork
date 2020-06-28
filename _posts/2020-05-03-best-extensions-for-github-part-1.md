@@ -4,7 +4,7 @@ layout: post
 title: GitTensions - Exclusive Extensions for GitHub and GitLab - part 1
 subtitle: sample
 description: sample
-image: assets/images/mlogs/github/gittensions.webp
+image: https://devskrate.github.io/assets/blog-banners/gittensions.webp
 author: satya
 category: [Extensions, GitHub]
 tags: [chrome, firefox, extensions, github, gitlab]

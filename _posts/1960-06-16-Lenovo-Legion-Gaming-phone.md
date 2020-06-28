@@ -3,7 +3,7 @@ layout: post
 title: "Lenovo all set to launch Legion's Gaming Phone"
 author: mohit
 categories: [Tech]
-image: assets/images/sony/PS5.webp
+image: https://devskrate.github.io/assets/blog-banners/PS5.webp
 tags: [Lenovo, Legion, Gaming Phone]
 ---
 

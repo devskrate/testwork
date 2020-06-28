@@ -4,7 +4,7 @@ layout: post
 title: Navi - An interactive commandline cheatsheet tool
 subtitle: sample
 description: sample
-image: assets/images/mlogs/navi/navi.webp
+image: https://devskrate.github.io/assets/blog-banners/navi.webp
 author: satya
 category: [Linux, mlog, commandline]
 tags: [dev-linux, mlogs, navi, linux]

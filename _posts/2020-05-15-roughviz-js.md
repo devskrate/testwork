@@ -4,7 +4,7 @@ layout: post
 title:  RoughViz.js - for creating sketchy/hand-drawn styled charts
 subtitle: sample
 description: sample
-image: assets/images/mlogs/js/RoughViz.js.webp
+image: https://devskrate.github.io/assets/blog-banners/RoughViz.js.webp
 author: satya
 category: [ JavaScript, Visualization ]
 tags: [js, Graphs, JSlibraries, Frontend]

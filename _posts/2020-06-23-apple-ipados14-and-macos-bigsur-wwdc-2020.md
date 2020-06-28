@@ -3,7 +3,7 @@ layout: post
 title: "Apple iPadOS 14 and macOS - Big Sur"
 author: mohit
 categories: [Tech]
-image: assets/images/apple/wwdc2020/ipados-and-macos-banner.webp
+image: https://devskrate.github.io/assets/blog-banners/wwdc2020/ipados-and-macos-banner.webp
 tags: [Apple, ipad, mac, os, wwdc]
 ---
 

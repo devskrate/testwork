@@ -3,7 +3,7 @@ layout: post
 title:  "Moto One Fusion Plus Launched in India Starting at 16,999"
 author: mohit
 categories: [Tech, Android]
-image: assets/images/moto/moto-fusion-plus-blog.webp
+image: https://devskrate.github.io/assets/blog-banners/moto-fusion-plus-blog.webp
 tags: [Moto, Specs, ]
 ---
 Moto after being acquired by Lenovo has not been able to release a good mid-range smartphone but this phone might be the one to change this. Let's see what this phone has offer.

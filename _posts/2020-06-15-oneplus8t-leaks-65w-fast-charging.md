@@ -3,7 +3,7 @@ layout: post
 title:  "Leaks shows Faster charging for One Plus 8t and new color variant of One Plus 8"
 author: mohit
 categories: [Tech, Android]
-image: assets/images/oneplus/oneplus-8t-leaks.webp
+image: https://devskrate.github.io/assets/blog-banners/oneplus-8t-leaks.webp
 tags: [OnePlus, leaks, specs]
 ---
 One plus has always been known for speed, by bringing high-end specs of their phones and fast charging, One Plus even experimenting with new color variants, One Plus was one of the first companies to bring matte color to avoid the problem of fringer print in the glass.

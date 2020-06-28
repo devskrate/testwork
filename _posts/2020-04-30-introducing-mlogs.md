@@ -5,7 +5,7 @@ title: "Intorducing Mlogs"
 subtitle: sample
 description: sample
 author: satya
-image: assets/images/mlogs/mlogs.webp
+image: https://devskrate.github.io/assets/blog-bannersmlogs.webp
 category: [blog, mlog]
 tags: [blog, mlog, introduction, series]
 ---

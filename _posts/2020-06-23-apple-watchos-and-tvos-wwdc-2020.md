@@ -3,7 +3,7 @@ layout: post
 title: "Apple Watch OS and TV OS"
 author: mohit
 categories: [Tech]
-image: assets/images/apple/wwdc2020/watchos-and-tvos-banner.webp
+image: https://devskrate.github.io/assets/blog-banners/wwdc2020/watchos-and-tvos-banner.webp
 tags: [Apple, watchos, appletv, wwdc]
 ---
 

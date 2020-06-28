@@ -3,7 +3,7 @@ layout: post
 title: "Install Chrome OS in a PC"
 author: nikhil
 categories: [tutorial]
-image: assets/images/chromeos/install-chrome-os.webp
+image: https://devskrate.github.io/assets/blog-banners/install-chrome-os.webp
 tags: [chrome os]
 ---
 

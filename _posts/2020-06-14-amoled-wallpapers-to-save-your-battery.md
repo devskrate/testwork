@@ -4,7 +4,7 @@ layout: post
 title:  How AMOLED Wallpapers can save your battery?
 subtitle: sample
 description: sample
-image: assets/images/walls/amoled-walls.webp
+image: https://devskrate.github.io/assets/blog-banners/amoled-walls.webp
 author: satya
 category: [ Tech, Android]
 tags: [giveaway, wallpapers, featured]

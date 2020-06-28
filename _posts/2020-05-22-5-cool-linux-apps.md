@@ -3,7 +3,7 @@ layout: post
 title: 5 cool Linux apps
 author: puneeth
 categories: [linux, os, mlogs]
-image: assets/images/linux/5-cool-linux-apps.webp
+image: https://devskrate.github.io/assets/blog-banners/5-cool-linux-apps.webp
 tags: [linux, ubuntu, os, apps]
 ---
 

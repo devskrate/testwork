@@ -3,7 +3,7 @@ layout: post
 title: "7 Cool New Android 11 Features"
 author: puneeth
 categories: [android]
-image: assets/images/android11.webp
+image: https://devskrate.github.io/assets/blog-banners11.webp
 tags: [google, android]
 ---
 

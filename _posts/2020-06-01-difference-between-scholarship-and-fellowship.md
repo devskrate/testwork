@@ -4,7 +4,7 @@ layout: post
 title:  What is the difference between Scholarship and Fellowship?
 subtitle: sample
 description: sample
-image: assets/images/mlogs/students/scholarship-fellowship.webp
+image: https://devskrate.github.io/assets/blog-banners/scholarship-fellowship.webp
 author: satya
 category: [ Scholarship, Fellowship, students ]
 tags: [internship, student partners, universities]

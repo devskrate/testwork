@@ -3,7 +3,7 @@ layout: post
 title: "Files by Google preparing to offer encrypted folder called ‘Safe folder’:"
 author: mohit
 categories: [Tech]
-image: assets/images/google/files-by-google/xda-filesgo-banner.webp
+image: https://devskrate.github.io/assets/blog-banners/files-by-google/xda-filesgo-banner.webp
 tags: [Google, Android, Files by google]
 ---
 
