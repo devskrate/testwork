@@ -3,7 +3,7 @@ layout: post
 title:  "Git Cheat Sheet"
 author: nikhil
 categories: [ GitHub, Git ]
-image: assets/img/git/cheatsheet.png
+image: assets/images/git/cheatsheet.png
 tags: [github,git,cheat sheet]
 ---
 
