@@ -1,7 +1,7 @@
 ---
 date: 2020-04-02 17:26:40
 layout: post
-title: [update: India Specific Site]Google’s coronavirus website finally launches alongside enhanced search results
+title: "[update: India Specific Site]Google’s coronavirus website finally launches alongside enhanced search results"
 subtitle: Google has now released it's Corona Virus information website for India
 description: Get to know all the details about COVID situation in this site
 image: https://devskrate.github.io/assets/blog-banners/
