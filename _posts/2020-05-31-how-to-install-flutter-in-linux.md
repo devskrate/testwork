@@ -1,5 +1,5 @@
 ---
-date: 2020-06-31 16:26:40
+date: 2020-05-31 16:26:40
 layout: post
 title: How to install Flutter in linux and Fix general problems
 subtitle: Flutter installation
