@@ -1,10 +1,14 @@
 ---
+date: 2020-06-31 16:26:40
 layout: post
-title:  "How to install Flutter in linux and Fix general problems"
-author: puneeth
-categories: [ windows, linux, os, tutorial ]
-image: assets/images/flutter.png
+title: How to install Flutter in linux and Fix general problems
+subtitle: Flutter installation
+description: Flutter installation and fixing common problems and errors
+image: https://devskrate.github.io/assets/blog-banners/flutter-installation-linux.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/flutter-installation-linux-opt.jpg
+category: [ dev ]
 tags: [os, linux, windows, student, google]
+author: puneeth
 ---
 
 ## Get the Flutter SDK

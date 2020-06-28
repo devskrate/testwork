@@ -1,10 +1,14 @@
 ---
+date: 2020-06-11 16:26:40
 layout: post
-title:  "HTC Desire 20 launch date"
-author: puneeth
-categories: [ ANDROID, TECH ]
-image: assets/images/htc-desire-20.png
+title: HTC Desire 20 launch date
+subtitle: HTC is back
+description: HTC is launching it's new series of smartphones
+image: https://devskrate.github.io/assets/blog-banners/htc-desire-20.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/htc-desire-20-opt.jpg
+category: [ mobile ]
 tags: [smartphones, android, htc]
+author: puneeth 
 ---
 
 Many people now even don't remember HTC, but it is not dead.. Previously it made windows based smartphones, but it has not sustained in the recent markets.

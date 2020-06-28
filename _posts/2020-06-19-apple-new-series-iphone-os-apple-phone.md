@@ -1,10 +1,14 @@
 ---
+date: 2020-06-19 16:26:40
 layout: post
-title:  "Apple's new Apple Phone and iphone os"
-author: puneeth
-categories: [Tech, ios]
-image: assets/images/apple/apple-name-change-banner.jpg
+title: Apple's new Apple Phone and iphone os
+subtitle: Apple phone and iPhone OS
+description: Apple renaming it's two products and bringing new budget series!!
+image: https://devskrate.github.io/assets/blog-banners/apple-name-change-banner.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/apple-name-change-banner-opt.jpg
+category: [mobile]
 tags: [iphone, ios , apple, apple phone]
+author: puneeth
 ---
 Some leaks say that Apple is planning two major name changes to their products.
 <br>

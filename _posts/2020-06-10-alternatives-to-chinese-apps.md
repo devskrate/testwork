@@ -1,10 +1,14 @@
 ---
+date: 2020-06-10 16:26:40
 layout: post
-title:  "Best alternatives to Popular Chinese apps"
-author: puneeth
-categories: [ Tech, Alternatives ]
-image: assets/images/alternatives/chinese-apps/best-alternatives-to-chinese-apps.png
+title: Best alternatives to Popular Chinese apps
+subtitle: Best Trusted apps
+description: Best alternatives to popular chinese apps like SHAREit, wps-office etc
+image: https://devskrate.github.io/assets/blog-banners/best-alternatives-to-chinese-apps.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/best-alternatives-to-chinese-apps-opt.jpg
+category: [ apps ]
 tags: [Tech, Android, Alternatives]
+author: puneeth 
 ---
 
 Here are some of the best alternatives to popular chinese apps..

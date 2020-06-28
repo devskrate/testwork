@@ -1,10 +1,14 @@
 ---
+date: 2020-06-31 16:26:40
 layout: post
-title:  "Get Exclusive Benefits on Student Program | Samsung India"
+title: Get Exclusive Benefits on Student Program | Samsung India
+subtitle: Samsung students benefits
+description: Samsung India is offering exclusive benefits to students with their college or institutional mailID
+image: https://devskrate.github.io/assets/blog-banners/samsung-student-program-feature.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/samsung-student-program-feature-opt.jpg
+category: [ student ]
+tags: [student, offers, deals]
 author: puneeth
-categories: [Student]
-image: assets/images/samsung/samsung-student-program-feature.jpg
-tags: [Student, Offers]
 ---
 
 Now, Samsung India is offering a **Samsung Student Program** where in a student get exclusive benefits to their samsung products, using their student mailID(education mailID given by an institution) like  
