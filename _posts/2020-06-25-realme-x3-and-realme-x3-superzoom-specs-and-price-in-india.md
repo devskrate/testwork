@@ -2,8 +2,8 @@
 layout: post
 title: "Realme X3 and Realme X3 SuperZoom launched in India"
 author: mohit
-categories: [Mobile Phone]
-image: assets/images/realme/realmex3-banner.jpg
+category: [mobile]
+image: https://devskrate.github.io/assets/blog-banners/realme-x3-series.png
 tags: [Realme, Realme X3, Realme X3 SuperZoom]
 ---
 
