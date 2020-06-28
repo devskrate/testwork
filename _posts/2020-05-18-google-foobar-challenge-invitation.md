@@ -4,7 +4,7 @@ layout: post
 title: Google's FooBar - The Secret Hiring Challenge
 subtitle: sample
 description: sample
-image: assets/images/google/google-foobar.png
+image: assets/images/google/google-foobar.webp
 author: satya
 categories: [Google, Developer, Hiring]
 tags: [developerstuff, jobs, students, internship]

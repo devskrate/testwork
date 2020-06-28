@@ -3,7 +3,7 @@ layout: post
 title: "Samsung Announced BTS Edition of S20+ and Buds+"
 author: mohit
 categories: [Tech, Android]
-image: assets/images/samsung/samsung-bts-edition-blog.png
+image: assets/images/samsung/samsung-bts-edition-blog.webp
 tags: [Samsung, BTS, S20 Plus, Buds Plus]
 ---
 

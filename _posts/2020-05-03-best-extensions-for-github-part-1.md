@@ -56,7 +56,7 @@ Features
 
 Usually we do feel irritating when Github truncates the name of file or folder, to view full name we need to open that file. But with this extension this problem will be solved.
 
-![truncate-demo](https://devskrate.github.io/assets/images/mlogs/github/truncate.png)
+![truncate-demo](https://devskrate.github.io/assets/images/mlogs/github/truncate.webp)
 
 Features
 
@@ -79,7 +79,7 @@ Based on GitHub contribution chart renders an isometric(3D) pixel view of GitHub
 This extension allows you to toggle between both the normal GitHub contribution chart and an isometric pixel art version.
 
 Here is my github isometric contribution chart - **I'm loving it..**  
-![isometric-demo](https://devskrate.github.io/assets/images/mlogs/github/isometric.PNG)
+![isometric-demo](https://devskrate.github.io/assets/images/mlogs/github/isometric.webp)
 
 ##### Happy Quarantine
 

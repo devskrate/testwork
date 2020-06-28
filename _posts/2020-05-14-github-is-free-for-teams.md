@@ -3,7 +3,7 @@ layout: post
 title:  Github teams is free for everyone
 author: satya
 categories: [ Github, mlogs ]
-image: assets/images/mlogs/github/github-teams.png
+image: assets/images/mlogs/github/github-teams.webp
 tags: [repositories, private, teams, organizations]
 ---
 

@@ -48,7 +48,7 @@ Microsoft Teams and Slack take slightly different approaches to integration with
 #### Slack integrations
 
 Slack boasts a ton of integrations with a variety of different apps—more than 800 for paid plans, to be exact.  
-<img src="https://devskrate.github.io/assets/images/internet/slack-integrations.png" alt="Slack Integrations" title="Slack Integrations" />  
+<img src="https://devskrate.github.io/assets/images/internet/slack-integrations.webp" alt="Slack Integrations" title="Slack Integrations" />  
 The sheer number and variety of apps available means that you can customize your Slack workspace to make your workflow seamless.
 
 #### Microsoft Teams integrations

@@ -24,7 +24,7 @@ SHAREit and Xender are the most popular file transferring apps, though they are 
 So, here are the best alternative to it is the [**Files by Google**](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files&hl=en_IN). You can easily clean the junk files and can transfer you files.
 
 <p align="">
-  <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files&hl=en_IN"><img width="10%" src="https://devskrate.github.io/assets/images/alternatives/chinese-apps/filesgo.png"><bold>Files by Google: Clean up space on your phone</bold></a>
+  <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files&hl=en_IN"><img width="10%" src="https://devskrate.github.io/assets/images/alternatives/chinese-apps/filesgo.webp"><bold>Files by Google: Clean up space on your phone</bold></a>
 </p>
 
 ### 2. Alternatives to WPS office:
@@ -39,7 +39,7 @@ WPS office is an Office suite, with DOCS(Word), XLS(Excel), PDF, PPT(Power point
 - Rephrase with coach, with this you can practice your presentation.
 
 <p align="">
-  <a href="https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow&hl=en_IN"><img width="7.5%" src="https://devskrate.github.io/assets/images/alternatives/chinese-apps/microsoft-office.png"><bold>Microsoft Office: Word, Excel, PowerPoint & More</bold></a>
+  <a href="https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow&hl=en_IN"><img width="7.5%" src="https://devskrate.github.io/assets/images/alternatives/chinese-apps/microsoft-office.webp"><bold>Microsoft Office: Word, Excel, PowerPoint & More</bold></a>
 </p>
 
 ### 3. Alternatives to CamScanner:
@@ -47,11 +47,11 @@ WPS office is an Office suite, with DOCS(Word), XLS(Excel), PDF, PPT(Power point
 CamScanner is one the popular app for scanning the documents and converting them to PDF, but there are also good alternatives for them like,
 
 - <p align="">
-  <a href="https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=en_IN"><img width="6%" src="https://devskrate.github.io/assets/images/alternatives/chinese-apps/microsoft-office-lens.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<bold>Microsoft Office Lens - PDF Scanner: </bold></a>It is a Microsoft App, You can also download Microsoft Office, as this feature is already included in it with out a separate app.
+  <a href="https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=en_IN"><img width="6%" src="https://devskrate.github.io/assets/images/alternatives/chinese-apps/microsoft-office-lens.webp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<bold>Microsoft Office Lens - PDF Scanner: </bold></a>It is a Microsoft App, You can also download Microsoft Office, as this feature is already included in it with out a separate app.
   </p>
 
 - <p align="">
-  <a href="https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=en_IN"><img width="6%" src="https://devskrate.github.io/assets/images/alternatives/chinese-apps/adobe-scan.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<bold>Adobe Scan PDF Scanner, OCR: </bold></a>This is from Adobe where you can scan your documents and it can also instantly recognize printed text and handwriting.
+  <a href="https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=en_IN"><img width="6%" src="https://devskrate.github.io/assets/images/alternatives/chinese-apps/adobe-scan.webp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<bold>Adobe Scan PDF Scanner, OCR: </bold></a>This is from Adobe where you can scan your documents and it can also instantly recognize printed text and handwriting.
   </p>
 
 ### 4. Alternatives to UCBrowser:
@@ -63,15 +63,15 @@ But if you are using a lite version.. Yes there are **The Best** alternatives li
 {:class="table table-bordered dark"}
 |Browser | App size | Description | Image |
 | ----------- | --------- | ----------- | ----- |
-|[Firefox Lite](https://play.google.com/store/apps/details?id=org.mozilla.rocket&hl=en_IN) | 6.1 MB |It is a lite version of Firefox, which gives more protection to your data and privacy.| ![Firefox Lite](https://devskrate.github.io/assets/images/alternatives/chinese-apps/firefox-lite.png){:width="30%"} |
-|[Google Go](https://play.google.com/store/apps/details?id=com.google.android.apps.searchlite&hl=en_IN) | 7.4 MB | A lite browser by Google| ![Google Go](https://devskrate.github.io/assets/images/alternatives/chinese-apps/google-go.png){:width="30%"} |
+|[Firefox Lite](https://play.google.com/store/apps/details?id=org.mozilla.rocket&hl=en_IN) | 6.1 MB |It is a lite version of Firefox, which gives more protection to your data and privacy.| ![Firefox Lite](https://devskrate.github.io/assets/images/alternatives/chinese-apps/firefox-lite.webp){:width="30%"} |
+|[Google Go](https://play.google.com/store/apps/details?id=com.google.android.apps.searchlite&hl=en_IN) | 7.4 MB | A lite browser by Google| ![Google Go](https://devskrate.github.io/assets/images/alternatives/chinese-apps/google-go.webp){:width="30%"} |
 
 ### 5. Alternatives to Helo:
 
 Helo is one of the popular app, but there is a local made app for it by name **ShareChat**. It is similar to Helo, made in India.
 
 <p align="">
-  <a href="https://play.google.com/store/apps/details?id=in.mohalla.sharechat"><img width="6%" src="https://devskrate.github.io/assets/images/alternatives/chinese-apps/share-chat.png">&nbsp;&nbsp;&nbsp;&nbsp;<bold>ShareChat - Made in India</bold></a>
+  <a href="https://play.google.com/store/apps/details?id=in.mohalla.sharechat"><img width="6%" src="https://devskrate.github.io/assets/images/alternatives/chinese-apps/share-chat.webp">&nbsp;&nbsp;&nbsp;&nbsp;<bold>ShareChat - Made in India</bold></a>
 </p>
 Youtube and Instagram are also a way similar and can be considered as some of the alternatives
 
@@ -80,5 +80,5 @@ Youtube and Instagram are also a way similar and can be considered as some of th
 Turbo VPN is one of the most used VPN service, but you got an alternative for this chinese app, it is **Hotspot Shield Free VPN**.
 
 <p align="">
-  <a href="https://play.google.com/store/apps/details?id=hotspotshield.android.vpn&hl=en_IN"><img width="6%" src="https://devskrate.github.io/assets/images/alternatives/chinese-apps/hotspot-shield-vpn.png">&nbsp;&nbsp;&nbsp;&nbsp;<bold>Hotspot Shield Free VPN Proxy & Secure VPN</bold></a>
+  <a href="https://play.google.com/store/apps/details?id=hotspotshield.android.vpn&hl=en_IN"><img width="6%" src="https://devskrate.github.io/assets/images/alternatives/chinese-apps/hotspot-shield-vpn.webp">&nbsp;&nbsp;&nbsp;&nbsp;<bold>Hotspot Shield Free VPN Proxy & Secure VPN</bold></a>
 </p>

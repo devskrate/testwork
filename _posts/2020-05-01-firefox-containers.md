@@ -3,7 +3,7 @@ layout: post
 title: "Firefox containers"
 author: puneeth
 categories: [firefox, browser, dev-linux]
-image: assets/images/mlogs/mozilla/firefox-container-f.png
+image: assets/images/mlogs/mozilla/firefox-container-f.webp
 tags: [firefox, browser, mozilla, containers]
 ---
 
@@ -15,7 +15,7 @@ Yeah firefox got a solution for this,
 - **Open a new container tab**:
 You can quickly open a new container tab by clicking on the container image or by right clicking the new tab.
 <p align="center">
-  <img src="https://devskrate.github.io/assets/images/mlogs/mozilla/firefox-container-1.png">
+  <img src="https://devskrate.github.io/assets/images/mlogs/mozilla/firefox-container-1.webp">
 </p>
 
 - **Edit containers**:
@@ -27,13 +27,13 @@ You can edit your containers and can create your own containers easily.
 - **Look and Feel**:
 This is how the container tab look like when it is opened.
 <p align="center">
-  <img src="https://devskrate.github.io/assets/images/mlogs/mozilla/firefox-container-3.png">
+  <img src="https://devskrate.github.io/assets/images/mlogs/mozilla/firefox-container-3.webp">
 </p>
 
 - **Sync**:
 You can easily sync the containers across devices.
 <p align="center">
-  <img src="https://devskrate.github.io/assets/images/mlogs/mozilla/firefox-container-sync.png">
+  <img src="https://devskrate.github.io/assets/images/mlogs/mozilla/firefox-container-sync.webp">
 </p>
 
 You can download the [Firefox Container](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) add-on.

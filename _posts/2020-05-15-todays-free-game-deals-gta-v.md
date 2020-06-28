@@ -48,6 +48,6 @@ Borderlands: The Handsome Collection is a compilation of first-person shooter vi
 **4. Ark Survival Game**:
 Ark: Survival Evolved (stylized as **ΛRK**) is an action-adventure survival video game, it will be available on June 4th.
 
-![Ark: Survival Evolved](https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/ArkSurvivalEvolved.png/330px-ArkSurvivalEvolved.png)
+![Ark: Survival Evolved](https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/ArkSurvivalEvolved.webp/330px-ArkSurvivalEvolved.webp)
 
 **Stay tuned for the updated links**

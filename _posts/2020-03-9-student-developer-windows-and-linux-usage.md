@@ -3,7 +3,7 @@ layout: post
 title: "Student developer windows and linux usage"
 author: puneeth
 categories: [windows, linux, os]
-image: assets/images/studentdev.png
+image: assets/images/studentdev.webp
 tags: [os, linux, windows, student]
 ---
 
@@ -11,7 +11,7 @@ Generally, many developers prefer to use either linux or mac. But, mac is a very
 
 Now coming to linux, we can't just define it. It is very addictable using linux.
 
-![WindowsvsLinux](https://devskrate.github.io/assets/images/winvslinux.png)
+![WindowsvsLinux](https://devskrate.github.io/assets/images/winvslinux.webp)
 
 ## 1. Performance:
 

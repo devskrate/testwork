@@ -3,7 +3,7 @@ layout: post
 title: "7 Cool New Android 11 Features"
 author: puneeth
 categories: [android]
-image: assets/images/android11.png
+image: assets/images/android11.webp
 tags: [google, android]
 ---
 
@@ -18,7 +18,7 @@ Let's get started with 7 cool features on Android 11..
 Chat bubbles first appeared back with Android Q beta versions, but it was not released with the stable version. But now it was released with the Android R's first developer beta.
 Chat bubbles are similar to Facebook Messenger’s Chat Heads feature. It shows a bubble when you get a new message.
 
-<img src="https://devskrate.github.io/assets/images/android/chat-bubbles-screenshot.png" alt="Chat Bubble" style="width:350px;"/>
+<img src="https://devskrate.github.io/assets/images/android/chat-bubbles-screenshot.webp" alt="Chat Bubble" style="width:350px;"/>
 
 Generally, chat bubbles can be used by any messaging apps, but as of now only Google Messages and Gmail apps are using it. You can open a chat bubble for a conversation by simply long-pressing on a message notification and tapping on ‘Show in chat bubble’.
 
@@ -31,7 +31,7 @@ With this you can copy/paste, you can now insert assets directly into notificati
 With Android 11, Google has made location permissions even more strict.
 In Android 11, whenever an app requests a permission related to location, microphone, or camera, the user-facing permissions dialog contains an option called Only this time, as shown in Figure. If you selects this option in the dialog, you have granted the app a temporary one-time permission.
 
-<img src="https://devskrate.github.io/assets/images/android/one-time-permission.png" alt="One time Permission" style="width:350px;"/>
+<img src="https://devskrate.github.io/assets/images/android/one-time-permission.webp" alt="One time Permission" style="width:350px;"/>
 
 ### 4. Native Screen Recorder
 

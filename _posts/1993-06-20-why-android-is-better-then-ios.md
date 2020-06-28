@@ -19,9 +19,9 @@ Android, on the other hand, lets you set Firefox or Opera as your default browse
 
 **To change the default apps in Android:** Open the **Settings** app and go to **Apps & notifications > Default apps**. To change the defaults, select the app category, such as Phone app or Browser app, and choose from the options.
 
-<a href="https://devskrate.github.io/assets/images/android/settings.png" data-lightbox="image-1" data-title="Android Settings"><img width="20%" src="https://devskrate.github.io/assets/images//android/settings.png"></a>
-<a href="https://devskrate.github.io/assets/images/android/appsnnoti.png" data-lightbox="image-1" data-title="Apps & Notifications"><img width="20%" src="https://devskrate.github.io/assets/images/android/appsnnoti.png"></a>
-<a href="https://devskrate.github.io/assets/images/android/defaultapps.png" data-lightbox="image-1" data-title="Default Apps"><img width="20%" src="https://devskrate.github.io/assets/images/android/defaultapps.png"></a>
+<a href="https://devskrate.github.io/assets/images/android/settings.webp" data-lightbox="image-1" data-title="Android Settings"><img width="20%" src="https://devskrate.github.io/assets/images//android/settings.webp"></a>
+<a href="https://devskrate.github.io/assets/images/android/appsnnoti.webp" data-lightbox="image-1" data-title="Apps & Notifications"><img width="20%" src="https://devskrate.github.io/assets/images/android/appsnnoti.webp"></a>
+<a href="https://devskrate.github.io/assets/images/android/defaultapps.webp" data-lightbox="image-1" data-title="Default Apps"><img width="20%" src="https://devskrate.github.io/assets/images/android/defaultapps.webp"></a>
 
 ### Google Assistant is always at an edge
 
@@ -31,7 +31,7 @@ Google Assistant can understand common requests for businesses and names, and it
 
 Google Assistant is far ahead at features like voice recognition, ability to use different voices, and lot more.
 
-<a href="https://devskrate.github.io/assets/images/android/gassistant.png" data-lightbox="image-1" data-title="Google Assistant"><img width="40%" src="https://devskrate.github.io/assets/images//android/gassistant.png"></a>
+<a href="https://devskrate.github.io/assets/images/android/gassistant.webp" data-lightbox="image-1" data-title="Google Assistant"><img width="40%" src="https://devskrate.github.io/assets/images//android/gassistant.webp"></a>
 
 ### Use two apps at once through split-screen mode
 
@@ -64,7 +64,7 @@ The Wallpapers app refreshes the wallpaper on your home screen and lock screen d
 There are several different categories of wallpaper styles to choose from. Pick your favorite, and let the app take care of the rest. Personally, I like to use the geometric shapes category. The wallpapers are unique and colorful which iOS can't.
 
 <a href="https://devskrate.github.io/assets/images/android/wallpapers.jpg" data-lightbox="image-1" data-title="Android Settings"><img width="20%" src="https://devskrate.github.io/assets/images//android/wallpapers.jpg"></a>
-<a href="https://devskrate.github.io/assets/images/android/wallpapers1.png" data-lightbox="image-1" data-title="Apps & Notifications"><img width="20%" src="https://devskrate.github.io/assets/images/android/wallpapers1.png"></a>
+<a href="https://devskrate.github.io/assets/images/android/wallpapers1.webp" data-lightbox="image-1" data-title="Apps & Notifications"><img width="20%" src="https://devskrate.github.io/assets/images/android/wallpapers1.webp"></a>
 
 ### The magic of Picture in Picture mode
 

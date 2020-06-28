@@ -3,7 +3,7 @@ layout: post
 title: 5 cool Linux apps
 author: puneeth
 categories: [linux, os, mlogs]
-image: assets/images/linux/5-cool-linux-apps.png
+image: assets/images/linux/5-cool-linux-apps.webp
 tags: [linux, ubuntu, os, apps]
 ---
 
@@ -70,7 +70,7 @@ With this application we can change the desktop themes to light and dark by sett
 This is there [Github page](https://github.com/C2N14/AutomaThemely). You can download it from [here](https://github.com/C2N14/AutomaThemely/releases)
 
 <p align="center">
-  <img width="75%" src="https://devskrate.github.io/assets/images/linux/AutomaThemely.png">
+  <img width="75%" src="https://devskrate.github.io/assets/images/linux/AutomaThemely.webp">
 </p>
 
 **5. Gnirehtet**:

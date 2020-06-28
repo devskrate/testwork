@@ -13,7 +13,7 @@ Realme, famously known for its smartphones, has started expanding its portfolio,
 
 Realme's tv as mentioned above comes in at two sizes namely the 32 and the 43 inch. These **LED Back-Light displays** comes with chroma boost picture engine to enhance the overall picture quality and improve the brightness, color, contrast, and clarity to deliver stunning visuals. The TV supports up to 400 nits of brightness and up to 178-degree viewing angles. It also has support HDR 10 and HLG and it offers seven display modes starting from standard, sport, movie, user, energy-saving, game to vivid mode for more customized picture quality.
 
-![RealmeTV Display](https://devskrate.github.io/assets/images/realme/2020-realmetv-display.png)
+![RealmeTV Display](https://devskrate.github.io/assets/images/realme/2020-realmetv-display.webp)
 
 #### Design:
 

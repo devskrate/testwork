@@ -9,7 +9,7 @@ tags: [Qualcomm, Snapdragon]
 
 We have seen Qualcomm forcing manufactures to include 5G with the latest flagship Snapdragon 865, by not selling a separate version a separate 865 without 5G. We have also seen the company include its 5G modem(X51 modem) to the 700 series chips with SnapDragon 765 5G and now Qualcomm has decided to add the 5G modem to 600 series of chipset with the introduction of SnapDragon 690 processor.
 
-<center><a href="https://devskrate.github.io/assets/images/android/snapdragon-690-specs.png" data-lightbox="image-1" data-title="Snapdragon 690"><img src="https://devskrate.github.io/assets/images/android/snapdragon-690-specs.png"></a></center>
+<center><a href="https://devskrate.github.io/assets/images/android/snapdragon-690-specs.webp" data-lightbox="image-1" data-title="Snapdragon 690"><img src="https://devskrate.github.io/assets/images/android/snapdragon-690-specs.webp"></a></center>
 
 This new Snapdragon 690 is an 8nm processor, which will be a successor to Snapdragon 675. The processor will come Kryo 560 CPU and Adreno 619L GPU, which will offer 20 percent better CPU performance and 60 percent faster graphics rendering compared to the Snapdragon 675. It will also have support for high-end features like support 120Hz displays for faster refresh rates, 4K HDR video capture, and up to 192-megapixel camera sensor support.
 

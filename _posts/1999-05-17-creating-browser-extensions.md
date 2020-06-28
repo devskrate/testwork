@@ -117,10 +117,10 @@ Extensions can have many forms of a user interface, but this one will use a popu
 
 ```json
 "default_icon": {
-        "16": "images/get_started16.png",
-        "32": "images/get_started32.png",
-        "48": "images/get_started48.png",
-        "128": "images/get_started128.png"
+        "16": "images/get_started16.webp",
+        "32": "images/get_started32.webp",
+        "48": "images/get_started48.webp",
+        "128": "images/get_started128.webp"
       }
 ```
 
@@ -130,10 +130,10 @@ Download the images <a href="https://devskrate.github.io/assets/images/browser/c
 
 ```json
 "icons": {
-      "16": "images/get_started16.png",
-      "32": "images/get_started32.png",
-      "48": "images/get_started48.png",
-      "128": "images/get_started128.png"
+      "16": "images/get_started16.webp",
+      "32": "images/get_started32.webp",
+      "48": "images/get_started48.webp",
+      "128": "images/get_started128.webp"
     },
 ```
 
