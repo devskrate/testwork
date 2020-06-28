@@ -6,7 +6,7 @@ subtitle:
 description:
 image: assets/images/vscode/vscode-home.png
 author: satya
-categories: [ Devlopment, DevStuff, VisualStudioCode]
+category: [ Devlopment, DevStuff, VisualStudioCode]
 tags: [developers, microsoft, vscode, DevStuff, configuring, featured]
 ---
 
