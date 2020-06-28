@@ -2,8 +2,8 @@
 date: 2020-05-02 9:14:07
 layout: post
 title:  Navi - An interactive commandline cheatsheet tool
-subtitle:
-description:
+subtitle: sample
+description: sample
 image: assets/images/mlogs/navi/navi.png
 author: satya
 category: [ Linux, mlog, commandline ]

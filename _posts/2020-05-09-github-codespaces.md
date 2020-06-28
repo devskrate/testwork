@@ -2,8 +2,8 @@
 date: 2020-05-09 18:02:18
 layout: post
 title:  GitHub CodeSpaces - Your instant Dev Environment
-subtitle:
-description:
+subtitle: sample
+description: sample
 image: assets/images/mlogs/github/codespaces.png
 author: satya
 category: [ Codespaces, GitHub ]

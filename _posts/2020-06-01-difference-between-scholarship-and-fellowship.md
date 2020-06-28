@@ -2,8 +2,8 @@
 date: 2020-06-01 15:34:59
 layout: post
 title:  What is the difference between Scholarship and Fellowship?
-subtitle:
-description:
+subtitle: sample
+description: sample
 image: assets/images/mlogs/students/scholarship-fellowship.png
 author: satya
 category: [ Scholarship, Fellowship, students ]

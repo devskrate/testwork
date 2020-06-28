@@ -2,8 +2,8 @@
 date: 2020-04-30 09:18:32
 layout: post
 title:  "Intorducing Mlogs"
-subtitle:
-description:
+subtitle: sample
+description: sample
 author: satya
 image: assets/images/mlogs/mlogs.png
 category: [ blog, mlog ]

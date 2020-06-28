@@ -2,8 +2,8 @@
 date: 2020-06-18 13:45:02
 layout: post
 title:  "How to listen music in YouTube even in lockscreen in phone"
-subtitle:
-description:
+subtitle: sample
+description: sample
 image: assets/images/google/youtube/youtube-background-banner.jpg
 author: satya
 categories: [Tech, Android]

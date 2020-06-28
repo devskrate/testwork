@@ -2,8 +2,8 @@
 date: 2020-05-12 21:26:34
 layout: post
 title:  AI-generated memes can compete with Human-generated memes
-subtitle:
-description:
+subtitle: sample
+description: sample
 image: assets/images/mlogs/AI/AI-memes.png
 author: satya
 category: [ Artificial Intelligence,Automation ]

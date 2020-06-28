@@ -2,8 +2,8 @@
 date: 2020-05-18 09:34:27
 layout: post
 title:  Google's FooBar - The Secret Hiring Challenge
-subtitle:
-description:
+subtitle: sample
+description: sample
 image: assets/images/google/google-foobar.png
 author: satya
 categories: [ Google, Developer, Hiring]

@@ -2,8 +2,8 @@
 date: 2020-05-15 22:36:58
 layout: post
 title:  RoughViz.js - for creating sketchy/hand-drawn styled charts
-subtitle:
-description:
+subtitle: sample
+description: sample
 image: assets/images/mlogs/js/RoughViz.js.png
 author: satya
 category: [ JavaScript, Visualization ]

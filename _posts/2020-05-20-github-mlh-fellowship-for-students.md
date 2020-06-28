@@ -2,8 +2,8 @@
 date: 2020-05-20 10:09:27
 layout: post
 title:  Github announced the MLH Fellowship for students
-subtitle:
-description:
+subtitle: sample
+description: sample
 image: assets/images/mlogs/github/github-mlh.png
 author: satya
 category: [ Github, mlogs, students ]
