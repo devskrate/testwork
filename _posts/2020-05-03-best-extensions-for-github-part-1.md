@@ -1,9 +1,12 @@
 ---
+date: 2020-05-03 17:08:52
 layout: post
 title:  GitTensions - Exclusive Extensions for GitHub and GitLab - part 1
-author: satya
-categories: [ Extensions, GitHub ]
+subtitle:
+description:
 image: assets/images/mlogs/github/gittensions.jpg
+author: satya
+category: [ Extensions, GitHub ]
 tags: [chrome, firefox, extensions, github, gitlab]
 ---
 
