@@ -1,26 +1,34 @@
 ---
+date: 2020-04-15 17:26:40
 layout: post
-title:  "Apple iPhone SE 2020 is ready!"
+title: Apple iPhone SE 2020 is ready!
+subtitle: The most awaited iPhone SE 2020 is out now
+description: The wait is over. iPhone SE 2020 is now official.
+image: https://devskrate.github.io/assets/blog-banners/
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/
+category: [mobile]
+tags: [iphone, se, apple]
 author: nikhil
-categories: [ Apple, iPhone ]
-image: assets/images/apple/se-ftre.jpg
-tags: [iPhone, SE, Apple]
+paginate: false
+is_generated: false
 ---
 
-## Hey Folks! ##
+## Hey Folks!
+
 All the wait is over. Finally,the Apple iPhone SE 2020 is ready for competition.  
 The most awaited iPhone SE has been scilently released by Apple into it's <a href="https://www.apple.com/" target="_blank">website</a>.
 
 <img src="{{ site.baseurl }}/assets/images/apple/se-size-img.png" alt="iPhone SE 2020" title="iPhone SE 2020" />
 
 ## Tech Specs:
+
 **Colors:** Available in three Colors. **Black, White, Product RED**  
 **Capacity: 64GB, 128GB, 256GB**  
 **Size and Weight:**  
 Height: 5.45 inches (138.4 mm)  
 Width : 2.65 inches (67.3 mm)  
 Depth : 0.29 inch (7.3 mm)  
-Weight: 5.22 ounces (148 grams)  
+Weight: 5.22 ounces (148 grams)
 
 <img src="{{ site.baseurl }}/assets/images/apple/se-size-weight.jpg" alt="iPhone SE Size" title="iPhone SE 2020 Size" />
 
@@ -39,9 +47,9 @@ Weight: 5.22 ounces (148 grams)
     Display Zoom
     Reachability</b></pre>
 
-**Chip: A13 Bionic chip (Third‑generation Neural Engine)**   
+**Chip: A13 Bionic chip (Third‑generation Neural Engine)**
 
-**Splash, Water, and Dust Resistant: Rated IP67 (maximum depth of 1 meter up to 30 minutes) under IEC standard 60529**  
+**Splash, Water, and Dust Resistant: Rated IP67 (maximum depth of 1 meter up to 30 minutes) under IEC standard 60529**
 
 <img src="{{ site.baseurl }}/assets/images/apple/se-camera.jpg" title="iPhone SE 2020 Camera Specs" />
 

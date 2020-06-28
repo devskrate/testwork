@@ -1,10 +1,16 @@
 ---
+date: 2020-05-13 17:26:40
 layout: post
-title:  Google's Change the game design challenge
-author: nikhil
-categories: [ google ]
-image: assets/images/google/game-changers.gif
+title: Google's Change the game design challenge
+subtitle: Apply for Google Game Changers and get the exclusive training on game designing
+description:  Here's what is Google Game Changers and how to apply for it?
+image: https://devskrate.github.io/assets/blog-banners/
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/
+category: [students]
 tags: [google, game design, contest]
+author: nikhil
+paginate: false
+is_generated: false
 ---
 
 Google has recently launched "Change the Game Design" contest to encourage students who are passionate about game designing during this lockdown.  

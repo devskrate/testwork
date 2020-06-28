@@ -1,11 +1,18 @@
 ---
+date: 2020-03-30 17:26:40
 layout: post
-title:  "A first look at Microsoft’s xCloud game streaming service for Windows PCs"
+title: A first look at Microsoft’s xCloud game streaming service for Windows PCs
+subtitle: The xCloud game streaming hardware is incredible
+description: Take a first look at xCloud game streaming service
+image: https://devskrate.github.io/assets/blog-banners/
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/
+category: [gaming]
+tags: [microsoft, xcloud, windows]
 author: nikhil
-categories: [ microsoft, gaming ]
-image: assets/images/microsoft/xcloud.jpg
-tags: [microsoft, xcloud, windows, gaming]
+paginate: false
+is_generated: false
 ---
+
 Microsoft has started testing its Project xCloud game streaming service for Windows 10 PCs this week. The software giant is making the preview version, which lets you stream Xbox games to a PC, available to all Microsoft employees. The Verge has been able to obtain exclusive screenshots of how xCloud will work on PCs.
 
 Microsoft has developed an Xbox Game Streaming app for Windows 10 that will be available in the Windows Store. Much like the Android or iOS versions, the app requires a Bluetooth Xbox One controller, a Microsoft account, and a good internet connection. The PC app will also support streaming games from an Xbox One console locally or remotely, instead of using Microsoft’s xCloud server blades.<br>

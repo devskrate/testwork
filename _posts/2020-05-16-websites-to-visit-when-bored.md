@@ -1,10 +1,16 @@
 ---
+date: 2020-05-16 17:26:40
 layout: post
-title:  "Cool websites to visit, when you get bored!"
+title: Cool websites to visit, when you get bored!
+subtitle: These are few websites, when you get bored
+description:  Ever felt idle? Visit these list of sites to kill some time
+image: https://devskrate.github.io/assets/blog-banners/websites-to-visit.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/websites-to-visit-opt.jpg
+category: [reviews]
+tags: [tech when bored, internet]
 author: nikhil
-categories: [ internet ]
-image: assets/images/internet/bored-internet.jpg
-tags: [internet, bored tech]
+paginate: false
+is_generated: false
 ---
 
 Have you ever felt bored? Ofcourse YES... I know. Here are the cool websites to visit when you feel bored on internet.  

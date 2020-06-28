@@ -1,22 +1,29 @@
 ---
+date: 2020-05-15 17:26:40
 layout: post
-title:  GTA V for free and more other popular games for a limited time
+title: GTA V for free and more other popular games for a limited time
+subtitle: Epic game is giving away some AAA titles for free. Grab them asap.
+description: Get some paid games for free
+image: https://devskrate.github.io/assets/blog-banners/msp.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/msp-opt.jpg
+category: [gaming]
+tags: [games, epic games, free]
 author: nikhil
-categories: [ Games, Free ]
-image: assets/images/games/epic-games-free-games.jpg
-tags: [Games, EpciGames, Free]
+paginate: false
+is_generated: false
 ---
 
 [Epic games](https://www.epicgames.com/store/en-US/) is offering popular free games for a very limited time.
 
 Check out the list.
-+ [GTA V](#gta-v-game): May 14th
 
-+ [Civilization 6](#civilization6-game): May 21st
+- [GTA V](#gta-v-game): May 14th
 
-+ [Borderlands - The Handsome Collection](#borderlands-handsome-collection-game): May 28th
+- [Civilization 6](#civilization6-game): May 21st
 
-+ [ARK Survival Evolved](#ark-survival-game): June 4th
+- [Borderlands - The Handsome Collection](#borderlands-handsome-collection-game): May 28th
+
+- [ARK Survival Evolved](#ark-survival-game): June 4th
 
 {:#gta-v}
 **1. The Grand Theft Auto V (GTA-V)**:
@@ -42,6 +49,5 @@ Borderlands: The Handsome Collection is a compilation of first-person shooter vi
 Ark: Survival Evolved (stylized as **ΛRK**) is an action-adventure survival video game, it will be available on June 4th.
 
 ![Ark: Survival Evolved](https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/ArkSurvivalEvolved.png/330px-ArkSurvivalEvolved.png)
-
 
 **Stay tuned for the updated links**

@@ -1,10 +1,16 @@
 ---
+date: 2020-03-30 17:26:40
 layout: post
-title:  "Challenges Faced By Android App Developers"
+title: Challenges Faced By Android App Developers
+subtitle: These are common challenges face by Android Developers
+description: Here are common challenges faced by Android Developers
+image: https://devskrate.github.io/assets/blog-banners/
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/
+category: [dev]
+tags: [google, android, challenges]
 author: nikhil
-categories: [ android, google ]
-image: assets/images/android/challenges-android-developers.png
-tags: [google]
+paginate: false
+is_generated: false
 ---
 
 While developing mobile apps, businesses target Android due to its massive worldwide mobile operating system market share. Alphabet has made Android available as an open source mobile platform. Also, it updates the mobile operating system at regular intervals with new features and enhancements. But the penetration rate of individual versions of the mobile operating system differs.

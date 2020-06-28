@@ -1,10 +1,16 @@
 ---
+date: 2020-04-01 17:26:40
 layout: post
-title:  "How to find trending apps in any country"
+title: How to find trending apps in any country
+subtitle: You can find the trending apps in any country
+description: Here is how to fing the trending apps in any country
+image: https://devskrate.github.io/assets/blog-banners/
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/
+category: [howto]
+tags: [internet, play store, app store, trending]
 author: nikhil
-categories: [ Apps ]
-image: assets/images/apps/trernding_apps.jfif
-tags: [internet, play store, app store, trending, app ranking]
+paginate: false
+is_generated: false
 ---
 
 Usually, to gain insight into what’s trending on the app stores, I either read prominent websites or look at the trending page on the app store. However, the problem arises when you have to look for global data. For instance, I am located in India and if I have to check what’s trending on the US Play Store, I would have to change my Google account location. Tedious! Recently, I stumbled upon a website that lets you check the trending apps in every country and even the app trend.
@@ -17,7 +23,7 @@ Head over to this <a href="https://www.similarweb.com/apps/top/google/app-index/
 
 <img src="assets/images/apps/play_store.png" title="Play Store Leader Board"/>
 
-The website also lets you see trending apps on the Apple Play Store. In the first drop-down, you can select the store as “Apple App Store” and let other options as default. Click on the go button and it will populate the trending apps on the Apple store. Additionally,  you will also see an “iPad/iPhone” toggle on just below the Go button.
+The website also lets you see trending apps on the Apple Play Store. In the first drop-down, you can select the store as “Apple App Store” and let other options as default. Click on the go button and it will populate the trending apps on the Apple store. Additionally, you will also see an “iPad/iPhone” toggle on just below the Go button.
 
 <img src="assets/images/apps/app_store.png" title="App Store Leader Board"/>
 
