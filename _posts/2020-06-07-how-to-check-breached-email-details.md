@@ -4,8 +4,8 @@ layout: post
 title: Check if your email associated accounts are breached
 subtitle: Here is how to check, whether your email account details are breached or not
 description: Ever wondered if your email details are breached?
-image: https://devskrate.github.io/assets/blog-banners/email-breach.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/email-breach-opt.jpg
+image: https://devskrate.github.io/assets/blog-banners/email-breach.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/email-breach-opt.webp
 category: [howto]
 tags: [security, breaches, hacked, pwned]
 author: nikhil
@@ -39,7 +39,7 @@ Google only checks the passwords saved in your Google account. For instance, if 
 
 To use this feature, **Open Google Chrome or any other browser**. Then **open <a href="https://passwords.google.com/" target="_blank">Password Manager</a>**. This page also lists all the saved passwords which you can review, change, and edit. **Click on Check Passwords option** at the top.
 
-<img src="https://devskrate.github.io/assets/images/security/google-password-check-click.jpg" alt="Google Password Manager" title="Google Password Manager" />
+<img src="https://devskrate.github.io/assets/images/security/google-password-check-click.webp" alt="Google Password Manager" title="Google Password Manager" />
 
 Click on Check Passwords again. This will show you password analysis, along with three options.
 
@@ -47,16 +47,16 @@ Click on Check Passwords again. This will show you password analysis, along with
 - List of reused passwords that are the same across multiple accounts and hence have the risk of being exposed. Here’s how to create a unique password.
 - List of weak passwords, which are easy to guess and hence, greater chances of being hacked. So, create a strong password.
 
-<img src="https://devskrate.github.io/assets/images/security/google-password-check.jpg" alt="Google Password Manager" title="Google Password Manager" />
+<img src="https://devskrate.github.io/assets/images/security/google-password-check.webp" alt="Google Password Manager" title="Google Password Manager" />
 
 ### Firefox Monitor
 
 Firefox Monitor is an online service by Mozilla that tells you about data breaches related to your email address. This is accessible from any browser and there’s no need to sign-up. To check if your email address has been exposed, first you need to visit Firefox Monitor’s <a href="https://monitor.firefox.com/" target="_blank">website</a>. Then **type in the email address** and click on **“Check for Breaches”**.
 
-<img src="https://devskrate.github.io/assets/images/security/firefox-password-check-click.jpg" alt="Firefox Monitor" title="Firefox Monitor" />
+<img src="https://devskrate.github.io/assets/images/security/firefox-password-check-click.webp" alt="Firefox Monitor" title="Firefox Monitor" />
 
 If your Email ID is comparatively new, chances are you’re safe and not been exposed to any data breaches. However, if your email ID is old, you might find a similar result as I have. This means that my ID was exposed to seven data breaches since 2007.  
-<img src="https://devskrate.github.io/assets/images/security/firefox-password-check.jpg" alt="Firefox Monitor" title="Firefox Monitor" />
+<img src="https://devskrate.github.io/assets/images/security/firefox-password-check.webp" alt="Firefox Monitor" title="Firefox Monitor" />
 
 ### Have I Been Pwned?
 
@@ -66,11 +66,11 @@ The primary purpose of this site is to serve the public. Data breaches are rampa
 
 To check whether your data is breached, firstly **open Have I Been Pwned <a href="https://haveibeenpwned.com/" target="_blank">site</a>**. Then **enter your email address**.
 
-<img src="https://devskrate.github.io/assets/images/security/hibp-password-check-click.jpg" alt="Have I Been Pwned?" title="Have I Been Pwned?">
+<img src="https://devskrate.github.io/assets/images/security/hibp-password-check-click.webp" alt="Have I Been Pwned?" title="Have I Been Pwned?">
 
 Then the site will display how many and what are all the breaches your email address have been part of
 
-<img src="https://devskrate.github.io/assets/images/security/hibp-password-check.jpg" alt="Have I Been Pwned?" title="Have I Been Pwned?">
+<img src="https://devskrate.github.io/assets/images/security/hibp-password-check.webp" alt="Have I Been Pwned?" title="Have I Been Pwned?">
 
 ## Closing Words
 

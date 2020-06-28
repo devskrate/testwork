@@ -3,7 +3,7 @@ layout: post
 title: 5 cool Linux apps
 author: puneeth
 categories: [linux, os, mlogs]
-image: assets/images/linux/5-cool-linux-apps.png
+image: assets/images/linux/5-cool-linux-apps.webp
 tags: [linux, ubuntu, os, apps]
 ---
 
@@ -37,10 +37,10 @@ It is a great tool where in
 - You can add shortcuts & extensions.
 - Fast directory browser.
 <p align="center">
-  <img width="55%" alt="Ulanucher" src="https://devskrate.github.io/assets/images/linux/ulauncher-theme.jpg">
+  <img width="55%" alt="Ulanucher" src="https://devskrate.github.io/assets/images/linux/ulauncher-theme.webp">
 </p>
 <p align="center">
-  <img width="65%" alt="Ulanucher" src="https://devskrate.github.io/assets/images/linux/ulauncher-search.jpg">
+  <img width="65%" alt="Ulanucher" src="https://devskrate.github.io/assets/images/linux/ulauncher-search.webp">
 </p>
 You can accesses it with a shorcut key can create a shortcut for web search or your scripts or install a 3rd party extension. It is a very cool tool..
 
@@ -51,13 +51,13 @@ Simply you can run windows applications on your linux system.
 You can download the Wine [here](https://wiki.winehq.org/Download). You can also download it from the software center in linux systems.
 
 <p align="center">
-  <img alt="MS office" title="MS office" width="90%" src="https://devskrate.github.io/assets/images/linux/wine-office.jpg">
+  <img alt="MS office" title="MS office" width="90%" src="https://devskrate.github.io/assets/images/linux/wine-office.webp">
 </p>
 <p align="center">
-  <img alt="Matlab" title="Matlab" width="75%" src="https://devskrate.github.io/assets/images/linux/wine-matlab.jpg">
+  <img alt="Matlab" title="Matlab" width="75%" src="https://devskrate.github.io/assets/images/linux/wine-matlab.webp">
 </p>
 <p align="center">
-  <img alt="Adobe Photoshop" title="Adobe Photoshop" width="75%" src="https://devskrate.github.io/assets/images/linux/wine-photoshopcc2015.jpg">
+  <img alt="Adobe Photoshop" title="Adobe Photoshop" width="75%" src="https://devskrate.github.io/assets/images/linux/wine-photoshopcc2015.webp">
 </p>
  
 **4. AutomaThemely**:
@@ -70,7 +70,7 @@ With this application we can change the desktop themes to light and dark by sett
 This is there [Github page](https://github.com/C2N14/AutomaThemely). You can download it from [here](https://github.com/C2N14/AutomaThemely/releases)
 
 <p align="center">
-  <img width="75%" src="https://devskrate.github.io/assets/images/linux/AutomaThemely.png">
+  <img width="75%" src="https://devskrate.github.io/assets/images/linux/AutomaThemely.webp">
 </p>
 
 **5. Gnirehtet**:

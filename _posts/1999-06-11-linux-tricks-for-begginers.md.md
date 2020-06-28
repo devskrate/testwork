@@ -3,7 +3,7 @@ layout: post
 title: "Linux tricks and tips for beginners"
 author: puneeth
 categories: [Linux, Tutorial]
-image: assets/images/chromeos/install-chrome-os.jpg
+image: assets/images/chromeos/install-chrome-os.webp
 tags: [Linux, beginner, os]
 ---
 
@@ -68,7 +68,7 @@ sudo gedit test.py
 </p>
 
 <p align="center">
-  <img width="45%" style="border:0.5px solid black" alt="Sudo meme" src="https://devskrate.github.io/assets/images/linux/sudo-meme-1.jpg">
+  <img width="45%" style="border:0.5px solid black" alt="Sudo meme" src="https://devskrate.github.io/assets/images/linux/sudo-meme-1.webp">
 </p>
 
 #### 5. Shutdown and Restart:

@@ -4,7 +4,7 @@ layout: post
 title: "Configure your VS Code like a pro"
 subtitle: sample
 description: sample
-image: assets/images/vscode/vscode-home.png
+image: assets/images/vscode/vscode-home.webp
 author: satya
 category: [Devlopment, DevStuff, VisualStudioCode]
 tags: [developers, microsoft, vscode, DevStuff, configuring, featured]
@@ -51,7 +51,7 @@ Download from here - [https://code.visualstudio.com/download](https://code.visua
 
 **3. Markdown Renderer Extension** - [download](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 
-![Markdown gif](https://devskrate.github.io/assets/images/vscode/md-image.png)
+![Markdown gif](https://devskrate.github.io/assets/images/vscode/md-image.webp)
 
 - Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc.
 
@@ -92,7 +92,7 @@ Download from here - [https://code.visualstudio.com/download](https://code.visua
 
 **10. Docker Extension** - [download](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 
-![Markdown gif](https://devskrate.github.io/assets/images/vscode/docker.png)
+![Markdown gif](https://devskrate.github.io/assets/images/vscode/docker.webp)
 
 - The Docker extension makes it easier to build apps that leverage Docker containers. The extension helps scaffold needed files, build Docker images, debug your app inside a container, and an explorer that makes it easy to take actions on containers and images such as start, stop, inspect, remove, and more.
 

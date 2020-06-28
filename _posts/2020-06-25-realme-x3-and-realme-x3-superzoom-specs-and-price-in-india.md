@@ -3,7 +3,7 @@ layout: post
 title: "Realme X3 and Realme X3 SuperZoom launched in India"
 author: mohit
 category: [mobile]
-image: https://devskrate.github.io/assets/blog-banners/realme-x3-series.png
+image: https://devskrate.github.io/assets/blog-banners/realme-x3-series.webp
 tags: [Realme, Realme X3, Realme X3 SuperZoom]
 ---
 
@@ -13,7 +13,7 @@ Realme earlier this year launched its X50 pro with Snapdragon 865 with 5G suppor
 
 Talking about the design, it's a glass sandwich build which is held together by a plastic frame. It is protected by Gorilla Glass 5 on the front and back. This phone comes with dual punch-hole cutouts to accommodate two cameras. Speaking of display it comes with 6.6 inch 120Hz IPS LCD panel, 120 Hz is good but would have loved to see Amoled instead of the IPS LCD. Since it is an LCD panel it comes with a side-mounted fingerprint scanner.
 
-![Realme X3 series Display and design](https://devskrate.github.io/assets/images/realme/realmex3-display.jpg)
+![Realme X3 series Display and design](https://devskrate.github.io/assets/images/realme/realmex3-display.webp)
 
 #### Internals and software:
 
@@ -25,7 +25,7 @@ Realme X3 superzoom comes with a Quad-Rear camera setup, The primary camera bein
 
 Looking to the Selfie camera, Both come with a dual-camera setup inside the punch hole but with different sensors, the SuperZoom comes with 32MP primary sensor and an 8MP ultra-wide sensor with a 105-degree FOV, while the regular comes with 16MP primary sensor and an 8MP ultra-wide sensor.
 
-![Realme X3 series Camera](https://devskrate.github.io/assets/images/realme/realmex3-camera.jpg)
+![Realme X3 series Camera](https://devskrate.github.io/assets/images/realme/realmex3-camera.webp)
 
 #### Pricing:
 

@@ -3,7 +3,7 @@ layout: post
 title: Dell launches new XPS 17 and redesigned XPS 15
 author: mohit
 categories: [dell]
-image: assets/images/dell/dell-xps-15-17-2020-feature-image.jpg
+image: assets/images/dell/dell-xps-15-17-2020-feature-image.webp
 tags: [dell, computers, versions, comparsions]
 ---
 
@@ -23,7 +23,7 @@ You can either pick a 4k or a regular FHD (1920 x 1200) display with a small web
 
 - This laptop ditches ports like USB-A and HDMI in favor of USB-C and this laptop comes with two USB-C with Thunderbolt 3 support and a regular USB-C 3.1 port, and full-size SD card reader. This laptop is quite thinner at 18mm high.
 
-![](https://devskrate.github.io/assets/images/dell/dell-xps-15-17-ports.jpg)
+![](https://devskrate.github.io/assets/images/dell/dell-xps-15-17-ports.webp)
 
 - Talking about battery, Dell is promising “The longest battery life of any 15-inch laptop”, with up to 25 hours on the FHD display model and It also comes with Quad speaker setup(2 front facing and 2 at rear) for immersive sound experience.
 

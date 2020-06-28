@@ -3,7 +3,7 @@ layout: post
 title:  "Realme X3 series to launch in India very soon"
 author: mohit
 categories: [Tech, Android]
-image: assets/images/realme/realme-x3-india-launch-blog.png
+image: assets/images/realme/realme-x3-india-launch-blog.webp
 tags: [Realme, Realme X3]
 ---
 Realme CEO, Madhav Seth has teased the launch of Realme X3 Super Zoom in India, but its not totally a new phone we have already seen this phone launch in India. In this article, we will see the specs and the expected price in which this phone will be launching in India.
