@@ -1,10 +1,16 @@
 ---
+date: 2012-06-05 17:26:40
 layout: post
-title: "Transfer your media from Facebook to Google Phtos"
-author: nikhil
-categories: [tutorial]
-image: assets/images/internet/fb-tool-feature.jpg
-tags: [facebook]
+title: Transfer your media from Facebook to Google Phtos
+subtitle: You can now transfer all your Facebook media to Google Photos
+description: Facebook's data transfer tool can be used to transfer you Facebook media to Photos by Google 
+image: https://devskrate.github.io/assets/blog-banners/transfer-fb-to-photos.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/transfer-fb-to-photos-opt.jpg
+category: [howto]
+tags: [facebook, photos]
+author: thiagorossener
+paginate: false
+is_generated: true
 ---
 
 Finally Facebook had made the data transfer tool available to all over the globe through the [blog post](https://about.fb.com/news/2019/12/data-portability-photo-transfer-tool/), which was earlier available only to to the Users in USA and Canada.
