@@ -1,7 +1,7 @@
 ---
 date: 2012-06-26 17:26:40
 layout: post
-title: Is it Worth: Buying OnePlus 7T over OnePlus 8
+title: Is it Worth Buying OnePlus 7T over OnePlus 8
 subtitle: Can you buy OnePlus 7T over OnePlus 8
 description: OnePlus 7T is a worthy flagship, but is it worth over OnePlus 8 
 image: https://devskrate.github.io/assets/blog-banners/op7t-vs-op8.jpg
