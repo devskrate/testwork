@@ -3,7 +3,7 @@ layout: post
 title: One Plus 8 pro - The Real Flagship
 author: mohit
 categories: [oneplus, android, mobile]
-image: assets/images/oneplus/oneplus8-pro-display.webp
+image: https://devskrate.github.io/assets/blog-banners/oneplus8-pro-display.webp
 tags: [oneplus, android, google]
 ---
 

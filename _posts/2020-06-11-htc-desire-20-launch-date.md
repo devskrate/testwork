@@ -5,7 +5,6 @@ title: HTC Desire 20 launch date
 subtitle: HTC is back
 description: HTC is launching it's new series of smartphones
 image: https://devskrate.github.io/assets/blog-banners/htc-desire-20.webp
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/htc-desire-20-opt.webp
 category: [ mobile ]
 tags: [smartphones, android, htc]
 author: puneeth 

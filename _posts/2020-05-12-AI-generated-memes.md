@@ -4,7 +4,7 @@ layout: post
 title: AI-generated memes can compete with Human-generated memes
 subtitle: sample
 description: sample
-image: assets/images/mlogs/AI/AI-memes.webp
+image: https://devskrate.github.io/assets/blog-banners/AI-memes.webp
 author: satya
 category: [Artificial Intelligence, Automation]
 tags: [memes, AI, ML, Machine Learning]

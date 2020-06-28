@@ -4,7 +4,7 @@ layout: post
 title: GitHub CodeSpaces - Your instant Dev Environment
 subtitle: sample
 description: sample
-image: assets/images/mlogs/github/codespaces.webp
+image: https://devskrate.github.io/assets/blog-banners/codespaces.webp
 author: satya
 category: [Codespaces, GitHub]
 tags: [Microsoft, vscode, extensions, github]

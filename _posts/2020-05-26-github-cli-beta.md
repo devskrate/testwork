@@ -5,7 +5,7 @@ title: GitHub CLI - Enhance your command line experience
 subtitle: sample
 description: sample
 author: satya
-image: assets/images/mlogs/github/github-cli.webp
+image: https://devskrate.github.io/assets/blog-banners/github-cli.webp
 category: [Tech, Developers]
 tags: [commandline, linux, git, developers, beta]
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Transfer Files between PC and mobile wireless using QR code"
 author: puneeth
 categories: [linux, file, dev-linux]
-image: assets/images/dev/linux/qrcp.webp
+image: https://devskrate.github.io/assets/blog-banners/qrcp.webp
 tags: [linux, pc, windows, mobile]
 ---
 

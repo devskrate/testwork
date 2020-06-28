@@ -3,7 +3,7 @@ layout: post
 title: "MiUI 12 features"
 author: mohit
 categories: [tech, android]
-image: assets/images/mi/miui12.webp
+image: https://devskrate.github.io/assets/blog-banners/miui12.webp
 tags: [redmi, os, android, miui]
 ---
 

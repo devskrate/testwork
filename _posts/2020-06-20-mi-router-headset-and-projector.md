@@ -3,7 +3,7 @@ layout: post
 title: "New products launched by  Xiaomi in the last week"
 author: mohit
 categories: [Tech]
-image: assets/images/mi/mi-products-banner-2020.webp
+image: https://devskrate.github.io/assets/blog-banners/mi-products-banner-2020.webp
 tags: [Mi, MiBand, Fitness Tracker]
 ---
 

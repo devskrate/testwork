@@ -3,7 +3,7 @@ layout: post
 title: "REALME Launched 32, 43 inch smart TV in India starting at Rs 12,999"
 author: mohit
 categories: [TV]
-image: assets/images/realme/realmetv-main.webp
+image: https://devskrate.github.io/assets/blog-banners/realmetv-main.webp
 tags: [Realme, SmartTV, AndroidTv]
 ---
 

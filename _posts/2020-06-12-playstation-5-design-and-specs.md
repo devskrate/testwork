@@ -3,7 +3,7 @@ layout: post
 title: "Sony unveils the PlayStation 5’s futuristic design"
 author: mohit
 categories: [Tech, Gaming]
-image: assets/images/sony/PS5.webp
+image: https://devskrate.github.io/assets/blog-banners/PS5.webp
 tags: [Sony, PlayStation, Console]
 ---
 

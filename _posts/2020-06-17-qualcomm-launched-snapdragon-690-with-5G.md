@@ -3,7 +3,7 @@ layout: post
 title: "Snapdragon 690 with 5G support for budget phones"
 author: mohit
 categories: [Tech]
-image: assets/images/android/sanpdragon-690-banner.webp
+image: https://devskrate.github.io/assets/blog-banners/sanpdragon-690-banner.webp
 tags: [Qualcomm, Snapdragon]
 ---
 

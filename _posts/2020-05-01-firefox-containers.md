@@ -3,7 +3,7 @@ layout: post
 title: "Firefox containers"
 author: puneeth
 categories: [firefox, browser, dev-linux]
-image: assets/images/mlogs/mozilla/firefox-container-f.webp
+image: https://devskrate.github.io/assets/blog-banners/firefox-container-f.webp
 tags: [firefox, browser, mozilla, containers]
 ---
 

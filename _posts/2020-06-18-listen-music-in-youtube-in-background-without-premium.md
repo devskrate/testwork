@@ -4,7 +4,7 @@ layout: post
 title: "How to listen music in YouTube even in lockscreen in phone"
 subtitle: sample
 description: sample
-image: assets/images/google/youtube/youtube-background-banner.webp
+image: https://devskrate.github.io/assets/blog-banners/youtube-background-banner.webp
 author: satya
 categories: [Tech, Android]
 tags: [Youtube, music, app, modded apps]
