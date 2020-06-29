@@ -1,10 +1,16 @@
 ---
+date: 2012-05-29 17:26:40
 layout: post
-title: "Install Chrome OS in a PC"
+title: Install Chrome OS in a PC
+subtitle: Here is how to install Chrome OS on your PC
+description: Ever felt to install Chrome OS with Play Store on your PC? Here is how..
+image: https://devskrate.github.io/assets/blog-banners/.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/.webp
+category: [howto]
+tags: [chrome os, google]
 author: nikhil
-categories: [tutorial]
-image: https://devskrate.github.io/assets/blog-banners/install-chrome-os.webp
-tags: [chrome os]
+paginate: false
+is_generated: true
 ---
 
 There has been many people searching for the installation of Chrome OS on a old PC or a laptop. So, today we're gonna guide you how to install full chrome OS with access to Android from within Chrome OS on an old laptop or an old PC and this isn't using Chromium OS, Cloud OS or Fade OS this is Chrome OS that you can install on pretty much any Intel based PC.

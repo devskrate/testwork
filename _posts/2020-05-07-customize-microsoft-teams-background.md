@@ -4,8 +4,8 @@ layout: post
 title: How to customize your Microsoft Teams Background
 subtitle: You can now customize your Microsoft Teams background
 description: Ever felt that you wanted to customize your Microsoft Teams background
-image: https://devskrate.github.io/assets/blog-banners/
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/
+image: https://devskrate.github.io/assets/blog-banners/ms-teams-background.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/ms-teams-background.webp
 category: [howto]
 tags: [microsoft, meetings, lockdown, teams, video calls, customization]
 author: nikhil

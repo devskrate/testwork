@@ -4,8 +4,8 @@ layout: post
 title: 4 steps you should take to secure your Gmail account
 subtitle: Here is how to secure your account
 description: Follow these steps to secure your Gmail account
-image: https://devskrate.github.io/assets/blog-banners/
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/
+image: https://devskrate.github.io/assets/blog-banners/secure-gmail.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/secure-gmail.webp
 category: [howto]
 tags: [internet, security, gmail]
 author: nikhil
