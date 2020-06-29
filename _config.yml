@@ -89,7 +89,7 @@ paginate_content:
 translations:
   text:
     new_post: "New Post"
-    see_also: "See also"
+    see_also: ""
     search: "Search"
     author: "Author"
     contributor: "Contributor"
