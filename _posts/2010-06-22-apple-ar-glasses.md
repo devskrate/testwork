@@ -1,10 +1,18 @@
 ---
+date: 2010-06-22T12:18:05.000Z
 layout: post
-title:  "Apple AR Glasses: The Next Big Thing after the original iPhone."
+title: Apple AR Glasses: The Next Big Thing after the original iPhone.
+subtitle: 'Apple new upcoming glasses might be the next big thing after the original iPhone.'
+description: >-
+  After the original iPhone, Apple launched several other products, some were good while some were bad 
+  but none of them were revolutionary and Apple's AR glasses plans to change that.
+image: >-
+  https://devskrate.github.io/assets/blog-banners/lenovo-legion-phone.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/lenovo-legion-phone.webp
+category: [gadgets]
+tags: [apple, ar, glasses]
 author: mohit
-categories: [Tech]
-image: https://devskrate.github.io/assets/blog-banners/PS5.webp
-tags: [Apple , AR , Glasses ,]
 ---
 Apple is well known for bringing **groundbreaking technology** like The Macintosh, which brought a Graphical User Interface(GUI), The iPod, which changed the entire MP3 Player and the iPhone, which paved the path for the advanced technology we are enjoying in our current smartphones. After the original iPhone, Apple launched several other products, some were good while some were bad but none of them were revolutionary and Apple's AR glasses plans to change that. 
 
