@@ -7,6 +7,25 @@ image: https://devskrate.github.io/assets/blog-banners/2020-03-narzo.jpeg
 tags: [realme, narzo, android phone,]
 ---
 
+---
+date: 2010-06-22T12:18:05.000Z
+layout: post
+title: Realme's NARZO
+subtitle: 'Realme to bring a brand new series to India, this is everything you need to know'
+description: >-
+  Realme to bring a brand new series to India called narzo, this is everything you need to know
+image: >-
+  https://devskrate.github.io/assets/blog-banners/lenovo-legion-phone.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/lenovo-legion-phone.webp
+category: [gadgets]
+tags: [apple, ar, glasses]
+author: mohit
+---
+
+
+
+
 **Realme has gained a lot of popularity since it's launch of it's first phone the realme 1 and It is the one of the fastest growing brand in INDIA**
  
 It has launched quiet a lot of popular phones under different series namely **C** series, the **number** series, the **pro** series and the **X** series and the company is soon going to 
