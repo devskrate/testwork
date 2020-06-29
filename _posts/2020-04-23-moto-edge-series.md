@@ -1,10 +1,17 @@
 ---
+date: 2020-04-15T12:18:05.000Z
 layout: post
-title:  "Motorolo launches its new edge series in states:"
+title: Motorolo launches its new edge series in states
+subtitle: 'Motorola has finally launched its Flagship called the Moto Edge Plus and a Premium Budget Phone called the Moto Edge Plus, will this new phone get Moto back on the right track, let's find out in the article'
+description: >-
+  Motorola has finally launched its Flagship called the Moto Edge Plus and a Premium Budget Phone called the Moto Edge Plus, will this new phone get Moto back on the right track, let's find out in the article
+image: >-
+  https://devskrate.github.io/assets/blog-banners/lenovo-legion-phone.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/lenovo-legion-phone.webp
+category: [mobile]
+tags: [oneplus, flaship, android]
 author: mohit
-categories: [ Android, Motorola ]
-image: https://devskrate.github.io/assets/blog-banners/motorola-edge.webp
-tags: [moto, flagship]
 ---
 
 Moto after 4 years has come back to making flagship phones with its new edge series, 
