@@ -3,7 +3,7 @@ layout: post
 title: "Apple iPadOS 14 and macOS - Big Sur"
 author: mohit
 categories: [Tech]
-image: assets/images/apple/wwdc2020/ipados-and-macos-banner.jpg
+image: https://devskrate.github.io/assets/blog-banners/wwdc2020/ipados-and-macos-banner.webp
 tags: [Apple, ipad, mac, os, wwdc]
 ---
 
@@ -21,7 +21,7 @@ Apple released it's new iPadOS 14 and Mac OS Big Sur
 - You can use scribble mode in the search menu as well. The iPadOS is getting a compact screen window for calls.The developer beta of iPadOS 14 is available today while the stable versions will launch this fall.
 
 <a href="https://devskrate.github.io/assets/images/apple/wwdc2020/ipados14-handwriting.gif" data-lightbox="image-1" data-title=""><img text-align="center" width="65%" src="https://devskrate.github.io/assets/images/apple/wwdc2020/ipados14-handwriting.gif"></a>
-<a href="https://devskrate.github.io/assets/images/apple/wwdc2020/ipados14-ar.png" data-lightbox="image-1" data-title=""><img text-align="center" width="40%" src="https://devskrate.github.io/assets/images/apple/wwdc2020/ipados14-ar.png"></a>
+<a href="https://devskrate.github.io/assets/images/apple/wwdc2020/ipados14-ar.webp" data-lightbox="image-1" data-title=""><img text-align="center" width="40%" src="https://devskrate.github.io/assets/images/apple/wwdc2020/ipados14-ar.webp"></a>
 
 #### macOS:
 
@@ -37,7 +37,7 @@ Apple also claims Safari to the faster browser. Apple has also improved extensio
 
 Apple also announced the Mac platform will now be transferred to ARM and apple will be making its own A-series custom chipsets and Apple promises to bring its first ARM-powered machine by the end of the year and the transition from Intel to ARM will take two years.
 
-<a href="https://devskrate.github.io/assets/images/apple/wwdc2020/bigsur-preview.png" data-lightbox="image-1" data-title=""><img text-align="center" width="40%" src="https://devskrate.github.io/assets/images/apple/wwdc2020/bigsur-preview.png"></a>
-<a href="https://devskrate.github.io/assets/images/apple/wwdc2020/bigsur-control-center.png" data-lightbox="image-1" data-title=""><img text-align="center" width="40%" src="https://devskrate.github.io/assets/images/apple/wwdc2020/bigsur-control-center.png"></a>
-<a href="https://devskrate.github.io/assets/images/apple/wwdc2020/bigsur-safari.png" data-lightbox="image-1" data-title=""><img text-align="center" width="40%" src="https://devskrate.github.io/assets/images/apple/wwdc2020/bigsur-safari.png"></a>
-<a href="https://devskrate.github.io/assets/images/apple/wwdc2020/bigsur-redesign.png" data-lightbox="image-1" data-title=""><img text-align="center" width="40%" src="https://devskrate.github.io/assets/images/apple/wwdc2020/bigsur-redesign.png"></a>
+<a href="https://devskrate.github.io/assets/images/apple/wwdc2020/bigsur-preview.webp" data-lightbox="image-1" data-title=""><img text-align="center" width="40%" src="https://devskrate.github.io/assets/images/apple/wwdc2020/bigsur-preview.webp"></a>
+<a href="https://devskrate.github.io/assets/images/apple/wwdc2020/bigsur-control-center.webp" data-lightbox="image-1" data-title=""><img text-align="center" width="40%" src="https://devskrate.github.io/assets/images/apple/wwdc2020/bigsur-control-center.webp"></a>
+<a href="https://devskrate.github.io/assets/images/apple/wwdc2020/bigsur-safari.webp" data-lightbox="image-1" data-title=""><img text-align="center" width="40%" src="https://devskrate.github.io/assets/images/apple/wwdc2020/bigsur-safari.webp"></a>
+<a href="https://devskrate.github.io/assets/images/apple/wwdc2020/bigsur-redesign.webp" data-lightbox="image-1" data-title=""><img text-align="center" width="40%" src="https://devskrate.github.io/assets/images/apple/wwdc2020/bigsur-redesign.webp"></a>

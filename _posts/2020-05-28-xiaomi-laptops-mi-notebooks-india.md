@@ -3,13 +3,13 @@ layout: post
 title: "Xiaomi’s MI Laptop's Finally Coming To India"
 author: mohit
 categories: [Laptop]
-image: assets/images/mi/mi-laptops-finally-launching-in-india.jpg
+image: https://devskrate.github.io/assets/blog-banners/mi-laptops-finally-launching-in-india.webp
 tags: [Xiaomi, Redmi, Laptop]
 ---
 
 In China, Xiaomi has disrupted the laptop market in 2016 with the introduction of the Mi Notebook, It was such a good value for money product, **most reviewers ended calling it a steal**. Ever since then Xioami has expanded their laptop lineup and recently even unveiled its Redmi lineup of laptops in China and Indian Mi Fans and even tech enthusiasts like us have been asking Xiaomi to bring them to India. Finally, Xiaomi heard our voice and started teasing the arrival of the Mi Laptop range to India.
 
-![Mi Laptop](https://devskrate.github.io/assets/images/mi/mi-notebook.jpg)
+![Mi Laptop](https://devskrate.github.io/assets/images/mi/mi-notebook.webp)
 
 Xiaomi India’s Managing Director Manu Kumar Jain posted a teaser video on twitter with the slogan **“Its Time”**
 

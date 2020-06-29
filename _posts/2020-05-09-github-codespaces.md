@@ -4,7 +4,7 @@ layout: post
 title: GitHub CodeSpaces - Your instant Dev Environment
 subtitle: sample
 description: sample
-image: assets/images/mlogs/github/codespaces.png
+image: https://devskrate.github.io/assets/blog-banners/codespaces.webp
 author: satya
 category: [Codespaces, GitHub]
 tags: [Microsoft, vscode, extensions, github]
@@ -48,20 +48,20 @@ You can automatically set up dependencies and SSH keys. Go from code to commit f
 
 As we said earlier Codespaces is your Visual Studio Code experience. you can install all the best [vscode extensions](https://devskrate.com/configure-vscode-like-a-pro/)
 
-![github-codespaces](https://devskrate.github.io/assets/images/mlogs/github/github-vscode.jpg)
+![github-codespaces](https://devskrate.github.io/assets/images/mlogs/github/github-vscode.webp)
 
 ###### 4. Develop from anywhere, anytime
 
 Github also provides dark mode for development environment. we are sure that you'll love working there.
 With your development in the cloud, you can contribute code from any device, using VS Code or your browser.
 
-![github-codespaces](https://devskrate.github.io/assets/images/mlogs/github/device-2.png)
+![github-codespaces](https://devskrate.github.io/assets/images/mlogs/github/device-2.webp)
 
 ###### 5. Dependencies, decluttered
 
 Contribute to projects without complicating your local setup. Spin up dev environments with a click—even for projects you haven't worked on before—and switch between them with ease. Github supports all popular development programming languages support to make sure that you will have a great experience.
 
-![github-codespaces](https://devskrate.github.io/assets/images/mlogs/github/dependencies-1.png)
+![github-codespaces](https://devskrate.github.io/assets/images/mlogs/github/dependencies-1.webp)
 
 #### Signup for beta now.
 

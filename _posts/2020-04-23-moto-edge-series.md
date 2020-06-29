@@ -3,7 +3,7 @@ layout: post
 title:  "Motorolo launches its new edge series in states:"
 author: mohit
 categories: [ Android, Motorola ]
-image: assets/images/android/motorola-edge.jpg
+image: https://devskrate.github.io/assets/blog-banners/motorola-edge.webp
 tags: [moto, flagship]
 ---
 

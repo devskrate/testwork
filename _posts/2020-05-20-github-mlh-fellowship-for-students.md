@@ -4,7 +4,7 @@ layout: post
 title:  Github announced the MLH Fellowship for students
 subtitle: sample
 description: sample
-image: assets/images/mlogs/github/github-mlh.png
+image: https://devskrate.github.io/assets/blog-banners/github-mlh.webp
 author: satya
 category: [ Github, mlogs, students ]
 tags: [fellowship, internship, mlh-fellowship, github-education]
@@ -14,7 +14,7 @@ These days companies everywhere find themselves quickly changing how they work. 
 
 [GitHub Education](https://education.github.com/), always helps the next generation of developers to make their best in work. Now, more than ever, students need opportunities to sustain their growth. Github together with their partners **Major League Hacking (MLH)**, solving this problem with a new program—the **MLH Fellowship**, Powered by **GitHub**. This remote program matches up *pods* of 8-10 students with **open-source projects and mentors** over a period of 12 weeks. Students will receive a stipend for the program through **GitHub Sponsors**.
 
-![github-quote](https://i0.wp.com/user-images.githubusercontent.com/1874003/80812907-e87bbc80-8b96-11ea-914b-8a35398996a4.jpg?ssl=1)
+![github-quote](https://i0.wp.com/user-images.githubusercontent.com/1874003/80812907-e87bbc80-8b96-11ea-914b-8a35398996a4.webp?ssl=1)
 
 Not just GitHub, many other tech companies will come together and fuel this ecosystem. To kick off the program, GitHub Education plans to support **100 MLH Fellows** in the inaugural class of summer 2020. These are the other partners who're joining this coalition Facebook, DEV, and the Royal Bank of Canada.
 

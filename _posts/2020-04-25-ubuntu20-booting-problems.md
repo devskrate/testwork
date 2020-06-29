@@ -3,7 +3,7 @@ layout: post
 title:  "Ubuntu 20.04 booting problems." 
 author: puneeth
 categories: [ ubuntu, linux ]
-image: assets/images/linux/ubuntu-clogo.jpg
+image: https://devskrate.github.io/assets/blog-banners/ubuntu-clogo.webp
 tags: [ubuntu, linux, kernel, intel, os, featured]
 ---
 

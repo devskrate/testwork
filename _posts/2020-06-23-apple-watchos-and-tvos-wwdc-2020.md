@@ -3,7 +3,7 @@ layout: post
 title: "Apple Watch OS and TV OS"
 author: mohit
 categories: [Tech]
-image: assets/images/apple/wwdc2020/watchos-and-tvos-banner.jpg
+image: https://devskrate.github.io/assets/blog-banners/wwdc2020/watchos-and-tvos-banner.webp
 tags: [Apple, watchos, appletv, wwdc]
 ---
 
@@ -11,7 +11,7 @@ Apple has released new WatchOS and tvOS, here is a quick view of them.
 
 ### Watch OS:
 
-<a href="https://devskrate.github.io/assets/images/apple/wwdc2020/apple-watch-os7.jpg" data-lightbox="image-1" data-title="ios14 App Library"><img text-align="center" width="40%" src="https://devskrate.github.io/assets/images/apple/wwdc2020/apple-watch-os7.jpg"></a>
+<a href="https://devskrate.github.io/assets/images/apple/wwdc2020/apple-watch-os7.webp" data-lightbox="image-1" data-title="ios14 App Library"><img text-align="center" width="40%" src="https://devskrate.github.io/assets/images/apple/wwdc2020/apple-watch-os7.webp"></a>
 <a href="https://devskrate.github.io/assets/images/apple/wwdc2020/apple-watch-os7.gif" data-lightbox="image-1" data-title="ios14 App Library"><img text-align="center" width="40%" src="https://devskrate.github.io/assets/images/apple/wwdc2020/apple-watch-os7.gif"></a>
 
 - Apple with watchOS 7 brings the most requested features that's Sleep tracking. This feature will let you set a bedtime and wake-up alarm and will even help you in maintaining a proper sleep cycle.

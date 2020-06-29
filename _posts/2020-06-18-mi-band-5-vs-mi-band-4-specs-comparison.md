@@ -3,7 +3,7 @@ layout: post
 title:  "Mi Band 5 vs Mi Band 4: Major Update?"
 author: mohit
 categories: [Tech]
-image: assets/images/mi/mi-band-4vs-mi-band-5.jpg
+image: https://devskrate.github.io/assets/blog-banners/mi-band-4vs-mi-band-5.webp
 tags: [Mi, MiBand, Fitness Tracker]
 ---
 The Mi band has been one of the most successful lineups for Xioami and it recently announced the successor to Mi Band 4, The Mi Band 5 in China. This fitness tracker brings with it a lot of feature, Let's see what are those and is it a major upgrade to the already existing Mi Band 4 and when will it be launching in India.

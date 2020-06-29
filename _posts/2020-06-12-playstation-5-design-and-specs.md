@@ -3,7 +3,7 @@ layout: post
 title: "Sony unveils the PlayStation 5’s futuristic design"
 author: mohit
 categories: [Tech, Gaming]
-image: assets/images/sony/PS5.jpg
+image: https://devskrate.github.io/assets/blog-banners/PS5.webp
 tags: [Sony, PlayStation, Console]
 ---
 
@@ -19,7 +19,7 @@ Talking about the looks and design, we think the two-tone design of the PS5, whi
 
 The PS5 is accompanied by several other accessories, which sony showed on the event. The first being the Dual Sense Controller which also comes with the dual-tone finish similar to that of the PlayStation.We also find the Dual-Sense Stand to charge two controllers at once and that looks pretty cool. For all those how to remember the pulse wireless gaming headset which sony came out years ago, The successor of that the Pulse 3D wireless is here and that looks minimal with the two-tone design and promises to offer a fully immersive sound experience. It also comes with an HD camera following a similar two-tone vibe.PS5 standard edition will also come with a remote to use your PS5 as a regular Blu-ray player.
 
-![Playstion 5 and it's acessories ](https://devskrate.github.io/assets/images/sony/ps5-family.jpg)
+![Playstion 5 and it's acessories ](https://devskrate.github.io/assets/images/sony/ps5-family.webp)
 
 #### Specs:
 

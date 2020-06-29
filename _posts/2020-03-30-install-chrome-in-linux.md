@@ -3,7 +3,7 @@ layout: post
 title: "Install Google Chrome in Ubuntu/Linux"
 author: puneeth
 categories: [linux, browser, google]
-image: assets/images/linux/ubuntu-logo.gif
+image: https://devskrate.github.io/assets/blog-banners/ubuntu-logo.gif
 tags: [linux, PC, Operating system, chrome, google]
 ---
 
@@ -30,17 +30,17 @@ Firstly go to the official website for downloading chrome.
 
 You will see a download link there, now click the "Download chrome" button to download.
 
-<img src="https://devskrate.github.io/assets/images/linux/chrome-download.png" alt="Chrome download page" style="max-width: 100%; border:0;"/>
+<img src="https://devskrate.github.io/assets/images/linux/chrome-download.webp" alt="Chrome download page" style="max-width: 100%; border:0;"/>
 
 Now, you can see tat it is asking to select between two versions.
 
-<img src="https://devskrate.github.io/assets/images/linux/chrome-select.png" alt="Chrome download page" style="max-width: 100%; border:0;"/>
+<img src="https://devskrate.github.io/assets/images/linux/chrome-select.webp" alt="Chrome download page" style="max-width: 100%; border:0;"/>
 
 If you want to install chrome for other linux systems like Fedora, openSUSE download the "rpm package", but we are now installing it for Ubuntu, download the ubuntu package.
 
 After downloading, open the downloaded file by double clicking it. Now,Ubuntu software center is opened and chrome will be staged for installation.
 
-<img src="https://devskrate.github.io/assets/images/linux/chrome-install.png" alt="Chrome download page" style="max-width: 100%; border:0;"/>
+<img src="https://devskrate.github.io/assets/images/linux/chrome-install.webp" alt="Chrome download page" style="max-width: 100%; border:0;"/>
 
 Now, just press "install", google chrome will be installed.
 

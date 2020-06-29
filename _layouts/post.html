@@ -20,11 +20,16 @@
                     <a href="#share-with"> <i class="fa fa-share fa-fw"></i> Share</i></a>
                 </p>
                 <div class="categories">
-                    {% for category_post in page.category %}
-                        <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ category_post }}">
-                            <span>{{ category_post }}  </span>
-                        </a>
-                    {% endfor %}
+                    <span>
+                        <a href="/">Home</a> > 
+                        {% for category_post in page.category %}
+                            <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ category_post }}">
+                                {{ category_post }}
+                                {% if forloop.last %}{% else %},{% endif %}
+                            </a>
+                        {% endfor %}
+                     > <span id="title">{{page.title}}</span>
+                </span>
                 </div>
                 <h1 class="post-title">{{ page.title }}</h1>
                 <p class="post-subtitle">{{ page.subtitle }}</p>
@@ -51,9 +56,29 @@
 
             {% if site.two_columns_layout %}
                 <aside class="see-also">
-                    <h2>{{ site.translations.text.see_also | default: "See also" }}</h2>
+                    <h2>{{ site.translations.text.see_also | default: "Related posts" }}</h2>
                     <ul>
-                        {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
+                        {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" | where_exp:"post","post.category contains page.category[0]" %}
+                        {% assign shuffled_array = next_posts | sample: 3 %}
+                        {% for post in shuffled_array limit:3 %}
+                            <li>
+                                <a href="{{ post.url | prepend: site.baseurl }}">
+                                    {% if post.optimized_image %}
+                                        <img src="{{ post.optimized_image }}">
+                                    {% elsif post.image %}
+                                        <img src="{{ post.image }}">
+                                    {% else %}
+                                        <img src="{{site.baseurl}}/assets/img/off.jpg">
+                                    {% endif %}
+                                    <h3>{{ post.title }}</h3>
+                                </a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+
+                    <h2>{{ site.translations.text.see_also | default: "Featured Posts" }}</h2>
+                    <ul>
+                        {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.tags contains 'featured' " %}
                         {% assign shuffled_array = next_posts | sample: 3 %}
                         {% for post in shuffled_array limit:3 %}
                             <li>

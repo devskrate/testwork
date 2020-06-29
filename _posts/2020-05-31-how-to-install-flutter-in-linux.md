@@ -4,8 +4,8 @@ layout: post
 title: How to install Flutter in linux and Fix general problems
 subtitle: Flutter installation
 description: Flutter installation and fixing common problems and errors
-image: https://devskrate.github.io/assets/blog-banners/flutter-installation-linux.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/flutter-installation-linux-opt.jpg
+image: https://devskrate.github.io/assets/blog-banners/flutter-installation-linux.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/flutter-installation-linux-opt.webp
 category: [dev]
 tags: [os, linux, windows, student, google]
 author: puneeth
@@ -79,7 +79,7 @@ This command checks your environment and displays a report to the terminal windo
 
 **1.** Open android studio and then goto settings and then Android SDK.
 
-![Android-studio-settings-sdk](https://devskrate.github.io/assets/images/android/flutter-install-1.png)
+![Android-studio-settings-sdk](https://devskrate.github.io/assets/images/android/flutter-install-1.webp)
 
 **2.** Now UNCHECK the "Hide Obsolete packages" and then verify all the below mentioned are installed.
 
@@ -88,7 +88,7 @@ This command checks your environment and displays a report to the terminal windo
 - Android SDK Platform-Tools
 - Android SDK Tools(Obsolete) [This is generally hidden until you uncheck the Hide Obsolete Packages]
 
-![Android-SDK-Tools(Obsolete)-Install](https://devskrate.github.io/assets/images/android/flutter-install-2.png)
+![Android-SDK-Tools(Obsolete)-Install](https://devskrate.github.io/assets/images/android/flutter-install-2.webp)
 
 Install(Tick all the above and click apply, wait until download and installation of the above packages) the above packages.
 

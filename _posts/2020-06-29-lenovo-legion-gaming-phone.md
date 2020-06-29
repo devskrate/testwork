@@ -1,10 +1,18 @@
 ---
+date: 2020-06-29T12:18:05.000Z
 layout: post
-title: "Lenovo all set to launch Legion's Gaming Phone"
-author: mohit
-categories: [Tech]
-image: assets/images/sony/PS5.jpg
+title: Lenovo all set to launch Legion's Gaming Phone
+subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+description: >-
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua.
+image: >-
+  https://devskrate.github.io/assets/blog-banners/lenovo-legion-phone.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/lenovo-legion-phone.webp
+category: [Tech]
 tags: [Lenovo, Legion, Gaming Phone]
+author: mohit
 ---
 
 Lenovo, In the recent time, has not been doing good in the smartphone market but the Lenovo wants to change it with the new gaming phone under the legion lineup. Here’s everything you need to know.
@@ -13,7 +21,7 @@ Lenovo, In the recent time, has not been doing good in the smartphone market but
 
 Speaking of Built, like all other high-end smartphones it will also be a glass sandwich design with a metal frame to hold them together. Talking about the display, it will be a 6.67-inch full-HD+ display with a resolution of 1080x2340 pixels coupled with a 144Hz refresh rate and 270Hz touch sampling rate.
 
-![Legion's Gaming Phone](https://devskrate.github.io/assets/images/Lenovo/lenovo-legion-gaming-g2.jpg)
+![Legion's Gaming Phone](https://devskrate.github.io/assets/images/Lenovo/lenovo-legion-gaming-g2.webp)
 
 #### Software and Hardware:
 
@@ -23,7 +31,7 @@ This phone will run on Legion OS based on Android 10 and this is expected to inc
 
 This phone will come with dual rear camera, The primary will be a 64-megapixel sensor and 16-megapixel ultra-wide sensor, which will be a side pop-up camera which is completely new, how will it hold up is the question that can all be answered after the official release.
 
-![Legion's Gaming Phone](https://devskrate.github.io/assets/images/Lenovo/lenovo-legion-gaming-g1.jpg)
+![Legion's Gaming Phone](https://devskrate.github.io/assets/images/Lenovo/lenovo-legion-gaming-g1.webp)
 
 #### Pricing and release date:
 

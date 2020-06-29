@@ -5,7 +5,7 @@ title: "Intorducing Mlogs"
 subtitle: sample
 description: sample
 author: satya
-image: assets/images/mlogs/mlogs.png
+image: https://devskrate.github.io/assets/blog-bannersmlogs.webp
 category: [blog, mlog]
 tags: [blog, mlog, introduction, series]
 ---
@@ -20,7 +20,7 @@ You can read these mlogs easily using instant view in [telegram](https://t.me/De
 
 #### Why Mlogs?
 
-![Why Mlogs](https://devskrate.github.io/assets/images/mlogs/why-mlogs.png)
+![Why Mlogs](https://devskrate.github.io/assets/images/mlogs/why-mlogs.webp)
 
 Being a techster we want to explore more things related to tech and we feel very interesting to keep updated with updated news and applications.
 

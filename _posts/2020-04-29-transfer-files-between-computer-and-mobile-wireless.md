@@ -3,13 +3,13 @@ layout: post
 title: "Transfer Files between PC and mobile wireless using QR code"
 author: puneeth
 categories: [linux, file, dev-linux]
-image: assets/images/dev/linux/qrcp.png
+image: https://devskrate.github.io/assets/blog-banners/qrcp.webp
 tags: [linux, pc, windows, mobile]
 ---
 
 Sometimes many of us face difficulty to transfer files from PC to mobile or from mobile to PC. It is a very annoying thing to use a cable for transferring a single file like an image or a small pdf. So here comes a small but a great tool used to transfer files over a network.
 
-![QR image](https://devskrate.github.io/assets/images/dev/linux/qrcp-qr.png){:height="60%" width="55%"}
+![QR image](https://devskrate.github.io/assets/images/dev/linux/qrcp-qr.webp){:height="60%" width="55%"}
 
 To install this in linux follow the below steps
 

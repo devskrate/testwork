@@ -4,7 +4,7 @@ layout: post
 title: GitTensions - Exclusive Extensions for GitHub and GitLab - part 1
 subtitle: sample
 description: sample
-image: assets/images/mlogs/github/gittensions.jpg
+image: https://devskrate.github.io/assets/blog-banners/gittensions.webp
 author: satya
 category: [Extensions, GitHub]
 tags: [chrome, firefox, extensions, github, gitlab]
@@ -44,7 +44,7 @@ There's a pro version available for this extension, explore the features of pro 
 
 Display repo size, size of each file, download link for individual files and option to copy file contents with a single click.
 
-![enhance-githuub-demo](https://devskrate.github.io/assets/images/mlogs/github/enhance-github.jpg)
+![enhance-githuub-demo](https://devskrate.github.io/assets/images/mlogs/github/enhance-github.webp)
 
 Features
 
@@ -56,7 +56,7 @@ Features
 
 Usually we do feel irritating when Github truncates the name of file or folder, to view full name we need to open that file. But with this extension this problem will be solved.
 
-![truncate-demo](https://devskrate.github.io/assets/images/mlogs/github/truncate.png)
+![truncate-demo](https://devskrate.github.io/assets/images/mlogs/github/truncate.webp)
 
 Features
 
@@ -70,7 +70,7 @@ On GitHub, no matter what kind of file is, their icons are all same. However, in
 
 But this extension to replace original file icon with filetype-specific icons. This improves visual recognition on GitHub, GitLab, etc.
 
-![fileicons-demo](https://devskrate.github.io/assets/images/mlogs/github/file-icons.jpg)
+![fileicons-demo](https://devskrate.github.io/assets/images/mlogs/github/file-icons.webp)
 
 #### 5. Isometric Contributions -[Chrome](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien/related), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/isometric-github/?src=search)
 
@@ -79,7 +79,7 @@ Based on GitHub contribution chart renders an isometric(3D) pixel view of GitHub
 This extension allows you to toggle between both the normal GitHub contribution chart and an isometric pixel art version.
 
 Here is my github isometric contribution chart - **I'm loving it..**  
-![isometric-demo](https://devskrate.github.io/assets/images/mlogs/github/isometric.PNG)
+![isometric-demo](https://devskrate.github.io/assets/images/mlogs/github/isometric.webp)
 
 ##### Happy Quarantine
 

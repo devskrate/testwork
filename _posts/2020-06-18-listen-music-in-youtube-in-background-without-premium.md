@@ -4,7 +4,7 @@ layout: post
 title: "How to listen music in YouTube even in lockscreen in phone"
 subtitle: sample
 description: sample
-image: assets/images/google/youtube/youtube-background-banner.jpg
+image: https://devskrate.github.io/assets/blog-banners/youtube-background-banner.webp
 author: satya
 categories: [Tech, Android]
 tags: [Youtube, music, app, modded apps]
@@ -16,14 +16,14 @@ Mostly everyone use Youtube, but we all like to use it in the background and in 
 
 We can get this by using any mobile browser..
 
-<a href="https://devskrate.github.io/assets/images/google/youtube/youtube-background-1.jpg" data-lightbox="image-1" data-title="Open chrome and open youtube.com"><img width="20%" src="https://devskrate.github.io/assets/images/google/youtube/youtube-background-1.jpg" style = "border:1.5px solid black;" ></a>
-<a href="https://devskrate.github.io/assets/images/google/youtube/youtube-background-2.jpg" data-lightbox="image-1" data-title="Click options"><img width="20%" src="https://devskrate.github.io/assets/images/google/youtube/youtube-background-2.jpg" style = "border:1.5px solid black;" ></a>
-<a href="https://devskrate.github.io/assets/images/google/youtube/youtube-background-3.jpg" data-lightbox="image-1" data-title="Enable Desktop Site"><img width="20%" src="https://devskrate.github.io/assets/images/google/youtube/youtube-background-3.jpg" style = "border:1.5px solid black;" ></a>
-<a href="https://devskrate.github.io/assets/images/google/youtube/youtube-background-4.jpg" data-lightbox="image-1" data-title="Open a video to play"><img width="20%" src="https://devskrate.github.io/assets/images/google/youtube/youtube-background-4.jpg" style = "border:1.5px solid black;" ></a>
-<a href="https://devskrate.github.io/assets/images/google/youtube/youtube-background-5.jpg" data-lightbox="image-1" data-title="Press home button to get chrome to background"><img width="20%" src="https://devskrate.github.io/assets/images/google/youtube/youtube-background-5.jpg" style = "border:1.5px solid black;" ></a>
-<a href="https://devskrate.github.io/assets/images/google/youtube/youtube-background-6.jpg" data-lightbox="image-1" data-title="Can resume using notification panel"><img width="20%" src="https://devskrate.github.io/assets/images/google/youtube/youtube-background-6.jpg" style = "border:1.5px solid black;" ></a>
-<a href="https://devskrate.github.io/assets/images/google/youtube/youtube-background-7.jpg" data-lightbox="image-1" data-title="Can use it in lock screen"><img width="20%" src="https://devskrate.github.io/assets/images/google/youtube/youtube-background-7.jpg" style = "border:1.5px solid black;" ></a>
-<a href="https://devskrate.github.io/assets/images/google/youtube/youtube-background-8.jpg" data-lightbox="image-1" data-title="If you cannot see notification, turn it on.."><img width="20%" src="https://devskrate.github.io/assets/images/google/youtube/youtube-background-8.jpg" style = "border:1.5px solid black;" ></a>
+<a href="https://devskrate.github.io/assets/images/google/youtube/youtube-background-1.webp" data-lightbox="image-1" data-title="Open chrome and open youtube.com"><img width="20%" src="https://devskrate.github.io/assets/images/google/youtube/youtube-background-1.webp" style = "border:1.5px solid black;" ></a>
+<a href="https://devskrate.github.io/assets/images/google/youtube/youtube-background-2.webp" data-lightbox="image-1" data-title="Click options"><img width="20%" src="https://devskrate.github.io/assets/images/google/youtube/youtube-background-2.webp" style = "border:1.5px solid black;" ></a>
+<a href="https://devskrate.github.io/assets/images/google/youtube/youtube-background-3.webp" data-lightbox="image-1" data-title="Enable Desktop Site"><img width="20%" src="https://devskrate.github.io/assets/images/google/youtube/youtube-background-3.webp" style = "border:1.5px solid black;" ></a>
+<a href="https://devskrate.github.io/assets/images/google/youtube/youtube-background-4.webp" data-lightbox="image-1" data-title="Open a video to play"><img width="20%" src="https://devskrate.github.io/assets/images/google/youtube/youtube-background-4.webp" style = "border:1.5px solid black;" ></a>
+<a href="https://devskrate.github.io/assets/images/google/youtube/youtube-background-5.webp" data-lightbox="image-1" data-title="Press home button to get chrome to background"><img width="20%" src="https://devskrate.github.io/assets/images/google/youtube/youtube-background-5.webp" style = "border:1.5px solid black;" ></a>
+<a href="https://devskrate.github.io/assets/images/google/youtube/youtube-background-6.webp" data-lightbox="image-1" data-title="Can resume using notification panel"><img width="20%" src="https://devskrate.github.io/assets/images/google/youtube/youtube-background-6.webp" style = "border:1.5px solid black;" ></a>
+<a href="https://devskrate.github.io/assets/images/google/youtube/youtube-background-7.webp" data-lightbox="image-1" data-title="Can use it in lock screen"><img width="20%" src="https://devskrate.github.io/assets/images/google/youtube/youtube-background-7.webp" style = "border:1.5px solid black;" ></a>
+<a href="https://devskrate.github.io/assets/images/google/youtube/youtube-background-8.webp" data-lightbox="image-1" data-title="If you cannot see notification, turn it on.."><img width="20%" src="https://devskrate.github.io/assets/images/google/youtube/youtube-background-8.webp" style = "border:1.5px solid black;" ></a>
 
 i)Firstly open chrome browser in Normal or Incognito mode, then type `youtube.com` in the search bar. If you are redirected to youtube app, try opening `m.youtube.com` in the search.
 

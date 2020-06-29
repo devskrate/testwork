@@ -4,7 +4,7 @@ layout: post
 title:  RoughViz.js - for creating sketchy/hand-drawn styled charts
 subtitle: sample
 description: sample
-image: assets/images/mlogs/js/RoughViz.js.png
+image: https://devskrate.github.io/assets/blog-banners/RoughViz.js.webp
 author: satya
 category: [ JavaScript, Visualization ]
 tags: [js, Graphs, JSlibraries, Frontend]
@@ -38,14 +38,14 @@ Use these charts where the communication goal is to show intent or generality, a
 Apply the features of `roughjs` to each chart:
 
 - **roughness**
-<img src="https://raw.githubusercontent.com/jwilber/random_data/master/roughViz_roughnessbars.png"  alt="roughness examples">
+<img src="https://raw.githubusercontent.com/jwilber/random_data/master/roughViz_roughnessbars.webp"  alt="roughness examples">
 
 - **fillStyle**
-<img src="https://raw.githubusercontent.com/jwilber/random_data/master/rough_fillStyles.png"  alt="fillStyle examples">
+<img src="https://raw.githubusercontent.com/jwilber/random_data/master/rough_fillStyles.webp"  alt="fillStyle examples">
 
 
 - **fillWeight**
-<img src="https://raw.githubusercontent.com/jwilber/random_data/master/roughViz_fillweight.png"  alt="fillStyle examples">
+<img src="https://raw.githubusercontent.com/jwilber/random_data/master/roughViz_fillweight.webp"  alt="fillStyle examples">
 
 
 You'll get to know some more cool options in [API](https://github.com/jwilber/roughViz/blob/master/README.md#API) Documentation.

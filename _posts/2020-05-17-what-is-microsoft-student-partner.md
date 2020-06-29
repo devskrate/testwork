@@ -4,8 +4,8 @@ layout: post
 title: What is Microsoft Student Partner?
 subtitle: Microsoft Student Partner is a Sudent Ambassador Program by Microsoft
 description: Here is everything about Microsoft Student Partner and how to apply for it?
-image: https://devskrate.github.io/assets/blog-banners/msp.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/msp-opt.jpg
+image: https://devskrate.github.io/assets/blog-banners/ms-student-partner.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/ms-student-partner.webp
 category: [students]
 tags: [microsoft, student partner, ambassador]
 author: nikhil
@@ -15,7 +15,7 @@ is_generated: false
 
 There are many organizations that run student ambassador programs for students going through colleges and universities. One among those, but the most reputed program is offered by Microsoft named as <a href="https://studentambassadors.microsoft.com/en-us" target="_blank">Microsoft Learn Student Ambassador program</a>, formaly Microsoft Student Partner Program.
 
-<img src="https://devskrate.github.io/assets/images/microsoft/student-partner-intro.jpg" alt="Student Learn Ambassador" title="Student Learn Ambassador">
+<img src="https://devskrate.github.io/assets/images/microsoft/student-partner-intro.webp" alt="Student Learn Ambassador" title="Student Learn Ambassador">
 
 ### What is Microsoft Learn Student Ambassador
 
@@ -39,7 +39,7 @@ To apply, you must be at least 16 years old, have valid identification and be ac
 
 Students from all academic backgrounds who want to grow their career and tech skills while making a difference in their communities to apply. Some experience in coding or technology is helpful, but we have tools and resources to help you learn in the program.
 
-<img src="https://devskrate.github.io/assets/images/microsoft/student-partner-works.jpg" alt="Student Learn Ambassador" title="Student Learn Ambassador">
+<img src="https://devskrate.github.io/assets/images/microsoft/student-partner-works.webp" alt="Student Learn Ambassador" title="Student Learn Ambassador">
 
 ### Benefits
 
@@ -66,26 +66,26 @@ These benefits include but aren’t limited to:
 
 **Step-2:**Read tha Application Notification to know when does your application gets reviewed.
 
-<img src="https://devskrate.github.io/assets/images/microsoft/msp-apply-1.jpg" alt="Student Learn Ambassador Application" title="Student Learn Ambassador Application">
+<img src="https://devskrate.github.io/assets/images/microsoft/msp-apply-1.webp" alt="Student Learn Ambassador Application" title="Student Learn Ambassador Application">
 
 **Step-3:**Then fill out all your Personal Info like first name, last name, contact email, gender, and phone number, and then verify the phone number through an OTP.
 
-<img src="https://devskrate.github.io/assets/images/microsoft/msp-apply-2.jpg" alt="Student Learn Ambassador Application" title="Student Learn Ambassador Application">
+<img src="https://devskrate.github.io/assets/images/microsoft/msp-apply-2.webp" alt="Student Learn Ambassador Application" title="Student Learn Ambassador Application">
 
 **Step-:4**In this step fill all our College Details.
 
-<img src="https://devskrate.github.io/assets/images/microsoft/msp-apply-3.jpg" alt="Student Learn Ambassador Application" title="Student Learn Ambassador Application">
+<img src="https://devskrate.github.io/assets/images/microsoft/msp-apply-3.webp" alt="Student Learn Ambassador Application" title="Student Learn Ambassador Application">
 
 **Step-5:**In this step, there are a few questions that test your view on technology and leadership.
 
-<img src="https://devskrate.github.io/assets/images/microsoft/msp-apply-4.jpg" alt="Student Learn Ambassador Application" title="Student Learn Ambassador Application">
+<img src="https://devskrate.github.io/assets/images/microsoft/msp-apply-4.webp" alt="Student Learn Ambassador Application" title="Student Learn Ambassador Application">
 
 **Step-7:**Here you have to fill all your URLs of profiles and other info.
 
-<img src="https://devskrate.github.io/assets/images/microsoft/msp-apply-5.jpg" alt="Student Learn Ambassador Application" title="Student Learn Ambassador Application">
+<img src="https://devskrate.github.io/assets/images/microsoft/msp-apply-5.webp" alt="Student Learn Ambassador Application" title="Student Learn Ambassador Application">
 
 **Step-8:**In the last step, check all your Technical Skills.
 
-<img src="https://devskrate.github.io/assets/images/microsoft/msp-apply-6.jpg" alt="Student Learn Ambassador Application" title="Student Learn Ambassador Application">
+<img src="https://devskrate.github.io/assets/images/microsoft/msp-apply-6.webp" alt="Student Learn Ambassador Application" title="Student Learn Ambassador Application">
 
 And, then submit your application for the Microsoft Learn Student Ambassador program. Hope this post will help you find your path to successful Microsoft Student Ambassader Program and wish you a very good luck.
