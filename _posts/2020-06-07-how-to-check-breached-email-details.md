@@ -8,7 +8,6 @@ image: https://devskrate.github.io/assets/blog-banners/email-breach.webp
 category: [howto]
 tags: [security, breaches, hacked, pwned]
 author: nikhil
-paginate: false
 ---
 
 Have you ever imagined how many details get leaked online everyday and gets sold on the dark web. Did you know that, your details also might have been grabbed into the wrong hands.
