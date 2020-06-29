@@ -19,7 +19,8 @@ This is the link for the official BotFather [https://t.me/BotFather](https://t.m
 - Remember the API_TOKEN is confidential, secure it.
 - Else your bot can be controlled by others.
 
-![New Bot](https://devskrate.github.io/assets/images/pytelebot/new_bot.webp) ![New Bot Created](https://devskrate.github.io/assets/images/pytelebot/bot_done.webp)
+<a href="https://devskrate.github.io/assets/images/pytelebot/new_bot.jpg" data-lightbox="image-1" data-title="My caption"><img width="20%" src="https://devskrate.github.io/assets/images/pytelebot/new_bot.jpg"></a>
+<a href="https://devskrate.github.io/assets/images/pytelebot/bot_done.jpg" data-lightbox="image-1" data-title="My caption"><img width="20%" src="https://devskrate.github.io/assets/images/pytelebot/bot_done.jpg"></a>
 
 ##### Now we need to install some libraries for getting started
 

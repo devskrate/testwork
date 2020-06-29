@@ -28,9 +28,7 @@ This App Store is from famous gaint **Amazon**. This app store used to be presen
 
 ##### pros:
 
-```
-A paid app for free (One a day)
-```
++ A paid app for free (One a day)
 
 <a href="https://www.amazon.co.uk/gp/feature.html?docId=1000851343" target="_blank"><button style="cursor: pointer; color: whitesmoke; background-color: black; display: inline-block;text-decoration: none; border: none; max-width: 100%; font-size:20px">Download Amazon App Store
 </button></a>
@@ -43,10 +41,8 @@ Discover and distribute top apps in the safest Android app store. No geo-restric
 
 ##### pros:
 
-```
-Try non-compatible versions.
-Most paid apps in Google Play Store are available for free.
-```
++ Try non-compatible versions.
++ Most paid apps in Google Play Store are available for free.
 
 <a href="https://aptoide.en.aptoide.com/" target="_blank"><button style="cursor: pointer; color: whitesmoke; background-color: black; display: inline-block;text-decoration: none; border: none; max-width: 100%; font-size:20px">Download Aptoide
 </button></a>
@@ -59,9 +55,7 @@ APKPure (APK Downloader) App is officially released! With APKPure, you can insta
 
 ##### pros:
 
-```
-Try apps that are not available in your country.
-```
++ Try apps that are not available in your country.
 
 <a href="https://apkpure.com/apkpure/com.apkpure.aegon" target="_blank"><button style="cursor: pointer; color: whitesmoke; background-color: black; display: inline-block;text-decoration: none; border: none; max-width: 100%; font-size:20px">Download APKPure
 </button></a>
@@ -75,10 +69,8 @@ XDA Labs is built entirely in-house by the XDA developers and is the best way to
 
 ##### pros:
 
-```
-Most apps are developed by XDA Developers
-Not only apps but also developer tools can be downloaded.
-```
++ Most apps are developed by XDA Developers
++ Not only apps but also developer tools can be downloaded.
 
 <a href="https://www.xda-developers.com/xda-labs/" target="_blank"><button style="cursor: pointer; color: whitesmoke; background-color: black; display: inline-block;text-decoration: none; border: none; max-width: 100%; font-size:20px">Download XDA Labs
 </button></a>

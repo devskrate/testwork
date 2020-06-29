@@ -6,9 +6,9 @@ subtitle: 'One Plus has finally launched its Flagship, Is this the true flagship
 description: >-
   One Plus has finally launched its Flagship, Is this the true flagship people that people have been waiting for, lets find out in the article
 image: >-
-  https://devskrate.github.io/assets/blog-banners/lenovo-legion-phone.webp
+  https://devskrate.github.io/assets/blog-banners/one-plus-8-pro.webp
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/lenovo-legion-phone.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/one-plus-8-pro.webp
 category: [mobile]
 tags: [oneplus, flaship, android]
 author: mohit

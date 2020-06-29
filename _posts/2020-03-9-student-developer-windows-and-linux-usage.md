@@ -11,7 +11,7 @@ Generally, many developers prefer to use either linux or mac. But, mac is a very
 
 Now coming to linux, we can't just define it. It is very addictable using linux.
 
-![WindowsvsLinux](https://devskrate.github.io/assets/images/winvslinux.webp)
+![WindowsvsLinux](https://devskrate.github.io/assets/images/winvslinux.png){:width="30%"}
 
 ## 1. Performance:
 

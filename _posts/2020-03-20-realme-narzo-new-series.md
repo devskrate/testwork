@@ -6,9 +6,9 @@ subtitle: 'Realme to bring a brand new series to India, this is everything you n
 description: >-
   Realme to bring a brand new series to India called narzo, this is everything you need to know
 image: >-
-  https://devskrate.github.io/assets/blog-banners/lenovo-legion-phone.webp
+  https://devskrate.github.io/assets/blog-banners/realme-nazro.webp
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/lenovo-legion-phone.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/realme-nazro.webp
 category: [mobile]
 tags: [realme, narzo, android phone]
 author: mohit

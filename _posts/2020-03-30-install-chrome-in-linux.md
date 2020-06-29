@@ -11,9 +11,7 @@ Google chrome is one of the most used popular browsers.
 
 Firefox has improved a lot lately and is a better choice specially from the privacy point of view. However, if you are an ardent fan of Google Chrome, I won’t force you to ditch Chrome and move to Firefox.
 
-Ofcourse chrome is available for linux, but Google Chrome is not an open source and if you try to install Google Chrome from Ubuntu Software Center, you won’t find it there. It will probably suggest installing Chromium (the open source project Chrome is derived from). Chromium is similar to Chrome but it’s still not the real Google Chrome..
-
-Now, we wil see the installation of google chrome.
+Ofcourse chrome is available for linux, but Google Chrome is not an open source and if you try to install Google Chrome from Ubuntu Software Center, you won’t find it there. It will probably suggest installing Chromium (the open source project Chrome is derived from). Chromium is similar to Chrome but it’s still not the real Google Chrome.. Now, we will see the installation of google chrome.
 
 There are two methods to install Google Chrome.
 

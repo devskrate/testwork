@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Ubuntu 20.04 booting problems." 
+title:  "Ubuntu 20.04 booting problems" 
 author: puneeth
 categories: [ ubuntu, linux ]
-image: https://devskrate.github.io/assets/blog-banners/ubuntu-clogo.webp
+image: https://devskrate.github.io/assets/blog-banners/ubuntu-20-booting-problems.webp
 tags: [ubuntu, linux, kernel, intel, os, featured]
 ---
 

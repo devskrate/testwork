@@ -92,7 +92,7 @@ Download from here - [https://code.visualstudio.com/download](https://code.visua
 
 **10. Docker Extension** - [download](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 
-![Markdown gif](https://devskrate.github.io/assets/images/vscode/docker.webp)
+![Markdown gif](https://devskrate.github.io/assets/images/vscode/docker.png)
 
 - The Docker extension makes it easier to build apps that leverage Docker containers. The extension helps scaffold needed files, build Docker images, debug your app inside a container, and an explorer that makes it easy to take actions on containers and images such as start, stop, inspect, remove, and more.
 

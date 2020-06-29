@@ -3,7 +3,7 @@ layout: post
 title: "7 Cool New Android 11 Features"
 author: puneeth
 categories: [android]
-image: https://devskrate.github.io/assets/blog-banners11.webp
+image: https://devskrate.github.io/assets/blog-banners/android-11-1.webp
 tags: [google, android]
 ---
 
@@ -31,14 +31,14 @@ With this you can copy/paste, you can now insert assets directly into notificati
 With Android 11, Google has made location permissions even more strict.
 In Android 11, whenever an app requests a permission related to location, microphone, or camera, the user-facing permissions dialog contains an option called Only this time, as shown in Figure. If you selects this option in the dialog, you have granted the app a temporary one-time permission.
 
-<img src="https://devskrate.github.io/assets/images/android/one-time-permission.webp" alt="One time Permission" style="width:350px;"/>
+<img src="https://devskrate.github.io/assets/images/android/one-time-permission.png" alt="One time Permission" style="width:350px;"/>
 
 ### 4. Native Screen Recorder
 
 Now you can access the built-in screen recorder functionality from the Quick Settings panel. Tapping on this starts a 3 second timer before the screen starts being recorded. There’s also a handy notification to stop, pause, or cancel the screen record.
 
-<img src="https://devskrate.github.io/assets/images/android/android-11-native-screen-recorder-on.webp" alt="Screen recorder" style="width:350px; border:1px solid black;"/>
-<img src="https://devskrate.github.io/assets/images/android/android-11-native-screen-recorder-start.webp" alt="Screen recorder" style="width:350px; border:1px solid black; border:1px solid black;"/>
+<img src="https://devskrate.github.io/assets/images/android/android-11-native-screen-recorder-on.jpg" alt="Screen recorder" style="width:350px; border:1px solid black;"/>
+<img src="https://devskrate.github.io/assets/images/android/android-11-native-screen-recorder-start.jpg" alt="Screen recorder" style="width:350px; border:1px solid black; border:1px solid black;"/>
 
 ### 5. Improved Do Not Disturb
 
@@ -51,7 +51,7 @@ In android 10 Dark mode has been introuduced, system-wide. Now, it has some impr
 - You can turn it on at sunset and can turn at sun rise.
 - You can also turn it on or of at a specific time.
 
-<img src="https://devskrate.github.io/assets/images/android/android-11-scheduled-dark-mode.webp" alt="Dark Mode Scheduling" style="width:350px; border:1px solid black;"/>
+<img src="https://devskrate.github.io/assets/images/android/android-11-scheduled-dark-mode.jpg" alt="Dark Mode Scheduling" style="width:350px; border:1px solid black;"/>
 
 ### 7. Pin Apps in the Share Menu
 
