@@ -45,7 +45,7 @@
                 {{ content }}
 
                 {% include pagination-post.html %}
-                <div class="tags" id="share-with">
+                <div class="tags">
                     {% for tag in page.tags %}
                         {% if tag != "" %}
                             <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">#{{ tag }}</a>
