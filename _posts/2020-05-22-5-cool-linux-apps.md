@@ -1,10 +1,16 @@
 ---
+
+date: 2020-05-22 16:26:40
 layout: post
 title: 5 cool Linux apps
-author: puneeth
-categories: [linux, os, mlogs]
+subtitle: Best Trusted apps
+description: Best alternatives to popular chinese apps like SHAREit, wps-office etc
 image: https://devskrate.github.io/assets/blog-banners/5-cool-linux-apps.webp
-tags: [linux, ubuntu, os, apps]
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/5-cool-linux-appswebp
+category: [apps]
+tags: [linux, ubuntu, os]
+author: puneeth
+
 ---
 
 In the recent days many people are tending towards linux use. So here are some of the cool apps which you can use.

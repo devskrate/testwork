@@ -4,8 +4,8 @@ layout: post
 title: Cool websites to visit, when you get bored!
 subtitle: These are few websites, when you get bored
 description: Ever felt idle? Visit these list of sites to kill some time
-image: https://devskrate.github.io/assets/blog-banners/websites-to-visit.webp
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/websites-to-visit-opt.webp
+image: https://devskrate.github.io/assets/blog-banners/bored-websites.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/bored-websites.webp
 category: [reviews]
 tags: [tech when bored, internet]
 author: nikhil

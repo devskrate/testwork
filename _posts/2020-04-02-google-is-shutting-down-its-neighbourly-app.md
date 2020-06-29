@@ -4,8 +4,8 @@ layout: post
 title: Google is shutting down its Neighbourly app
 subtitle: Google continues to kill its experimental roducts
 description: Another new app is joining the Killed by Google list
-image: https://devskrate.github.io/assets/blog-banners/
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/
+image: https://devskrate.github.io/assets/blog-banners/google-neighbourly.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/google-neighbourly.webp
 category: [news]
 tags: [google, neighbourly, apps]
 author: nikhil
