@@ -1,5 +1,5 @@
 ---
-date: 2020-04-15T12:18:05.000Z
+date: 2020-04-23T12:18:05.000Z
 layout: post
 title: Motorolo launches its new edge series in states
 subtitle: 'Motorola has finally launched its Flagship called the Moto Edge Plus and a Premium Budget Phone called the Moto Edge Plus, will this new phone get Moto back on the right track, let's find out in the article'
