@@ -1,10 +1,17 @@
 ---
+date: 2020-04-15T12:18:05.000Z
 layout: post
 title: One Plus 8 pro - The Real Flagship
+subtitle: 'One Plus has finally launched its Flagship, Is this the true flagship people that people have been waiting for, lets find out in the article'
+description: >-
+  One Plus has finally launched its Flagship, Is this the true flagship people that people have been waiting for, lets find out in the article
+image: >-
+  https://devskrate.github.io/assets/blog-banners/lenovo-legion-phone.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/lenovo-legion-phone.webp
+category: [mobile]
+tags: [oneplus, flaship, android]
 author: mohit
-categories: [oneplus, android, mobile]
-image: https://devskrate.github.io/assets/blog-banners/oneplus8-pro-display.webp
-tags: [oneplus, android, google]
 ---
 
 It has been 6 years since one plus has been making smartphones until last year the company has produced a lot of flagship killer but the company from the past year has changed its strategy to produce a true flagship with its one plus 7 pro and 7t pro they were good but lacked the bells and whistles that a true flagship from samsung and apple had. With this phone one plus is trying
