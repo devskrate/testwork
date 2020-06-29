@@ -334,6 +334,18 @@
   }
 }
 
+.darkmode--activated {
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: white;
+  }
+}
+
 /* See also */
 
 .see-also {
@@ -353,6 +365,7 @@
       padding: rem(48px) 0 rem(20px);
     }
   }
+
 
   ul {
     margin: 0;
