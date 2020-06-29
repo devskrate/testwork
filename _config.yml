@@ -2,7 +2,7 @@
 name: DevsKrate
 title: DevsKrate | Tech, Code and Gadgets
 description: Everything about Tech, Gadgets and Development. Paradise of Developers and Techies
-image: /assets/img/page-img.png
+image: /assets/img/blog-image.png
 tags:
   - blog
   - Tech
@@ -66,7 +66,7 @@ collections:
     output: true
 paginate_path: "/page/:num/"
 show_get_theme_btn: false
-use_logo: false
+use_logo: true
 paginate: 16
 # Content paginator
 paginate_content:
