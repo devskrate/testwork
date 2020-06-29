@@ -1,10 +1,18 @@
 ---
+date: 2020-06-29T12:18:05.000Z
 layout: post
-title: "Lenovo all set to launch Legion's Gaming Phone"
-author: mohit
-categories: [Tech]
-image: https://devskrate.github.io/assets/blog-banners/PS5.webp
+title: Lenovo all set to launch Legion's Gaming Phone
+subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+description: >-
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua.
+image: >-
+  https://devskrate.github.io/assets/blog-banners/lenovo-legion-phone.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/lenovo-legion-phone.webp
+category: [Tech]
 tags: [Lenovo, Legion, Gaming Phone]
+author: mohit
 ---
 
 Lenovo, In the recent time, has not been doing good in the smartphone market but the Lenovo wants to change it with the new gaming phone under the legion lineup. Here’s everything you need to know.
