@@ -7,7 +7,7 @@
         {% include minutes-to-read.html %}
         {% include svg-icons.html %}
         {% include header.html %}
-
+        {% include darkmode.html %}
         <section class="post {% if site.two_columns_layout %}two-columns{% else %}one-column{% endif %}">
             <article role="article" class="post-content">
                 <p class="post-info">
@@ -20,6 +20,7 @@
                     <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
                     <span>{{ minutesText }}</span>
                     <a href="#share-with"> <i class="fa fa-share fa-fw"></i> Share</i></a>
+                    
                 </p>
                 <div class="categories">
                     <span>
