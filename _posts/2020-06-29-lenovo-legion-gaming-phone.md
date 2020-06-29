@@ -1,5 +1,5 @@
 ---
-date: 2020-06-16T12:18:05.000Z
+date: 2020-06-29T12:18:05.000Z
 layout: post
 title: Lenovo all set to launch Legion's Gaming Phone
 subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
