@@ -1,10 +1,17 @@
 ---
+date: 2020-02-20 17:26:40
 layout: post
 title: "7 Cool New Android 11 Features"
-author: puneeth
-categories: [android]
+subtitle: New features in Android 11
+description: >-
+  Chat bubbles, Images in notification, pinning apps, Improved apps
 image: https://devskrate.github.io/assets/blog-banners/android-11-1.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/android-11-1.webp
+category: [news]
 tags: [google, android]
+author: puneeth
+paginate: false
+is_generated: false
 ---
 
 Android has led the way towards the future of mobile, with new technologies like 5G to foldable displays to machine learning built into the core.
