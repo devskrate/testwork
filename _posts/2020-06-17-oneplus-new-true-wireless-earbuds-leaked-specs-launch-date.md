@@ -1,11 +1,19 @@
 ---
+date: 2020-04-23 17:26:40
 layout: post
-title:  "Leaks show OnePlus’s new True Wireless Earbuds"
-author: mohit
-categories: [Tech]
-image: https://devskrate.github.io/assets/blog-banners/oneplus-buds-banner.webp
+title: Leaks show OnePlus’s new True Wireless Earbud
+subtitle: "OnePlus all set to launch its new TWS in India, this is everything you need to knowe"
+description: >-
+  OnePlus all set to launch its new TWS in India, this is everything you need to know
+image: >-
+  https://devskrate.github.io/assets/blog-banners/oneplus-buds-banner.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/oneplus-buds-banner.webp
+category: [gadgets]
 tags: [OnePlus, TWS, Leaks]
+author: mohit
 ---
+
 One Plus has once been known for its flagship killer smartphones and then as the time passed they started expanding into several other product lineups like a real flagship, Bluetooth earphones and many more and now one plus is planning to add to a new member to its family, a new true wireless buds.
 
 The folks at XDA Developer have spotted several references about the TWS(‘true wireless stereo’) in the Android 11 beta code. This TWS can be named as One Plus Pods, but at this point, we are a bit skeptical.
