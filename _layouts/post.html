@@ -37,7 +37,7 @@
                 <p class="post-subtitle">{{ page.subtitle }}</p>
 
                 {% if page.image and paginator.activated == nil %}
-                    <img src="{{ page.image }}" alt="Featured image" class="post-cover">
+                    <img src="{{ page.image }}" alt="{{page.title}}" class="post-cover">
                 {% endif %}
                 {% include pagination-post.html progressBar=true %}
 
@@ -65,11 +65,11 @@
                             <li>
                                 <a href="{{ post.url | prepend: site.baseurl }}">
                                     {% if post.optimized_image %}
-                                        <img src="{{ post.optimized_image }}">
+                                        <img src="{{ post.optimized_image }}" alt="{{ post.title }}">
                                     {% elsif post.image %}
-                                        <img src="{{ post.image }}">
+                                        <img src="{{ post.image }}" alt="{{ post.title }}">
                                     {% else %}
-                                        <img src="{{site.baseurl}}/assets/img/off.jpg">
+                                        <img src="{{site.baseurl}}/assets/img/off.jpg" alt="{{ post.title }}">
                                     {% endif %}
                                     <h3>{{ post.title }}</h3>
                                 </a>
@@ -85,11 +85,11 @@
                             <li>
                                 <a href="{{ post.url | prepend: site.baseurl }}">
                                     {% if post.optimized_image %}
-                                        <img src="{{ post.optimized_image }}">
+                                        <img src="{{ post.optimized_image }}" alt="{{ post.title }}">
                                     {% elsif post.image %}
-                                        <img src="{{ post.image }}">
+                                        <img src="{{ post.image }}" alt="{{ post.title }}">
                                     {% else %}
-                                        <img src="{{site.baseurl}}/assets/img/off.jpg">
+                                        <img src="{{site.baseurl}}/assets/img/off.jpg" alt="{{ post.title }}">
                                     {% endif %}
                                     <h3>{{ post.title }}</h3>
                                 </a>
