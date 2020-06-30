@@ -1,5 +1,5 @@
 ---
-date: 2020-04-28 17:26:40
+date: 2020-06-28 17:26:40
 layout: post
 title: Motorola launches its new edge series in states
 subtitle: "With the rise in the market for smartphones, we have lots of options and in this article we will find out the best flagship killer you can buy right now"
