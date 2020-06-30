@@ -2,12 +2,13 @@
 date: 2020-06-01 15:34:59
 layout: post
 title:  What is the difference between Scholarship and Fellowship?
-subtitle: sample
-description: sample
-image: https://devskrate.github.io/assets/blog-banners/scholarship-fellowship.webp
+subtitle: Here's the answer for most asked question
+description: Quite often students find difficult to distiguis these two, we made it clear for you.
+image: https://devskrate.github.io/assets/blog-banners/scholarship-vs-fellowship.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/scholarship-vs-fellowship.webp
 author: satya
-category: [ Scholarship, Fellowship, students ]
-tags: [internship, student partners, universities]
+category: [students]
+tags: [internship, fellowship, faq]
 ---
 
 Both `scholarship` and `fellowship` in general assume a **financial aid** for students and researchers, or any individual with an interest to search, find and research something new. `Scholarships` and `fellowships` are instituted by a University, a research center, academic institution, laboratory, government or a foundation.

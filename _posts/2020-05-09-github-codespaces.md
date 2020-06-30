@@ -2,12 +2,13 @@
 date: 2020-05-09 18:02:18
 layout: post
 title: GitHub CodeSpaces - Your instant Dev Environment
-subtitle: sample
-description: sample
+subtitle: Vs Code experience directly to browser
+description: This is a new feature github is going to bring to set instant devlopment environment
 image: https://devskrate.github.io/assets/blog-banners/codespaces.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/codespaces.webp
 author: satya
-category: [Codespaces, GitHub]
-tags: [Microsoft, vscode, extensions, github]
+category: [dev]
+tags: [microsoft, vscode, github,extensions]
 ---
 
 Quite often we feel much irritating to shift from Dev Environment to Github and to back to Dev Environment.

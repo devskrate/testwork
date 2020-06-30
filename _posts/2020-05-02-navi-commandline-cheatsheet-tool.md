@@ -2,12 +2,13 @@
 date: 2020-05-02 9:14:07
 layout: post
 title: Navi - An interactive commandline cheatsheet tool
-subtitle: sample
-description: sample
+subtitle: You dont need to remember hundreds of commands from now.
+description: Navi gives you freedom to search and store cheatsheet od commands you use.
 image: https://devskrate.github.io/assets/blog-banners/navi.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/navi.webp
 author: satya
-category: [Linux, mlog, commandline]
-tags: [dev-linux, mlogs, navi, linux]
+category: [dev]
+tags: [tips, developers, linux, mlogs]
 ---
 
 Do you feel command-line is only for geeks or nerds?  

@@ -7,7 +7,7 @@ description: Cool apps in linux for day to day usage
 image: https://devskrate.github.io/assets/blog-banners/5-cool-linux-apps.webp
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/5-cool-linux-apps.webp
 category: [apps]
-tags: [linux, ubuntu, os]
+tags: [linux, ubuntu, os, featured]
 author: puneeth
 ---
 

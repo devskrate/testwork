@@ -7,7 +7,7 @@ description: Ever felt idle? Visit these list of sites to kill some time
 image: https://devskrate.github.io/assets/blog-banners/bored-websites.webp
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/bored-websites.webp
 category: [reviews]
-tags: [tech when bored, internet]
+tags: [tech, internet]
 author: nikhil
 paginate: false
 is_generated: false

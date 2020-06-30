@@ -2,12 +2,12 @@
 date: 2020-05-12 21:26:34
 layout: post
 title: AI-generated memes can compete with Human-generated memes
-subtitle: sample
-description: sample
+subtitle: Making memes is an art. what if AI does it?
+description: This AI is really cool which can generate interesting memes in seconds
 image: https://devskrate.github.io/assets/blog-banners/AI-memes.webp
 author: satya
-category: [Artificial Intelligence, Automation]
-tags: [memes, AI, ML, Machine Learning]
+category: [news]
+tags: [Artificial Intelligence, Machine Learning]
 ---
 
 I’ve spent a good chunk of my workday so far creating AI-generated memes in seconds with just simple clicks. Usually I do make memes when I'm free but after knowing that I can generate memes using AI, I started testing the algorithm and results as pretty cool. Kudos to [ImgFlip's](https://imgflip.com/ai-meme) Ai based meme generator.
