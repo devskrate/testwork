@@ -45,7 +45,7 @@ Click on Check Passwords again. This will show you password analysis, along with
 - List of reused passwords that are the same across multiple accounts and hence have the risk of being exposed. Here’s how to create a unique password.
 - List of weak passwords, which are easy to guess and hence, greater chances of being hacked. So, create a strong password.
 
-<img src="https://devskrate.github.io/assets/images/security/google-password-check.webp" alt="Google Password Manager" title="Google Password Manager" />
+<img src="https://devskrate.github.io/assets/images/security/google-password-check.jpg" alt="Google Password Manager" title="Google Password Manager" />
 
 ### Firefox Monitor
 
