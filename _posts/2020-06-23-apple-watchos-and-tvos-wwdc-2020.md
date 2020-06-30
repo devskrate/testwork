@@ -1,10 +1,17 @@
 ---
+date: 2020-06-23 17:26:40
 layout: post
-title: "Apple Watch OS and TV OS"
-author: mohit
-categories: [Tech]
-image: https://devskrate.github.io/assets/blog-banners/wwdc2020/watchos-and-tvos-banner.webp
+title: Apple Watch OS and TV OS
+subtitle: "Apple recently announced it's latest version of Watch OS and TV OS in the WWDC event, this is everything you need to know"
+description: >-
+  Apple recently announced it's latest version of Watch OS and TV OS in the WWDC event, this is everything you need to know
+image: >-
+  https://devskrate.github.io/assets/blog-banners/ios-14-banner.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/ios-14-banner.webp
+category: [news]
 tags: [Apple, watchos, appletv, wwdc]
+author: mohit
 ---
 
 Apple has released new WatchOS and tvOS, here is a quick view of them.
