@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/satya.jpg
+photo: /assets/img/persons/satya.jpg
 name: satya
 display_name: Satya Lokesh
 position: Designer, Developer and Blogger
