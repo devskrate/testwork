@@ -1,11 +1,19 @@
 ---
+date: 2020-06-15 17:26:40
 layout: post
-title:  "Leaks shows Faster charging for One Plus 8t and new color variant of One Plus 8"
-author: mohit
-categories: [Tech, Android]
-image: https://devskrate.github.io/assets/blog-banners/oneplus-8t-leaks.webp
+title: Leaks shows Faster charging for One Plus 8t and new color variant of One Plus 8
+subtitle: "One Plus new 8T possibly to have 65W fast charging and a possible new color variant to One Plus 8, this is everything you need to know"
+description: >-
+  One Plus new 8T possibly to have 65W fast charging and a possible new color variant to One Plus 8, this is everything you need to know
+image: >-
+  https://devskrate.github.io/assets/blog-banners/oneplus-8t-leaks.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/oneplus-8t-leaks.webp
+category: [mobile]
 tags: [OnePlus, leaks, specs]
+author: mohit
 ---
+
 One plus has always been known for speed, by bringing high-end specs of their phones and fast charging, One Plus even experimenting with new color variants, One Plus was one of the first companies to bring matte color to avoid the problem of fringer print in the glass.
 
 First, let's talk about faster charging, One Plus is reportedly bringing 65W fast charging to its 8t series of smartphone line up and this was found in the android 11 code. This is not something new we have already seen this tech being used in other phones from Oppo's Find X2 Pro and Realme's X50 Pro. This speed will be achieved by using a dual-cell battery, both of which charge individually. This will be a considerable setup compared to the Warp Charge 30T found on the One Plus 8 and 8 pro. 
