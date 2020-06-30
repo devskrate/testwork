@@ -1,10 +1,17 @@
 ---
+date: 2020-06-17 17:26:40
 layout: post
-title: "Snapdragon 690 with 5G support for budget phones"
-author: mohit
-categories: [Tech]
-image: https://devskrate.github.io/assets/blog-banners/sanpdragon-690-banner.webp
+title: Snapdragon 690 with 5G support for budget phones
+subtitle: "Snapdragon 690 to come with support for 5G, 120Hz displays and many more, this is  everything you need to know"
+description: >-
+  Snapdragon 690 to come with support for 5G, 120Hz displays and many more, this is  everything you need to know
+image: >-
+  https://devskrate.github.io/assets/blog-banners/sanpdragon-690-5g.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/sanpdragon-690-5g.webp
+category: [news]
 tags: [Qualcomm, Snapdragon]
+author: mohit
 ---
 
 We have seen Qualcomm forcing manufactures to include 5G with the latest flagship Snapdragon 865, by not selling a separate version a separate 865 without 5G. We have also seen the company include its 5G modem(X51 modem) to the 700 series chips with SnapDragon 765 5G and now Qualcomm has decided to add the 5G modem to 600 series of chipset with the introduction of SnapDragon 690 processor.
