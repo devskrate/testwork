@@ -17,6 +17,7 @@
     width: 100%;
     padding: 7px;
     border: none;
+    border-radius: 5px;
     border-bottom: 1px solid #ddd;
     margin-bottom: 10px;
     font-family: inherit;
@@ -45,11 +46,12 @@
     color: #ffffff;
     background: $themeColor;
     font-size: rem(18px);
+    border-radius: 5px;
     width: 100%;
     border: 1px solid darken($themeColor, 30%);
     border-width: 1px 1px 3px;
     margin-top: rem(50px);
-    margin-bottom: rem(10px);
+    margin-bottom: rem(40px);
     cursor: pointer;
     transition: all 0.3s;
     outline: none;
