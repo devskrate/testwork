@@ -1,10 +1,17 @@
 ---
+date: 2020-06-25 17:26:40
 layout: post
-title: "Realme X3 and Realme X3 SuperZoom launched in India"
-author: mohit
+title: Realme X3 and Realme X3 SuperZoom launched in India
+subtitle: "Realme has launched its X3 series in India with the Snapdragon 855+ and this is everything you need to know"
+description: >-
+  Realme has launched its X3 series in India with the Snapdragon 855+ and this is everything you need to know
+image: >-
+  https://devskrate.github.io/assets/blog-banners/realme-x3-series.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/realme-x3-series.webp
 category: [mobile]
-image: https://devskrate.github.io/assets/blog-banners/realme-x3-series.webp
 tags: [Realme, Realme X3, Realme X3 SuperZoom]
+author: mohit
 ---
 
 Realme earlier this year launched its X50 pro with Snapdragon 865 with 5G support, but in India 5G is not out yet and is expected any time soon, so they wanted to offer the best 4G phone at lower price to appeal to wider range of audience and released the Realme X3 and X3 superzoom. Realme X3 SuperZoom was first launched in Europe earlier last month while it is the first time that the company is talking about the regular Realme X3. Lets see what this phone has to offer.
