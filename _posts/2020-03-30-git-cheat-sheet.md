@@ -4,8 +4,8 @@ layout: post
 title: Git Cheat Sheet
 subtitle: Git Cheat Sheet for beginners
 description: Get this cheat sheet and master the Git
-image: https://devskrate.github.io/assets/blog-banners/
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/
+image: https://devskrate.github.io/assets/blog-banners/git-github.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/git-github.webp
 category: [dev]
 tags: [git, github, cheat sheet]
 author: nikhil
