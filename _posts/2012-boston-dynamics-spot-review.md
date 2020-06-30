@@ -4,8 +4,8 @@ layout: post
 title: "Boston Dynamics' Spot: A compact looking BEAST working robot"
 subtitle:
 description:
-image: https://devskrate.github.io/assets/blog-banners/.webp
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized.webp
+image: https://devskrate.github.io/assets/blog-banners/spot-featured.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/spot-featured.webp
 category: []
 tags: []
 author: nikhil
