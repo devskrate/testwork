@@ -1,3 +1,60 @@
+<style>
+
+* {
+	box-sizing: border-box;
+}
+
+.checkbox {
+	opacity: 0;
+  position: absolute;
+}
+
+.darkmode{
+  display: inline;
+}
+
+.label {
+	background-color: #111;
+	border-radius: 50px;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 5px;
+	position: relative;
+	height: 26px;
+	width: 50px;
+	transform: scale(1.5);
+}
+
+.label .ball {
+	background-color: #fff;
+	border-radius: 50%;
+	position: absolute;
+	top: 2px;
+	left: 2px;
+	height: 22px;
+	width: 22px;
+	transform: translateX(0px);
+	transition: transform 0.2s linear;
+}
+
+.checkbox:checked + .label .ball {
+	transform: translateX(24px);
+}
+
+
+.fa-moon {
+	color: #f1c40f;
+}
+
+.fa-sun {
+	color: #f39c12;
+}
+
+
+</style>
+
 <header class="bar-header">
     <a id="menu" role="button">
         <svg id="open" class="icon-menu"><use xlink:href="#icon-menu"></use></svg>
@@ -11,14 +68,18 @@
             {% endif %}
         </a>
     </h1>
+    
     <a id="search" class="dosearch" role="button">
         <svg class="icon-search"><use xlink:href="#icon-search"></use></svg>
     </a>
-    {% if site.show_get_theme_btn %}
-        <a href="https://github.com/thiagorossener/jekflix-template" class="get-theme" role="button">
-            Get this theme!
-        </a>
-    {% endif %}
+    <div class="get-theme">
+        <input type="checkbox" class="checkbox" id="chk" onclick="darkmode()"/>
+        <label class="label" for="chk">
+            <i class="fas fa-moon"></i>
+            <i class="fas fa-sun"></i>
+            <div class="ball"></div>
+        </label>
+    </div>
 </header>
 
 <div id="mask" class="overlay"></div>
