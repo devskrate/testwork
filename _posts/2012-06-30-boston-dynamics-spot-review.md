@@ -1,7 +1,7 @@
 ---
 date: 2012-06-26 17:26:40
 layout: post
-title: "Boston Dynamics' Spot: A compact looking, but BEAST working robot"
+title: "Boston Dynamics' Spot : A compact looking, but BEAST working robot"
 subtitle: Here are the specs and applications of Boston Dynamics' Spot
 description: Spot, the most powerful and intelligent robot dog
 image: https://devskrate.github.io/assets/blog-banners/spot-featured.webp
