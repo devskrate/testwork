@@ -15,7 +15,7 @@ is_generated: false
 
 There are many organizations that run student ambassador programs for students going through colleges and universities. One among those, but the most reputed program is offered by Microsoft named as <a href="https://studentambassadors.microsoft.com/en-us" target="_blank">Microsoft Learn Student Ambassador program</a>, formaly Microsoft Student Partner Program.
 
-<img src="https://devskrate.github.io/assets/images/microsoft/student-partner-intro.webp" alt="Student Learn Ambassador" title="Student Learn Ambassador">
+<img src="https://devskrate.github.io/assets/images/microsoft/student-partner-intro.jpg" alt="Student Learn Ambassador" title="Student Learn Ambassador">
 
 ### What is Microsoft Learn Student Ambassador
 
