@@ -4,7 +4,7 @@ layout: post
 title: Is it Worth Buying OnePlus 7T over OnePlus 8
 subtitle: Can you buy OnePlus 7T over OnePlus 8
 description: OnePlus 7T is a worthy flagship, but is it worth over OnePlus 8
-image: https://devskrate.github.io/assets/blog-banners/op7t-vs-op8.webp
+image: https://devskrate.github.io/assets/blog-banners/op7tvsop8.webp
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/op7t-vs-op8-opt.webp
 category: [howto]
 tags: [facebook, photos]
@@ -35,7 +35,7 @@ td{
 
 |                        | OnePlus 7T                                                                                                                                | OnePlus 8                                                                                                                              |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                        | <center><img src="https://devskrate.github.io/assets/images/oneplus/oneplus-7t-render.webp" alt="OnePlus 7T" title="OnePlus 7T"/></center> | <center><img src="https://devskrate.github.io/assets/images/oneplus/oneplus-8-render.webp" alt="OnePlus 8" title="OnePlus 8"/></center> |
+|                        | <center><img src="https://devskrate.github.io/assets/images/oneplus/oneplus-7t-render.jpg" alt="OnePlus 7T" title="OnePlus 7T"/></center> | <center><img src="https://devskrate.github.io/assets/images/oneplus/oneplus-8-render.jpg" alt="OnePlus 8" title="OnePlus 8"/></center> |
 | **Operating System**   | Android 10                                                                                                                                | Android 10                                                                                                                             |
 | **Display**            | 6.55 inches, 20:9 aspect ratio, 1080x2400 (402 ppi) resolution, Fluid AMOLED                                                              | 6.55 inches, 20:9 aspect ratio, 1080x2400 (402 ppi) resolution, Fluid AMOLED                                                           |
 | **Processor**          | Snapdragon 855+                                                                                                                           | Snapdragon 865                                                                                                                         |
