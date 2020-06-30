@@ -1,6 +1,6 @@
 ---
 layout: contributor
-photo: /assets/img/persons/vasavi.jpg
+photo: /assets/img/persons/vasavi-profile.jpg
 name: Vasavi Lagishetty
 display_name: Vasavi
 position: Web Designer & Developer

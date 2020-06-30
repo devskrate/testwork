@@ -1,6 +1,6 @@
 ---
 layout: contributor
-photo: /assets/img/persons/satya.jpg
+photo: /assets/img/persons/puneeth-profile.jpg
 name: puneeth
 display_name: Puneeth
 position: Designer, Developer and Blogger
