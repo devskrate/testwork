@@ -19,20 +19,22 @@
 
 footer {
   @include center(rem(800px));
-  border-top: 1px solid darken($accentDark, 10%);
-  background: $accentDark;
+
+  background: #141414;
   padding: rem(20px) rem(25px);
-  margin-top: rem(50px);
-  margin-bottom: rem(120px);
+  max-width: 50rem;
+  margin: 0 auto;
+  margin-top: rem(40px);
   @include mainFont(300);
 
   @include media(">=sm") {
-    margin-top: rem(100px);
+    margin-top: rem(75px);
+    margin-bottom: rem(15px);
   }
 
   p {
     text-decoration: none;
-    color: $primaryDark;
+    color: white;
     font-size: rem(16px);
     line-height: rem(25px);
   }
