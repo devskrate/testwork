@@ -1,6 +1,6 @@
 .social {
     @include center(rem(800px));
-    background: $accentDark;
+    background: black;
     
     @include mainFont(300);
   
@@ -11,6 +11,7 @@
       line-height: rem(25px);
       margin-top: 8px;
       margin-bottom: 15px;
+      background-color: black;
 
       @include media(">=sm") {
         margin-top: 22px;
