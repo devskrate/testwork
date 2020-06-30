@@ -1,10 +1,17 @@
 ---
+date: 2020-04-23 17:26:40
 layout: post
-title:  "New iPhones Might Delay Due To the Pandemic Says The Famous Apple Analyst : Ming-Chi Kuo"
-author: mohit
-categories: [ Apple, iPhone 12,iPhone SE Plus, iPhone ]
-image: https://devskrate.github.io/assets/blog-banners/iphone-12-renders.webp
+title: New iPhones Might Delay Due To the Pandemic Says The Famous Apple Analyst says Analyst Ming-Chi Kuo
+subtitle: "Analyst Ming-Chi Kuo has reported that there could be a delay in the upcoming iPhone 12, find out more in the article"
+description: >-
+  Analyst Ming-Chi Kuo has reported that there could be a delay in the upcoming iPhone 12
+image: >-
+  https://devskrate.github.io/assets/blog-banners/iphones-delay.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/iphones-delay.webp
+category: [news]
 tags: [apple, iphone]
+author: mohit
 ---
 
 Analyst Ming-Chi Kuo, In his new investor note, has outlined some information regarding the possible delay of the iPhone 12's production as well as the possible postponement of its much-rumored iPhone SE plus due to the Coronavirus pandemic.
