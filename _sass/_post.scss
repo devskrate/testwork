@@ -29,6 +29,20 @@
   }
 }
 
+.layout{
+  background-color: black;
+}
+.layout .post-content{
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6{
+    color: white;
+  }
+}
 .post-content {
   overflow-x: auto;
   padding: rem(40px) 0;
@@ -779,4 +793,9 @@
 
 .post-content .tags a{
   margin-right: 10px;
+}
+
+.has-push-menu .post-footer footer{
+  background-color: white;
+  margin-top: 0;
 }
