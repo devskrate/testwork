@@ -2,7 +2,7 @@
   @include media(">=sm") {
     @include center(rem(800px));
   }
-
+  background-color: $primaryDark;
   .item:not(:last-child) {
     border-bottom: 1px solid $lightGray;
   }
@@ -38,7 +38,7 @@
       font-size: rem(15px);
       font-weight: normal;
       font-style: italic;
-      color: #999;
+      color: $accentDark;
       padding-top: 0;
 
       @include media(">=sm") {
@@ -65,7 +65,7 @@
 }
 
 .staff .item td{
-  border-color: white;
+  border-color: $primaryDark;
 }
 
 .staff .item h2{
