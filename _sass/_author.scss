@@ -89,3 +89,10 @@
     }
   }
 }
+
+.darkmode--activated {
+  .author .name a{
+    color: white;
+    mix-blend-mode: difference;
+  }
+}
