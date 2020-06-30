@@ -1,10 +1,17 @@
 ---
+date: 2020-06-20 17:26:40
 layout: post
-title: "New products launched by  Xiaomi in the last week"
+title: New products launched by  Xiaomi in the last week
+subtitle: "Xiaomi not only makes smartphones but also several other products and these are few interesting products that the company recently launched in China."
+description: >-
+  Xiaomi not only makes smartphones but also several other products and these are few interesting products that the company recently launched in China.
+image: >-
+  https://devskrate.github.io/assets/blog-banners/mi-products-lastweek.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/mi-products-lastweek.webp
+category: [gadgets]
+tags: [Mi, Mi Bluetooth Headset Pro,Redmi Router,Mi Laser Projector]
 author: mohit
-categories: [Tech]
-image: https://devskrate.github.io/assets/blog-banners/mi-products-banner-2020.webp
-tags: [Mi, MiBand, Fitness Tracker]
 ---
 
 Xiaomi in India is famously known for its smartphone, fitness tracker, and laptops recently but it also makes several other products in China. These are some products Xiaomi launched in China recently.
