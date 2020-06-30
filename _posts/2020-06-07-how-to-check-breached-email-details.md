@@ -37,7 +37,7 @@ Google only checks the passwords saved in your Google account. For instance, if 
 
 To use this feature, **Open Google Chrome or any other browser**. Then **open <a href="https://passwords.google.com/" target="_blank">Password Manager</a>**. This page also lists all the saved passwords which you can review, change, and edit. **Click on Check Passwords option** at the top.
 
-<img src="https://devskrate.github.io/assets/images/security/google-password-check-click.webp" alt="Google Password Manager" title="Google Password Manager" />
+<img src="https://devskrate.github.io/assets/images/security/google-password-check-click.jpg" alt="Google Password Manager" title="Google Password Manager" />
 
 Click on Check Passwords again. This will show you password analysis, along with three options.
 
@@ -64,7 +64,7 @@ The primary purpose of this site is to serve the public. Data breaches are rampa
 
 To check whether your data is breached, firstly **open Have I Been Pwned <a href="https://haveibeenpwned.com/" target="_blank">site</a>**. Then **enter your email address**.
 
-<img src="https://devskrate.github.io/assets/images/security/hibp-password-check-click.webp" alt="Have I Been Pwned?" title="Have I Been Pwned?">
+<img src="https://devskrate.github.io/assets/images/security/hibp-password-check-click.jpg" alt="Have I Been Pwned?" title="Have I Been Pwned?">
 
 Then the site will display how many and what are all the breaches your email address have been part of
 
