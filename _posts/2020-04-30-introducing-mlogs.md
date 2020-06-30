@@ -20,7 +20,7 @@ You can read these mlogs easily using instant view in [telegram](https://t.me/De
 
 #### Why Mlogs?
 
-![Why Mlogs](https://devskrate.github.io/assets/images/mlogs/why-mlogs.webp)
+![Why Mlogs](https://devskrate.github.io/assets/images/mlogs/why-mlogs.png)
 
 Being a techster we want to explore more things related to tech and we feel very interesting to keep updated with updated news and applications.
 
