@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/persons/akash.jpg
-name: Akash
+name: akash
 display_name: Akash Rao Mallareddy
 position: Contributor
 bio: Web Developer, Blogger, Start-Up Enthusiastic, Leader

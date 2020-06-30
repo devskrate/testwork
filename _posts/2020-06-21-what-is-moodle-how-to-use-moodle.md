@@ -60,6 +60,4 @@ A MoodleMoot is a conference for Moodle community members, held to learn about M
 - For teachers beginning with Moodle, Moodle HQ offers a free MOOC [Learn Moodle](https://learn.moodle.org/) which is run twice yearly.
 - You can also think of doing the  [Moodle Educator Certificate](http://moodle.org/course/view.php?id=48) to improve your skills.
 
-#### About author:
-Akash rao Mallareddy - `Web Developer, StartUp Enthusiastic, Leader`              
-Follow him on [Linkedin](https://www.linkedin.com/in/akash-rao-mallareddy-055520168/), [Github](https://github.com/Akashmallareddy), [Twitter](https://twitter.com/AkashMallareddy)
+
