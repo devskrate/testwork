@@ -1,10 +1,16 @@
 ---
+date: 2020-06-15 17:26:40
 layout: post
-title: "Files by Google preparing to offer encrypted folder called ‘Safe folder’:"
-author: mohit
-categories: [Tech]
-image: https://devskrate.github.io/assets/blog-banners/files-by-google/xda-filesgo-banner.webp
+title: Files by Google preparing to offer encrypted folder called ‘Safe folder’
+subtitle: "Google is adding a new security feature to Files By Google, this is everything you need to know"
+description: >-
+  Google is adding a new security feature to Files By Google, this is everything you need to know
+image: >-
+  https://devskrate.github.io/assets/blog-banners/files-secure-folder.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/files-secure-folder.webp
 tags: [Google, Android, Files by google]
+author: mohit
 ---
 
 Google, has been trying to keep privacy as one of its key goals and we can find hints of it in the Android 11 Beta, In which Google has removed the option for allowing apps to take data from phones always.

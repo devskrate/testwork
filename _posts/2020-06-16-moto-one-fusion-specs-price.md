@@ -1,11 +1,19 @@
 ---
+date: 2020-06-16 17:26:40
 layout: post
-title:  "Moto One Fusion Plus Launched in India Starting at 16,999"
+title: Moto One Fusion Plus Launched in India at 16,999
+subtitle: "Moto has launched it One Fusion in India, this is everything you need to know"
+description: >-
+  Moto has launched it One Fusion in India, this is everything you need to know
+image: >-
+  https://devskrate.github.io/assets/blog-banners/moto-fusion-plus.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/moto-fusion-plus.webp
+category: [mobile]
+tags: [moto, one fusion, specs]
 author: mohit
-categories: [Tech, Android]
-image: https://devskrate.github.io/assets/blog-banners/moto-fusion-plus-blog.webp
-tags: [Moto, Specs, ]
 ---
+
 Moto after being acquired by Lenovo has not been able to release a good mid-range smartphone but this phone might be the one to change this. Let's see what this phone has offer.
 
 #### Design and Display:
