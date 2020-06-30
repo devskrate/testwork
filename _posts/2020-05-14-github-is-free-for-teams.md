@@ -1,10 +1,14 @@
 ---
+date: 2020-05-12 21:26:34
 layout: post
 title:  Github teams is free for everyone
+subtitle: Yes! You don't need to pay for this anymore.
+description: GitHub teams is the most useful feature for projects who relay on GitHub.
 author: satya
-categories: [ Github, mlogs ]
+category: [news]
 image: https://devskrate.github.io/assets/blog-banners/github-teams.webp
-tags: [repositories, private, teams, organizations]
+optimized_image: https://devskrate.github.io/assets/blog-banners/github-teams.webp
+tags: [github, teams, developers]
 ---
 
 We’re happy to bring you this exciting news that Github is making private repositories with unlimited collaborators available to all GitHub accounts.

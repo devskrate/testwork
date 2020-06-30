@@ -1,12 +1,20 @@
 ---
+date: 2020-06-18 17:26:40
 layout: post
-title:  "Mi Band 5 vs Mi Band 4: Major Update?"
-author: mohit
-categories: [Tech]
-image: https://devskrate.github.io/assets/blog-banners/mi-band-4vs-mi-band-5.webp
+title: Mi Band 5 vs Mi Band 4 - Major Update
+subtitle: "Xiaomi recently announced the successor to Mi Band 4- The Mi Band 5, how good is it?, let's find out in this article"
+description: >-
+  Xiaomi recently announced the successor to Mi Band 4- The Mi Band 5, how good is it?, let's find out in this article
+image: >-
+  https://devskrate.github.io/assets/blog-banners/mi-band-4vs-mi-band-5.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/mi-band-4vs-mi-band-5.webp
+category: [gadget]
 tags: [Mi, MiBand, Fitness Tracker]
+author: mohit
 ---
-The Mi band has been one of the most successful lineups for Xioami and it recently announced the successor to Mi Band 4, The Mi Band 5 in China. This fitness tracker brings with it a lot of feature, Let's see what are those and is it a major upgrade to the already existing Mi Band 4 and when will it be launching in India.
+
+The Mi band has been one of the most successful lineups for Xiaomi and it recently announced the successor to Mi Band 4, The Mi Band 5 in China. This fitness tracker brings with it a lot of feature, Let's see what are those and is it a major upgrade to the already existing Mi Band 4 and when will it be launching in India.
 
 {:class="table table-bordered dark"}
 |Specifications    | Mi Band 5                              | Mi Band 4                           |

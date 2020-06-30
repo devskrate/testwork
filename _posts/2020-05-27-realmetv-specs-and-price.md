@@ -1,10 +1,17 @@
 ---
+date: 2020-05-27 17:26:40
 layout: post
-title: "REALME Launched 32, 43 inch smart TV in India starting at Rs 12,999"
-author: mohit
-categories: [TV]
-image: https://devskrate.github.io/assets/blog-banners/realmetv-main.webp
+title: REALME Launched 32, 43 inch smart TV in India starting at Rs 12,999
+subtitle: "Realme, famously known for its smartphones, has started expanding its portfolio, and this time its the new Realme Smart Tv, this is everything you need to know"
+description: >-
+  Realme, famously known for its smartphones, has started expanding its portfolio, and this time its the new Realme Smart Tv, this is everything you need to know
+image: >-
+  https://devskrate.github.io/assets/blog-banners/realme-tv.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/realme-tv.webp
+category: [gadget]
 tags: [Realme, SmartTV, AndroidTv]
+author: mohit
 ---
 
 Realme, famously known for its smartphones, has started expanding its portfolio, and this time its the new Realme Smart Tv. This smart tv comes in two sizes the 32 and the 43-inch. The main differentiator apart from size is that the 32 inch comes with an HD screen whereas the 43-inch comes with a full HD, while the rest of the specifications remain the same.

@@ -1,11 +1,17 @@
 ---
+date: 2020-06-25 17:26:40
 layout: post
-title: "Realme Buds Q with 10mm Drivers"
-author: mohit
-category: [Tech]
-image: https://devskrate.github.io/assets/blog-banners/realme-buds-q.webp
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/realme-buds-q.webp
+title: Realme Buds Q with 10mm Drivers
+subtitle: "Realme has announced it's new TWS and this is everything you need to know"
+description: >-
+  Realme has announced it's new TWS and this is everything you need to know
+image: >-
+  https://devskrate.github.io/assets/blog-banners/realme-buds-q.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/realme-buds-q.webp
+category: [gadgets]
 tags: [Realme, Realme Buds Q, TWS]
+author: mohit
 ---
 
 The market for TWS in India is growing rapidly and to add for heat to the competition Realme has introduced the Realme Buds Q in India.

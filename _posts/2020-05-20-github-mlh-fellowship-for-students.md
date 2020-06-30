@@ -2,12 +2,13 @@
 date: 2020-05-20 10:09:27
 layout: post
 title:  Github announced the MLH Fellowship for students
-subtitle: sample
-description: sample
+subtitle: Great oppurtunity for students
+description: Detailed information on how to apply for this fellowship program
 image: https://devskrate.github.io/assets/blog-banners/github-mlh.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/github-mlh.webp
 author: satya
-category: [ Github, mlogs, students ]
-tags: [fellowship, internship, mlh-fellowship, github-education]
+category: [students]
+tags: [fellowship, internship, mlh-fellowship, github]
 ---
 
 These days companies everywhere find themselves quickly changing how they work. With the culture shift that comes along with remote work, it’s fair to say that collaboration is already starting to be different.

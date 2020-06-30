@@ -2,12 +2,13 @@
 date: 2020-05-26 23:56:06
 layout: post
 title: GitHub CLI - Enhance your command line experience
-subtitle: sample
+subtitle: Tired of switching between GitHub and Commandline
 description: sample
 author: satya
 image: https://devskrate.github.io/assets/blog-banners/github-cli.webp
-category: [Tech, Developers]
-tags: [commandline, linux, git, developers, beta]
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/github-cli.webp
+category: [news]
+tags: [developers, github,linux]
 ---
 
 Here is an easier and more seamless way to work with GitHub from the command line — [GitHub CLI](https://cli.github.com/), currently it is in **beta**. Millions of developers rely on GitHub for software development to make it more fun and collaborative.

@@ -1,14 +1,14 @@
 ---
+date: 2020-06-11 16:26:40
 layout: post
 title: "Mi Notebook 14, Mi Notebook Horizon Edition launched in India."
-author: mohit
-categories: [Laptop]
-image: https://devskrate.github.io/assets/blog-banners/MiLaptop-Bannerwebp.webp
-tags: [Xiaomi, Laptop, MiLaptop]
-redirect_from:
-  - /mi-notebook-14-and-mi-notebook-14-horizon-edition-specs-and-price/
-  - /mi-notenook-14-horizon-edition-specs-and-price/
-  - /Mi-notebook-14-and-Mi-notebook-14-horizon-edition-specs-and-price/
+subtitle: All about Mi Notebooks 14 series
+description: Mi Notebooks launched with good spec, but we need to see if they are worthy
+image: https://devskrate.github.io/assets/blog-banners/mi-notebook-14-series.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/mi-notebook-14-series.webp
+category: [pcs]
+tags: [xiaomi, laptop, mi laptop]
+author: mohit 
 ---
 
 After years of waiting and a lot of teasers, **Xiaomi has finally launched its first-ever laptop lineup in India.** Today the company has launched two laptops which include Mi Notebook 14 and Mi Notebook 14 Horizon Edition.

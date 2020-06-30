@@ -2,12 +2,13 @@
 date: 2020-05-15 22:36:58
 layout: post
 title:  RoughViz.js - for creating sketchy/hand-drawn styled charts
-subtitle: sample
-description: sample
-image: https://devskrate.github.io/assets/blog-banners/RoughViz.js.webp
+subtitle: Let's make some cool and catcy sketches
+description: Simple java script library to draw hand-drawn sketches
+image: https://devskrate.github.io/assets/blog-banners/roughviz-js.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/roughviz-js.webp
 author: satya
-category: [ JavaScript, Visualization ]
-tags: [js, Graphs, JSlibraries, Frontend]
+category: [dev]
+tags: [developers, javascript, tutorials]
 ---
 
 Visualization through visual imagery has been an effective way to communicate both abstract and concrete ideas since the dawn of humanity. Usually we do see some cool visualizations with great look and feel. But this is an out of box JavaScript Library which helps you to plot graphs as hand-drawn charts.

@@ -1,10 +1,13 @@
 ---
 layout: post
 title: "What Is Moodle?"
-author: contributor
-categories: [ Tech ]
-image: assets/images/moodle-banner.webp
-tags: [opensource, learning management system, website]
+subtitle: "Free and Open source LMS system"
+description: Many organizations are using this, let's see how can we implement this
+author: akash
+category: [dev]
+image: https://devskrate.github.io/assets/blog-banners/moodle.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/moodle.webp
+tags: [opensource, developers, website]
 ---
 
 Hello Geeks, you might be wondering what this Moodle is?

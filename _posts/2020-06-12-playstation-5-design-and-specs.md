@@ -1,10 +1,17 @@
 ---
+date: 2020-06-12 17:26:40
 layout: post
-title: "Sony unveils the PlayStation 5’s futuristic design"
-author: mohit
-categories: [Tech, Gaming]
-image: https://devskrate.github.io/assets/blog-banners/PS5.webp
+title: Sony unveils the PlayStation 5’s futuristic design
+subtitle: "Sony has finally revealed its latest console-PlayStation 5, this is everything you need to know"
+description: >-
+  Sony has finally revealed its latest console-PlayStation 5, this is everything you need to know
+image: >-
+  https://devskrate.github.io/assets/blog-banners/sony-ps5.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/sony-ps5.webp
+category: [gaming]
 tags: [Sony, PlayStation, Console]
+author: mohit
 ---
 
 Sony has been a major player in the console market for years and they finally revealed what its **next-generation console** looks like, the several other accessories to go with, and also some important features in the game show today.

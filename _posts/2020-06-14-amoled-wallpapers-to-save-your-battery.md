@@ -2,12 +2,13 @@
 date: 2020-06-14 17:06:54
 layout: post
 title:  How AMOLED Wallpapers can save your battery?
-subtitle: sample
-description: sample
+subtitle: SImple trick to increase your battery life
+description: Why AMOLED screens are so special and what's the best way to use this
 image: https://devskrate.github.io/assets/blog-banners/amoled-walls.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/amoled-walls.webp
 author: satya
-category: [ Tech, Android]
-tags: [giveaway, wallpapers, featured]
+category: [mobile]
+tags: [android, wallpapers, featured]
 ---
 
 Hi Folks, Before you download our collection of wallpapers, let us explain why these are special and beauty of AMOLED screen.

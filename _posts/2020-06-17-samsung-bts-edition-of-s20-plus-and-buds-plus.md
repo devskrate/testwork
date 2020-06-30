@@ -1,10 +1,17 @@
 ---
+date: 2020-06-17 17:26:40
 layout: post
-title: "Samsung Announced BTS Edition of S20+ and Buds+"
-author: mohit
-categories: [Tech, Android]
-image: https://devskrate.github.io/assets/blog-banners/samsung-bts-edition-blog.webp
+title: Samsung Announced BTS Edition of S20+ and Buds+
+subtitle: "Samsung launched a BTS edition of Galaxy S20 plus and Buds plus"
+description: >-
+  Samsung launched a BTS edition of Galaxy S20 plus and Buds plus
+image: >-
+  https://devskrate.github.io/assets/blog-banners/samsung-bts-edition.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/samsung-bts-edition.webp
+category: [gadgets]
 tags: [Samsung, BTS, S20 Plus, Buds Plus]
+author: mohit
 ---
 
 BTS has one of the biggest fan bases in the world and we have good news for them. Samsung has announced the BTS Edition for the Galaxy S20 plus and Buds plus.

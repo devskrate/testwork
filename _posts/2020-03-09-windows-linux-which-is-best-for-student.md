@@ -1,10 +1,17 @@
 ---
+date: 2020-03-09 17:26:40
 layout: post
-title: "Student developer windows and linux usage"
-author: puneeth
-categories: [windows, linux, os]
-image: assets/images/studentdev.webp
+title: "Being a student Which OS you should Use?"
+subtitle: Which helps you to learn and  grow? 
+description: >-
+  Chat bubbles, Images in notification, pinning apps, Improved apps
+image: https://devskrate.github.io/assets/blog-banners/studentdev.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/studentdev.webp
+category: [news]
 tags: [os, linux, windows, student]
+author: puneeth
+paginate: false
+is_generated: false
 ---
 
 Generally, many developers prefer to use either linux or mac. But, mac is a very costly thing where students cannot afford, but it is secured.

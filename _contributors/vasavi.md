@@ -1,9 +1,9 @@
 ---
 layout: contributor
-photo: /assets/img/vasavi.jpg
+photo: /assets/img/persons/vasavi-profile.jpg
 name: Vasavi Lagishetty
 display_name: Vasavi
-position: Designer, Developer
+position: Web Designer & Developer
 bio: Software Engineer at <a href="valuelabs.com">ValueLabs</a>.
 github_username: vasavilagishetty
 facebook_username: vasavi2910

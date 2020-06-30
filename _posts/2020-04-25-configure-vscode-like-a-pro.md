@@ -2,12 +2,13 @@
 date: 2020-04-25 07:23:49
 layout: post
 title: "Configure your VS Code like a pro"
-subtitle: sample
-description: sample
-image: assets/images/vscode/vscode-home.webp
+subtitle: "Best Extensions for VS Code."
+description: "Best practices and most useful extensions in VS Code for good productivity"
+image: https://devskrate.github.io/assets/blog-banners/vscode-like-pro.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/vscode-like-pro.webp 
 author: satya
-category: [Devlopment, DevStuff, VisualStudioCode]
-tags: [developers, microsoft, vscode, DevStuff, configuring, featured]
+category: [dev]
+tags: [developers,vscode, coding, featured]
 ---
 
 Being core **Python** and **Java** developers we extensively use VS Code for our project development and use code formatting heavily to enable consistency of code while developing as a team and there are lot of useful extensions which will help you to ease your task and run things on your fingertips.

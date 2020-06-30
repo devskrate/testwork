@@ -2,11 +2,12 @@
 date: 2020-04-30 09:18:32
 layout: post
 title: "Intorducing Mlogs"
-subtitle: sample
-description: sample
+subtitle: Short and Quick updates.
+description: We named Minimal Blogs as Mlogs (M-Logs)
 author: satya
-image: https://devskrate.github.io/assets/blog-bannersmlogs.webp
-category: [blog, mlog]
+image: https://devskrate.github.io/assets/blog-banners/mlogs.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/mlogs.webp
+category: [news]
 tags: [blog, mlog, introduction, series]
 ---
 
@@ -20,7 +21,7 @@ You can read these mlogs easily using instant view in [telegram](https://t.me/De
 
 #### Why Mlogs?
 
-![Why Mlogs](https://devskrate.github.io/assets/images/mlogs/why-mlogs.webp)
+![Why Mlogs](https://devskrate.github.io/assets/images/mlogs/why-mlogs.png)
 
 Being a techster we want to explore more things related to tech and we feel very interesting to keep updated with updated news and applications.
 

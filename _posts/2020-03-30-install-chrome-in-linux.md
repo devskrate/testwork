@@ -1,10 +1,17 @@
 ---
+date: 2020-03-30 17:26:40
 layout: post
 title: "Install Google Chrome in Ubuntu/Linux"
+subtitle: Installing chrome ein ubuntu and other linux
+description: >-
+  There are 2 methods to install in linux. 1st is from downloading manually as in windows and the 2nd is with commands.
+image: https://devskrate.github.io/assets/blog-banners/chrome-in-linux.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/chrome-in-linux.webp
+category: [howto]
+tags: [linux, pc, operating system, chrome, google]
 author: puneeth
-categories: [linux, browser, google]
-image: https://devskrate.github.io/assets/blog-banners/ubuntu-logo.gif
-tags: [linux, PC, Operating system, chrome, google]
+paginate: false
+is_generated: false
 ---
 
 Google chrome is one of the most used popular browsers.

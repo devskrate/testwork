@@ -1,10 +1,17 @@
 ---
+date: 2020-05-13 17:26:40
 layout: post
 title: Poco F2 Pro Launched, Here are Specs and pricing
-author: mohit
-categories: [Poco, Mi, smartphones]
-image: https://devskrate.github.io/assets/blog-banners/poco/pocof2_pro_feature.webp
+subtitle: "The most awaited successor to the Poco F1 is launched today, this everything you need to know"
+description: >-
+  Is Poco f2 pro just a rebranded Redmi k30 pro?, find out in this article.
+image: >-
+  https://devskrate.github.io/assets/blog-banners/poco-f2-pro.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/poco-f2-pro.webp
+category: [mobile]
 tags: [poco, redmi, mi, smartphones]
+author: mohit
 ---
 
 Redmi K30 Pro has been rebranded to poco and launched it as POCO F2 Pro; Price Starting at €499

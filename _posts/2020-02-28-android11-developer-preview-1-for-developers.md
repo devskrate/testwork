@@ -1,10 +1,17 @@
 ---
+date: 2020-02-28 17:26:40
 layout: post
 title: "Some new Android 11 Features for developers"
-author: puneeth
-categories: [android]
-image: https://devskrate.github.io/assets/blog-banners11.webp
+subtitle: New features in Android 11
+description: >-
+  5G experiences, New screen types, privacy, security, App compatibility
+image: https://devskrate.github.io/assets/blog-banners/android-11-1.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/android-11-1.webp
+category: [news]
 tags: [google, android]
+author: puneeth
+paginate: false
+is_generated: false
 ---
 
 Android has led the way towards the future of mobile, with new technologies like 5G to foldable displays to machine learning built into the core.

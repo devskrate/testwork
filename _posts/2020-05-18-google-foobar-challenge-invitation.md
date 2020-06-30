@@ -2,12 +2,13 @@
 date: 2020-05-18 09:34:27
 layout: post
 title: Google's FooBar - The Secret Hiring Challenge
-subtitle: sample
-description: sample
+subtitle: Best way to get hired by Google!
+description: This is the sceret Hiring challenge by google for Software Enginners
 image: https://devskrate.github.io/assets/blog-banners/google-foobar.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/google-foobar.webp
 author: satya
-categories: [Google, Developer, Hiring]
-tags: [developerstuff, jobs, students, internship]
+category: [dev]
+tags: [developers, jobs, students, internship]
 ---
 
 Did you got Google’s Foobar Invitation. First of all, **congratulations**, you should know that, this is not an ordinary invitation,, As Google sends this hiring invitation to only some special developers.

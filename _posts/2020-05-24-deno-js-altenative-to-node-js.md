@@ -1,10 +1,12 @@
 ---
+date: 2020-05-24 12:34:56
 layout: post
 title:  "What is Deno.js? How this competes with node.js?"
-author: contributor
-categories: [ developerstuff, code]
-image: https://devskrate.github.io/assets/blog-banners/Deno.js.webp
-tags: [js, javascript, alternatives]
+author: akash
+category: [dev]
+image: https://devskrate.github.io/assets/blog-banners/deno-js.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/deno-js.webp
+tags: [developers, javascript, alternatives]
 ---
 
 Deno is the creation of Ryan Dahl, which is a new JavaScript runtime for the backend, but instead of being written in C++, it’s written in Rust, based on the Tokio platform (which provides the asynchronous runtime needed by JavaScript), running on Google’s V8 engine. It is also a new runtime for executing JavaScript and TypeScript outside of the web browser. 
