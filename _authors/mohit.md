@@ -11,4 +11,5 @@ twitter_username: codewithsatya
 instagram_username: man_with_3_eyes
 linkedin_username: srisatyalokesh
 medium_username: srisatyalokesh
+is_member: True
 ---
