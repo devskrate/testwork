@@ -1,10 +1,17 @@
 ---
+date: 2020-04-23 17:26:40
 layout: post
-title: "MiUI 12 features"
-author: mohit
-categories: [tech, android]
-image: https://devskrate.github.io/assets/blog-banners/miui12.webp
+title: MiUI 12 features
+subtitle: "Xiaomi has showed off it's latest skin of android MIUI 12, this is everything you need to know"
+description: >-
+  Xiaomi has showed off it's latest skin of android MIUI 12, this is everything you need to know
+image: >-
+  https://devskrate.github.io/assets/blog-banners/miui12-features.webp
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/miui12-features.webp
+category: [news]
 tags: [redmi, os, android, miui]
+author: mohit
 ---
 
 Xiaomi Announces MIUI 12, Here is a quick overview and list of phones which is expected to get this update.
