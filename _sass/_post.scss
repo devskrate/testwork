@@ -320,7 +320,7 @@
   h5,
   h6 {
     position: relative;
-
+    
     .anchor {
       display: none;
       height: rem(16px);
@@ -350,6 +350,8 @@
 
 .darkmode--activated {
 
+  p,
+  li,
   h1,
   h2,
   h3,
@@ -357,6 +359,7 @@
   h5,
   h6 {
     color: white;
+    mix-blend-mode: difference;
   }
 }
 
