@@ -5,8 +5,8 @@ title: "Firefox containers"
 subtitle: Easy way to segregate your multiple accounts
 description: >-
   If you have home and work gmail accounts, you want both of them to be separated but in the same window with out any conflicts, here comes containers. You can create a container which stays in the same browser with out conflicting the other accounts.
-image: https://devskrate.github.io/assets/blog-banners/firefox-container-f.webp
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/firefox-container-f.webp
+image: https://devskrate.github.io/assets/blog-banners/firefox-container.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/firefox-container.webp
 category: [howto]
 tags: [firefox, browser, mozilla, containers]
 author: puneeth
