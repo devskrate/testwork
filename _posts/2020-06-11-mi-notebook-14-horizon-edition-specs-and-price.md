@@ -6,7 +6,7 @@ subtitle: All about Mi Notebooks 14 series
 description: Mi Notebooks launched with good spec, but we need to see if they are worthy
 image: https://devskrate.github.io/assets/blog-banners/mi-notebook-14-series.webp
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/mi-notebook-14-series.webp
-category: [ laptop ]
+category: [pcs]
 tags: [xiaomi, laptop, mi laptop]
 author: mohit 
 ---

@@ -9,7 +9,7 @@ image: >-
   https://devskrate.github.io/assets/blog-banners/realme-tv.webp
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/realme-tv.webp
-category: [gadgets]
+category: [gadget]
 tags: [Realme, SmartTV, AndroidTv]
 author: mohit
 ---
