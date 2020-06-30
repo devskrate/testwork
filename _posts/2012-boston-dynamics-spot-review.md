@@ -6,8 +6,8 @@ subtitle: Here are the specs and applications of Boston Dynamics' Spot
 description: Spot, the most powerful and intelligent robot dog
 image: https://devskrate.github.io/assets/blog-banners/spot-featured.webp
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/spot-featured.webp
-category: []
-tags: []
+category: [tech]
+tags: [boston dynamics, spot, robot]
 author: nikhil
 paginate: false
 is_generated: false
