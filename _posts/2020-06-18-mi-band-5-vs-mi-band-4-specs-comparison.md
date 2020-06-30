@@ -1,7 +1,7 @@
 ---
 date: 2020-06-18 17:26:40
 layout: post
-title: Mi Band 5 vs Mi Band 4: Major Update
+title: Mi Band 5 vs Mi Band 4 - Major Update
 subtitle: "Xiaomi recently announced the successor to Mi Band 4- The Mi Band 5, how good is it?, let's find out in this article"
 description: >-
   Xiaomi recently announced the successor to Mi Band 4- The Mi Band 5, how good is it?, let's find out in this article
