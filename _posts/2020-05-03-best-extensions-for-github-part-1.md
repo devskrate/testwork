@@ -2,11 +2,11 @@
 date: 2020-05-03 17:08:52
 layout: post
 title: GitTensions - Exclusive Extensions for GitHub and GitLab - part 1
-subtitle: sample
-description: sample
+subtitle: Let's increase our productivity in Github
+description: These are collection of browser extensions specially for GitHub
 image: https://devskrate.github.io/assets/blog-banners/gittensions.webp
 author: satya
-category: [Extensions, GitHub]
+category: [dev]
 tags: [chrome, firefox, extensions, github, gitlab]
 ---
 
