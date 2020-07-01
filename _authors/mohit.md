@@ -9,7 +9,7 @@ github_username:
 facebook_username: 
 twitter_username: indukuri_mohit
 instagram_username: mohitindukuri
-linkedin_username: srisatyalokesh
+linkedin_username: Mohit Indukuri
 medium_username: 
 is_member: True
 ---
