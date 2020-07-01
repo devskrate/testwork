@@ -9,7 +9,7 @@ image: >-
   https://devskrate.github.io/assets/blog-banners/lenovo-legion-phone.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/lenovo-legion-phone.webp
-category: [Tech]
+category: [mobiles]
 tags: [Lenovo, Legion, Gaming Phone]
 author: mohit
 ---

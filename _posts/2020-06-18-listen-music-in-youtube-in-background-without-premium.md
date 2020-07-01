@@ -5,7 +5,7 @@ title: "How to listen music in YouTube even in lockscreen in phone"
 subtitle: Music in bckground without premium
 description: Best and simple hack for all youtube fans
 image: https://devskrate.github.io/assets/blog-banners/youtube-background.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/youtube-background.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/youtube-background.webp
 author: satya
 category: [howto]
 tags: [youtube, music,apps]
