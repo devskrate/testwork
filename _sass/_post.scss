@@ -758,40 +758,44 @@
   @include media(">=sm") {
     font-size: 15px;
   }
-}
 
-.post-content .categories span{
-  background-color: $themeColor;
-  border-radius: 5px;
-  padding: 3px 9px 3px 9px;
-  font-family: "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;
-}
-
-
-.post-content .categories a{
-  color: white;
-  border-radius: 3px;
-  margin-bottom: 15px;
-  font-weight: bold;
-  display: -webkit-inline-box;
-}
-
-.post-content .categories a:hover{
-  color: black;
-}
-
-.post-content .categories span #title{
-  white-space: nowrap;
-  width: 100px;
-  overflow: hidden;
-  margin-bottom: -3px;
-  padding: 0;
-  text-overflow: ellipsis;
-  display: inline-block;
-  
-  @include media(">=sm") {
-    width: 200px;
+  span{
+    background-color: $themeColor;
+    border-radius: 5px;
+    padding: 3px 9px 3px 9px;
+    font-family: "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;
   }
+
+  a{
+    color: white;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    display: -webkit-inline-box;
+  }
+
+  a:hover{
+    color: black;
+  }
+
+  #post-category{
+    text-transform: uppercase;
+  }
+
+  span #title{
+    white-space: nowrap;
+    width: 100px;
+    overflow: hidden;
+    margin-bottom: -3px;
+    padding: 0;
+    text-overflow: ellipsis;
+    display: inline-block;
+    
+    @include media(">=sm") {
+      width: 200px;
+    }
+  }
+  
 }
 
 .post-content .tags a{
