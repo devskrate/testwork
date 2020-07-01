@@ -9,7 +9,7 @@ image: >-
   https://devskrate.github.io/assets/blog-banners/oneplus-8t-leaks.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/oneplus-8t-leaks.webp
-category: [mobile]
+category: [mobiles]
 tags: [OnePlus, leaks, specs]
 author: mohit
 ---
