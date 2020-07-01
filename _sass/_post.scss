@@ -798,6 +798,21 @@
   margin-right: 10px;
 }
 
+.darkmode--activated{
+
+  .post-content .tags a{
+    background-color: white;
+    color: black;
+    
+  }
+
+  .post-content .tags a:hover{
+    background-color: black;
+    color: white;
+    
+  }
+}
+
 .has-push-menu .post-footer footer{
   background-color: white;
   margin-top: 0;
