@@ -10,7 +10,7 @@ image: >-
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/samsung-bts-edition.webp
 category: [gadgets]
-tags: [Samsung, BTS, S20 Plus, Buds Plus]
+tags: [samsung, BTS, S20 Plus, Buds Plus]
 author: mohit
 ---
 

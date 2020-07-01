@@ -1,10 +1,18 @@
 ---
+date: 2020-07-01 17:26:40
 layout: post
-title: "Linux tricks and tips for beginners"
-author: puneeth
-categories: [Linux, Tutorial]
-image: https://devskrate.github.io/assets/blog-banners/install-chrome-os.jpg
+title: Linux tricks and tips for beginners
+subtitle: "Beginner tips"
+description: >-
+  These commands ar used regularly in the linux environment, as a beginner you should know these commands
+image: >-
+  https://devskrate.github.io/assets/blog-banners/files-secure-folder.jpg
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/files-secure-folder.webp
 tags: [Linux, beginner, os]
+category: [tips&tricks]
+author: puneeth
+is_generated: true
 ---
 
 Many of us use Linux, we mostly use Ubuntu which is beginner friendly with a good UI.

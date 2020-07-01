@@ -1,10 +1,18 @@
 ---
+date: 2020-07-01 17:26:40
 layout: post
 title: "Creating browser extensions"
-author: puneeth
-categories: [Extensions, Browser]
-image: https://devskrate.github.io/assets/blog-banners/bored-internet.jpg
+subtitle: "Browser Extensions"
+description: >-
+  An easy way of creating a browser extension, with a hello world type extension.
+image: >-
+  https://devskrate.github.io/assets/blog-banners/files-secure-folder.jpg
+optimized_image: >-
+  https://devskrate.github.io/assets/blog-banners/optimized/files-secure-folder.webp
 tags: [extensions, browser, script]
+category: [dev]
+author: puneeth
+is_generated: true
 ---
 
 Writing extensions is not that difficult, if you had an implementation with you and if you know basic web technologies like html, css and js, it is quiet enough for building a basic extension.

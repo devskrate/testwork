@@ -10,14 +10,15 @@ image: >-
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/files-secure-folder.webp
 tags: [Google, Android, Files by google]
+category: [news]
 author: mohit
 ---
 
 Google, has been trying to keep privacy as one of its key goals and we can find hints of it in the Android 11 Beta, In which Google has removed the option for allowing apps to take data from phones always.
 
-<a href="https://devskrate.github.io/assets/images/google/files-by-google/xda-safe-folder-intro.webp" data-lightbox="image-1" data-title="My caption"><img width="20%" src="https://devskrate.github.io/assets/images/google/files-by-google/xda-safe-folder-intro.webp"></a>
-<a href="https://devskrate.github.io/assets/images/google/files-by-google/xda-safe-folder-moving.webp" data-lightbox="image-1" data-title="My caption"><img width="20%" src="https://devskrate.github.io/assets/images/google/files-by-google/xda-safe-folder-moving.webp"></a>
-<a href="https://devskrate.github.io/assets/images/google/files-by-google/xda-safe-folder-remember-password.webp" data-lightbox="image-1" data-title="My caption"><img width="20%" src="https://devskrate.github.io/assets/images/google/files-by-google/xda-safe-folder-remember-password.webp"></a>
+<a href="https://devskrate.github.io/assets/images/google/files-by-google/xda-safe-folder-intro.jpg" data-lightbox="image-1" data-title="My caption"><img width="20%" src="https://devskrate.github.io/assets/images/google/files-by-google/xda-safe-folder-intro.jpg"></a>
+<a href="https://devskrate.github.io/assets/images/google/files-by-google/xda-safe-folder-moving.jpg" data-lightbox="image-1" data-title="My caption"><img width="20%" src="https://devskrate.github.io/assets/images/google/files-by-google/xda-safe-folder-moving.jpg"></a>
+<a href="https://devskrate.github.io/assets/images/google/files-by-google/xda-safe-folder-remember-password.jpg" data-lightbox="image-1" data-title="My caption"><img width="20%" src="https://devskrate.github.io/assets/images/google/files-by-google/xda-safe-folder-remember-password.jpg"></a>
 
 In the decompiled latest version of the Files by Google, `9TO5Google` was able to find this feature. They found that they have added a new feature called the **Safe folder**, where users can safely hide their files and keeps them from being accessed by other apps or by anyone other than you who has access to your phone. The authentication for this will be done by Pin. We think Google might end up adding fingerprint and face unlock before the official release of this feature.
 

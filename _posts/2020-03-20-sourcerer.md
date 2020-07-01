@@ -1,10 +1,17 @@
 ---
+date: 2020-03-20 17:26:40
 layout: post
-title: "Sourcerer a visual profile"
-author: puneeth
-categories: [git, github]
-image: https://devskrate.github.io/assets/blog-banners/sourcerer.webp
+title: "Visualize your profile"
+subtitle: Sourcerer a visual profile
+description: >-
+  This is a great tool to visualize yourself at code
+image: https://devskrate.github.io/assets/blog-banners/sourcerer.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/sourcerer.webp
+category: [dev]
 tags: [sourcerer, github, visual profile]
+author: puneeth
+paginate: false
+is_generated: false
 ---
 
 Sourcerer is a visual profile for software engineers that helps you learn things about yourself, connect with others, and become a better engineer.

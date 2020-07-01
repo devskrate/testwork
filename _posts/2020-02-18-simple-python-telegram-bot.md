@@ -1,10 +1,10 @@
 ---
 date: 2020-02-18 17:26:40
 layout: post
-title: "Creating a Simple python TelegramBot using Flask and deploying it in heroku"
+title: "Simple Python Telegram bot"
 subtitle: Simple Telegram bot using python and deploying in heroku
 description: >-
-  Creating telegram bot is very easy, just follow these steps so you can build a basic echo bot..
+  "Creating a Simple python TelegramBot using Flask and deploying it in heroku"
 image: https://devskrate.github.io/assets/blog-banners/telegram-bot.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/telegram-bot.webp
 category: [dev]
