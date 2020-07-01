@@ -51,10 +51,10 @@ aside.sidebar {
     margin: 0 rem(20px) 0;
     @include mainFont(400);
     font-size: rem(18px);
-    color: $primaryDark;
     border-bottom: 1px solid $primaryDark;
     line-height: 50px;
-
+    isolation: isolate;
+    
     @include media(">=sm") {
       font-size: rem(20px);
     }
@@ -91,12 +91,5 @@ aside.sidebar {
         }
       }
     }
-  }
-}
-
-.darkmode--activated{
-
-  aside.sidebar nav h2{
-    color: black;
   }
 }
