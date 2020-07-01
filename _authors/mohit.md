@@ -5,11 +5,11 @@ name: mohit
 display_name: Mohit
 position: Chief Editor
 bio: Techie
-github_username: srisatyalokesh
-facebook_username: srisatyalokesh2.12
-twitter_username: codewithsatya
-instagram_username: man_with_3_eyes
+github_username: 
+facebook_username: 
+twitter_username: indukuri_mohit
+instagram_username: Mohit Indukuri
 linkedin_username: srisatyalokesh
-medium_username: srisatyalokesh
+medium_username: 
 is_member: True
 ---
