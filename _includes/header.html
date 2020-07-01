@@ -18,8 +18,9 @@
     </a>
     {% if page.layout == "post" %}
         <div class="get-theme">
-            <input type="checkbox" class="checkbox" id="chk" onclick="darkmode()"/>
-            <label class="label" for="chk">
+            
+            <label class="label">
+                <input type="checkbox" class="checkbox" id="dark_toggle" onclick="darkmode.toggle()"/>
                 <i class="fas fa-moon"></i>
                 <i class="fas fa-sun"></i>
                 <div class="ball"></div>

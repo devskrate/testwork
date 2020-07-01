@@ -15,25 +15,12 @@
   autoMatchOsTheme: false // default: true
 }
 
-
-
-function darkmode(){
-  
-  const checkBox = document.getElementById('chk');
-  var darkmode = new Darkmode(options);
-    console.log(darkmode.isActivated());
-  if (checkBox.checked == true){
-    darkmode.toggle();
-    console.log(darkmode.isActivated());
-    darkmode.toggle();
-    console.log(darkmode.isActivated());
-  }
-  else{
-    darkmode.toggle();
-    console.log(darkmode.isActivated());
-    darkmode.toggle();
-    console.log(darkmode.isActivated());
-  }
-
+const darkmode =  new Darkmode(options);
+if (darkmode.isActivated()) {
+document.getElementById("dark_toggle").checked = true;
 }
+else {
+document.getElementById("dark_toggle").checked = false;
+}
+
 </script>
