@@ -9,7 +9,7 @@ image: >-
   https://devskrate.github.io/assets/blog-banners/mi-band-4vs-mi-band-5.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/mi-band-4vs-mi-band-5.webp
-category: [gadget]
+category: [gadgets]
 tags: [Mi, MiBand, Fitness Tracker]
 author: mohit
 ---
