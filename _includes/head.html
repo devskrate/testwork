@@ -32,13 +32,12 @@
     {% else %}
         {% assign url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
     {% endif %}
-
     <title>{{ title }}</title>
     <meta name="description" content="{{ description }}">
     {% if page.tags %}
         <meta name="keywords" content="{{ page.tags | join: ', ' }}">
     {% endif %}
-    <meta name="author" content="{{ post.author }}" />
+    <meta name="author" content="{{ page.author }}" />
     <!-- Social: Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ title }}">
