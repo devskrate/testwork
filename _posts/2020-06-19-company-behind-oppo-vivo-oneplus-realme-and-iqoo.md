@@ -9,7 +9,7 @@ image: >-
   https://devskrate.github.io/assets/blog-banners/bbk-tech.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/bbk-tech.webp
-category: [mobile]
+category: [mobiles]
 tags: [realme, oppo, vivo, iqoo, oneplus, bbk electronics]
 author: mohit
 ---
