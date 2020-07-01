@@ -7,7 +7,7 @@ description: Why AMOLED screens are so special and what's the best way to use th
 image: https://devskrate.github.io/assets/blog-banners/amoled-walls.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/amoled-walls.webp
 author: satya
-category: [mobile]
+category: [mobiles]
 tags: [android, wallpapers, featured]
 ---
 

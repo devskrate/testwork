@@ -9,7 +9,7 @@ image: >-
   https://devskrate.github.io/assets/blog-banners/best-flagship-2020-q1.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/best-flagship-2020-q1.webp
-category: [mobile]
+category: [mobiles]
 tags: [Flagship Killer, OnePlus, Realme ,iQOO]
 author: mohit
 ---
