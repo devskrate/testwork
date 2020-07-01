@@ -4,7 +4,7 @@ layout: post
 title: Apple iPhone SE 2020 is ready!
 subtitle: The most awaited iPhone SE 2020 is out now
 description: The wait is over. iPhone SE 2020 is now official.
-image: https://devskrate.github.io/assets/blog-banners/iphone-se-2020-1.webp
+image: https://devskrate.github.io/assets/blog-banners/iphone-se-2020-1.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/iphone-se-2020-1.webp
 category: [mobile]
 tags: [iphone, se, apple]

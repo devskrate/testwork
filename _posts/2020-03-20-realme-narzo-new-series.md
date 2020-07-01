@@ -6,7 +6,7 @@ subtitle: 'Realme to bring a brand new series to India, this is everything you n
 description: >-
   Realme to bring a brand new series to India called narzo, this is everything you need to know
 image: >-
-  https://devskrate.github.io/assets/blog-banners/realme-nazro.webp
+  https://devskrate.github.io/assets/blog-banners/realme-nazro.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/realme-nazro.webp
 category: [mobile]

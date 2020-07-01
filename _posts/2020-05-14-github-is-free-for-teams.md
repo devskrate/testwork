@@ -6,7 +6,7 @@ subtitle: Yes! You don't need to pay for this anymore.
 description: GitHub teams is the most useful feature for projects who relay on GitHub.
 author: satya
 category: [news]
-image: https://devskrate.github.io/assets/blog-banners/github-teams.webp
+image: https://devskrate.github.io/assets/blog-banners/github-teams.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/github-teams.webp
 tags: [github, teams, developers]
 ---

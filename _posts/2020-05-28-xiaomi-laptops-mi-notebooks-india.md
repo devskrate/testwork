@@ -6,7 +6,7 @@ subtitle: "Mi finally planning to release its laptop range to India, this is eve
 description: >-
   Mi finally planning to release its laptop range to India, this is everything you need to know
 image: >-
-  https://devskrate.github.io/assets/blog-banners/mi-lapotops.webp
+  https://devskrate.github.io/assets/blog-banners/mi-lapotops.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/mi-lapotops.webp
 category: [pcs]

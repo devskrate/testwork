@@ -4,7 +4,7 @@ layout: post
 title: Install Chrome OS in a PC
 subtitle: Here is how to install Chrome OS on your PC
 description: Ever felt to install Chrome OS with Play Store on your PC? Here is how..
-image: https://devskrate.github.io/assets/blog-banners/.webp
+image: https://devskrate.github.io/assets/blog-banners/.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/.webp
 category: [howto]
 tags: [chrome os, google]

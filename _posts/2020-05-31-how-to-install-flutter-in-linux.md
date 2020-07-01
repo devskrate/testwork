@@ -4,7 +4,7 @@ layout: post
 title: How to install Flutter in linux and Fix general problems
 subtitle: Flutter installation
 description: Flutter installation and fixing common problems and errors
-image: https://devskrate.github.io/assets/blog-banners/flutter-installation.webp
+image: https://devskrate.github.io/assets/blog-banners/flutter-installation.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/flutter-installation.webp
 category: [dev]
 tags: [os, linux, windows, student, google]

@@ -6,7 +6,7 @@ subtitle: "Dell launched the much-awaited refresh to the Dell XPS 15 and a brand
 description: >-
   Dell launched the much-awaited refresh to the Dell XPS 15 and a brand new Dell XPS 17, this is everything you need to know 
 image: >-
-  https://devskrate.github.io/assets/blog-banners/dell-xps-15vs-17.webp
+  https://devskrate.github.io/assets/blog-banners/dell-xps-15vs-17.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/dell-xps-15vs-17.webp
 category: [pcs]

@@ -4,7 +4,7 @@ layout: post
 title: "Configure your VS Code like a pro"
 subtitle: "Best Extensions for VS Code."
 description: "Best practices and most useful extensions in VS Code for good productivity"
-image: https://devskrate.github.io/assets/blog-banners/vscode-like-pro.webp
+image: https://devskrate.github.io/assets/blog-banners/vscode-like-pro.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/vscode-like-pro.webp 
 author: satya
 category: [dev]

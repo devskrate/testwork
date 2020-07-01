@@ -6,7 +6,7 @@ subtitle: 'Legion all set to launch its gaming smartphone and this is everything
 description: >-
   Legion all set to launch its gaming smartphone and this is everything you need to know
 image: >-
-  https://devskrate.github.io/assets/blog-banners/lenovo-legion-phone.webp
+  https://devskrate.github.io/assets/blog-banners/lenovo-legion-phone.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/lenovo-legion-phone.webp
 category: [Tech]

@@ -4,7 +4,7 @@ layout: post
 title:  "What is Deno.js? How this competes with node.js?"
 author: akash
 category: [dev]
-image: https://devskrate.github.io/assets/blog-banners/deno-js.webp
+image: https://devskrate.github.io/assets/blog-banners/deno-js.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/deno-js.webp
 tags: [developers, javascript, alternatives]
 ---

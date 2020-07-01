@@ -6,7 +6,7 @@ subtitle: 'One Plus has finally launched its Flagship, Is this the true flagship
 description: >-
   One Plus has finally launched its Flagship, Is this the true flagship people that people have been waiting for, lets find out in the article
 image: >-
-  https://devskrate.github.io/assets/blog-banners/one-plus-8-pro.webp
+  https://devskrate.github.io/assets/blog-banners/one-plus-8-pro.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/one-plus-8-pro.webp
 category: [mobile]

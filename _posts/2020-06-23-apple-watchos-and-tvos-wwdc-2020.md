@@ -6,7 +6,7 @@ subtitle: "Apple recently announced it's latest version of Watch OS and TV OS in
 description: >-
   Apple recently announced it's latest version of Watch OS and TV OS in the WWDC event, this is everything you need to know
 image: >-
-  https://devskrate.github.io/assets/blog-banners/ios-14-banner.webp
+  https://devskrate.github.io/assets/blog-banners/ios-14-banner.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/ios-14-banner.webp
 category: [news]

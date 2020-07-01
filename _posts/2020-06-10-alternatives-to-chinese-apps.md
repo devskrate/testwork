@@ -4,7 +4,7 @@ layout: post
 title: Best alternatives to Popular Chinese apps
 subtitle: Best Trusted apps
 description: Best alternatives to popular chinese apps like SHAREit, wps-office etc
-image: https://devskrate.github.io/assets/blog-banners/best-alternatives-to-chinese-apps.webp
+image: https://devskrate.github.io/assets/blog-banners/best-alternatives-to-chinese-apps.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/best-alternatives-to-chinese-apps.webp
 category: [apps]
 tags: [Tech, Android, Alternatives]

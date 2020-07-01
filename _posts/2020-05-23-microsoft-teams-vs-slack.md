@@ -4,7 +4,7 @@ layout: post
 title: "Microsoft Teams vs Slack:The Battle of collaborative work"
 subtitle: Who wins the battle of communication and collaboration platform race
 description: Both Microsoft Teams and Slack are in a serious competiotion of unified business communication platforn race
-image: https://devskrate.github.io/assets/blog-banners/slack-vs-teams.webp
+image: https://devskrate.github.io/assets/blog-banners/slack-vs-teams.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/slack-vs-teams.webp
 category: [review]
 tags: [microsoft teams, communication, slack]

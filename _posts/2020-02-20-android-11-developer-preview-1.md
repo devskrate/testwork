@@ -5,7 +5,7 @@ title: "7 Cool New Android 11 Features"
 subtitle: New features in Android 11
 description: >-
   Chat bubbles, Images in notification, pinning apps, Improved apps
-image: https://devskrate.github.io/assets/blog-banners/android-11-1.webp
+image: https://devskrate.github.io/assets/blog-banners/android-11-1.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/android-11-1.webp
 category: [news]
 tags: [google, android]

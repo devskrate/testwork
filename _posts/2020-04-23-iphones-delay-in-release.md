@@ -6,7 +6,7 @@ subtitle: "Analyst Ming-Chi Kuo has reported that there could be a delay in the 
 description: >-
   Analyst Ming-Chi Kuo has reported that there could be a delay in the upcoming iPhone 12
 image: >-
-  https://devskrate.github.io/assets/blog-banners/iphones-delay.webp
+  https://devskrate.github.io/assets/blog-banners/iphones-delay.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/iphones-delay.webp
 category: [news]

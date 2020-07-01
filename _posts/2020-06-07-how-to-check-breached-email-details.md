@@ -4,7 +4,7 @@ layout: post
 title: Check if your email associated accounts are breached
 subtitle: Here is how to check, whether your email account details are breached or not
 description: Ever wondered if your email details are breached?
-image: https://devskrate.github.io/assets/blog-banners/email-breached.webp
+image: https://devskrate.github.io/assets/blog-banners/email-breached.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/email-breached.webp
 category: [howto]
 tags: [security, breaches, hacked, pwned]

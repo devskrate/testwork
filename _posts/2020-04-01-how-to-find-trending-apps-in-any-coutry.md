@@ -4,7 +4,7 @@ layout: post
 title: How to find trending apps in any country
 subtitle: You can find the trending apps in any country
 description: Here is how to fing the trending apps in any country
-image: https://devskrate.github.io/assets/blog-banners/trending-apps.webp
+image: https://devskrate.github.io/assets/blog-banners/trending-apps.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/trending-apps.webp
 category: [howto]
 tags: [internet, play store, app store, trending]

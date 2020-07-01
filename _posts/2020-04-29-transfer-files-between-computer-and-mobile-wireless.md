@@ -5,7 +5,7 @@ title: "Transfer Files between PC and mobile wireless using QR code"
 subtitle: Easy transfer files between pc an mobile
 description: >-
   An easy way to transfer files between pc snd mobile with just scanning qr code.
-image: https://devskrate.github.io/assets/blog-banners/file-transfer-qr.webp
+image: https://devskrate.github.io/assets/blog-banners/file-transfer-qr.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/file-transfer-qr.webp
 category: [dev]
 tags: [linux, pc, windows, mobile]

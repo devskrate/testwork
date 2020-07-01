@@ -4,7 +4,7 @@ layout: post
 title:  What is the difference between Scholarship and Fellowship?
 subtitle: Here's the answer for most asked question
 description: Quite often students find difficult to distiguis these two, we made it clear for you.
-image: https://devskrate.github.io/assets/blog-banners/scholarship-vs-fellowship.webp
+image: https://devskrate.github.io/assets/blog-banners/scholarship-vs-fellowship.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/scholarship-vs-fellowship.webp
 author: satya
 category: [students]

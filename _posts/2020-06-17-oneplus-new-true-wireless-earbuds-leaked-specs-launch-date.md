@@ -6,7 +6,7 @@ subtitle: "OnePlus all set to launch its new TWS in India, this is everything yo
 description: >-
   OnePlus all set to launch its new TWS in India, this is everything you need to know
 image: >-
-  https://devskrate.github.io/assets/blog-banners/oneplus-buds-banner.webp
+  https://devskrate.github.io/assets/blog-banners/oneplus-buds-banner.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/oneplus-buds-banner.webp
 category: [gadgets]

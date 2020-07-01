@@ -4,7 +4,7 @@ layout: post
 title: Google's FooBar - The Secret Hiring Challenge
 subtitle: Best way to get hired by Google!
 description: This is the sceret Hiring challenge by google for Software Enginners
-image: https://devskrate.github.io/assets/blog-banners/google-foobar.webp
+image: https://devskrate.github.io/assets/blog-banners/google-foobar.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/google-foobar.webp
 author: satya
 category: [dev]

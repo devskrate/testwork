@@ -6,7 +6,7 @@ subtitle: "BBK Electronics owns most the famous Chinese smartphone-like Oppo, Vi
 description: >-
   BBK Electronics owns most the famous Chinese smartphone-like Oppo, Vivo, OnePlus, Realme and iQOO and this is everything you need to know
 image: >-
-  https://devskrate.github.io/assets/blog-banners/bbk-tech.webp
+  https://devskrate.github.io/assets/blog-banners/bbk-tech.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/bbk-tech.webp
 category: [mobile]

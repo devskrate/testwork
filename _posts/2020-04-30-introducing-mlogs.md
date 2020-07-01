@@ -5,7 +5,7 @@ title: "Intorducing Mlogs"
 subtitle: Short and Quick updates.
 description: We named Minimal Blogs as Mlogs (M-Logs)
 author: satya
-image: https://devskrate.github.io/assets/blog-banners/mlogs.webp
+image: https://devskrate.github.io/assets/blog-banners/mlogs.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/mlogs.webp
 category: [news]
 tags: [blog, mlog, introduction, series]

@@ -4,7 +4,7 @@ layout: post
 title: Challenges Faced By Android App Developers
 subtitle: These are common challenges face by Android Developers
 description: Here are common challenges faced by Android Developers
-image: https://devskrate.github.io/assets/blog-banners/android-developer-challenges.webp
+image: https://devskrate.github.io/assets/blog-banners/android-developer-challenges.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/android-developer-challenges.webp
 category: [dev]
 tags: [google, android, challenges]

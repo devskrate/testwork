@@ -7,7 +7,7 @@ description: >-
   After the original iPhone, Apple launched several other products, some were good while some were bad 
   but none of them were revolutionary and Apple's AR glasses plans to change that.
 image: >-
-  https://devskrate.github.io/assets/blog-banners/ar-glasses-1.webp
+  https://devskrate.github.io/assets/blog-banners/ar-glasses-1.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/ar-glasses-1.webp
 category: [gadgets]

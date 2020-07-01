@@ -6,7 +6,7 @@ subtitle: "Google is adding a new security feature to Files By Google, this is e
 description: >-
   Google is adding a new security feature to Files By Google, this is everything you need to know
 image: >-
-  https://devskrate.github.io/assets/blog-banners/files-secure-folder.webp
+  https://devskrate.github.io/assets/blog-banners/files-secure-folder.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/files-secure-folder.webp
 tags: [Google, Android, Files by google]

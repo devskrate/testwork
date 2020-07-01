@@ -3,7 +3,7 @@ layout: post
 title: "Linux tricks and tips for beginners"
 author: puneeth
 categories: [Linux, Tutorial]
-image: https://devskrate.github.io/assets/blog-banners/install-chrome-os.webp
+image: https://devskrate.github.io/assets/blog-banners/install-chrome-os.jpg
 tags: [Linux, beginner, os]
 ---
 
