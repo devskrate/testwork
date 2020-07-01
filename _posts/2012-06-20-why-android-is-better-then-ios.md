@@ -2,7 +2,7 @@
 layout: post
 title: "7 Things Android can do better than iOS"
 author: nikhil
-categories: [ANDROID]
+category: [android]
 image: https://devskrate.github.io/assets/blog-banners/android-better-then-ios.webp
 tags: [comparision, android vs ios]
 ---
