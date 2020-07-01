@@ -351,6 +351,7 @@
 
 .darkmode--activated {
 
+  blockquote p,
   p,
   li,
   h1,
@@ -625,7 +626,7 @@
     }
 
     .title {
-      font-size: rem(16px);
+      font-size: rem(13px);
       color: #fff;
       margin: rem(5px) 0;
       transition: all 0.3s;
@@ -821,6 +822,11 @@
 .has-push-menu .post-footer footer{
   background-color: white;
   margin-top: 0;
+  margin-bottom: 150px;
+  
+  @include media(">=sm") {
+    margin-bottom: 135px;
+  }
 }
 
 body.has-push-menu .post-section{

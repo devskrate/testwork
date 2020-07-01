@@ -5,7 +5,7 @@ title:  Github announced the MLH Fellowship for students
 subtitle: Great oppurtunity for students
 description: Detailed information on how to apply for this fellowship program
 image: https://devskrate.github.io/assets/blog-banners/github-mlh.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/github-mlh.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/github-mlh.webp
 author: satya
 category: [students]
 tags: [fellowship, internship, mlh-fellowship, github]
