@@ -9,7 +9,7 @@ image: >-
   https://devskrate.github.io/assets/blog-banners/moto-edge-series.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/moto-edge-series.webp
-category: [mobile]
+category: [mobiles]
 tags: [moto, edge , android]
 author: mohit
 ---
