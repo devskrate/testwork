@@ -2,8 +2,8 @@
 date: 2012-06-26 17:26:40
 layout: post
 title: "Facebook launches Avatars and here is how to make yours"
-subtitle:
-description:
+subtitle: Facebook had now launched Avatar to compete with Bitmoji in India
+description: Facebook had launched Bitmoji like Avatar and here's how to make yours
 image: https://devskrate.github.io/assets/blog-banners/facebook-avatar.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/facebook-avatar.webp
 category: [news]
