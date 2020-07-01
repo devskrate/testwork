@@ -1,4 +1,4 @@
-
+{% include extra-js.html %}
 <header class="bar-header">
     <a id="menu" role="button">
         <svg id="open" class="icon-menu"><use xlink:href="#icon-menu"></use></svg>
@@ -18,13 +18,12 @@
     </a>
     {% if page.layout == "post" %}
         <div class="get-theme">
-            
-            <label class="label">
-                <input type="checkbox" class="checkbox" id="dark_toggle" onclick="darkmode.toggle()"/>
-                <i class="fas fa-moon"></i>
-                <i class="fas fa-sun"></i>
-                <div class="ball"></div>
-            </label>
+                <input type="checkbox" class="checkbox" id="chk" onclick="darkmode.toggle()"/>
+                <label class="label" for="chk">
+                    <i class="fas fa-moon"></i>
+                    <i class="fas fa-sun"></i>
+                    <div class="ball"></div>
+                </label>
         </div>
     {% endif %}
 </header>
