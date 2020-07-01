@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Mobile
-slug: mobile
+title: Mobiles
+slug: mobiles
 description: A category for mobile related posts.
 ---
