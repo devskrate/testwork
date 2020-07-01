@@ -9,7 +9,7 @@ image: >-
   https://devskrate.github.io/assets/blog-banners/realme-x3-india-launch.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/realme-x3-india-launch.webp
-category: [mobile]
+category: [mobiles]
 tags: [Realme, Realme X3]
 author: mohit
 ---
