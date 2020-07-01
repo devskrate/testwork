@@ -8,7 +8,7 @@ bio: Techie
 github_username: 
 facebook_username: 
 twitter_username: indukuri_mohit
-instagram_username: Mohit Indukuri
+instagram_username: mohitindukuri
 linkedin_username: srisatyalokesh
 medium_username: 
 is_member: True
