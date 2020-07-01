@@ -6,7 +6,7 @@ subtitle: "Realme is teasing the  Indian launch of X3 series in India, this is e
 description: >-
   Realme is teasing the  Indian launch of X3 series in India, this is everything you need to know
 image: >-
-  https://devskrate.github.io/assets/blog-banners/realme-x3-india-launch.webp
+  https://devskrate.github.io/assets/blog-banners/realme-x3-india-launch.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/realme-x3-india-launch.webp
 category: [mobile]

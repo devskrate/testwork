@@ -6,7 +6,7 @@ subtitle: "Sony has finally revealed its latest console-PlayStation 5, this is e
 description: >-
   Sony has finally revealed its latest console-PlayStation 5, this is everything you need to know
 image: >-
-  https://devskrate.github.io/assets/blog-banners/sony-ps5.webp
+  https://devskrate.github.io/assets/blog-banners/sony-ps5.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/sony-ps5.webp
 category: [gaming]

@@ -4,7 +4,7 @@ layout: post
 title: A first look at Microsoft’s xCloud game streaming service for Windows PCs
 subtitle: The xCloud game streaming hardware is incredible
 description: Take a first look at xCloud game streaming service
-image: https://devskrate.github.io/assets/blog-banners/xcloud-game-streaming.webp
+image: https://devskrate.github.io/assets/blog-banners/xcloud-game-streaming.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/xcloud-game-streaming.webp
 category: [gaming]
 tags: [microsoft, xcloud, windows]

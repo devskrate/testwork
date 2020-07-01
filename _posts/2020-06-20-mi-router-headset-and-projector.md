@@ -6,7 +6,7 @@ subtitle: "Xiaomi not only makes smartphones but also several other products and
 description: >-
   Xiaomi not only makes smartphones but also several other products and these are few interesting products that the company recently launched in China.
 image: >-
-  https://devskrate.github.io/assets/blog-banners/mi-products-lastweek.webp
+  https://devskrate.github.io/assets/blog-banners/mi-products-lastweek.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/mi-products-lastweek.webp
 category: [gadgets]

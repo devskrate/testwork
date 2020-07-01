@@ -6,7 +6,7 @@ subtitle: "Apple recently announced it's latest version of iPadOS and macOS in t
 description: >-
   Apple recently announced it's latest version of iPadOS and macOS in the WWDC event, this is everything you need to know
 image: >-
-  https://devskrate.github.io/assets/blog-banners/macos-ipados.webp
+  https://devskrate.github.io/assets/blog-banners/macos-ipados.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/macos-ipados.webp
 category: [news]

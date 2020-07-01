@@ -7,7 +7,7 @@ description: >-
   One Plus has finally launched its much-awaited Flagship Killer, Is this the true Flagship Killer that people want or will this endup 
   being a wallet killer, lets find out in the article
 image: >-
-  https://devskrate.github.io/assets/blog-banners/one-plus-8.webp
+  https://devskrate.github.io/assets/blog-banners/one-plus-8.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/one-plus-8.webp
 category: [mobile]

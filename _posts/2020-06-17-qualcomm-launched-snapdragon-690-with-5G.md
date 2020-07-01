@@ -6,7 +6,7 @@ subtitle: "Snapdragon 690 to come with support for 5G, 120Hz displays and many m
 description: >-
   Snapdragon 690 to come with support for 5G, 120Hz displays and many more, this is  everything you need to know
 image: >-
-  https://devskrate.github.io/assets/blog-banners/sanpdragon-690-5g.webp
+  https://devskrate.github.io/assets/blog-banners/sanpdragon-690-5g.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/sanpdragon-690-5g.webp
 category: [news]

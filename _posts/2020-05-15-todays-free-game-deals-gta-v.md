@@ -4,7 +4,7 @@ layout: post
 title: GTA V for free and more other popular games for a limited time
 subtitle: Epic game is giving away some AAA titles for free. Grab them asap.
 description: Get some paid games for free
-image: https://devskrate.github.io/assets/blog-banners/gta-v.webp
+image: https://devskrate.github.io/assets/blog-banners/gta-v.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/gta-v.webp
 category: [gaming]
 tags: [games, epic games, free]

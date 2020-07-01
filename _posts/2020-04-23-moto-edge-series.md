@@ -6,7 +6,7 @@ subtitle: "Motorola has finally launched its Flagship called the Moto Edge Plus 
 description: >-
   Motorola has finally launched its Flagship called the Moto Edge Plus and a Premium Budget Phone called the Moto Edge Plus, will this new phone get Moto back on the right track, let's find out in the article
 image: >-
-  https://devskrate.github.io/assets/blog-banners/moto-edge-series.webp
+  https://devskrate.github.io/assets/blog-banners/moto-edge-series.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/moto-edge-series.webp
 category: [mobile]

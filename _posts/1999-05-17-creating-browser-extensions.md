@@ -3,7 +3,7 @@ layout: post
 title: "Creating browser extensions"
 author: puneeth
 categories: [Extensions, Browser]
-image: https://devskrate.github.io/assets/blog-banners/bored-internet.webp
+image: https://devskrate.github.io/assets/blog-banners/bored-internet.jpg
 tags: [extensions, browser, script]
 ---
 

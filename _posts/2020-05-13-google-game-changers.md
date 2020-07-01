@@ -4,7 +4,7 @@ layout: post
 title: Google's Change the game design challenge
 subtitle: Apply for Google Game Changers and get the exclusive training on game designing
 description:  Here's what is Google Game Changers and how to apply for it?
-image: https://devskrate.github.io/assets/blog-banners/google-game-change.webp
+image: https://devskrate.github.io/assets/blog-banners/google-game-change.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/google-game-change.webp
 category: [students]
 tags: [google, game design, contest]

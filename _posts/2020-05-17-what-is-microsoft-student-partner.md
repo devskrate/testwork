@@ -4,7 +4,7 @@ layout: post
 title: What is Microsoft Student Partner?
 subtitle: Microsoft Student Partner is a Sudent Ambassador Program by Microsoft
 description: Here is everything about Microsoft Student Partner and how to apply for it?
-image: https://devskrate.github.io/assets/blog-banners/ms-student-partner.webp
+image: https://devskrate.github.io/assets/blog-banners/ms-student-partner.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/ms-student-partner.webp
 category: [students]
 tags: [microsoft, student partner, ambassador]

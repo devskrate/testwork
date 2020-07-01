@@ -4,7 +4,7 @@ layout: post
 title:  RoughViz.js - for creating sketchy/hand-drawn styled charts
 subtitle: Let's make some cool and catcy sketches
 description: Simple java script library to draw hand-drawn sketches
-image: https://devskrate.github.io/assets/blog-banners/roughviz-js.webp
+image: https://devskrate.github.io/assets/blog-banners/roughviz-js.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/roughviz-js.webp
 author: satya
 category: [dev]

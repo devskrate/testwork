@@ -5,7 +5,7 @@ title: "Being a student Which OS you should Use?"
 subtitle: Which helps you to learn and  grow? 
 description: >-
   Chat bubbles, Images in notification, pinning apps, Improved apps
-image: https://devskrate.github.io/assets/blog-banners/studentdev.webp
+image: https://devskrate.github.io/assets/blog-banners/studentdev.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/studentdev.webp
 category: [news]
 tags: [os, linux, windows, student]

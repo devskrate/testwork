@@ -6,7 +6,7 @@ subtitle: "Realme, famously known for its smartphones, has started expanding its
 description: >-
   Realme, famously known for its smartphones, has started expanding its portfolio, and this time its the new Realme Smart Tv, this is everything you need to know
 image: >-
-  https://devskrate.github.io/assets/blog-banners/realme-tv.webp
+  https://devskrate.github.io/assets/blog-banners/realme-tv.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/realme-tv.webp
 category: [gadget]

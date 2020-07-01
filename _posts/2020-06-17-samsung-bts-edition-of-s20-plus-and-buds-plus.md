@@ -6,7 +6,7 @@ subtitle: "Samsung launched a BTS edition of Galaxy S20 plus and Buds plus"
 description: >-
   Samsung launched a BTS edition of Galaxy S20 plus and Buds plus
 image: >-
-  https://devskrate.github.io/assets/blog-banners/samsung-bts-edition.webp
+  https://devskrate.github.io/assets/blog-banners/samsung-bts-edition.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/samsung-bts-edition.webp
 category: [gadgets]

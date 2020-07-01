@@ -4,7 +4,7 @@ layout: post
 title: Espanso - Cross-platform Text Expander written in Rust
 subtitle: The best cross platform text expander available as of now
 description: Espanso helps you to auto fil your details with ease
-image: https://devskrate.github.io/assets/blog-banners/espanso.webp
+image: https://devskrate.github.io/assets/blog-banners/espanso.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/espanso.webp
 category: [howto]
 tags: [espanso, cross-platform, text expander]

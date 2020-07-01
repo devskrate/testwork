@@ -6,7 +6,7 @@ subtitle: "Realme has announced it's new TWS and this is everything you need to 
 description: >-
   Realme has announced it's new TWS and this is everything you need to know
 image: >-
-  https://devskrate.github.io/assets/blog-banners/realme-buds-q.webp
+  https://devskrate.github.io/assets/blog-banners/realme-buds-q.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/realme-buds-q.webp
 category: [gadgets]

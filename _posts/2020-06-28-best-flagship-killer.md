@@ -6,7 +6,7 @@ subtitle: "With the rise in the market for smartphones, we have lots of options 
 description: >-
   With the rise in the market for smartphones, we have lots of options and in this article we will find out the best flagship killer you can buy right now
 image: >-
-  https://devskrate.github.io/assets/blog-banners/best-flagship-2020-q1.webp
+  https://devskrate.github.io/assets/blog-banners/best-flagship-2020-q1.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/best-flagship-2020-q1.webp
 category: [mobile]

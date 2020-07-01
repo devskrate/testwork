@@ -6,7 +6,7 @@ subtitle: "Xiaomi has showed off it's latest skin of android MIUI 12, this is ev
 description: >-
   Xiaomi has showed off it's latest skin of android MIUI 12, this is everything you need to know
 image: >-
-  https://devskrate.github.io/assets/blog-banners/miui12-features.webp
+  https://devskrate.github.io/assets/blog-banners/miui12-features.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/miui12-features.webp
 category: [news]

@@ -4,7 +4,7 @@ layout: post
 title: 5 cool Linux apps
 subtitle: Best Trusted apps
 description: Cool apps in linux for day to day usage
-image: https://devskrate.github.io/assets/blog-banners/5-cool-linux-apps.webp
+image: https://devskrate.github.io/assets/blog-banners/5-cool-linux-apps.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/5-cool-linux-apps.webp
 category: [apps]
 tags: [linux, ubuntu, os, featured]

@@ -4,7 +4,7 @@ layout: post
 title: How to Rank on First Page of Google
 subtitle: For these to rank on the first page of search
 description: The best SEO tips for everyone
-image: https://devskrate.github.io/assets/blog-banners/google-rank.webp
+image: https://devskrate.github.io/assets/blog-banners/google-rank.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/google-rank.webp
 category: [howto]
 tags: [seo, google, sarch]

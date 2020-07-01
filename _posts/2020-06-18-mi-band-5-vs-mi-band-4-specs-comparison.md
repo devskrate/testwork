@@ -6,7 +6,7 @@ subtitle: "Xiaomi recently announced the successor to Mi Band 4- The Mi Band 5, 
 description: >-
   Xiaomi recently announced the successor to Mi Band 4- The Mi Band 5, how good is it?, let's find out in this article
 image: >-
-  https://devskrate.github.io/assets/blog-banners/mi-band-4vs-mi-band-5.webp
+  https://devskrate.github.io/assets/blog-banners/mi-band-4vs-mi-band-5.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/mi-band-4vs-mi-band-5.webp
 category: [gadget]

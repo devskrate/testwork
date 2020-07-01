@@ -6,7 +6,7 @@ subtitle: "Realme has launched its X3 series in India with the Snapdragon 855+ a
 description: >-
   Realme has launched its X3 series in India with the Snapdragon 855+ and this is everything you need to know
 image: >-
-  https://devskrate.github.io/assets/blog-banners/realme-x3-series.webp
+  https://devskrate.github.io/assets/blog-banners/realme-x3-series.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/realme-x3-series.webp
 category: [mobile]

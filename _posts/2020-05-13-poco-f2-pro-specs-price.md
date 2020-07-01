@@ -6,7 +6,7 @@ subtitle: "The most awaited successor to the Poco F1 is launched today, this eve
 description: >-
   Is Poco f2 pro just a rebranded Redmi k30 pro?, find out in this article.
 image: >-
-  https://devskrate.github.io/assets/blog-banners/poco-f2-pro.webp
+  https://devskrate.github.io/assets/blog-banners/poco-f2-pro.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/poco-f2-pro.webp
 category: [mobile]

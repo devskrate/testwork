@@ -6,7 +6,7 @@ subtitle: "Moto has launched it One Fusion in India, this is everything you need
 description: >-
   Moto has launched it One Fusion in India, this is everything you need to know
 image: >-
-  https://devskrate.github.io/assets/blog-banners/moto-fusion-plus.webp
+  https://devskrate.github.io/assets/blog-banners/moto-fusion-plus.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/moto-fusion-plus.webp
 category: [mobile]

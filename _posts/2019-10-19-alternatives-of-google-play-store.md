@@ -4,7 +4,7 @@ layout: post
 title: Alternatives of Google play store
 subtitle: Some of the best alternatives of Google Play Store
 description: Google Play Store is not the only place to download apps. These are better alternatives
-image: https://devskrate.github.io/assets/blog-banners/alternatives-to-playstore.webp
+image: https://devskrate.github.io/assets/blog-banners/alternatives-to-playstore.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/alternatives-to-playstore.webp
 category: [apps]
 tags: [google, play store, alternatives]

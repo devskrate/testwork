@@ -4,7 +4,7 @@ layout: post
 title: Get Exclusive Benefits on Student Program | Samsung India
 subtitle: Samsung students benefits
 description: Samsung India is offering exclusive benefits to students with their college or institutional mailID
-image: https://devskrate.github.io/assets/blog-banners/samsung-student-offer.webp
+image: https://devskrate.github.io/assets/blog-banners/samsung-student-offer.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/samsung-student-offer-opt.webp
 category: [student]
 tags: [student, offers, deals]

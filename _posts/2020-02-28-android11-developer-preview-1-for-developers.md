@@ -5,7 +5,7 @@ title: "Some new Android 11 Features for developers"
 subtitle: New features in Android 11
 description: >-
   5G experiences, New screen types, privacy, security, App compatibility
-image: https://devskrate.github.io/assets/blog-banners/android-11-1.webp
+image: https://devskrate.github.io/assets/blog-banners/android-11-1.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/android-11-1.webp
 category: [news]
 tags: [google, android]

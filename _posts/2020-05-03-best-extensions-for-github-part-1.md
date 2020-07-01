@@ -4,7 +4,7 @@ layout: post
 title: GitTensions - Exclusive Extensions for GitHub and GitLab - part 1
 subtitle: Let's increase our productivity in Github
 description: These are collection of browser extensions specially for GitHub
-image: https://devskrate.github.io/assets/blog-banners/gittensions.webp
+image: https://devskrate.github.io/assets/blog-banners/gittensions.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/gittensions.webp
 author: satya
 category: [dev]
