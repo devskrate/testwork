@@ -10,6 +10,6 @@ facebook_username: srisatyalokesh2.12
 twitter_username: puneeth_kanna
 instagram_username: neerukondapuneeth
 linkedin_username: neerukondapuneeth
-medium_username: srisatyalokesh
+medium_username: neerukondapuneeth
 is_member: True
 ---
