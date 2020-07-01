@@ -9,7 +9,7 @@ image: >-
   https://devskrate.github.io/assets/blog-banners/moto-fusion-plus.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/moto-fusion-plus.webp
-category: [mobile]
+category: [mobiles]
 tags: [moto, one fusion, specs]
 author: mohit
 ---
