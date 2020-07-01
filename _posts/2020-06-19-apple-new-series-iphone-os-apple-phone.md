@@ -6,7 +6,7 @@ subtitle: Apple phone and iPhone OS
 description: Apple renaming it's two products and bringing new budget series!!
 image: https://devskrate.github.io/assets/blog-banners/apple-name-change-banner.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/apple-name-change-banner.webp
-category: [mobile]
+category: [mobiles]
 tags: [iphone, ios , apple, apple phone]
 author: puneeth
 ---
