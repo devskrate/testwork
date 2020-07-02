@@ -1,24 +1,39 @@
 ---
-layout: page
+layout: error_page
 ---
 
 <style type="text/css" media="screen">
+
   .container {
-    color: #040a12;
-    background-color: #040a12;
     margin: 0px auto;
-    max-width: 500px;
-    text-align: center;
-    padding-top: 10px;
-    
-    .404text{
-      color: white;
-    }
+    max-width: 580px;
   }
+
+    #error_title{
+      color: white;
+      text-align: center;
+    }
+
+    @media only screen and (max-width: 600px) {
+
+        #error_title{
+          font-size: 12px;
+        }
+
+    }
+
+    #error_text{
+      margin-bottom: 33px; 
+      margin-top: 10px;
+      color: white;
+      text-align: center;
+    }
+  
+  
 </style>
 
 <div class="container">
   <img src="/assets/img/404.gif" width="100%" alt="{{ site.translations.error_404.image_alt | default: '404 - Page not found' }}">
-  <p class="404text"><strong>{{ site.translations.error_404.title | default: "Page not found :(" }}</strong></p>
-  <p class="404text">{{ site.translations.error_404.message | default: "I'm sorry. We couldn't find the page you are looking for." }}</p>
 </div>
+<p id="error_title"><strong>{{ site.translations.error_404.title | default: "Page not found :(" }}</strong></p>
+<p id="error_text">{{ site.translations.error_404.message | default: "I'm sorry. We couldn't find the page you are looking for." }}</p>
