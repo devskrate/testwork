@@ -33,7 +33,7 @@
     </p>
 
     <ul>
-      {% assign menu = "Home,About,Contact,Feed" | split:"," %}
+      {% assign menu = "Home,About,Contact" | split:"," %}
       {% for item in site.menu %}
         {% if item.title and item.url and menu contains item.title %}
           <li>
