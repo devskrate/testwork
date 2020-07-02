@@ -9,8 +9,8 @@ image: >-
   https://devskrate.github.io/assets/blog-banners/oneplus-newtv-series.webp
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/oneplus-newtv-series.webp
-category: [mobiles]
-tags: [Flagship Killer, OnePlus, Realme ,iQOO]
+category: [gadgets]
+tags: [oneplus,tv]
 author: mohit
 ---
 
