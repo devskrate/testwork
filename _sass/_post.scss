@@ -608,12 +608,12 @@
 
     &:hover {
       .title {
-        color: rgba(255, 255, 255, 0.5);
+        color: $themeColor;
       }
 
       .image > img {
         -webkit-filter: grayscale(100%);
-        filter: grayscale(100%);
+        filter: grayscale(30%);
       }
     }
 
@@ -681,7 +681,7 @@
       }
 
       &:hover {
-        color: $accentDark;
+        color: $themeColor;
         background-color: $primaryDark;
       }
     }
