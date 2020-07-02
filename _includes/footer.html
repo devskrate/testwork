@@ -32,7 +32,16 @@
       {% endif %}
     </p>
 
-    {% include links.html %}
+    <ul>
+      {% assign menu = "Home,About,Contact,Feed" | split:"," %}
+      {% for item in site.menu %}
+        {% if item.title and item.url and menu contains item.title %}
+          <li>
+            <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
 
     <p>
       <span>DevsKrate </span>is made with <svg class="love"><use xlink:href="#icon-heart"></use></svg> by <a href="https://DevsKrate.com/contributors" target="_blank" class="creator">Team DevsKrate</a>
