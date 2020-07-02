@@ -6,9 +6,9 @@ subtitle: "OnePlus launches two new series of smart tv's to compete aginst like 
 description: >-
   OnePlus launches two new series of smart TVs to compete against like the of Xiamoi, Viu.
 image: >-
-  https://devskrate.github.io/assets/blog-banners/best-flagship-2020-q1.jpg
+  https://devskrate.github.io/assets/blog-banners/oneplus-newtv-series.webp
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/best-flagship-2020-q1.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/oneplus-newtv-series.webp
 category: [mobiles]
 tags: [Flagship Killer, OnePlus, Realme ,iQOO]
 author: mohit
