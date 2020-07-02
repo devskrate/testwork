@@ -49,6 +49,8 @@ The Y-series range of Tv comes in at two sizes the 32-inch HD and 43-inch Full-H
 
 The Y series of the TV are almost similar to the U1 but with a few changes. Both of these smart TVs come with a bezel-less design, 93% DCI-P3 wide color gamut, and Gamma Engine as well but the screen-to-body ratio varies. The 32-inch comes with 88.5% SBR while the 43-inch comes with 91.2% SBR, which is a bit lower when compared to the 95% SBR that the U1 comes with. 
 
+#### Hardware:
+
 The Y-series OnePlus TVs are also powered by a MediaTek processor but with a lower 1GB of RAM and 8GB of storage to go with it. The software is the same. The I/O is also the same. the main difference is that this Y-Series of smart Tv's come with only a 20W(2x 10W) with Dolby Audio support.
 
 ### Price & Availability
