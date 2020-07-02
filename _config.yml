@@ -12,7 +12,7 @@ tags:
   - Tutorials
   - Code
 email: contact@devskrate.com
-disqus_username: disqus_username
+# disqus_username: disqus_username
 show_hero: true
 menu:
   - title: Home
