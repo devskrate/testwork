@@ -108,11 +108,11 @@ translations:
     text: "Why don't you read something next?"
     back_btn: "Go back to top"
   error_404:
-    title: "Page not found :("
-    message: "I'm sorry. We couldn't find the page you are looking for."
+    title: "Oops! You tried to travel to moon, but lost in middle."
+    message: "Don't worry, We will help you to get back to earth. Click our logo on top!"
     image_alt: "404 - Page not found"
   contact:
-    title: "Talk to me"
+    title: "Do you have something to say?"
     subject: "New contact!"
     submit_btn: "Send"
     placeholders:
