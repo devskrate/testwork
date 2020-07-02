@@ -9,7 +9,7 @@ image: >-
   https://devskrate.github.io/assets/blog-banners/realme-x3-series.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/realme-x3-series.webp
-category: [mobile]
+category: [mobiles]
 tags: [Realme, Realme X3, Realme X3 SuperZoom]
 author: mohit
 ---

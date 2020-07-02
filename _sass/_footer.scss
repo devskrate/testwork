@@ -35,13 +35,14 @@ footer {
 
   p {
     text-decoration: none;
-    color: black;
+    color: #808080;
     font-size: rem(16px);
     line-height: rem(25px);
   }
 
   span {
     font-weight: 700;
+    color: white;
   }
 
   svg {
@@ -72,6 +73,7 @@ footer {
     
     &:hover {
       fill: $themeColor;
+      color: $themeColor;
     }
     
     &.creator:hover {

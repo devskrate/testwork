@@ -7,7 +7,7 @@ description: GitHub teams is the most useful feature for projects who relay on G
 author: satya
 category: [news]
 image: https://devskrate.github.io/assets/blog-banners/github-teams.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/github-teams.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/github-teams.webp
 tags: [github, teams, developers]
 ---
 
