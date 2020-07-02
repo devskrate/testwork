@@ -42,6 +42,7 @@ footer {
 
   span {
     font-weight: 700;
+    color: white;
   }
 
   svg {
@@ -72,6 +73,7 @@ footer {
     
     &:hover {
       fill: $themeColor;
+      color: $themeColor;
     }
     
     &.creator:hover {
