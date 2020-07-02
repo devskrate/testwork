@@ -51,10 +51,16 @@
       color: #fff;
       text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
       margin: rem(10px) 0;
+      text-decoration: none;
+      font-weight: bold;
 
       @include media(">=sm") {
         font-size: rem(50px);
       }
+    }
+
+    .title:hover{
+      color: $themeColor;
     }
 
     .description {
