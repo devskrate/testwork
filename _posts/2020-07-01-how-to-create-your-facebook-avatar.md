@@ -5,7 +5,7 @@ title: "Facebook launches Avatars and here is how to make yours"
 subtitle: Facebook or snapchat which one's are good??
 description: PUBG is from PUBG corporation and Tencent has share in PUBG mobile...
 image: https://devskrate.github.io/assets/blog-banners/facebook-avatar.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/facebook-avatar.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/facebook-avatar.webp
 author: nikhil
 category: [news]
 tags: [facebook, bitmoji, avatar]
