@@ -5,7 +5,7 @@ title: "Is PUBG a chinese game?? Let's find out"
 subtitle: PUBG chinese game or not..
 description: PUBG is from PUBG corporation and Tencent has share in PUBG mobile...
 image: https://devskrate.github.io/assets/blog-banners/pubg-chineese.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/pubg-chineese.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/pubg-chineese.webp
 author: puneeth
 category: [news]
 tags: [Game, pubg]
