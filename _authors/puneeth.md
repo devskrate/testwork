@@ -6,7 +6,7 @@ display_name: Puneeth
 position: Chief Editor
 bio: Student developer
 github_username: puneethkanna
-facebook_username: srisatyalokesh2.12
+facebook_username: 
 twitter_username: puneeth_kanna
 instagram_username: neerukondapuneeth
 linkedin_username: neerukondapuneeth

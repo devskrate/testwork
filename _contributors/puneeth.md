@@ -1,14 +1,14 @@
 ---
-layout: contributor
+layout: author
 photo: /assets/img/persons/puneeth-profile.jpg
 name: puneeth
 display_name: Puneeth
-position: Designer, Developer and Blogger
-bio: Software Engineer at <a href="dhan.ai">Dhan AI</a>.
-github_username: srisatyalokesh
-facebook_username: srisatyalokesh2.12
-twitter_username: codewithsatya
-instagram_username: man_with_3_eyes
-linkedin_username: srisatyalokesh
-medium_username: srisatyalokesh
+position: Chief Editor
+bio: Student developer
+github_username: puneethkanna
+facebook_username: 
+twitter_username: puneeth_kanna
+instagram_username: neerukondapuneeth
+linkedin_username: neerukondapuneeth
+medium_username: neerukondapuneeth
 ---
