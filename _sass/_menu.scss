@@ -45,13 +45,15 @@ aside.sidebar {
 
   &.open {
     left: 0;
+    background-color: black;
   }
 
   h2 {
     margin: 0 rem(20px) 0;
+    color: white;
     @include mainFont(400);
     font-size: rem(18px);
-    border-bottom: 1px solid $primaryDark;
+    border-bottom: 1px solid white;
     line-height: 50px;
     isolation: isolate;
     
@@ -82,10 +84,10 @@ aside.sidebar {
           padding: rem(15px) rem(20px);
           text-decoration: none;
           @include mainFont(300);
-          color: $primaryDark;
+          color: white;
 
           &:hover {
-            color: $accentDark;
+            color: black;
             background: $themeColor;
           }
         }
