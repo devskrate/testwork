@@ -4,7 +4,7 @@ photo: /assets/img/persons/satya-profile.jpg
 name: satya
 display_name: Satya Lokesh
 position: Designer, Developer and Blogger
-bio: Software Engineer at <a href="dhan.ai">Dhan AI</a>.
+bio: Software Engineer at <a href="https://dhan.ai">Dhan AI</a>.
 github_username: srisatyalokesh
 facebook_username: srisatyalokesh2.12
 twitter_username: codewithsatya
