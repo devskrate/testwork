@@ -10,7 +10,7 @@ category: [howto]
 tags: [facebook, photos]
 author: nikhil
 paginate: false
-is_generated: true
+is_generated: false
 ---
 
 Finally Facebook had made the data transfer tool available to all over the globe through the [blog post](https://about.fb.com/news/2019/12/data-portability-photo-transfer-tool/), which was earlier available only to to the Users in USA and Canada.

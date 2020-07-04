@@ -9,6 +9,7 @@ optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/pylan
 author: nikhil
 category: [dev]
 tags: [microsoft, python, vs code]
+is_generated: false
 ---
 
 Microsoft has announced its Pylance extension for fast and feature-rich language support for Python on Visual Studio Code. Pylance depends on the existing <a href="https://marketplace.visualstudio.com/items?itemName=ms-python.python" target="_blank">Python extension</a> and builds up the experience.
