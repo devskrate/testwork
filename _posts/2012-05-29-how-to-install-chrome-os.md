@@ -4,8 +4,8 @@ layout: post
 title: Install Chrome OS in a PC
 subtitle: Here is how to install Chrome OS on your PC
 description: Ever felt to install Chrome OS with Play Store on your PC? Here is how..
-image: https://devskrate.github.io/assets/blog-banners/.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/.webp
+image: https://devskrate.github.io/assets/blog-banners/install-chrome-os.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/install-chrome-os.webp
 category: [howto]
 tags: [chrome os, google]
 author: nikhil
@@ -65,14 +65,14 @@ First thing we need to do is flash our drive with Linux man we're gonna start up
 
 We're gonna navigate to where we have the Linux Mint image and finally we'll click start this is gonna flash Linux Mint to that USB drive so we can boot it up live on our PC you get a couple warnings Yes and we want to write this in an ISO image mode click OK all the data on the USB Drive will be destroyed. We're now done with flashing the Linux Mint to our USB Drive.
 
-<img style="display: inline; margin: 0 5px;" src="https://devskrate.github.io/assets/images/chromeos/rufus-1.webp" width="500">
-<img style="display: inline; margin: 0 5px;" src="https://devskrate.github.io/assets/images/chromeos/rufus-2.webp" width="500">
-<img style="display: inline; margin: 0 5px;" src="https://devskrate.github.io/assets/images/chromeos/rufus-3.webp" width="500">
-<img style="display: inline; margin: 0 5px;" src="https://devskrate.github.io/assets/images/chromeos/rufus-4.webp" width="500">
+<a href="https://devskrate.github.io/assets/images/chromeos/rufus-1.webp" data-lightbox="image-1" data-title="Rufus"><img width="25%" src="https://devskrate.github.io/assets/images/chromeos/rufus-1.webp"></a>
+<a href="https://devskrate.github.io/assets/images/chromeos/rufus-2.webp" data-lightbox="image-1" data-title="Rufus"><img width="25%" src="https://devskrate.github.io/assets/images/chromeos/rufus-2.webp"></a>
+<a href="https://devskrate.github.io/assets/images/chromeos/rufus-3.webp" data-lightbox="image-1" data-title="Rufus"><img width="25%" src="https://devskrate.github.io/assets/images/chromeos/rufus-3.webp"></a>
+<a href="https://devskrate.github.io/assets/images/chromeos/rufus-4.webp" data-lightbox="image-1" data-title="Rufus"><img width="25%" src="https://devskrate.github.io/assets/images/chromeos/rufus-4.webp"></a>
 
 Now it's time to get the other files we downloaded. Create a folder called Chrome OS and move the install.sh file that we've downloaded inside of this folder. Now extract both the files Brunch and Chrome OS image and move all the files from both of them into the Chrome OS folder you've created. Then move the Chrome OS folder into the USB Drive.
 
-<img src="https://devskrate.github.io/assets/images/chromeos/chrome-os-folder.webp" alt="Chrome OS Folder" title="Chrome OS Folder">
+<img src="https://devskrate.github.io/assets/images/chromeos/chrome-os-folder.jpg" alt="Chrome OS Folder" title="Chrome OS Folder">
 
 Now, finally your bootable drive is ready.
 
@@ -91,7 +91,7 @@ Now, finally your bootable drive is ready.
 
 7. Then right click and open terminal in Chrome OS directory.
 
-<img src="https://devskrate.github.io/assets/images/chromeos/open-terminal.webp" alt="Open Terminal" title="Open Terminal">
+<img src="https://devskrate.github.io/assets/images/chromeos/open-terminal.jpg" alt="Open Terminal" title="Open Terminal">
 
 8. Now, in terminal run the command `sudo sh install.sh`. In this step it will download some dependences, that's why you need to be online.
 
@@ -110,10 +110,10 @@ Now, finally your bootable drive is ready.
 
 Then your pc will be booted with Chrome OS and follow the instructions on the screen to setup the device.
 
-<img style="display: inline; margin: 0 5px;" src="https://devskrate.github.io/assets/images/chromeos/chrome-boot-1.webp" width="300">
-<img style="display: inline; margin: 0 5px;" src="https://devskrate.github.io/assets/images/chromeos/chrome-boot-2.webp" width="300">
-<img style="display: inline; margin: 0 5px;" src="https://devskrate.github.io/assets/images/chromeos/chrome-boot-3.webp" width="300">
-<img style="display: inline; margin: 0 5px;" src="https://devskrate.github.io/assets/images/chromeos/chrome-boot-4.webp" width="300">
+<a href="https://devskrate.github.io/assets/images/chromeos/chrome-boot-1.jpg" data-lightbox="image-1" data-title="Rufus"><img width="25%" src="https://devskrate.github.io/assets/images/chromeos/chrome-boot-1.jpg"></a>
+<a href="https://devskrate.github.io/assets/images/chromeos/chrome-boot-2.jpg" data-lightbox="image-1" data-title="Rufus"><img width="25%" src="https://devskrate.github.io/assets/images/chromeos/chrome-boot-2.jpg"></a>
+<a href="https://devskrate.github.io/assets/images/chromeos/chrome-boot-3.jpg" data-lightbox="image-1" data-title="Rufus"><img width="25%" src="https://devskrate.github.io/assets/images/chromeos/chrome-boot-3.jpg"></a>
+<a href="https://devskrate.github.io/assets/images/chromeos/chrome-boot-4.jpg" data-lightbox="image-1" data-title="Rufus"><img width="25%" src="https://devskrate.github.io/assets/images/chromeos/chrome-boot-4.jpg"></a>
 
 For more detailed procedure of installation, go through the video by [Kedar Nimbalkar](https://www.youtube.com/channel/UCjQ-YHwNTbUQLVzZQFjsDsQ)
 
