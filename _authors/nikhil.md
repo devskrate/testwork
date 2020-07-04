@@ -4,12 +4,12 @@ photo: /assets/img/persons/nikhil-profile.jpg
 name: nikhil
 display_name: Nikhil Pyreddy
 position: Chief Editor
-bio: Student Developer
-github_username: srisatyalokesh
-facebook_username: srisatyalokesh2.12
-twitter_username: codewithsatya
-instagram_username: man_with_3_eyes
-linkedin_username: srisatyalokesh
-medium_username: srisatyalokesh
+bio: Tech Enthusiast
+github_username: nikhilpyreddy
+facebook_username: nikilkumarreddypyreddy
+twitter_username: NPyreddy
+instagram_username: nikhil_pyreddy
+linkedin_username: nikhilreddypyreddy
+medium_username: nikhilpyreddy
 is_member: True
 ---
