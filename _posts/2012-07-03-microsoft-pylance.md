@@ -39,4 +39,4 @@ To improve user experience, Pylance is created as a brand-new language server ba
 - IntelliCode compatibility
 - Jupyter Notebooks compatibility
 
-you can now download the Pylance extension from the <a href="https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance" target="_blank">VS Marketplace</a>
+You can now download the Pylance extension from the <a href="https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance" target="_blank">VS Marketplace</a>

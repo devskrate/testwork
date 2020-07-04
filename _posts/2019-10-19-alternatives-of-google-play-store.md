@@ -22,7 +22,7 @@ Alternative App Stores, Websites, Modified App Stores.
 
 **1. Amazon App Store**
 
-![Amazon App Store](https://devskrate.github.io/assets/images/alternatives/google-play-store/amazon-app-store.webp)
+![Amazon App Store](https://images-eu.ssl-images-amazon.com/images/G/02/AmazonMobileApps/Hollywood/hollywood-lp-icon._CB485932985_.png)
 
 This App Store is from famous gaint **Amazon**. This app store used to be present in Google Play Store, but later it was taken over by Amazon. The main reason for recommandingthis app store is that, it lets the user to download a paid app for free once a day.
 
@@ -37,7 +37,7 @@ This App Store is from famous gaint **Amazon**. This app store used to be presen
 
 Discover and distribute top apps in the safest Android app store. No geo-restrictions so that you can find all the content you want, wherever you want. In Aptoide you can even find the apps that are not compatible for your device in Google Play Store.
 
-<img src="https://devskrate.github.io/assets/images/alternatives/google-play-store/aptoide1.webp" alt="aptoide" style="width:200px;"/> <img src="https://devskrate.github.io/assets/images/alternatives/google-play-store/aptoide2.webp" alt="aptoide" style="width:200px;"/> <img src="https://devskrate.github.io/assets/images/alternatives/google-play-store/aptoide3.webp" alt="aptoide" style="width:200px;"/>
+<img src="https://cdn6.aptoide.com/imgs/a/4/a/a4a27be4bb6f17cd3fbb159dd7344146_icon.png?w=160" alt="aptoide" style="width:200px;"/>
 
 ##### pros:
 
@@ -49,7 +49,7 @@ Discover and distribute top apps in the safest Android app store. No geo-restric
 
 **3. APKPure**
 
-![APKPure](https://devskrate.github.io/assets/images/alternatives/google-play-store/apk-pure.webp)
+![APKPure](https://image.winudf.com/v2/image/YWRtaW5fU2xpY2UgMS5wbmdfMTUzOTE1MjYwNTY0MQ/icon.png?w=170&fakeurl=1)
 
 APKPure (APK Downloader) App is officially released! With APKPure, you can instantly download and update region locked (not available in your country), pre-registered games and many other Apps on Android.
 
@@ -64,8 +64,7 @@ APKPure (APK Downloader) App is officially released! With APKPure, you can insta
 
 XDA Labs is built entirely in-house by the XDA developers and is the best way to access the forums while on mobile. It’s fully Material Design, ad-free, and fast.
 
-![XDA Labs logo](https://devskrate.github.io/assets/images/alternatives/google-play-store/xda-labs-logo.webp)
-<img src="https://devskrate.github.io/assets/images/alternatives/google-play-store/panel.webp" alt="XDA labs" style="width:500px; height:200"/>
+![XDA Labs](https://forum.xda-cdn.com/images/suggested-apps/labs.png)
 
 ##### pros:
 
@@ -80,7 +79,6 @@ XDA Labs is built entirely in-house by the XDA developers and is the best way to
 F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
 
 ![Fdroid logo](https://devskrate.github.io/assets/images/alternatives/google-play-store/fdroid-logo.svg)
-<img src="https://devskrate.github.io/assets/images/alternatives/google-play-store/f-droid.webp" alt="Fdroid" style="width:250px; height:410px; background: url('https://devskrate.github.io/assets/images/alternatives/google-play-store/fdroid-screenshot-en.webp') center center no-repeat; background-size: 78% auto"/>
 
 <a href="https://f-droid.org/en/" target="_blank"><button style="cursor: pointer; color: whitesmoke; background-color: black; display: inline-block;text-decoration: none; border: none; max-width: 100%; font-size:20px">Download F-Droid
 </button></a>
@@ -89,7 +87,7 @@ F-Droid is an installable catalogue of FOSS (Free and Open Source Software) appl
 
 This app lets you access thousands of free applications from GetJar.com. Check out your favorite categories like games and entertainment, or browse the 100+ free premium apps we have in GetJar Gold that are worth a combined total over \$200!
 
-<img src="https://devskrate.github.io/assets/images/alternatives/google-play-store/getjar1.webp" alt="getjar" style="width:200px;"/> <img src="https://devskrate.github.io/assets/images/alternatives/google-play-store/getjar2.webp" alt="getjar" style="width:200px;"/> <img src="https://devskrate.github.io/assets/images/alternatives/google-play-store/getjar3.webp" alt="getjar" style="width:200px;"/>
+<img src="https://static.getjar.com/icon-50x50/a3/16914_thm.png" alt="getjar" style="width:200px;"/>
 
 <a href="https://www.getjar.com/categories/search-apps/GetJar-Apps-16914" target="_blank"><button style="cursor: pointer; color: whitesmoke; background-color: black; display: inline-block;text-decoration: none; border: none; max-width: 100%; font-size:20px">Download Getjar
 </button></a>
@@ -98,7 +96,7 @@ This app lets you access thousands of free applications from GetJar.com. Check o
 
 The SlideME Application Manager (SAM) app provides access to a curated list of the very best of Android applications available from SlideME. All the apps are manually approved and tested on a wide variety of devices, to make sure you get the best experience possible on your device, from your device.
 
-<img src="https://devskrate.github.io/assets/images/alternatives/google-play-store/slideme.webp" alt="getjar" style="width:400px; height:200px"/>
+<img src="http://slideme.org/files/slideme_logo.png" alt="Slide ME" style="width:400px; height:200px"/>
 
 <a href="http://slideme.org/application/slideme-marketplace" target="_blank"><button style="cursor: pointer; color: whitesmoke; background-color: black; display: inline-block;text-decoration: none; border: none; max-width: 100%; font-size:20px">Download Slide Me
 </button></a>
