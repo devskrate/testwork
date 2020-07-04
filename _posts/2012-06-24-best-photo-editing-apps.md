@@ -10,7 +10,7 @@ category: [apps]
 tags: [photo editing, android, ios]
 author: nikhil
 paginate: false
-is_generated: false
+is_generated: true
 ---
 
 Your phone's gallery is bursting with new pictures and photos you've taken over the years, desperate to see the light of day again and get a fresh new makeover. The iPhone app store on iOS and Google Play store on Android are full of creative apps that can give your existing shots a whole new look.

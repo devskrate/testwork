@@ -10,7 +10,7 @@ category: [tech]
 tags: [boston dynamics, spot, robot]
 author: nikhil
 paginate: false
-is_generated: false
+is_generated: true
 ---
 
 Spot, a four-legged robot made by Boston Dynamics is a nimble robot that climbs stairs and traverses rough terrain with unprecedented ease, yet is small enough to use indoors. Built to be a rugged and customizable platform, Spot has an industry track record in remote operation and autonomous sensing.
