@@ -21,7 +21,7 @@ Microsoft has developed an Xbox Game Streaming app for Windows 10 that will be a
 <img src="https://devskrate.github.io/assets/images/microsoft/xcloudpcwindows10_3.webp" style="width: 300px; display: inline" />
 <img src="https://devskrate.github.io/assets/images/microsoft/xcloudpcwindows10_4.jpg" style="width: 300px; display: inline" />
 <img src="https://devskrate.github.io/assets/images/microsoft/xcloudpcwindows10_5.jpg" style="width: 300px; display: inline" />
-<img src="https://devskrate.github.io/assets/images/microsoft/xcloudpcwindows10_5.webp" style="width: 300px; display: inline" />
+
 
 There are a variety of games available to Microsoft employees to test, but the app is currently limited to 720p streams for now. “This internal preview is running at 720p resolution with 1080p just around the corner,” reveals an internal Microsoft support note.
 

@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/persons/mohit-profile.jpg
+photo: /assets/img/persons/mohit-profile.webp
 name: mohit
 display_name: Mohit
 position: Chief Editor

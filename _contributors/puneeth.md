@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/persons/puneeth-profile.jpg
+photo: /assets/img/persons/puneeth-profile.webp
 name: puneeth
 display_name: Puneeth
 position: Chief Editor

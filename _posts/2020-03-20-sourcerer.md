@@ -11,7 +11,7 @@ category: [dev]
 tags: [sourcerer, github, visual profile]
 author: puneeth
 paginate: false
-is_generated: false
+is_generated: true
 ---
 
 Sourcerer is a visual profile for software engineers that helps you learn things about yourself, connect with others, and become a better engineer.

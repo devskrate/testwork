@@ -52,7 +52,7 @@ Download from here - [https://code.visualstudio.com/download](https://code.visua
 
 **3. Markdown Renderer Extension** - [download](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 
-![Markdown gif](https://devskrate.github.io/assets/images/vscode/md-image.webp)
+![Markdown gif](https://devskrate.github.io/assets/images/vscode/md-image.png)
 
 - Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc.
 

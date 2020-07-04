@@ -10,7 +10,7 @@ category: [howto]
 tags: [seo, google, sarch]
 author: nikhil
 paginate: false
-is_generated: false
+is_generated: true
 ---
 
 As we all know, the biggest challenge in internet marketing is getting traffic to your website. However difficult it may be, it is a must if you want to be successful. You could pay for Google AdWords, and pray that your campaign doesn’t get slapped by Google, or you could spend a few extra minutes every day, and get a better listing with more traffic for free.

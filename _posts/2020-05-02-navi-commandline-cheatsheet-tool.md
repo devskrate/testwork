@@ -4,7 +4,7 @@ layout: post
 title: Navi - An interactive commandline cheatsheet tool
 subtitle: You dont need to remember hundreds of commands from now.
 description: Navi gives you freedom to search and store cheatsheet od commands you use.
-image: https://devskrate.github.io/assets/blog-banners/navi.jpg
+image: https://devskrate.github.io/assets/blog-banners/navi.png
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/navi.webp
 author: satya
 category: [dev]

@@ -18,7 +18,7 @@ is_generated: false
 All the wait is over. Finally,the Apple iPhone SE 2020 is ready for competition.  
 The most awaited iPhone SE has been scilently released by Apple into it's <a href="https://www.apple.com/" target="_blank">website</a>.
 
-<img src="https://devskrate.github.io/assets/images/apple/se-img.webp" alt="iPhone SE 2020" title="iPhone SE 2020" />
+<center><img src="https://devskrate.github.io/assets/images/apple/se-img.webp" alt="iPhone SE 2020" title="iPhone SE 2020" width="30%"/></center>
 
 ## Tech Specs:
 
