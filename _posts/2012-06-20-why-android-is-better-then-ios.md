@@ -1,10 +1,16 @@
 ---
+date: 2012-06-20 17:26:40
 layout: post
-title: "7 Things Android can do better than iOS"
-author: nikhil
+title: 7 Things Android can do better than iOS
+subtitle: Get to know why Andriod is better than iOS
+description: These are the 7 things where Android can do better than iOS
+image: https://devskrate.github.io/assets/blog-banners/android-better-then-ios.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/android-better-then-ios.webp
 category: [android]
-image: https://devskrate.github.io/assets/blog-banners/android-better-then-ios.webp
 tags: [comparision, android vs ios]
+author: nikhil
+paginate: false
+is_generated: false
 ---
 
 Google's Android Operating System is now a very **mature Operating System** and had been up with 11 versions of different flavours. Google released the first public beta of Android 11 last week, and it does look good. From the new Quick Controls screen to a built-in screen recording tool, Android users are in for a treat when it launches later this year. Apple will have its first chance to show off what iOS 14 is going to bring iPhones at WWDC on June 22, but for now, it's looking like Android 11 could expand the list of features that the iPhone doesn't yet have.
@@ -47,7 +53,7 @@ Apple's approach to the home screen is to place all installed apps in a rigid gr
 
 The benefit of Android's approach is that you can customize the home screen by arranging app icons in any pattern of your choosing, and Android supports widgets of varying sizes. Right now, Apple's Today view is the only place you'll find a widget.
 
-<a href="https://devskrate.github.io/assets/images/android/home.webp" data-lightbox="image-1" data-title="Android Home Screen"><img width="40%" src="https://devskrate.github.io/assets/images//android/home.webp"></a>
+<a href="https://devskrate.github.io/assets/images/android/home.jpg" data-lightbox="image-1" data-title="Android Home Screen"><img width="40%" src="https://devskrate.github.io/assets/images//android/home.webp"></a>
 
 ### Use launchers to fully customize your phone
 
@@ -55,7 +61,7 @@ Launchers are the epitome of Android customization. These apps let you completel
 
 Launchers like Nova Launcher, Microsoft's Launcher, Apex Launcher and Action Launcher all add their own twists and features to your Android phone.
 
-<a href="https://devskrate.github.io/assets/images/android/launcher.webp" data-lightbox="image-1" data-title="Select a Launcher"><img width="40%" src="https://devskrate.github.io/assets/images//android/launcher.webp"></a>
+<a href="https://devskrate.github.io/assets/images/android/launcher.jpg" data-lightbox="image-1" data-title="Select a Launcher"><img width="40%" src="https://devskrate.github.io/assets/images//android/launcher.webp"></a>
 
 ### Never get bored with automatic wallpapers
 
@@ -75,8 +81,8 @@ In addition to Google Maps and video apps, you can also use picture-in-picture f
 iPhones don't have any sort of picture-in-picture mode. What you see on the screen is what you get.
 
 <a href="https://devskrate.github.io/assets/images/android/pip1.webp" data-lightbox="image-1" data-title="Android Settings"><img width="20%" src="https://devskrate.github.io/assets/images//android/pip1.webp"></a>
-<a href="https://devskrate.github.io/assets/images/android/pip2.webp" data-lightbox="image-1" data-title="Apps & Notifications"><img width="20%" src="https://devskrate.github.io/assets/images/android/pip2.webp"></a>
+<a href="https://devskrate.github.io/assets/images/android/pip2.jpg" data-lightbox="image-1" data-title="Apps & Notifications"><img width="20%" src="https://devskrate.github.io/assets/images/android/pip2.webp"></a>
 <a href="https://devskrate.github.io/assets/images/android/pip3.webp" data-lightbox="image-1" data-title="Android Settings"><img width="20%" src="https://devskrate.github.io/assets/images//android/pip3.webp"></a>
-<a href="https://devskrate.github.io/assets/images/android/pip4.webp" data-lightbox="image-1" data-title="Apps & Notifications"><img width="20%" src="https://devskrate.github.io/assets/images/android/pip4.webp"></a>
+<a href="https://devskrate.github.io/assets/images/android/pip4.jpg" data-lightbox="image-1" data-title="Apps & Notifications"><img width="20%" src="https://devskrate.github.io/assets/images/android/pip4.webp"></a>
 
 So, these are a few things Android can do better then iOS. Not that Apple's iOS is an incapable operating system, iOS had also done some revolutionising things of appreciation. Soon see you with the features that iOS can do better than Android😊✌.

@@ -5,7 +5,7 @@ title: Transfer your media from Facebook to Google Phtos
 subtitle: You can now transfer all your Facebook media to Google Photos
 description: Facebook's data transfer tool can be used to transfer you Facebook media to Photos by Google
 image: https://devskrate.github.io/assets/blog-banners/transfer-fb-to-photos.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/transfer-fb-to-photos-opt.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/transfer-fb-to-photos.webp
 category: [howto]
 tags: [facebook, photos]
 author: nikhil
@@ -29,7 +29,7 @@ So, how to transfer your photos and videos? Here's the way:
 
 **3.** Now, go to **Your Facebook information** section and select **Transfer a copy of your photos or videos**.
 
-<img src="https://devskrate.github.io/assets/images/internet/fb-tool-info.webp" alt="Facebook Data Transfer Tool" title="Facebook Data Transfer Tool" border= "1px solid #555">
+<img src="https://devskrate.github.io/assets/images/internet/fb-tool-info.png" alt="Facebook Data Transfer Tool" title="Facebook Data Transfer Tool" border= "1px solid #555">
 
 **4.** Here, enter your Facebook password, if prompted and choose the transfer destination as **Google Photos**.
 
