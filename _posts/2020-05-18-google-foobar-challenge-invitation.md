@@ -32,7 +32,7 @@ This is how the invitation looks like -
 
 > “You’re speaking our language. Up for a challenge?”
 
-![foobar-invitation](https://devskrate.github.io/assets/images/google/foobar-invitation.webp)
+![foobar-invitation](https://devskrate.github.io/assets/images/google/foobar-invitation.jpg)
 
 ##### How can I take this challenge without an invitation?
 
@@ -40,23 +40,23 @@ We appreciate your interest towards this but, the sad thing is without an invita
 
 As we already said that Google Foobar is an invitation based hiring challenge. That means, you can only take the challenge if you have got the invitation from Google for Foobar.
 
-![foobar-without-invitation](https://devskrate.github.io/assets/images/google/foobar-without-invitation.webp)
+![foobar-without-invitation](https://devskrate.github.io/assets/images/google/foobar-without-invitation.jpg)
 
 ##### What happens after getting an invitation?
 
 When you get the invitation, and you accepted that, you will be redirected to [Google's Foobar](https://foobar.withgoogle.com/) website which looks like a linux command-line interface.
-![foobar-interface](https://devskrate.github.io/assets/images/google/foobar-home.webp)
+![foobar-interface](https://devskrate.github.io/assets/images/google/foobar-home.jpg)
 
 After you request for the challenge using the command `request`, you will get some files in your Foobar command-line folder which contains some competitive programming question waiting for you.You can submit your answers either in **Java** or **Python**.
 You will get two files to write the solution to your problem statement `solution.java` and `solution.py`. You can write your solution in your preferred language out of these two.
 
 You can `save` and `run` the files and once you're confident you can `submit` and `verify` the results.
 
-![foobar-coding](https://devskrate.github.io/assets/images/google/foobar-coding.webp)
+![foobar-coding](https://devskrate.github.io/assets/images/google/foobar-coding.jpg)
 
 In a similar way you'll have **five** levels to complete.
 
-![foobar-levels](https://devskrate.github.io/assets/images/google/foobar-levels.webp)
+![foobar-levels](https://devskrate.github.io/assets/images/google/foobar-levels.jpg)
 
 After you complete all the 5 levels, you get a form to fill your name and your contact details to contact you.
 

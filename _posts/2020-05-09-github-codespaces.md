@@ -31,7 +31,7 @@ As the title says Codespaces is Your instant Dev Environment. you'll get the ful
 Till now, to contribute to a project you would need to clone the repository, and set up the environment on your local machine according to the requirements of a project. This is the toughest part we've ever felt.
 But with Codespaces, you don’t need to do this anymore. Just with a single click Github will setup the whole environment within seconds.
 
-![github-codespaces](https://devskrate.github.io/assets/images/mlogs/github/codespaces1.gif)
+![github-codespaces](https://devskrate.github.io/assets/images/mlogs/github/codespaces1.gif){:Width="75%"}
 
 #### Key Features of CodeSpaces
 
@@ -49,7 +49,7 @@ You can automatically set up dependencies and SSH keys. Go from code to commit f
 
 As we said earlier Codespaces is your Visual Studio Code experience. you can install all the best [vscode extensions](https://devskrate.com/configure-vscode-like-a-pro/)
 
-![github-codespaces](https://devskrate.github.io/assets/images/mlogs/github/github-vscode.webp)
+![github-codespaces](https://devskrate.github.io/assets/images/mlogs/github/github-vscode.jpg)
 
 ###### 4. Develop from anywhere, anytime
 
@@ -62,7 +62,7 @@ With your development in the cloud, you can contribute code from any device, usi
 
 Contribute to projects without complicating your local setup. Spin up dev environments with a click—even for projects you haven't worked on before—and switch between them with ease. Github supports all popular development programming languages support to make sure that you will have a great experience.
 
-![github-codespaces](https://devskrate.github.io/assets/images/mlogs/github/dependencies-1.webp)
+![github-codespaces](https://devskrate.github.io/assets/images/mlogs/github/dependencies-1.png){:width="50%"}
 
 #### Signup for beta now.
 

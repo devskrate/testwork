@@ -55,7 +55,7 @@ This command checks your environment and displays a report to the terminal windo
 
 **1.** Open android studio and then goto settings and then Android SDK.
 
-![Android-studio-settings-sdk](https://devskrate.github.io/assets/images/android/flutter-install-1.webp)
+<a href="https://devskrate.github.io/assets/images/android/flutter-install-1.webp" data-lightbox="image-2" data-title="Android-studio-settings-sdk"><img width="" src="https://devskrate.github.io/assets/images/android/flutter-install-1.webp" alt="Android-studio-settings-sdk"></a>
 
 **2.** Now UNCHECK the "Hide Obsolete packages" and then verify all the below mentioned are installed.
 
@@ -64,7 +64,7 @@ This command checks your environment and displays a report to the terminal windo
 - Android SDK Platform-Tools
 - Android SDK Tools(Obsolete) [This is generally hidden until you uncheck the Hide Obsolete Packages]
 
-![Android-SDK-Tools(Obsolete)-Install](https://devskrate.github.io/assets/images/android/flutter-install-2.webp)
+<a href="https://devskrate.github.io/assets/images/android/flutter-install-2.webp" data-lightbox="image-2" data-title="Android-SDK-Tools(Obsolete)-Install"><img width="" src="https://devskrate.github.io/assets/images/android/flutter-install-2.webp" alt="Android-SDK-Tools(Obsolete)-Install"></a>
 
 Install(Tick all the above and click apply, wait until download and installation of the above packages) the above packages.
 

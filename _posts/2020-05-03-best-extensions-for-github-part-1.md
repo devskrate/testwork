@@ -71,7 +71,7 @@ On GitHub, no matter what kind of file is, their icons are all same. However, in
 
 But this extension to replace original file icon with filetype-specific icons. This improves visual recognition on GitHub, GitLab, etc.
 
-![fileicons-demo](https://devskrate.github.io/assets/images/mlogs/github/file-icons.webp)
+![fileicons-demo](https://devskrate.github.io/assets/images/mlogs/github/file-icons.jpg)
 
 #### 5. Isometric Contributions -[Chrome](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien/related), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/isometric-github/?src=search)
 
@@ -80,7 +80,7 @@ Based on GitHub contribution chart renders an isometric(3D) pixel view of GitHub
 This extension allows you to toggle between both the normal GitHub contribution chart and an isometric pixel art version.
 
 Here is my github isometric contribution chart - **I'm loving it..**  
-![isometric-demo](https://devskrate.github.io/assets/images/mlogs/github/isometric.webp)
+![isometric-demo](https://devskrate.github.io/assets/images/mlogs/github/isometric.png)
 
 ##### Happy Quarantine
 

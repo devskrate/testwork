@@ -20,7 +20,7 @@ Realme earlier this year launched its X50 pro with Snapdragon 865 with 5G suppor
 
 Talking about the design, it's a glass sandwich build which is held together by a plastic frame. It is protected by Gorilla Glass 5 on the front and back. This phone comes with dual punch-hole cutouts to accommodate two cameras. Speaking of display it comes with 6.6 inch 120Hz IPS LCD panel, 120 Hz is good but would have loved to see Amoled instead of the IPS LCD. Since it is an LCD panel it comes with a side-mounted fingerprint scanner.
 
-![Realme X3 series Display and design](https://devskrate.github.io/assets/images/realme/realmex3-display.webp)
+![Realme X3 series Display and design](https://devskrate.github.io/assets/images/realme/realmex3-display.jpg)
 
 #### Internals and software:
 
