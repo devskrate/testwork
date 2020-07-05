@@ -2,7 +2,7 @@
 date: 2020-04-15T12:18:05.000Z
 layout: post
 title: One Plus 8 pro
-subtitle: 'Is One Plus 8 Pro the Real Flagship people asked'
+subtitle: 'Is One Plus 8 Pro the Real Flagship people asked for?'
 description: >-
   One Plus has finally launched its Flagship, Is this the true flagship people that people have been waiting for, lets find out in the article
 image: >-
