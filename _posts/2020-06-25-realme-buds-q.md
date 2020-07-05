@@ -2,9 +2,9 @@
 date: 2020-06-25 17:26:40
 layout: post
 title: Realme Buds Q launched in India
-subtitle: "Realme Buds Q with 10mm Drivers and many more at Rs. 1,999"
+subtitle: ""
 description: >-
-  Realme has announced it's new TWS at Rs. 1,999
+  Realme has announced it's new TWS with 10mm Drivers and many more at Rs. 1,999
 image: >-
   https://devskrate.github.io/assets/blog-banners/realme-buds-q.jpg
 optimized_image: >-
