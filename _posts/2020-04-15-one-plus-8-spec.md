@@ -1,8 +1,8 @@
 ---
 date: 2020-04-15T12:18:05.000Z
 layout: post
-title: One Plus 8 - Flagship Killer or Wallet Killer
-subtitle: 'One Plus has finally launched its much-awaited Flagship Killer, this is everything you need to know'
+title: One Plus 8
+subtitle: 'Is OnePlus 8 a Flagship Killer or Wallet Killer?'
 description: >-
   One Plus has finally launched its much-awaited Flagship Killer, Is this the true Flagship Killer that people want or will this endup 
   being a wallet killer, lets find out in the article
