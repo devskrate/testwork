@@ -2,9 +2,9 @@
 date: 2020-06-16 17:26:40
 layout: post
 title: Moto One Fusion Plus Launched in India
-subtitle: "Moto has launched it One Fusion in India starting at 16,999"
+subtitle: "Everything about Moto One Fusion"
 description: >-
-  Moto has launched it One Fusion in India, this is everything you need to know
+  Moto launched it's One Fusion in India starting at 16,999
 image: >-
   https://devskrate.github.io/assets/blog-banners/moto-fusion-plus.jpg
 optimized_image: >-
