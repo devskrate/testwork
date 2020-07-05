@@ -2,7 +2,7 @@
 date: 2020-05-13 17:26:40
 layout: post
 title: Poco F2 Pro Launched
-subtitle: "The most awaited successor to the Poco F1 is launched today, this everything you need to know"
+subtitle: "Here are the specs for Poco F2 Pro"
 description: >-
   Is Poco f2 pro just a rebranded Redmi k30 pro?, find out in this article.
 image: >-
