@@ -2,9 +2,9 @@
 date: 2020-06-25T12:18:05.000Z
 layout: post
 title: Lenovo all set to launch Legion's Gaming Phone
-subtitle: 'Legion all set to launch its gaming smartphone and this is everything you need to know'
+subtitle: ''
 description: >-
-  Legion all set to launch its gaming smartphone and this is everything you need to know
+   Lenovo new gaming smartphone is coming soon with top of the line specs
 image: >-
   https://devskrate.github.io/assets/blog-banners/lenovo-legion-phone.jpg
 optimized_image: >-
