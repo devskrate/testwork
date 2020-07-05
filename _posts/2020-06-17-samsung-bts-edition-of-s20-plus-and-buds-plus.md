@@ -2,7 +2,7 @@
 date: 2020-06-17 17:26:40
 layout: post
 title: Samsung Announced BTS Edition of S20+ and Buds+
-subtitle: "Samsung launched a BTS edition of Galaxy S20 plus and Buds plus"
+subtitle: "Everything about BTS edition of Galaxy S20 plus and Buds plus"
 description: >-
   Samsung launched a BTS edition of Galaxy S20 plus and Buds plus
 image: >-
