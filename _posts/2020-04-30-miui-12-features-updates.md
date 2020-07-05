@@ -2,7 +2,7 @@
 date: 2020-04-23 17:26:40
 layout: post
 title: MiUI 12 features
-subtitle: "Xiaomi has showed off it's latest skin of android MIUI 12, this is everything you need to know"
+subtitle: ""
 description: >-
   Xiaomi has showed off it's latest skin of android MIUI 12, this is everything you need to know
 image: >-
