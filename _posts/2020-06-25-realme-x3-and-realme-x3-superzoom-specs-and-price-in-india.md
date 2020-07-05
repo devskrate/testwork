@@ -2,7 +2,7 @@
 date: 2020-06-25 17:26:40
 layout: post
 title: Realme X3 and Realme X3 SuperZoom launched in India
-subtitle: "Realme has launched its X3 series in India with the Snapdragon 855+ and this is everything you need to know"
+subtitle: ""
 description: >-
   Realme has launched its X3 series in India with the Snapdragon 855+ and this is everything you need to know
 image: >-
