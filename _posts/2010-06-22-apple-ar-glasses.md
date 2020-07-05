@@ -1,8 +1,8 @@
 ---
 date: 2010-06-22T12:18:05.000Z
 layout: post
-title: Apple AR Glasses The Next Big Thing after the original iPhone
-subtitle: 'Apple new upcoming glasses might be the next big thing after the original iPhone'
+title: Apple AR Glasses
+subtitle: 'The Next Big Thing after the original iPhone'
 description: >-
   After the original iPhone, Apple launched several other products, some were good while some were bad 
   but none of them were revolutionary and Apple's AR glasses plans to change that.
