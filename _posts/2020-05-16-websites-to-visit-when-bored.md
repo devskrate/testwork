@@ -6,7 +6,7 @@ subtitle: These are few websites, when you get bored
 description: Ever felt idle? Visit these list of sites to kill some time
 image: https://devskrate.github.io/assets/blog-banners/bored-websites.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/bored-websites.webp
-category: [reviews]
+category: [review]
 tags: [tech, internet]
 author: nikhil
 paginate: false
