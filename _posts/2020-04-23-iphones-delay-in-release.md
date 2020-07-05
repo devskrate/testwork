@@ -1,10 +1,10 @@
 ---
 date: 2020-04-23 17:26:40
 layout: post
-title: The 2020 iPhones Might Delay
-subtitle: "New iPhones Might Delay Due To the Pandemic Says The Famous Apple Analyst says Analyst Ming-Chi Kuo"
+title: The 2020 iPhones and iPhone SE Plus Might Delay
+subtitle: "Analyst Ming-Chi Kuo has reported that there could be a delay in the upcoming iPhone 12 and iPhone SE Plus"
 description: >-
-  Analyst Ming-Chi Kuo has reported that there could be a delay in the upcoming iPhone 12
+  The 2020 iPhones and iPhone SE Plus Might Delay Due To the Pandemic Says The Famous Apple Analyst says Analyst Ming-Chi Kuo
 image: >-
   https://devskrate.github.io/assets/blog-banners/iphones-delay.jpg
 optimized_image: >-
