@@ -3,7 +3,7 @@ layout: author
 photo: /assets/img/persons/mohit-profile.webp
 name: mohit
 display_name: Mohit
-position: Tech Lead 
+position: Tech Lead, Chief Editor and Blogger 
 bio: Techie
 github_username: 
 facebook_username: 
