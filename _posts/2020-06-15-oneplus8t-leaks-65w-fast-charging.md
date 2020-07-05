@@ -4,7 +4,7 @@ layout: post
 title: Leaks shows Faster charging for One Plus 8t and new color variant of One Plus 8
 subtitle: ""
 description: >-
-  One Plus new 8T possibly to have 65W fast charging and a possible new color variant to One Plus 8, this is everything you need to know
+  One Plus new 8T possibly to have 65W fast charging and a possible new color variant to One Plus 8
 image: >-
   https://devskrate.github.io/assets/blog-banners/oneplus-8t-leaks.jpg
 optimized_image: >-
