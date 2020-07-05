@@ -1,10 +1,10 @@
 ---
 date: 2020-06-16 17:26:40
 layout: post
-title: Realme is teasing the  Indian launch of X3 series in India, this is everything you need to kno
-subtitle: "Realme is teasing the  Indian launch of X3 series in India, this is everything you need to know"
+title: Realme X3 series coming to India
+subtitle: ""
 description: >-
-  Realme is teasing the  Indian launch of X3 series in India, this is everything you need to know
+  Realme is teasing the arrival of X3 series in India
 image: >-
   https://devskrate.github.io/assets/blog-banners/realme-x3-india-launch.jpg
 optimized_image: >-
