@@ -1,8 +1,8 @@
 ---
 date: 2020-04-23 17:26:40
 layout: post
-title: New iPhones Might Delay Due To the Pandemic Says The Famous Apple Analyst says Analyst Ming-Chi Kuo
-subtitle: "Analyst Ming-Chi Kuo has reported that there could be a delay in the upcoming iPhone 12, find out more in the article"
+title: The 2020 iPhones Might Delay
+subtitle: "New iPhones Might Delay Due To the Pandemic Says The Famous Apple Analyst says Analyst Ming-Chi Kuo"
 description: >-
   Analyst Ming-Chi Kuo has reported that there could be a delay in the upcoming iPhone 12
 image: >-
