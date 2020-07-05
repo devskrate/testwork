@@ -2,7 +2,7 @@
 layout: author
 photo: /assets/img/persons/mohit-profile.webp
 name: mohit
-display_name: Mohit
+display_name: Mohit Indukuri
 position: Tech Lead, Chief Editor and Blogger 
 bio: Techie
 github_username: 
