@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Some description.
+description: everything you want to know about Devskrate.
 permalink: /about/
 ---
 
@@ -9,9 +9,12 @@ permalink: /about/
 <img class="img-rounded" src="{{ site.baseurl }}/assets/img/icons/largetile.png" alt="DevsKrate" width="200">
 </center>
 
-# About
+## About
+
+We are developers by professions and Techies by passion. DevsKrate completely deals with Tech, Code and Gadgets. It's a paradise for developers and Techies. We are in Instagram, Twitter, Facebook and Linkedin too. Very soon we are going to land on Youtube with Tech updates and Dev news. There's lot to tell about but we are consisting this to these few lines. Please feel free to contact us if you want to contribute to DevsKrate. Thanks in advance.
 
 
+## Journey of DevsKrate
 
 **DevsKrate** started as **THE FLAIR** means Perfection in everything, but we realized that in this world no thing is perfect. We started aiming the developers and tech enthusiastics who are actually students. As a student it is difficult to get the beginner stuff. So mainly aiming at them and everyone we started DevsKrate - Developers Krate, which has everything, minly developer related stuff..
 
