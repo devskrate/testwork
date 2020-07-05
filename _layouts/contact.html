@@ -14,6 +14,7 @@ layout: page
 <div class="container">
 
   <h2>{{ site.translations.contact.title | default: "Talk to me" }}</h2>
+  <p> Please feel free to mail us at <a href="mailto:contact@devskrate.com">contact@devskrate.com</a> or fill this form</p>
 
   <div id="form" class="contact-form">
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/xwkrnpav" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
