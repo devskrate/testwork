@@ -2,7 +2,7 @@
 date: 2020-06-12 17:26:40
 layout: post
 title: Sony unveils the PlayStation 5’s futuristic design
-subtitle: "Sony has finally revealed its latest console-PlayStation 5, this is everything you need to know"
+subtitle: ""
 description: >-
   Sony has finally revealed its latest console-PlayStation 5, this is everything you need to know
 image: >-
