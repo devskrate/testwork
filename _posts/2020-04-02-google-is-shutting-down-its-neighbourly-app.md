@@ -19,11 +19,9 @@ The search giant first unveiled the app in May 2018 as a test in the Indian city
 
 In an email sent to customers, Google mentioned that the community answered over a million questions related to their localities, but the project didn’t grow the way the company had hoped:
 
-<div style="background-color:#EEEEEE">
-<i>We launched Neighbourly as a Beta app to connect you with your neighbors and make sharing local information more human and helpful. As a community, you’ve come together to celebrate local festivals, shared crucial information during floods, and answered over a million questions.</i>  
-<br>
-<i>But Neighbourly hasn’t grown as we had hoped. In these difficult times, we believe that we can help more people by focusing on other Google apps that are already serving millions of people everyday.</i>
-</div>
+> We launched Neighbourly as a Beta app to connect you with your neighbors and make sharing local information more human and helpful. As a community, you’ve come together to celebrate local festivals, shared crucial information during floods, and answered over a million questions.
+But Neighbourly hasn’t grown as we had hoped. In these difficult times, we believe that we can help more people by focusing on other Google apps that are already serving millions of people everyday.
+
 
 Google also pointed towards <a href="https://maps.google.com/localguides" target="_blank">Google Maps Local Guide</a> to help people in your region find answers related to the area.
 
