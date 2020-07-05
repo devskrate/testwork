@@ -1,10 +1,10 @@
 ---
 date: 2020-04-23 17:26:40
 layout: post
-title: Leaks show OnePlus’s new True Wireless Earbud
-subtitle: "OnePlus all set to launch its new TWS in India, this is everything you need to knowe"
+title: Leaks show OnePlus’s new True Wireless Earbuds
+subtitle: ""
 description: >-
-  OnePlus all set to launch its new TWS in India, this is everything you need to know
+  OnePlus all set to launch its new TWS in India
 image: >-
   https://devskrate.github.io/assets/blog-banners/oneplus-buds-banner.jpg
 optimized_image: >-

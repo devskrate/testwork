@@ -2,7 +2,7 @@
 date: 2020-05-28 17:26:40
 layout: post
 title: Xiaomi’s MI Laptop's Finally Coming To India
-subtitle: "Mi finally planning to release its laptop range to India, this is everything you need to know"
+subtitle: ""
 description: >-
   Mi finally planning to release its laptop range to India, this is everything you need to know
 image: >-

@@ -2,9 +2,9 @@
 date: 2020-05-19 17:26:40
 layout: post
 title: Dell launches new XPS 17 and redesigned XPS 15
-subtitle: "Dell launched the much-awaited refresh to the Dell XPS 15 and a brand new Dell XPS 17, this is everything you need to know"
+subtitle: "All about XPS 15 and 17"
 description: >-
-  Dell launched the much-awaited refresh to the Dell XPS 15 and a brand new Dell XPS 17, this is everything you need to know 
+  Dell launched the much-awaited refresh to the Dell XPS 15 and a brand new Dell XPS 17
 image: >-
   https://devskrate.github.io/assets/blog-banners/dell-xps-15vs-17.jpg
 optimized_image: >-

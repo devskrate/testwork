@@ -2,7 +2,7 @@
 date: 2010-07-02 17:26:40
 layout: post
 title: OnePlus Launches Three New Affordable TVs Under the U- & Y-Series
-subtitle: "OnePlus launches two new series of smart tv's to compete aginst like the of Xiamoi, Viu."
+subtitle:
 description: >-
   OnePlus launches two new series of smart TVs to compete against like the of Xiamoi, Viu.
 image: >-

@@ -2,9 +2,9 @@
 date: 2020-03-20T12:18:05.000Z
 layout: post
 title: Realme's NARZO
-subtitle: 'Realme to bring a brand new series to India, this is everything you need to know'
+subtitle: 'Realme's new NARZO series'
 description: >-
-  Realme to bring a brand new series to India called narzo, this is everything you need to know
+  Realme to bring a brand new series to India called Narzo
 image: >-
   https://devskrate.github.io/assets/blog-banners/realme-nazro.jpg
 optimized_image: >-
