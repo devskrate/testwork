@@ -2,9 +2,9 @@
 date: 2020-06-19 17:26:40
 layout: post
 title: BBK Electronics - The real mastermind behind Oppo, Vivo, One Plus, Realme and iQOO
-subtitle: "BBK Electronics owns most the famous Chinese smartphone-like Oppo, Vivo, OnePlus, Realme and iQOO and this is everything you need to know"
+subtitle: ""
 description: >-
-  BBK Electronics owns most the famous Chinese smartphone-like Oppo, Vivo, OnePlus, Realme and iQOO and this is everything you need to know
+  BBK Electronics owns most the famous Chinese smartphone makers but why?
 image: >-
   https://devskrate.github.io/assets/blog-banners/bbk-tech.jpg
 optimized_image: >-
