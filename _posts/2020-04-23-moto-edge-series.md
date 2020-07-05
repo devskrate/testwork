@@ -2,7 +2,7 @@
 date: 2020-04-23 17:26:40
 layout: post
 title: Motorola launches its new edge series in states
-subtitle: "Motorola has finally launched its Flagship called the Moto Edge Plus and a Premium Budget Phone called the Moto Edge Plus, will this new phone get Moto back on the right track, let's find out in the article"
+subtitle: ""
 description: >-
   Motorola has finally launched its Flagship called the Moto Edge Plus and a Premium Budget Phone called the Moto Edge Plus, will this new phone get Moto back on the right track, let's find out in the article
 image: >-
