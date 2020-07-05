@@ -1,10 +1,10 @@
 ---
 date: 2020-06-17 17:26:40
 layout: post
-title: Snapdragon 690 with 5G support for budget phones
-subtitle: "Snapdragon 690 to come with support for 5G, 120Hz displays and many more, this is  everything you need to know"
+title: Qualcomm launches the Snapdragon 690
+subtitle: "Everything about Snapdragon 690"
 description: >-
-  Snapdragon 690 to come with support for 5G, 120Hz displays and many more, this is  everything you need to know
+  Snapdragon 690 to come with support for 5G, 120Hz displays and many more
 image: >-
   https://devskrate.github.io/assets/blog-banners/snapdragon-690-5g.jpg
 optimized_image: >-
