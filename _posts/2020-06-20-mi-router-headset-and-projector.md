@@ -2,7 +2,7 @@
 date: 2020-06-20 17:26:40
 layout: post
 title: New products launched by  Xiaomi in the last week
-subtitle: "Xiaomi not only makes smartphones but also several other products and these are few interesting products that the company recently launched in China."
+subtitle: ""
 description: >-
   Xiaomi not only makes smartphones but also several other products and these are few interesting products that the company recently launched in China.
 image: >-
