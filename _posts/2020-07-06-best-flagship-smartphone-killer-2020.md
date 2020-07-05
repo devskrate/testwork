@@ -1,17 +1,14 @@
 ---
-date: 2020-07-05 10:26:40
+date: 2020-07-06 13:45:02
 layout: post
-title: The Best Flagship Killer
-subtitle: "One Plus 8 V/s Realme X50 Pro 5G V/s Vivo iQOO 3"
-description: >-
-  The best flagship killer you can buy right now
-image: >-
-  https://devskrate.github.io/assets/blog-banners/best-flagship-2020-q1.jpg
-optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/best-flagship-2020-q1.webp
-category: [mobiles]
-tags: [Flagship Killer, OnePlus, Realme ,iQOO]
+title: "The Best Flagship Killer"
+subtitle: One Plus 8 V/s Realme X50 Pro 5G V/s Vivo iQOO 3
+description: Here is how to create your Facebook Avatar
+image: https://devskrate.github.io/assets/blog-banners/best-flagship-2020-q1.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/best-flagship-2020-q1.webp
 author: mohit
+category: [mobile]
+tags: [Flagship Killer, OnePlus, Realme ,iQOO]
 ---
 
 The Flagship killer are the ones that have flagship specs with a lesser price tag to go with. Today's contender's for the best flagship killers are **One Plus 8, Realme X50 Pro, and Vivo's iQOO 3**. We haven't included the Poco F2 pro because it didn't release in India yet. Let's find out what suits you the best.
