@@ -1,5 +1,5 @@
 ---
-date: 2020-06-28 17:26:40
+date: 2020-07-05 10:26:40
 layout: post
 title: One Plus 8 V/s Realme X50 Pro 5G V/s Vivo iQOO 3-The Best Flagship Killer
 subtitle: "With the rise in the market for smartphones, we have lots of options and in this article we will find out the best flagship killer you can buy right now"
