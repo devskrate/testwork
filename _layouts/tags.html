@@ -5,14 +5,14 @@ layout: minimal
 {% assign date_format = site.date_format | default: "%m/%d/%Y" %}
 
 <div class="tags">
-  {% assign tags_list = site.tags %}
+  {% assign tags_list = site.tags | sample:35 %}
     {% if tags_list.first[0] == null %}
-      {% for tag in tags_list %}
-          <a href="#{{ tag | slugify }}">#{{ tag }}</a>
+      {% for tag in tags_list limit: 35 %}
+          <a id = "tag" href="#{{ tag | slugify }}">#{{ tag }}</a>
       {% endfor %}
     {% else %}
-      {% for tag in tags_list %}
-          <a href="#{{ tag[0] | slugify }}">#{{ tag[0] }}</a>
+      {% for tag in tags_list limit: 35 %}
+          <a id = "tag" href="#{{ tag[0] | slugify }}">#{{ tag[0] }}</a>
       {% endfor %}
     {% endif %}
   {% assign tags_list = nil %}

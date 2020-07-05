@@ -838,3 +838,14 @@
 body.has-push-menu .post-section{
   background-color: white;
 }
+
+.post-content .tags #tag{
+  color: $themeColor;
+  font-size: medium;
+  background-color: black;
+}
+
+.post-content .tags #tag:hover{
+  color: black;
+  background-color: white;
+}
