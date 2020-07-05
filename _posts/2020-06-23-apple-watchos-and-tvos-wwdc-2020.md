@@ -2,9 +2,9 @@
 date: 2020-06-23 17:26:40
 layout: post
 title: Apple Watch OS and TV OS
-subtitle: "Apple recently announced it's latest version of Watch OS and TV OS in the WWDC event, this is everything you need to know"
+subtitle: "Everything about Watch OS 7 and TV OS 14"
 description: >-
-  Apple recently announced it's latest version of Watch OS and TV OS in the WWDC event, this is everything you need to know
+  Apple recently announced Watch OS 7 and TV OS 14 in the WWDC event
 image: >-
   https://devskrate.github.io/assets/blog-banners/ios-14-banner.jpg
 optimized_image: >-
