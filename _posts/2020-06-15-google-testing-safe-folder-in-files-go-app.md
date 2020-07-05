@@ -2,7 +2,7 @@
 date: 2020-06-15 17:26:40
 layout: post
 title: Files by Google preparing to offer encrypted folder called ‘Safe folder’
-subtitle: "Google is adding a new security feature to Files By Google, this is everything you need to know"
+subtitle: ""
 description: >-
   Google is adding a new security feature to Files By Google, this is everything you need to know
 image: >-
