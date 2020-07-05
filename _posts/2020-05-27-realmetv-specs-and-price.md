@@ -2,7 +2,7 @@
 date: 2020-05-27 17:26:40
 layout: post
 title: REALME Launched 32, 43 inch smart TV in India starting at Rs 12,999
-subtitle: "Realme, famously known for its smartphones, has started expanding its portfolio, and this time its the new Realme Smart Tv, this is everything you need to know"
+subtitle: ""
 description: >-
   Realme, famously known for its smartphones, has started expanding its portfolio, and this time its the new Realme Smart Tv, this is everything you need to know
 image: >-
