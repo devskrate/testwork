@@ -2,7 +2,7 @@
 date: 2020-03-20T12:18:05.000Z
 layout: post
 title: Realme's NARZO
-subtitle: 'Realme's new NARZO series'
+subtitle: "Realme's new budget series"
 description: >-
   Realme to bring a brand new series to India called Narzo
 image: >-
