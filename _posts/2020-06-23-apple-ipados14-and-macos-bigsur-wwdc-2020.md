@@ -2,9 +2,9 @@
 date: 2020-06-23 17:26:40
 layout: post
 title: Apple iPadOS 14 and macOS - Big Sur
-subtitle: "Apple recently announced it's latest version of iPadOS and macOS in the WWDC event, this is everything you need to know"
+subtitle: "Everything about Apple iPadOS 14 and macOS - Big Sur"
 description: >-
-  Apple recently announced it's latest version of iPadOS and macOS in the WWDC event, this is everything you need to know
+  Apple recently announced iPadOS 14 and macOS - Big Sur in WWDC event
 image: >-
   https://devskrate.github.io/assets/blog-banners/macos-ipados.jpg
 optimized_image: >-
