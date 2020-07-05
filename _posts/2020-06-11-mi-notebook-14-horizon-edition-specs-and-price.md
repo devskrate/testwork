@@ -3,7 +3,7 @@ date: 2020-06-11 16:26:40
 layout: post
 title: "Mi Notebook 14, Mi Notebook Horizon Edition launched in India"
 subtitle: All about Mi Notebooks 14 series
-description: Mi Notebooks launched with good spec, but we need to see if they are worthy
+description: Mi Notebooks launched with good spec, but is it worth buying?
 image: https://devskrate.github.io/assets/blog-banners/mi-notebook-14-series.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/mi-notebook-14-series.webp
 category: [pcs]
