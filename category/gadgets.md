@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Gadget
+title: Gadgets
 slug: gadgets
 description: A category for gadgets related posts.
 ---
