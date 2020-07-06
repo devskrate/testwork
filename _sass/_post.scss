@@ -365,15 +365,11 @@
   h3,
   h4,
   h5,
-  h6 {
+  h6{
     color: white;
     mix-blend-mode: difference;
   }
 
-  .has-push-menu .post-footer footer span{
-    color: white;
-    mix-blend-mode: difference;
-  }
 }
 
 /* See also */
@@ -828,6 +824,7 @@
     color: white;
     
   }
+
 }
 
 .has-push-menu .post-footer footer{
@@ -836,16 +833,20 @@
   margin-bottom: 150px;
   
   @include media(">=sm") {
-    margin-bottom: 135px;
+    margin-bottom: 180px;
   }
-}
-
-.has-push-menu .post-footer footer span{
-  color: black;
 }
 
 body.has-push-menu .post-section{
   background-color: white;
+}
+
+body.has-push-menu .post-section .post-footer footer{
+
+  p,
+  span{
+    color: #808080;
+  }
 }
 
 .post-content .tags #tag{
