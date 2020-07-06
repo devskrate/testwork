@@ -10,6 +10,6 @@ facebook_username: srisatyalokesh2.12
 twitter_username: codewithsatya
 instagram_username: man_with_3_eyes
 linkedin_username: srisatyalokesh
-medium_username: srisatyalokesh
+medium_username: 
 is_member: True
 ---
