@@ -414,10 +414,10 @@
 
         &:hover {
           color: $themeColor;
-          img {
-            -webkit-filter: grayscale(50%);
-            filter: grayscale(50%);
-          }
+        }
+
+        h3:hover{
+          color: $themeColor;
         }
       }
     }
