@@ -21,7 +21,7 @@ Apple is well known for bringing **groundbreaking technology** like The Macintos
 AR stands for **Augmented Reality**. AR is a technology whose goal is to augment or enhance one's physical environment by adding digital elements.
 
 #### Apple Glass:
-AR glasses is not a new technology, we have already have seen several companies like Google, Microsoft, Oculus and other companies have already been making them mainstream but none of them could them mainstream apart from the dedicated tech community because they either the product lacks good hardware or good user experience and the good ones are expensive and Apple is planning to change that.
+AR glasses is not a new technology, we have already have seen several companies like Google, Microsoft, Oculus and other companies have already been making them mainstream but none of them could bring them mainstream apart from the dedicated tech community because they either the product lacks good hardware or good user experience and the good ones are expensive and Apple is planning to change that.
 
 #### Hardware:
 
