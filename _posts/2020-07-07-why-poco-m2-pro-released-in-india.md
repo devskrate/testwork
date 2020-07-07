@@ -2,7 +2,7 @@
 date: 2020-07-07 19:45:02
 layout: post
 title: "Poco M2 Pro, Do we need this PRO?"
-subtitle: What POCO is trying urge with this *Feel the Surge*?
+subtitle: What POCO is trying urge with this **Feel the Surge**?
 description: Full review and final verdict of POCO M2 Pro. Does this has any significant value in India now?
 image: https://devskrate.github.io/assets/blog-banners/poco-is-sleeping.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/poco-is-sleeping.webp
@@ -41,3 +41,7 @@ But here we got one point why this Poco M2 Pro makes sense, `Redmi Note 9 Pro` h
 You can find more details like pricing here - [POCO M2 Pro Specs and Price](https://devskrate.com/poco-m2pro-rebeanded-redmi-note-9-pro/)
 
 Finally, If you're looking to buy [Redmi Note 9 Pro](https://amzn.to/3gxIpv1), we suggest to go for POCO M2 Pro.
+
+
+Check beebom's video on POCO M2 Pro for more details-
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/4hU7y3zSqs8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
