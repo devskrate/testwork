@@ -9,7 +9,6 @@ optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/nord-
 author: satya
 category: [news]
 tags: [oneplus, nord, launch]
-is_generated: true
 ---
 
 Launch date of One Plus NORD has been revealed and it's offical now. So Keep your eyes and mobile ready to watch this amazing **AR Launch event**
