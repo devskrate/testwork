@@ -4,8 +4,8 @@ layout: post
 title: "Poco M2 Pro"
 subtitle: A rebranded redmi Note 9 Pro
 description: Poco M2 pro-Is it just a rebranded Redmi Note 9 Pro?
-image: https://devskrate.github.io/assets/blog-banners/best-flagship-2020-q1.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/best-flagship-2020-q1.webp
+image: https://devskrate.github.io/assets/blog-banners/poco-m2-pro-specs.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/poco-m2-pro-specs.webp
 author: mohit
 category: [mobile]
 tags: [poco,redmi,m2pro]
