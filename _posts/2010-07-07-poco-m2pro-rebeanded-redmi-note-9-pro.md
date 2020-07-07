@@ -29,4 +29,4 @@ Poco has launched it's latest phone Poco M2 pro in India. Is it a new phone? not
 The hardware is almost similar to the Indian variant of the Note 9 Pro, when it comes to the display size 6.67 inch, processor Snapdragon 720G, Quad rear camera 48MP + 8MP + 5MP + 2MP, a center punch hole with 16MP sensor and even the placement of sensors like the headphone jack and others. The only difference comes in terms of battery, Poco comes with a smaller 5000mAH battery while the Redmi comes with a 5020mAH battery but to step things up Poco will be coming with a 33W charger in the box while the Redmi only comes with an 18W charger.
 
 #### Software:
-The software is also quite similar but the M2 Pro comes with some additional features like App Drawer because of the Poco launcher, which is again based on MIUI.
+The software is also quite similar but the M2 Pro comes with some additional features like App Drawer because of the Poco launcher, which is again based on MIUI. The fact you can get all features of Poco launcher just by installing the Poco launcher app from the play store leaves no difference when it comes to software.
