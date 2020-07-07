@@ -30,3 +30,6 @@ The hardware is almost similar to the Indian variant of the Note 9 Pro, when it 
 
 #### Software:
 The software is also quite similar but the M2 Pro comes with some additional features like App Drawer because of the Poco launcher, which is again based on MIUI. The fact you can get all features of Poco launcher just by installing the Poco launcher app from the play store leaves no difference when it comes to software.
+
+#### Price:
+The phone is priced at Rs. 13,999 for the 4GB+64GB base variant while the 6GB+64GB is priced at Rs. 14,999 and the top-tire variant with 6GB+128GB of storage is priced at Rs. 16,999
