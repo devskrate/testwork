@@ -7,7 +7,7 @@ description: Poco M2 pro-Is it just a rebranded Redmi Note 9 Pro?
 image: https://devskrate.github.io/assets/blog-banners/poco-m2-pro-specs.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/poco-m2-pro-specs.webp
 author: mohit
-category: [mobile]
+category: [mobiles]
 tags: [poco,redmi,m2pro]
 ---
 Poco has launched it's latest phone Poco M2 pro in India. Is it a new phone? not really, It's just a rebranded Redmi Note 9 pro-Indian Version with a back from the global variant of the same with a minor change in battery. Here are the key specs when compared to the Redmi Note 9 Pro
