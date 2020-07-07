@@ -17,9 +17,13 @@ Launch date of One Plus NORD has been revealed and it's offical now. So Keep you
 > OnePlus NORD will be launched on **July 21st.** Everyone can watch this in **NORD Lunch App.**
 
 OnePlus is stepping in a new way and it came with new idea of AR Launch.
-<center>
+
+
+
 ![NORD Launch App](https://devskrate.github.io/assets/images/oneplus/nord-launch-app-demo.webp)
-</center>
+
+
+
 You can download this app in Android and iOS, This will be with name NORD Launch.
 
 Here's the link for app in [Android](https://play.google.com/store/apps/details?id=com.oneplus.nord.arlaunch), [iOS](https://apps.apple.com/us/app/id1516787250)
