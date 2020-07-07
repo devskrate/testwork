@@ -1,5 +1,5 @@
 ---
-date: 2010-07-07 13:45:02
+date: 2020-07-07 13:45:02
 layout: post
 title: "Poco M2 Pro"
 subtitle: A rebranded redmi Note 9 Pro
