@@ -296,13 +296,20 @@
       font-size: rem(20px);
     }
 
+    th{
+      background-color: $themeColor;
+      border-bottom: 0px;
+    }
+
+    td{
+      border-bottom: 1px solid #ccc;
+    }
+
     th,
     td {
-      border: rem(1px) solid #ccc;
       padding: rem(5px) rem(10px);
 
       @include media(">=sm") {
-        border: rem(2px) solid #ccc;
         padding: rem(10px) rem(20px);
       }
     }
