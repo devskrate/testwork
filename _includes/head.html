@@ -97,18 +97,15 @@
     <!-- Include extra styles -->
     {% include extra-css.html %}
 
-    <!-- ServiceWorker-->
+    <!-- ServiceWorker-->   
 
-    <script>
+    <script type="module">
 
-            if (navigator.serviceWorker) {
-            navigator.serviceWorker.register('/sw.js').then(function(registration) {
-                console.log('ServiceWorker registration successful with scope:',  registration.scope);
-            }).catch(function(error) {
-                console.log('ServiceWorker registration failed:', error);
-            });
-            }
-        
+    import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+
+    const el = document.createElement('pwa-update');
+    document.body.appendChild(el);
+
     </script>
 
     <!-- JavaScript enabled/disabled -->
