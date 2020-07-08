@@ -55,6 +55,9 @@
     <meta property="og:description" content="{{ description }}">
     <meta property="og:site_name" content="{{ site.title }}">
     <meta property="og:type" content="website">
+
+    <!-- Manifest file-->
+    <link rel="manifest" href="manifest.json" />
     
     <!-- Font Awesome Icons-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -93,6 +96,24 @@
 
     <!-- Include extra styles -->
     {% include extra-css.html %}
+
+    <!-- ServiceWorker-->
+    <script>
+        if ("serviceWorker" in navigator) {
+            if (navigator.serviceWorker.controller) {
+                console.log("An active service worker found, no need to register");
+            } else {
+                // Register the service worker
+                navigator.serviceWorker
+                .register("{{ site.baseurl }}/serviceworker.js", {
+                    scope: "./"
+                })
+                .then(function (reg) {
+                    console.log("Service worker has been registered for scope: " + reg.scope);
+                });
+            }
+            }
+    </script>
 
     <!-- JavaScript enabled/disabled -->
     <script>
