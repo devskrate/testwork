@@ -54,8 +54,8 @@ This comes in two variants 4GB + 64GB and 6GB + 128GB with dedicated micro SD sl
  Pricing is what excited us - 
 
 {:class="table table-bordered dark"}
-| Model | Price |
-| ----------- | ------------ |
+| Name | Specs |
+| ----------- | ------- |
 |4GB + 64GB | Rs 29.499 |
 |6GB + 128GB | Rs 33,599|
 
