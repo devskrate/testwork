@@ -9,7 +9,7 @@ image: >-
   https://devskrate.github.io/assets/blog-banners/realme-nazro.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/realme-nazro.webp
-category: [mobile]
+category: [mobiles]
 tags: [realme, narzo, android phone]
 author: mohit
 ---
