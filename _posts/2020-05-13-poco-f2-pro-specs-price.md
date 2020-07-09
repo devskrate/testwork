@@ -9,7 +9,7 @@ image: >-
   https://devskrate.github.io/assets/blog-banners/poco-f2-pro.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/poco-f2-pro.webp
-category: [mobile]
+category: [mobiles]
 tags: [poco, redmi, mi, smartphones]
 author: mohit
 ---
