@@ -24,7 +24,7 @@ Now moto is set give a perfect comeback with 2nd generation G series with 5G sup
 #### Key Specs
 
 {:class="table table-bordered dark"}
-|  | Specs |
+| Name | Specs |
 | ----------- | ------------------------------------------------------------------------ |
 |Processor | Qualcomm Snapdragon 765G |
 |Rear Camera | Quad Cameras 48MP(Primary)+ 8MP(Ultra Wide)+5MP(Zoom Lens)+2MP(depth Sensor)|
