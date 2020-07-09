@@ -10,7 +10,7 @@ image: >-
   https://devskrate.github.io/assets/blog-banners/one-plus-8.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/one-plus-8.webp
-category: [mobile]
+category: [mobiles]
 tags: [oneplus, flaship killer, android]
 author: mohit
 ---
