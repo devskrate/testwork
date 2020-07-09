@@ -6,9 +6,9 @@ subtitle: "Perfect comeback from Moto"
 description: >-
   Motorola recently launched Moto G 5G plus in europe as mid-range flagship device
 image: >-
-  https://devskrate.github.io/assets/blog-banners/moto-g-5g-plus.jpg
+  https://devskrate.github.io/assets/blog-banners/moto-g-g5-plus.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/moto-g-5g-plus.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/moto-g-g5-plus.webp
 category: [mobiles]
 tags: [moto, android, specs]
 author: satya
@@ -52,7 +52,7 @@ This comes in two variants 4GB + 64GB and 6GB + 128GB with dedicated micro SD sl
 
 #### pricing 
  Pricing is what excited us - 
- {:class="table table-bordered dark"}
+{:class="table table-bordered dark"}
 | Model | Price |
 | ----------- | ------------ |
 |4GB + 64GB | Rs 29.499 |
