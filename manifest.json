@@ -4,7 +4,7 @@
   "short_name": "DevsKrate",
   "theme_color": "#2a98f2",
   "background_color": "#2a98f2",
-  "display": "standalone",
+  "display": "fullscreen",
   "Scope": "/",
   "start_url": "https://devskrate.com/",
   "prefer_related_applications": true,
