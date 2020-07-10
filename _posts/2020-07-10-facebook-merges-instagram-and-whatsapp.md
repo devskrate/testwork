@@ -18,7 +18,7 @@ is_generated: true
 Facebook is ruling social media by having ownership on 4 of the top 10 social media platforms. Facebook, Messenger, Instagram and WhatsApp are owned by facebook. Also facebook shows this brand monetization in each app it has like - 
 
 
-![facebook-monetization](https://devskrate.github.io/assets/images/facebook/facebook-monetize.jpg){:align-content="center"}
+![facebook-monetization](https://devskrate.github.io/assets/images/facebook/facebook-monetize.jpg){:align-content="center" width="50%"}
 
 
 Also we can see by Facebook in Instagram and Whatsapp flash screen. Thus Facebook is clearly showing their monetization of social media to it's users. If you're really curious to know what is the last logo in this image, That is **Oculus**  - [oculus.com](https://oculus.com)
