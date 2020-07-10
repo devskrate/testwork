@@ -24,3 +24,20 @@ const darkmode =  new Darkmode(options);
 <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt=""/></noscript>
 <!-- adsense -->
 <script data-ad-client="ca-pub-3853829820851066" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+<!-- Copy URL funtion in Share buttons-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.10/clipboard.min.js"></script>
+<script>
+
+  function copy_to_share(){
+    
+    var clipboard = new Clipboard('#url_copied');
+
+    clipboard.on('success', function(e) {
+      setTooltip('Copied!');
+    });
+
+  }
+   
+</script>
