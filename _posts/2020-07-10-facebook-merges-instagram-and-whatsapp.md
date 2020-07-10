@@ -1,7 +1,7 @@
 ---
 date: 2020-07-10 10:26:40
 layout: post
-title: Big News! Facebook plans to merge Whatsapp, Instagram and Messenger
+title: Facebook plans to merge Whatsapp, Instagram and Messenger
 subtitle: This willl make facebook as super social media app!
 description: >-
   What if facebbok merges these three apps? How will this change impact on users?
