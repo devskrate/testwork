@@ -1,7 +1,31 @@
-<section class="share" id="share-with"></section>
-  <h3 style="text-align: center;">{{ site.translations.text.share | default: "Share" }}</h3>
-  <div class="sharethis-inline-share-buttons"></div>
-</section> 
+
+<h3 style="text-align: center;">{{ site.translations.text.share | default: "Share" }}</h3>
+<div class="share-on">
+  <a target="_blank" href="https://www.facebook.com/sharer.php?t={{site.url}}{{page.url}}" class="share-link">
+    <img alt="Facebook sharing button" src="https://platform-cdn.sharethis.com/img/facebook.svg" class="share-icon">
+  </a>
+  <a target="_blank" href="https://twitter.com/intent/tweet?text={{site.url}}{{page.url}}" class="share-link">
+    <img alt="Twitter sharing button" src="https://platform-cdn.sharethis.com/img/twitter.svg" class="share-icon">
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/shareArticle/?title={{site.url}}{{page.url}}" class="share-link">
+    <img alt="Linkedin sharing button" src="https://platform-cdn.sharethis.com/img/linkedin.svg" class="share-icon">
+  </a>
+  <a target="_blank" href="https://reddit.com/submit?title={{site.url}}{{page.url}}" class="share-link">
+    <img alt="Reddit sharing button" src="https://platform-cdn.sharethis.com/img/reddit.svg" class="share-icon">
+  </a>
+  <a target="_blank" href="whatsapp://send?text={{site.url}}{{page.url}}" class="share-link" class="share-link">
+    <img alt="Whatsapp sharing button" src="https://platform-cdn.sharethis.com/img/whatsapp.svg" class="share-icon">
+  </a>
+  <a target="_blank" href="https://t.me/share/url?url={{site.url}}{{page.url}}" class="share-link">
+    <img alt="Telegram sharing button" src="https://platform-cdn.sharethis.com/img/telegram.svg" class="share-icon">
+  </a>
+  <!-- <a target="_blank" href="https://t.me/share/url?url={{site.url}}{{page.url}}" class="share-link">
+    <img alt="Email sharing button" src="https://platform-cdn.sharethis.com/img/email.svg" class="share-icon">
+  </a> -->
+  <a onclick="copy_to_share()" class="share-link" data-clipboard-text="{{site.url}}{{page.url}}" id="url_copied" aria-label="copied!">
+    <img alt="Copy URL" src="https://img.icons8.com/material-outlined/24/000000/copy.png" class="share-icon"/>
+  </a>
+</div>
 <!-- <section class="share" id="share-with">
   
     <h3>{{ site.translations.text.share | default: "Share" }}</h3>
