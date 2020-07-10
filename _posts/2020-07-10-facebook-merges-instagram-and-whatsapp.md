@@ -23,4 +23,9 @@ Facebook is ruling social media by having ownership on 4 of the top 10 social me
 
 Also we can see by Facebook in Instagram and Whatsapp flash screen. Thus Facebook is clearly showing their monetization of social media to it's users. If you're really curious to know what is the last logo in this image, That is **Oculus**  - [oculus.com](https://oculus.com)
 
-Let's get in to the point. After buying two popular platforms, there was speculation whether the three platforms would ever be integrated to work together. Now Facebook is planning to merge three major applications into a super social media platform where people can meet, chat much easier. 
+Let's get in to the point. After buying two popular platforms, there was speculation whether the three platforms would ever be integrated to work together into a super social media platform where people can meet, chat much easier. 
+Now, Facebook CEO Zuckerberg made it clear that he had plans to merge the three platforms to provide a unique service in the future. 
+
+This three-in-one platform of Facebook will be the next big thing from facebook. Using this, WhatsApp, Instagram users will also be able to communicate among themselves on this platform. Given the tremendous reach of these social media platforms, it can be said that this three in one platform of Facebook will also be a game-changer in the field of video conferencing.
+
+What do you think? Do we neeed this platform? Letus know in comment box of this instagram post.
