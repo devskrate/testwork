@@ -63,6 +63,20 @@
     align-items: center;;
   }
 
+  .share-in h3{
+    padding-top: 0;
+    font-size: 19px;
+  }
+
+  .share-in img{
+    padding: 8px;
+    border-radius: 100%;
+    margin-right: 5px;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+  }
+
   figure {
     margin: rem(20px) auto 0;
   }

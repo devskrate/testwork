@@ -35,3 +35,53 @@
     fill: #3b5998;
   }
 }
+
+.share-on{
+  text-align: center;
+  margin-top: 10px;
+}
+
+.share-icon{
+  padding: 8px;
+  border-radius: 100%;
+  margin-right: 5px;
+  width: 35px;
+  height: 35px;
+  cursor: pointer;
+}
+
+.share-icon[alt="Facebook sharing button"]{
+  background-color: #4267B2;
+}
+
+.share-icon[alt="Twitter sharing button"]{
+  background-color: #55acee;
+}
+
+.share-icon[alt="Linkedin sharing button"]{
+  background-color: #0077b5;
+}
+
+.share-icon[alt="Reddit sharing button"]{
+  background-color:  #ff4500;
+}
+
+.share-icon[alt="Whatsapp sharing button"]{
+  background-color: #25d366;
+}
+
+.share-icon[alt="Telegram sharing button"]{
+  background-color: #0088cc;
+}
+
+.share-icon[alt="Email sharing button"]{
+  background-color:  #7d7d7d;
+}
+
+.share-icon[alt="Copy URL"]{
+  background-color:  #a1a0a0;
+}
+
+.share-link{
+  text-decoration: none;
+}
