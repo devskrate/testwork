@@ -19,7 +19,7 @@ Facebook is ruling social media by having ownership on 4 of the top 10 social me
 
 <center>
 
-![facebook-monetization](https://devskrate.github.io/assets/images/facebook/facebook-monetize.jpg){: style="border: 0.5px solid black;"}
+![facebook-monetization](https://devskrate.github.io/assets/images/facebook/facebook-monetize.jpg)
 
 </center>
 
