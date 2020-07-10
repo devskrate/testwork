@@ -1,6 +1,6 @@
 
 <h3 style="text-align: center;">{{ site.translations.text.share | default: "Share" }}</h3>
-<div class="share-on">
+<!-- <div class="share-on">
   <a target="_blank" href="https://www.facebook.com/sharer.php?t={{site.url}}{{page.url}}" class="share-link">
     <img alt="Facebook sharing button" src="https://platform-cdn.sharethis.com/img/facebook.svg" class="share-icon">
   </a>
@@ -19,13 +19,16 @@
   <a target="_blank" href="https://t.me/share/url?url={{site.url}}{{page.url}}" class="share-link">
     <img alt="Telegram sharing button" src="https://platform-cdn.sharethis.com/img/telegram.svg" class="share-icon">
   </a>
-  <!-- <a target="_blank" href="https://t.me/share/url?url={{site.url}}{{page.url}}" class="share-link">
+   <a target="_blank" href="https://t.me/share/url?url={{site.url}}{{page.url}}" class="share-link">
     <img alt="Email sharing button" src="https://platform-cdn.sharethis.com/img/email.svg" class="share-icon">
-  </a> -->
+  </a>
   <a onclick="copy_to_share()" class="share-link" data-clipboard-text="{{site.url}}{{page.url}}" id="url_copied" aria-label="copied!">
     <img alt="Copy URL" src="https://img.icons8.com/material-outlined/24/000000/copy.png" class="share-icon"/>
   </a>
-</div>
+</div> -->
+
+<div class="sharethis-inline-share-buttons"></div>
+
 <!-- <section class="share" id="share-with">
   
     <h3>{{ site.translations.text.share | default: "Share" }}</h3>
