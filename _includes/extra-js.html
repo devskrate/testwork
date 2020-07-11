@@ -31,11 +31,14 @@ const darkmode =  new Darkmode(options);
 <script>
 
   function copy_to_share(){
-    
-    var clipboard = new Clipboard('#url_copied');
 
-    clipboard.on('success', function(e) {
-      setTooltip('Copied!');
+    var url = window.location.href;
+    console.log(url);
+
+    var clipboard = new Clipboard('#url_copied', {
+      text: function() {
+          return url;
+      }
     });
 
   }
