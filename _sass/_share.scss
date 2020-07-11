@@ -42,12 +42,19 @@
 }
 
 .share-icon{
-  padding: 8px;
+  padding: 5px;
   border-radius: 100%;
-  margin-right: 5px;
-  width: 35px;
-  height: 35px;
+  margin-right: 2px;
+  width: 28px;
+  height: 28px;
   cursor: pointer;
+
+  @include media(">=sm") {
+    padding: 8px;
+    margin-right: 5px;
+    width: 35px;
+    height: 35px;
+  }
 }
 
 .share-icon[alt="Facebook sharing button"]{
@@ -84,4 +91,42 @@
 
 .share-link{
   text-decoration: none;
+}
+
+.share-icon:hover{
+  opacity: .8;
+  transform : scale(1.05);
+}
+
+#url_copied:active{
+  opacity: 0;
+}
+
+.onhover {
+  position: relative;
+  display: inline;
+}
+
+.onhover .hovertext {
+  visibility: hidden;
+  width: 80px;
+  background-color: #a1a0a0;
+  color: black;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  font-size: 10px;
+  
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  top: 100%;
+  left: 50%;
+  margin-left: -20px;
+  margin-top: 5px;
+  
+}
+
+.onhover:hover .hovertext {
+  visibility: visible;
 }

@@ -69,12 +69,19 @@
   }
 
   .share-in img{
-    padding: 8px;
+    padding: 5px;
     border-radius: 100%;
+    margin-right: 2px;
+    width: 28px;
+    height: 28px;
+    cursor: pointer;
+
+  @include media(">=sm") {
+    padding: 8px;
     margin-right: 5px;
     width: 35px;
     height: 35px;
-    cursor: pointer;
+  }
   }
 
   figure {
