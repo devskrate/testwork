@@ -14,32 +14,33 @@
       <p class="desc">{{ contributor.bio }}</p>
       <p>
         {% if contributor.github_username %}
-          <a href="https://github.com/{{ contributor.github_username }}" title="Github">
+          <a href="https://github.com/{{ contributor.github_username }}" title="Github" aria-label="contributor_github_username" rel="noopener">
             <svg><use xlink:href="#icon-github"></use></svg>
           </a>
         {% endif %}
         {% if contributor.facebook_username %}
-          <a href="https://www.facebook.com/{{ contributor.facebook_username }}" title="Facebook">
+          <a href="https://www.facebook.com/{{ contributor.facebook_username }}" title="Facebook" aria-label="contributor_facebook_username"
+          rel="noopener">
             <svg><use xlink:href="#icon-facebook"></use></svg>
           </a>
         {% endif %}
         {% if contributor.twitter_username %}
-          <a href="https://twitter.com/{{ contributor.twitter_username }}" title="Twitter">
+          <a href="https://twitter.com/{{ contributor.twitter_username }}" title="Twitter" aria-label="contributor_twitter_username" rel="noopener">
             <svg><use xlink:href="#icon-twitter"></use></svg>
           </a>
         {% endif %}
         {% if contributor.medium_username %}
-          <a href="https://medium.com/@{{ contributor.medium_username }}" title="Medium">
+          <a href="https://medium.com/@{{ contributor.medium_username }}" title="Medium" rel="noopener" aria-label="contributor_medium_username">
             <svg><use xlink:href="#icon-medium"></use></svg>
           </a>
         {% endif %}
         {% if contributor.instagram_username %}
-          <a href="https://www.instagram.com/{{ contributor.instagram_username }}" title="Instagram">
+          <a href="https://www.instagram.com/{{ contributor.instagram_username }}" title="Instagram" aria-label="contributor_instagram_username" rel="noopener">
             <svg><use xlink:href="#icon-instagram"></use></svg>
           </a>
         {% endif %}
         {% if contributor.linkedin_username %}
-          <a href="https://www.linkedin.com/in/{{ contributor.linkedin_username }}" title="LinkedIn">
+          <a href="https://www.linkedin.com/in/{{ contributor.linkedin_username }}" title="LinkedIn" aria-label="contributor_linkedin_username" rel="noopener">
             <svg><use xlink:href="#icon-linkedin"></use></svg>
           </a>
         {% endif %}
