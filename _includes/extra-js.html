@@ -35,7 +35,7 @@ const darkmode =  new Darkmode(options);
     var url = window.location.href;
     console.log(url);
 
-    var clipboard = new Clipboard('#url_copied', {
+    var clipboard = new Clipboard('#url_copy', {
       text: function() {
           return url;
       }
