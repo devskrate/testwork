@@ -40,9 +40,9 @@
                 {% if page.image and paginator.activated == nil %}
                     <img src="{{ page.image }}" alt="{{page.title}}" class="post-cover">
                 {% endif %}
-                <!-- <div class="share-in">
-                    
-                </div> -->
+                <div class="share-in">
+                    {% include share.html %}
+                </div>
                 
                 {% include pagination-post.html progressBar=true %}
 
