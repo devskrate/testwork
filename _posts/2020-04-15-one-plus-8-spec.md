@@ -30,4 +30,5 @@ kept on increasing from generation to generation. So, is this new One plus 8 a "
 
 The phones also comes with a slightly improved stereo speakers setup with dolby atmos support.The standout feature of this phone has to be the support for 5G and wifi 6.
 
-**Conclusion:** I think that one plus, for this time has ended up making a wallet killer. If what you really want 5G we have much cheaper options from namely the realme X50 and if you want the smooth experience of oxygen OS. The older one plus phones namely the 7t can give you the same experience for much lesser price. One plus 8 is meant for people whose first priority is design, oxygen OS and 5G in a single package.
+#### Conclusion: 
+I think that one plus, for this time has ended up making a wallet killer. If what you really want 5G we have much cheaper options from namely the realme X50 and if you want the smooth experience of oxygen OS. The older one plus phones namely the 7t can give you the same experience for much lesser price. One plus 8 is meant for people whose first priority is design, oxygen OS and 5G in a single package.
