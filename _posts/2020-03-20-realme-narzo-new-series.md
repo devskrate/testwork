@@ -14,7 +14,7 @@ tags: [realme, narzo, android phone]
 author: mohit
 ---
 
-**Realme has gained a lot of popularity since it's launch of it's first phone the realme 1 and It is the one of the fastest growing brand in INDIA**
+Realme has gained a lot of popularity since it's launch of it's first phone the realme 1 and It is the one of the fastest growing brand in INDIA
  
 It has launched quiet a lot of popular phones under different series namely **C** series, the **number** series, the **pro** series and the **X** series and the company is soon going to 
 launch a brand new series under the name **NARZO** to take on the likes of redmi and poco.
