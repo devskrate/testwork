@@ -1,5 +1,5 @@
 ---
-date: 2011-07-01 17:26:40
+date: 2011-06-01 17:26:40
 layout: post
 title: Linux tricks and tips for beginners
 subtitle: "Beginner tips"

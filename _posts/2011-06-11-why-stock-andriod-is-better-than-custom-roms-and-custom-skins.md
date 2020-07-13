@@ -1,5 +1,5 @@
 ---
-date: 2011-07-01 17:26:40
+date: 2011-06-01 17:26:40
 layout: post
 title: Stock Android vs Custom skins
 subtitle: "Why stock Android is better"
