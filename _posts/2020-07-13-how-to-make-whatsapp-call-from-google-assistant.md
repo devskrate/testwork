@@ -23,8 +23,8 @@ There are only 3 simple steps involved in this -
 
 Here are the some images which will explain you better - 
 
-<a href="https://devskrate.github.io/assets/images/apps/whatsapp/wa-ga-1.jpg" data-lightbox="image-1" data-title="Say hey Google"><img width="20%" src="https://devskrate.github.io/assets/images/apps/whatsapp/wa-ga-1.jpg" style = "border:1.5px solid black;display:inline" ></a>
-<a href="https://devskrate.github.io/assets/images/apps/whatsapp/wa-ga-2.jpg" data-lightbox="image-1" data-title="Say call"><img width="20%" src="https://devskrate.github.io/assets/images/apps/whatsapp/wa-ga-2.jpg" style = "border:1.5px solid black;display:inline" ></a>
-<a href="https://devskrate.github.io/assets/images/apps/whatsapp/wa-ga-3.jpg" data-lightbox="image-1" data-title="Assistant Called"><img width="20%" src="https://devskrate.github.io/assets/images/apps/whatsapp/wa-ga-3.jpg" style = "border:1.5px solid black;display:inline" ></a>
+<a href="https://devskrate.github.io/assets/images/apps/whatsapp/wa-ga-1.jpg" data-lightbox="image-1" data-title="Say hey Google"><img width="30%" src="https://devskrate.github.io/assets/images/apps/whatsapp/wa-ga-1.jpg" style = "display:inline" ></a>
+<a href="https://devskrate.github.io/assets/images/apps/whatsapp/wa-ga-2.jpg" data-lightbox="image-1" data-title="Say call"><img width="30%" src="https://devskrate.github.io/assets/images/apps/whatsapp/wa-ga-2.jpg" style = "display:inline" ></a>
+<a href="https://devskrate.github.io/assets/images/apps/whatsapp/wa-ga-3.jpg" data-lightbox="image-1" data-title="Assistant Called"><img width="30%" src="https://devskrate.github.io/assets/images/apps/whatsapp/wa-ga-3.jpg" style = "display:inline" ></a>
 
 Follow our instagram page for quick updates - 
