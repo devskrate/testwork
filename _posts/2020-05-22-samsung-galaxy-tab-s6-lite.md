@@ -5,7 +5,7 @@ title: "Galaxy Tab s6 Lite : Mid Range Tablet from Samsung"
 subtitle:
 description:
 image: https://devskrate.github.io/assets/blog-banners/tab-s6-lite.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimsed/tab-s6-lite.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimzed/tab-s6-lite.webp
 category: [mobiles]
 tags: [android, samsung]
 author: nikhil
