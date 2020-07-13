@@ -45,4 +45,4 @@ The key specs of the device are
 **Verdict:**  
 Although, the device is'nt powered with great specs, it is a good choice for people prefering large display and the advantage of S Pen is a great edge for making notes for e classrooms and attending virtual meetings from home.
 
-You can get the Samsung Galaxy Tab S6 Lite from [Samsung Store](https://www.samsung.com/in/tablets/galaxy-tab-s6-lite-p615/SM-P615NZBAINU/) **|** [Flipkart](https://www.flipkart.com/samsung-galaxy-tab-s6-lite-64-gb-10-4-inch-wi-fi-4g-tablet-oxford-grey/p/itmcaf942552a522).
+You can get the Samsung Galaxy Tab S6 Lite from [Samsung Store](https://www.samsung.com/in/tablets/galaxy-tab-s6-lite-p615/SM-P615NZBAINU/) and [Flipkart](https://www.flipkart.com/samsung-galaxy-tab-s6-lite-64-gb-10-4-inch-wi-fi-4g-tablet-oxford-grey/p/itmcaf942552a522).
