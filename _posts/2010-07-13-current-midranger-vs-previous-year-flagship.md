@@ -17,13 +17,13 @@ With the ever-increasing options of smartphones available, there is always a que
 #### 1. Build Quality:
 Previous year's flagship comes with a way better build quality and with a premium design when compared to a midrange. Some previous years flagships even come with IP Rating.
 #### 2.Display:
-Speaking about display, most of the previous year's flagship comes with AMOLED screens and few even higher refresh rates, which is better than IPS display which most midrange's offer.
+Speaking about display, most of the previous year's flagship comes with AMOLED screens which is better than IPS display which most midrange's offer and and few flagships even offer higher refresh rates.
 #### 3.Camera:
 Talking about camera, Most previous flagships come superior camera quality when compared to midrange and speaking of video, previous year's flagship comes with OIS for better video stabilization.
 #### 4. Performance:
 Previous years flagship comes with a better performance when compared to midrange and it even offers way better gaming performance than midrange.
 #### 5.Battery:
-The trend in 2020 has been a bigger battery, which means mid-rangers get a higher capacity battery which coupled with a power-efficient battery which leads to better battery life in midranges.
+The trend in 2020 has been a bigger battery, which means mid-rangers get a higher capacity battery which coupled with a power-efficient battery which leads to better battery life in midranges than that of previous year's flagship.
 #### 6.Software Updates:
 Unless you are using an iOS device previous year's flagships have less chance of getting a major software update and we can expect the midrange to get at least one software update and midranges are also expected to get better security updates as well.
 #### Verdict:
