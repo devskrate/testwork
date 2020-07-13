@@ -9,7 +9,7 @@ image: >-
   https://devskrate.github.io/assets/blog-banners/one-plus-8-pro.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/one-plus-8-pro.webp
-category: [mobile]
+category: [mobiles]
 tags: [oneplus, flaship, android]
 author: mohit
 ---
