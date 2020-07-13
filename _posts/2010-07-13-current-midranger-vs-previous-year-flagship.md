@@ -10,7 +10,7 @@ image: >-
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/ar-glasses-1.webp
 category: [mobiles]
-tags: [apple, ar, glasses]
+tags: [always-a-flagship,flagship,midranger]
 author: mohit
 ---
 With the ever-increasing options of smartphones available, there is always a question of whether to buy a previous year's flagship or this year's midrange. Let's find out which suits you the most, find out in this article.
