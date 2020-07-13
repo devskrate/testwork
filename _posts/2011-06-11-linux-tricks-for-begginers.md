@@ -1,5 +1,5 @@
 ---
-date: 2020-07-01 17:26:40
+date: 2011-07-01 17:26:40
 layout: post
 title: Linux tricks and tips for beginners
 subtitle: "Beginner tips"
@@ -12,7 +12,7 @@ optimized_image: >-
 tags: [Linux, beginner, os]
 category: [tips&tricks]
 author: puneeth
-is_generated: true
+is_generated: false
 ---
 
 Many of us use Linux, we mostly use Ubuntu which is beginner friendly with a good UI.
@@ -81,4 +81,13 @@ sudo gedit test.py
 
 #### 5. Shutdown and Restart:
 
-If you are a keyboard user
+If you are a keyboard user here is a handy command for shutting down your computer and restarting it.
+``` bash
+shutdown -P now
+```
+Here 'now' represents to quickly shutdown the system now it self, generally if you not mention it, it will be scheduled to shutdown after 1 min.
+
+For restarting it use 
+``` bash
+reboot
+```
