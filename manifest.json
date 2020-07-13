@@ -6,7 +6,7 @@
   "background_color": "#2a98f2",
   "display": "fullscreen",
   "Scope": "/",
-  "start_url": "https://devskrate.com/",
+  "start_url": "https://devskrate.com{{page.url}}",
   "prefer_related_applications": true,
   "icons": [
       {
@@ -51,6 +51,6 @@
       }
   ],
   "splash_pages": null,
-  "url": "https://devskrate.com",
+  "url": "https://devskrate.com{{page.url}}",
   "screenshots": []
 }
