@@ -58,9 +58,10 @@
   img {
     max-width: 100%;
     margin: rem(0px) auto;
-    display: inline;
+    display: block;
     padding: 10px 0;
-    align-items: center;;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .share-in h3{
