@@ -1,14 +1,14 @@
 ---
 date: 2010-07-13 21:18:05.000Z
 layout: post
-title: Curent Midranger phones V/S Previous Year Flagship
+title: Buying Last year Flagship over midranger
 subtitle: ''
 description: >-
   Which is best Curent Midrange phones or Previous Year Flagship.
 image: >-
-  https://devskrate.github.io/assets/blog-banners/ar-glasses-1.jpg
+  https://devskrate.github.io/assets/blog-banners/current-midranger-vs-previous-year-flagship.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/ar-glasses-1.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/current-midranger-vs-previous-year-flagship.webp
 category: [mobiles]
 tags: [always-a-flagship,flagship,midranger]
 author: mohit
