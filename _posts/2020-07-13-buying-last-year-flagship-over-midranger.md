@@ -6,9 +6,9 @@ subtitle: ''
 description: >-
   Which is best Curent Midrange phones or Previous Year Flagship.
 image: >-
-  https://devskrate.github.io/assets/blog-banners/current-midranger-vs-previous-year-flagship.jpg
+  https://devskrate.github.io/assets/blog-banners/flagship-from-last-year.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/current-midranger-vs-previous-year-flagship.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/flagship-from-last-year.webp
 category: [mobiles]
 tags: [always-a-flagship,flagship,midranger]
 author: mohit
