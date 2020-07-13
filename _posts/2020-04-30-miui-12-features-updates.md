@@ -99,7 +99,7 @@ AI feature is only available to china at present.
 
 These are some of the important features coming to Xiaomi devices through MIUI 12 update.
 
-List of Xiaomi Phones to Get MIUI 12 Update
+##### List of Xiaomi Phones to Get MIUI 12 Update
 
 - First Batch (End of June)
 

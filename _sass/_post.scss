@@ -63,6 +63,27 @@
     align-items: center;;
   }
 
+  .share-in h3{
+    padding-top: 0;
+    font-size: 19px;
+  }
+
+  .share-in img{
+    padding: 5px;
+    border-radius: 100%;
+    margin-right: 2px;
+    width: 28px;
+    height: 28px;
+    cursor: pointer;
+
+  @include media(">=sm") {
+    padding: 8px;
+    margin-right: 5px;
+    width: 35px;
+    height: 35px;
+  }
+  }
+
   figure {
     margin: rem(20px) auto 0;
   }
@@ -296,13 +317,20 @@
       font-size: rem(20px);
     }
 
+    th{
+      background-color: $themeColor;
+      border-bottom: 0px;
+    }
+
+    td{
+      border-bottom: 1px solid #ccc;
+    }
+
     th,
     td {
-      border: rem(1px) solid #ccc;
       padding: rem(5px) rem(10px);
 
       @include media(">=sm") {
-        border: rem(2px) solid #ccc;
         padding: rem(10px) rem(20px);
       }
     }
@@ -414,10 +442,10 @@
 
         &:hover {
           color: $themeColor;
-          img {
-            -webkit-filter: grayscale(50%);
-            filter: grayscale(50%);
-          }
+        }
+
+        h3:hover{
+          color: $themeColor;
         }
       }
     }

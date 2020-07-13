@@ -1,6 +1,6 @@
 {% include extra-js.html %}
 <header class="bar-header">
-    <a id="menu" role="button">
+    <a id="menu" role="button" aria-label="menu_bar_for_all_pages">
         <svg id="open" class="icon-menu"><use xlink:href="#icon-menu"></use></svg>
     </a>
     <h2 class="logo">
@@ -13,7 +13,7 @@
         </a>
     </h2>
     
-    <a id="search" class="dosearch" role="button">
+    <a id="search" class="dosearch" role="button" aria-label="search_by_post_or_category">
         <svg class="icon-search"><use xlink:href="#icon-search"></use></svg>
     </a>
     {% if page.layout == "post" %}

@@ -2,7 +2,7 @@
 <html lang="{{ site.language }}" class="no-js">
     {% include head.html %}
     <script type="text/javascript" src="/assets/js/lightbox-plus-jquery.min.js"></script>
-    <link rel="stylesheet" href="/assets/css/lightbox.css">
+    <link rel="stylesheet" href="/assets/css/lightbox.min.css">
     <body class="has-push-menu" >
         <div class="post-section">
         {% include minutes-to-read.html %}
@@ -19,7 +19,7 @@
                     {% endif %}
                     <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
                     <span>{{ minutesText }}</span>
-                    <a href="#share-with" > <i class="fa fa-share fa-fw"></i> Share</i></a>
+                    <!-- <a href="#share-with" > <i class="fa fa-share fa-fw"></i> Share</i></a> -->
                     
                 </p>
                 <div class="categories">
@@ -40,6 +40,10 @@
                 {% if page.image and paginator.activated == nil %}
                     <img src="{{ page.image }}" alt="{{page.title}}" class="post-cover">
                 {% endif %}
+                <div class="share-in">
+                    {% include share.html %}
+                </div>
+                
                 {% include pagination-post.html progressBar=true %}
 
                 {% include toc.html %}
@@ -119,6 +123,7 @@
         {% endif %}
 
         {% include subscription.html %}
+        <section class="share" id="share-with"></section>
         {% include share.html %}
         {% include author.html %}
         {% include comments.html %}
