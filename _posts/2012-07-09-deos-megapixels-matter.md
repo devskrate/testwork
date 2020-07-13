@@ -4,8 +4,8 @@ layout: post
 title: Does Megapixels Matter?
 subtitle: Does the higher megapixel camera sensors really required for phones
 description: Is it true that higher megapixel cameras really good images that lower ones?
-image: https://devskrate.github.io/assets/blog-banners/megapixels.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/megapixels.webp
+image: https://devskrate.github.io/assets/blog-banners/megapixels-required.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/megapixels-required.webp
 category: [review]
 tags: [camera]
 author: nikhil
