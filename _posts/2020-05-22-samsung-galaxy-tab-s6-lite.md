@@ -2,10 +2,10 @@
 date: 2020-05-22 17:26:40
 layout: post
 title: "Galaxy Tab s6 Lite : Mid Range Tablet from Samsung"
-subtitle:
-description:
+subtitle: Here is the affordable version of Galaxy Tab S6
+description: Galaxy Tab s6 Lite is now available
 image: https://devskrate.github.io/assets/blog-banners/tab-s6-lite.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimzed/tab-s6-lite.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/tab-s6-lite.webp
 category: [mobiles]
 tags: [android, samsung]
 author: nikhil
@@ -44,3 +44,5 @@ The key specs of the device are
 
 **Verdict:**  
 Although, the device is'nt powered with great specs, it is a good choice for people prefering large display and the advantage of S Pen is a great edge for making notes for e classrooms and attending virtual meetings from home.
+
+You can get the Samsung Galaxy Tab S6 Lite from [Samsung Store](https://www.samsung.com/in/tablets/galaxy-tab-s6-lite-p615/SM-P615NZBAINU/) |
