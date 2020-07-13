@@ -13,7 +13,7 @@ category: [mobiles]
 tags: [apple, ar, glasses]
 author: mohit
 ---
-With the ever-increasing options of smartphones available, there is always a question of whether to buy a previous year's flagship or this year's midrange.
+With the ever-increasing options of smartphones available, there is always a question of whether to buy a previous year's flagship or this year's midrange. Let's find out which suits you the most, find out in this article.
 #### 1. Build Quality:
 Previous year's flagship comes with a way better build quality and with a premium design when compared to a midrange. Some previous years flagships even come with IP Rating.
 #### 2.Display:
