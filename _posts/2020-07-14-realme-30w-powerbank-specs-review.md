@@ -9,7 +9,7 @@ optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/whats
 author: satya
 category: [gadgets]
 tags: [powerbanks, reviews, realme]
-is_generated=true
+is_generated: true
 ---
 
 Realme launched [30W Dart Charge supported Power bank](https://event.realme.com/in/30w-powerbank-intrigue/) with a capacity of 10,000mAh in India. This has been launched in China ong back in May and it got some good reviews. Now this powerbank arrived to India. These have the same design and colors - `black` and `yellow`, with a huge Realme brand name on top. These will come with a **carbon fiber design** which makes them more elegant.
