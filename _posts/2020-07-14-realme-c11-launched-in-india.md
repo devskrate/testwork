@@ -10,7 +10,7 @@ image: >-
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/one-plus-8-pro.webp
 category: [mobiles]
-tags: [oneplus, flaship, android]
+tags: [realme,android]
 author: mohit
 ---
 Realme launched a new smartphone in India under its budget c series called the Realme C11. It is not a new smartphone it was already launched in Malaysia a couple of weeks ago. This is everything about the Realme C11.
