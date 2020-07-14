@@ -30,8 +30,8 @@ Realme launched [30W Dart Charge supported Power bank](https://event.realme.com/
 |Charging speed       | 10,000mAh in 1 hour 30 mins                   | 
 
 
-Let's Discuss the Key Points -
----
+#### Let's Discuss the Key Points -
+
 1. Capacity of 10,000mAh with 30W Fast Charge support is really good.
 2. This will charge **53 percent faster** than a 18W Realme Charger.
 3. This will support **Two-way fast-charging** i.e., This can charge 2 devices at a time with USB-C and USB-A ports.
@@ -56,6 +56,7 @@ Compared to the last version of this powerbank which comes with 18W Fast Charge 
 #### Buy here - 
 You can buy this powerbank from realme store from here at [Rs 19,999](https://buy.realme.com/in/goods/225)
 
+--------------
 
 Follow us on instagram for lightning fast Tech updates and reviews - 
 
