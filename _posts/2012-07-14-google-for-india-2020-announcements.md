@@ -29,4 +29,5 @@ Also Mr. Pichai expressed that he was very optimistic about Modi's vision for Di
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thank you for your time, PM <a href="https://twitter.com/narendramodi?ref_src=twsrc%5Etfw">@narendramodi</a> - very optimistic about your vision for Digital India and excited to continue our work towards it. Later today we’ll share our next steps on that journey at <a href="https://twitter.com/hashtag/GoogleForIndia?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleForIndia</a>.</p>&mdash; Sundar Pichai (@sundarpichai) <a href="https://twitter.com/sundarpichai/status/1282589092232826881?ref_src=twsrc%5Etfw">July 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Starting the event
+Starting the event, Mr. Sanjay Gupta, Country Head and Vice President of Google India had addressed that there are **500M+ active internet users** in India from which 450M access from Smartphones and how Google with MyGov and the Government of India to provide the data about Covid-19 Cases and **11K+ food and night shelters** during the pandemic.  
+
