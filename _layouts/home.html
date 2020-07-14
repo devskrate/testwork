@@ -177,8 +177,8 @@ layout: main
                     }
                 },
                 "mainEntityOfPage": "True",
-                "genre": "{{ post.category | capitalize }}",
-		        "articleSection": "{{ post.category | capitalize }}",
+                "genre": "{{ post.category.first }}",
+		        "articleSection": [{{ post.category | join: '","' | append: '"' | prepend: '"' }}],
                 "keywords": [{{ post.tags | join: '","' | append: '"' | prepend: '"' }}]
             }{% if forloop.last == false  %},{% endif %}
         {% endfor %}

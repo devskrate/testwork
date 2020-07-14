@@ -2,7 +2,7 @@
 date: 2020-07-14 15:00:05
 layout: post
 title: Realme C11 is launched in India
-subtitle: "Realme C11 launched in India,here are detailed specs and price"
+subtitle: "Here are detailed review, specs and price"
 description: >-
   Realme launched its new C11 with MediaTek Helio G35 and more, this is everything you need to know
 image: >-
