@@ -51,7 +51,7 @@ Realme 30W Dart Charge 10,000mAh Power Bank has been priced at **Rs. 1,999** in 
 
 #### Verdict - 
 
-Compared to the last version of this powerbank which comes with 18W Fast Charge support,This is pretty good. The two-way fast charge support willhelp you to charge 2 devices at a time. Thispowerbank doesn't feature micro-USB port, but this makes sense as All Fast charge supported devices are now having a USB-Type C Port.  The low powermode will also help you to charge AIot devices which makes it more interesting. ANd the price of this power bank is also reasonable. Also design looks super-cool execpt that huge brand name on top. Curved design on sides makes us feel like this is thin.
+Compared to the last version of this powerbank which comes with 18W Fast Charge support,This is pretty good. The two-way fast charge support willhelp you to charge 2 devices at a time. Thispowerbank doesn't feature micro-USB port, but this makes sense as All Fast charge supported devices are now having a USB-Type C Port.  The low powermode will also help you to charge AIot devices which makes it more interesting. ANd the price of this power bank is also reasonable. Also design looks super-cool execpt that huge brand name on top and the curved design on sides makes us feel like this is thin.
 
 #### Buy here - 
 You can buy this powerbank from realme store from here at [Rs 19,999](https://buy.realme.com/in/goods/225)
