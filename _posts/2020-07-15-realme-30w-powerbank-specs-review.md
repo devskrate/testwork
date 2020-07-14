@@ -1,7 +1,7 @@
 ---
 date: 2020-07-15 10:15:02
 layout: post
-title: "Realme launched 30W Powerbank with 10,000mAH capacity"
+title: "Realme launched 30W Dart Charge Powerbank"
 subtitle: "Here are the Key Specs, Price and detailed Review"
 description: "Fast Chargers became old, Let's welcome Fast Charge supported PowerBanks"
 image: https://devskrate.github.io/assets/blog-banners/realme-power-bank.jpg
