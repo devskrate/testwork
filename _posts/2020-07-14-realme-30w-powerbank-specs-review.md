@@ -4,8 +4,8 @@ layout: post
 title: "Realme launched 30W Powerbank with 10,000mAH capacity"
 subtitle: "Here are the Key Specs, Price and detailed Review"
 description: "Fast Chargers became old, Let's welcome Fast Charge supported PowerBanks"
-image: https://devskrate.github.io/assets/blog-banners/whatsapp-call-assistant.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/whatsapp-call-assistant.webp
+image: https://devskrate.github.io/assets/blog-banners/realme-power-bank.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/realme-power-bank.webp
 author: satya
 category: [gadgets]
 tags: [powerbanks, reviews, realme]
