@@ -1,5 +1,5 @@
 ---
-date: 2012-05-29 17:26:40
+date: 2020-07-14 17:26:40
 layout: post
 title: Does Megapixels Matter?
 subtitle: Does the higher megapixel camera sensors really required for phones
