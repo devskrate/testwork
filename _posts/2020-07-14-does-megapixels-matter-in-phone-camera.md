@@ -6,7 +6,7 @@ subtitle: Does the higher megapixel camera sensors are really required for phone
 description: Is it true that higher megapixel cameras really good images that lower ones?
 image: https://devskrate.github.io/assets/blog-banners/megapixels-required.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/megapixels-required.webp
-category: [review]
+category: [reviews]
 tags: [camera]
 author: nikhil
 paginate: false
