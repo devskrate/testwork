@@ -1,5 +1,5 @@
 ---
-date: 2010-07-14T12:55:05.000Z
+date: 2020-07-14T12:55:05.000Z
 layout: post
 title: Realme C11 is launched in India
 subtitle: 'Realme C11 launched in India,here are detailed specs and price'
