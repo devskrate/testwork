@@ -205,8 +205,8 @@
                 }
             },
             "mainEntityOfPage": "True",
-            "genre": "{{ page.category }}",
-            "articleSection": "{{ page.category }}",
+            "genre": "{{ page.category[0] }}",
+            "articleSection": [{{ page.category | join: '","' | append: '"' | prepend: '"' }}],
             "keywords": [{{ page.tags | join: '","' | append: '"' | prepend: '"' }}]
         }
         </script>

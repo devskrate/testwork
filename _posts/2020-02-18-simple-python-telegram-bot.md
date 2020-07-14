@@ -4,7 +4,7 @@ layout: post
 title: "Simple Python Telegram bot"
 subtitle: Simple Telegram bot using python and deploying in heroku
 description: >-
-  "Creating a Simple python TelegramBot using Flask and deploying it in heroku"
+  Creating a Simple python TelegramBot using Flask and deploying it in heroku
 image: https://devskrate.github.io/assets/blog-banners/telegram-bot.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/telegram-bot.webp
 category: [dev]
