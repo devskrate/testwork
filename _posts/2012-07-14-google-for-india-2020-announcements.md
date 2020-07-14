@@ -2,10 +2,10 @@
 date: 2012-07-14 17:26:40
 layout: post
 title: Google For India 2020
-subtitle: "aaaaaaa"
-description: "aaaaaaaaa"
-image: https://devskrate.github.io/assets/blog-banners/.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/.webp
+subtitle: "Here are the all announcementd made at Google For India 2020"
+description: "Google made a lot of announcements to help Digital India"
+image: https://devskrate.github.io/assets/blog-banners/google-for-india.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/google-for-india.webp
 category: [news]
 tags: [google, google-for-india]
 author: nikhil
