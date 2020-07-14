@@ -2,13 +2,13 @@
 date: 2010-07-14T12:55:05.000Z
 layout: post
 title: Realme C11 is launched in India
-subtitle: 'Realme C11- The first helio G35 in India'
+subtitle: 'Realme C11 launched in India,here are detailed specs and price'
 description: >-
   Realme launched its new C11 with MediaTek Helio G35 and more, this is everything you need to know
 image: >-
-  https://devskrate.github.io/assets/blog-banners/one-plus-8-pro.jpg
+  https://devskrate.github.io/assets/blog-banners/realme-c11-launched.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/one-plus-8-pro.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/realme-c11-launched.webp
 category: [mobiles]
 tags: [realme,android]
 author: mohit
