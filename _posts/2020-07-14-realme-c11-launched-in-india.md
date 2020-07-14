@@ -1,5 +1,5 @@
 ---
-date: 2020-04-15T12:18:05.000Z
+date: 2010-07-14T12:30:05.000Z
 layout: post
 title: Realme C11 is launched in India
 subtitle: 'Realme C11 with helio G35 launched in India.'
