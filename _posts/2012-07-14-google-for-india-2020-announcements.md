@@ -35,25 +35,27 @@ He expressed that **Google Pay** had contributed about **120 Crores** towards PM
 
 <img src="https://devskrate.github.io/assets/images/google/gpay-pmcares.webp" alt="Google Pay PM Cares" title="Google Pay PM Cares">
 
-#### Announcements for 2020:
+### Announcements for 2020:
 
 The mission for Google India in 2020 is to **Make the Internet helpful for a billin Indians & Empower India to become a leading digital economy**.
 
-**1. Google For India Digitization Fund:**  
+#### 1. Google For India Digitization Fund:  
 Google will be investing **75,000 Crore Rupees(approx. 10B USD)** into to India over the next 5-7 years through the mix of equity investments, partnerships and operational infrastructure and eco-system investments. The main areas of investments are
 
 - First, enabling affordable access and information for every Indian in their own language, whether it’s Hindi, Tamil, Punjabi or any other
 - Second, building new products and services that are deeply relevant to India’s unique needs
 - Third, empowering businesses as they continue or embark on their digital transformation
-- Fourth, leveraging technology and AI for social good, in areas like health, education, and agriculture
+- Fourth, leveraging technology and AI for social good, in areas like health, education, and agriculture  
+
+> When we build for India, we build for the world -_Sundar Pichai_
 
 <img src="https://devskrate.github.io/assets/images/google/google-digitization-fund.webp" alt="Google Digitization Fund" title="Google Digitization Fund">
 
-**2. Adapting digital tools by the small and medium business**
+#### 2. Adapting digital tools by the small and medium business
 
 Google will be partnering with **Prasar Bharati** to educate India's small and medium level business to bring them online and increase contact-less payments in India.
 
-**3. Teach From Home**
+#### 3. Teach From Home
 
 Google launched Teach From Home, an information hub in english and 8 Indian languages to facilitatr remote learning to the 320M+ Students in India.  
 [go.co/teachfromhome](go.co/teachfromhome)
