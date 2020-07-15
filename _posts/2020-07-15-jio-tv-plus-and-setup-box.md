@@ -6,9 +6,9 @@ subtitle: "Jio announched Jio TV plus and its fiber serive in India and this is 
 description: >-
   Jio announched Jio TV plus and its fiber serive in India and this is everything you need to know. 
 image: >-
-  https://devskrate.github.io/assets/blog-banners/realme-c11-launched.jpg
+  https://devskrate.github.io/assets/blog-banners/jio-tv-plus.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/realme-c11-launched.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/jio-tv-plus.webp
 category: [news]
 tags: [jio,jio tv plus,jio fiber]
 author: mohit
