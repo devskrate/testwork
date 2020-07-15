@@ -12,7 +12,6 @@ optimized_image: >-
 category: [news]
 tags: [jio,google,5g]
 author: mohit
-is_generated: true
 ---
 At the 43rd Annual General Meeting of Reliance Industries Limited, The company has made several announcements including some headline-making ones. 
 
