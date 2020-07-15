@@ -2,7 +2,7 @@
 date: 2020-07-13 16:18:05.000Z
 layout: post
 title: Buying Last year Flagship over midranger
-subtitle: ''
+subtitle: ""
 description: >-
   Which is best Curent Midrange phones or Previous Year Flagship.
 image: >-
