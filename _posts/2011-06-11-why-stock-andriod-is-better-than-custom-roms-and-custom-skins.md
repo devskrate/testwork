@@ -12,7 +12,7 @@ optimized_image: >-
 tags: [Linux, beginner, os]
 category: [tips&tricks]
 author: puneeth
-is_generated: false
+is_generated: true
 ---
 
 After the invasion of china phones there is a lot of increase in the custom skins(Roms) for android. Generally they provide different features with their own roms, but you also need to be aware of that, that they are also taking unnecessary permissions from you. They are providing you with some cool features like Game boosters, scroll screenshots and which are not yet available in stock rom. With their customization battery draining is less,but it also depends on many factors :).
