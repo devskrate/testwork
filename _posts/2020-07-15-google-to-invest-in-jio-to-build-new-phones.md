@@ -6,9 +6,9 @@ subtitle: "This colloboration will bring new OS based on android"
 description: >-
   Jio announched collabarate with Google to make affordable 5G and a new OS based on Android and this is everything you need to know. 
 image: >-
-  https://devskrate.github.io/assets/blog-banners/jio-tv-plus.jpg
+  https://devskrate.github.io/assets/blog-banners/google-jio-collab.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/jio-tv-plus.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/google-jio-collab.webp
 category: [news]
 tags: [jio,google,5g]
 author: mohit
