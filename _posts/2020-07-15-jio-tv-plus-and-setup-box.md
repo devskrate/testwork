@@ -12,7 +12,6 @@ optimized_image: >-
 category: [news]
 tags: [jio,jio tv plus,jio fiber]
 author: mohit
-is_generated: true
 ---
 At the 43rd Annual General Meeting of Reliance Industries Limited, Jio has officially announced its rumored Jio TV+ service and it's setup box service, namely Fiber in India.
 
