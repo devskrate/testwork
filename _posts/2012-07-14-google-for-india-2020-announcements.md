@@ -47,7 +47,7 @@ Google will be investing **75,000 Crore Rupees(approx. 10B USD)** into to India 
 - Third, empowering businesses as they continue or embark on their digital transformation
 - Fourth, leveraging technology and AI for social good, in areas like health, education, and agriculture  
 
-> When we build for India, we build for the world -_Sundar Pichai_
+> **When we build for India, we build for the world** -Sundar Pichai
 
 <img src="https://devskrate.github.io/assets/images/google/google-digitization-fund.webp" alt="Google Digitization Fund" title="Google Digitization Fund">
 
