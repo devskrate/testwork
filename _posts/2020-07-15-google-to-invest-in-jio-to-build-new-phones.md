@@ -1,8 +1,8 @@
 ---
 date: 2020-07-15 19:50:05
 layout: post
-title: Jio collabarate with Google to make affordable 5G and a new OS based on Android.
-subtitle: "This is everything you need to know."
+title: Jio-Google will make afforidable 5G phones
+subtitle: "This colloboration will bring new OS based on android"
 description: >-
   Jio announched collabarate with Google to make affordable 5G and a new OS based on Android and this is everything you need to know. 
 image: >-
