@@ -1,5 +1,5 @@
 ---
-date: 2012-07-14 17:26:40
+date: 2020-07-15 12:30:40
 layout: post
 title: Google For India 2020
 subtitle: "Here are the all announcementd made at Google For India 2020"
