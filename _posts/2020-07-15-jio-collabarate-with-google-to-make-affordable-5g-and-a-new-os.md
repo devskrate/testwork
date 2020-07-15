@@ -1,5 +1,5 @@
 ---
-date: 2020-07-15 18:40:05
+date: 2020-07-15 19:50:05
 layout: post
 title: Jio collabarate with Google to make affordable 5G and a new OS based on Android.
 subtitle: "This is everything you need to know."
