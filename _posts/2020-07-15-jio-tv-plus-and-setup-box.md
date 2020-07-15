@@ -2,19 +2,19 @@
 date: 2020-07-14 15:00:05
 layout: post
 title: Jio Tv Plus and Fiber in India
-subtitle: ""
+subtitle: "Jio announched Jio TV plus and its fiber serive in India and this is everything you need to know."
 description: >-
   Jio announched Jio TV plus and its fiber serive in India and this is everything you need to know. 
 image: >-
   https://devskrate.github.io/assets/blog-banners/realme-c11-launched.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/realme-c11-launched.webp
-category: [mobiles]
-tags: [realme, android]
+category: [news]
+tags: [jio,jio tv plus,jio fiber]
 author: mohit
 is_generated: true
 ---
-At the 43rd Annual General Meeting of Reliance Industries Limited, Jio has officially announced its rumored Jio TV+ service and it's setup box service in India and This is everything about Jio Tv+.
+At the 43rd Annual General Meeting of Reliance Industries Limited, Jio has officially announced its rumored Jio TV+ service and it's setup box service, namely Fiber in India.
 
 The problem Jio TV+ is trying to solve is the discoverability of content, which has become very difficult with many OTT platforms, which have been fighting very hard to attract you to their services. The company plans to solve this problem by bringing all of the major OTT platforms under one single roof. 
 
