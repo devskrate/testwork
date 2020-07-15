@@ -12,7 +12,7 @@ author: puneeth
 paginate: false
 is_generated: true
 ---
-
+ 
 In the 43rd Reliance AGM event, reliance has announced many new things. Here is the summary of it..
 
 + Reliance has raised over Rs 1 lakh crore from Jio Platforms by selling 25.24 per cent stake to marque investors at nearly Rs 5 lakh crore valuation in the last few months. Ambani has promised to make Jio a public company in the coming five years and today he could announce future plans and how he expects to achieve the goal.
