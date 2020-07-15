@@ -1,5 +1,5 @@
 ---
-date: 2020-07-16 15:04:40
+date: 2010-07-16 15:04:40
 layout: post
 title: How to view Instagram Stories Annonymously
 subtitle: "You can now view instagram stories without any account"
