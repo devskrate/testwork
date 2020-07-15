@@ -1,5 +1,5 @@
 ---
-date: 2020-07-14 15:00:05
+date: 2020-07-15 18:40:05
 layout: post
 title: Jio Tv Plus and Fiber in India
 subtitle: "Jio announched Jio TV plus and its fiber serive in India and this is everything you need to know."
