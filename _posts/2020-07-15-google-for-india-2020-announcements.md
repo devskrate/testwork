@@ -10,7 +10,7 @@ category: [news]
 tags: [google, google-for-india]
 author: nikhil
 paginate: false
-is_generated: false
+is_generated: true
 ---
 
 Google, the tech giant had held its sixth annual **Google For India** event on 13 July, 2020. Since there are multiple lockdowns imposed around the world due to COVID-19 event was held online.
