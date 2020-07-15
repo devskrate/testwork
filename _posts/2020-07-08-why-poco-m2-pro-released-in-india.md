@@ -8,7 +8,7 @@ image: https://devskrate.github.io/assets/blog-banners/poco-is-sleeping.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/poco-is-sleeping.webp
 author: satya
 category: [mobiles]
-tags: [poco, review, redmi]
+tags: [poco, review, redmi, featured]
 ---
 
 From the first day of it's announcement we are expecting that this will be a rebranded version of **Redmi Note 9 Pro Series**. Finally the reality became the same. But Why did POCO is releasing these rebranded verisons in India. Where's the fire it shown in it's first flagship mobile POCO F1 Pro.

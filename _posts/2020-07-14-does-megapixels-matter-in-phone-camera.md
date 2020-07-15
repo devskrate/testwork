@@ -7,10 +7,8 @@ description: Is it true that higher megapixel cameras really good images that lo
 image: https://devskrate.github.io/assets/blog-banners/megapixels-required.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/megapixels-required.webp
 category: [reviews]
-tags: [camera]
+tags: [comparsion,camera,featured]
 author: nikhil
-paginate: false
-is_generated: false
 ---
 
 Have you observed the increase in the promoting camera megapixels by most of the mobile companies? **Can the 64MP can take really good photos than that of 12MP?** Here are some of the important things you need to know..  
