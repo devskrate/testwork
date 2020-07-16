@@ -24,7 +24,7 @@ Both the phones are powered by the new 5G-enabled Snapdragon 765G chipset and co
 
 #### Camera:
 
-Both the phones come with a 32MP selfie camera but the rear camera is where both the phones differ. The X50 Pro comes with a quad rear setup, the primary sensor 48MP Sony IMX598 sensor with 5-axis gimbal stabilization. **This gimbal camera is the highlight of this phone and this promises to offer a stabilized video **. The second is an 8MP periscope camera with a 5x optical zoom and 60x digital zoom. The third one is an 8MP ultra-wide sensor and the last one is a 13MP portrait lens.
+Both the phones come with a 32MP selfie camera but the rear camera is where both the phones differ. The X50 Pro comes with a quad rear setup, the primary sensor 48MP Sony IMX598 sensor with 5-axis gimbal stabilization. **This gimbal camera is the highlight of this phone and this promises to offer a stabilized video**. The second is an 8MP periscope camera with a 5x optical zoom and 60x digital zoom. The third one is an 8MP ultra-wide sensor and the last one is a 13MP portrait lens.
 
 The regular X50 also comes with a quad-rear camera setup with a slight downgrade. The primary is a regular 48MP Sony IMX598, the second is a 13MP telephoto camera with 2x optical zoom, the third is an 8MP ultra-wide camera and the last is a 5MP macro lens.
 
