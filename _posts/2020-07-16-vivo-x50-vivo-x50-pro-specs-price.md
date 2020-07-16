@@ -1,5 +1,5 @@
 ---
-date: 2020-07-06 16:45:02
+date: 2020-07-16 17:45:02
 layout: post
 title: "Vivo X50 Series with Glimbal Camera launched in India"
 subtitle: "Vivio X50 and X50 Pro Specs, Price and Availability"
