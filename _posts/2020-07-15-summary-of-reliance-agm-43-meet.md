@@ -7,7 +7,7 @@ description: "In the Reliance 43rd AGM meet many great things are announced, som
 image: https://devskrate.github.io/assets/blog-banners/jio-43-agm-summary.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/jio-43-agm-summary.webp
 category: [news]
-tags: [google, microsoft, intel, qualcom, os, reliance, jio, jio-glasses, jio-tv+, jio-os]
+tags: [google, microsoft, intel, qualcomm, os, reliance, jio, jio-glasses, jio-tv+, jio-os]
 author: puneeth
 paginate: false
 is_generated: false
