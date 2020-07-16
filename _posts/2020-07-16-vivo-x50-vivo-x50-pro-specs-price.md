@@ -9,7 +9,6 @@ optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/vivo-
 author: mohit
 category: [mobiles]
 tags: [android,vivo,x50]
-is_generated: true
 ---
 Vivo known for its camera-centric smartphone unveiled its new X50 and X50 Pro in India with a new stabilization tech in-camera sensor and this is everything about the phone.
 
