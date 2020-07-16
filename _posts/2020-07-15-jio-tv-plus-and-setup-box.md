@@ -10,7 +10,7 @@ image: >-
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/jio-tv-plus.webp
 category: [news]
-tags: [jio,jio tv plus,jio fiber]
+tags: [jio,jio-tv+,jio-fiber]
 author: mohit
 ---
 At the 43rd Annual General Meeting of Reliance Industries Limited, Jio has officially announced its rumored Jio TV+ service and it's setup box service in India.

@@ -1,5 +1,5 @@
 ---
-date: 2020-07-15 19:50:05
+date: 2020-07-15 12:50:05
 layout: post
 title: Jio-Google will make afforidable 5G phones
 subtitle: "This colloboration will bring new OS based on android"
