@@ -1,5 +1,5 @@
 ---
-date: 2020-07-06 16:45:02
+date: 2020-07-16 17:45:02
 layout: post
 title: "Vivo X50 Series with Glimbal Camera launched in India"
 subtitle: "Vivio X50 and X50 Pro Specs, Price and Availability"
@@ -30,8 +30,8 @@ The regular X50 also comes with a quad-rear camera setup with a slight downgrade
 
 #### Price and Availability:
 
-The regular X50 is priced at Rs. 34,990 for the 8GB+128GB and the higher 8GB+256GB variant is priced Rs. 37,990. This phone comes in two colors namely, the Frost Blue and Glaze Black.
+The regular X50 is priced at Rs. 34,990 for the 8GB+128GB and the higher 8GB+256GB variant is priced Rs. 37,990. This phone comes in two colors namely, the Frost Blue and Glaze Black, But images even show one more color variant.
 
-![Vivo X50 color variants](https://devskrate.github.io/assets/images/vivo/vivo-x50-color-variants.jpg)
+![Vivo X50 color variants](https://devskrate.github.io/assets/images/vivo/vivo-x50-color-variants.webp)
 
 The Pro variant is priced at Rs. 49,990 for the 8GB+256GB variant and is available in the Alpha Grey color variant. The X50 series is up for pre-orders and will go on sale starting from 24th July. 
