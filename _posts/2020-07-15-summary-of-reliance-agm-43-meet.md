@@ -1,5 +1,5 @@
 ---
-date: 2020-07-16 14:04:40
+date: 2020-07-16 16:04:40
 layout: post
 title: Reliance 43rd AGM 1st Virtual Event summary
 subtitle: "Google, Facebook, Intel, Qualcom, Microsoft as partners"
