@@ -1,11 +1,11 @@
 ---
 date: 2020-07-06 16:45:02
 layout: post
-title: "Vivo launched it's X50 series in India"
-subtitle: "The phone comes with a never seen glimbal stabilizing sensor"
-description: Vivo X50 series with a new glimbal stabilized sensor.
-image: https://devskrate.github.io/assets/blog-banners/best-flagship-2020-q1.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/best-flagship-2020-q1.webp
+title: "Vivo X50 Series with Glimbal Camera launched in India"
+subtitle: "Vivio X50 and X50 Pro Specs, Price and Availability"
+description: Here is the specs, price and our first impressions on Vivo X50 series.
+image: https://devskrate.github.io/assets/blog-banners/vivo-x50-pro-launch.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/vivo-x50-pro-launch.webp
 author: mohit
 category: [mobiles]
 tags: [android,vivo,x50]
