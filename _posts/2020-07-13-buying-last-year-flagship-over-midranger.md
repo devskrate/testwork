@@ -23,7 +23,7 @@ Talking about camera, Most previous flagships come superior camera quality when 
 #### 4. Performance:
 Previous years flagship comes with a better performance when compared to midrange and it even offers way better gaming performance than midrange.
 #### 5.Battery:
-The trend in 2020 has been a bigger battery, which means mid-rangers get a higher capacity battery which coupled with a power-efficient battery which leads to better battery life in midranges than that of previous year's flagship.
+The trend in 2020 has been a bigger battery, which means mid-rangers get a higher capacity battery which coupled with a power-efficient battery also the fact that battery decays as the time passes whether you use it or not gives mid-range the edge in terms of battery. 
 #### 6.Software Updates:
 Unless you are using an iOS device previous year's flagships have less chance of getting a major software update and we can expect the midrange to get at least one software update and midranges are also expected to get better security updates as well.
 #### Verdict:
