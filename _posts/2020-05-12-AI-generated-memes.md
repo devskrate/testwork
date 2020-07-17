@@ -6,7 +6,7 @@ subtitle: Making memes is an art. what if AI does it?
 description: This AI is really cool which can generate interesting memes in seconds
 image: https://devskrate.github.io/assets/blog-banners/ai-memes.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/ai-memes.webp
-author: satya
+author: srisatyalokesh
 category: [news]
 tags: [Artificial Intelligence, Machine Learning]
 ---
