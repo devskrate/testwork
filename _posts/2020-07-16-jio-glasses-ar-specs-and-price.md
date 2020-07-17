@@ -11,7 +11,7 @@ optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/jio-glasses-launch.webp
 category: [gadgets]
 tags: [jio, jio-glasses, ar-vr]
-author: satya
+author: srisatyalokesh
 ---
 
 We got to know that [Google will be investing in Jio](https://devskrate.com/google-to-invest-in-jio-to-build-new-phones/) through leaks and the investment is pretty huge. But These `Jio Glasses` are really out of syllabus, we didn't have one leak about this and even the concept of these glasses is **out-of-the-box**.
