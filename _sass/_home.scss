@@ -211,3 +211,15 @@
     padding: rem(15px);
   }
 }
+
+.main-page .category-footer{
+  background-color: black;
+  isolation: isolate;
+}
+
+.main-page .category-footer footer{
+  background-color: black;
+  margin-top: 0;
+  isolation: isolate;
+}
+
