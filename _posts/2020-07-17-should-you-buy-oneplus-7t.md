@@ -6,8 +6,8 @@ subtitle: Can you buy OnePlus 7T over OnePlus 8
 description: OnePlus 7T is a worthy flagship, but is it worth over OnePlus 8
 image: https://devskrate.github.io/assets/blog-banners/op7tvsop8.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/op7tvsop8.webp
-category: [howto]
-tags: [facebook, photos]
+category: [mobiles]
+tags: [android, oneplus]
 author: nikhil
 paginate: false
 is_generated: true
@@ -16,8 +16,6 @@ is_generated: true
 It's been a month and half since OnePlus had launched the OnePlus 8 series in India and almost lost the title of **Flagship Killer** because of its price starting at ₹44,999/-. OnePlus 8 is the a minor upgrade over the 7T which has a present price tag of ₹34,999/-. Now the question is **Can we buy OnePlus 7T over OnePlus 8 in India?**.
 
 Firstly let's have a spec comparison
-
-
 
 |                        | OnePlus 7T                                                                                                                                | OnePlus 8                                                                                                                              |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -51,3 +49,7 @@ From hardware perspective, with the OnePlus 8 making a few minor improvements in
 But the whole lot of caviar comes here as OnePlus 7T already has a decent full-day battery life and in a country like India where 5G is mere dream until the end of 2022. Also OnePlus 7T had a advantage of ultra wide camera for beautiful and wide angled photos.
 
 **Final Verdict:** For a massive **₹10,000 price difference** sacrificing those little perks, it worth buying OnePlus 7T over OnePlus 8.
+
+You can get the OnePlus 7T from <a href="https://amzn.to/3ezAdJ9" target="_blank">Amazon</a> and <a href="https://www.oneplus.in/oneplus-7t?from=7t" target="_blank"></a>
+
+You can get the OnePlus 8 from <a href="https://amzn.to/3jjcyAD" target="_blank">Amazon</a> and <a href="https://www.oneplus.in/oneplus-8?from=8" target="_blank"></a>
