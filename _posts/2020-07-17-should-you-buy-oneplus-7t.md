@@ -10,7 +10,7 @@ category: [mobiles]
 tags: [android, oneplus, always-a-flagship]
 author: nikhil
 paginate: false
-is_generated: true
+is_generated: false
 ---
 
 It's been a month and half since OnePlus had launched the OnePlus 8 series in India and almost lost the title of **Flagship Killer** because of its price starting at ₹44,999/-. OnePlus 8 is the a minor upgrade over the 7T which has a present price tag of ₹34,999/-. Now the question is **Can we buy OnePlus 7T over OnePlus 8 in India?**.
