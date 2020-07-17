@@ -1,5 +1,5 @@
 ---
-date: 2012-06-26 17:26:40
+date: 2020-07-17 10:25:40
 layout: post
 title: Is it Worth Buying OnePlus 7T over OnePlus 8
 subtitle: Can you buy OnePlus 7T over OnePlus 8
