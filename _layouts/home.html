@@ -18,6 +18,16 @@ layout: main
     {% if site.show_hero and paginator == nil or paginator.page == 1 %}
         <!-- Hero -->
         {% assign featured = posts.first %}
+        <!-- ServiceWorke Registration --> 
+            <script type="module">
+
+                import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+
+                const el = document.createElement('pwa-update');
+                document.body.appendChild(el);
+
+            </script>
+        <!-- End of ServiceWorke Registration --> 
         <section class="hero" style="background-image: url({{ featured.image }})">
             <div class="pixels"></div>
             <div class="gradient"></div>
@@ -188,13 +198,4 @@ layout: main
 }
 </script>
 
-<!-- ServiceWorker--> 
 
-<script type="module">
-
-    import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
-
-    const el = document.createElement('pwa-update');
-    document.body.appendChild(el);
-
-</script>
