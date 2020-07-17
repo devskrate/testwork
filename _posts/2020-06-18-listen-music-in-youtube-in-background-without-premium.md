@@ -6,7 +6,7 @@ subtitle: Music in bckground without premium
 description: Best and simple hack for all youtube fans
 image: https://devskrate.github.io/assets/blog-banners/youtube-background.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/youtube-background.webp
-author: satya
+author: srisatyalokesh
 category: [howto]
 tags: [youtube, music,apps, featured]
 ---
