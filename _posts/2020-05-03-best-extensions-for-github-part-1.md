@@ -6,7 +6,7 @@ subtitle: Let's increase our productivity in Github
 description: These are collection of browser extensions specially for GitHub
 image: https://devskrate.github.io/assets/blog-banners/gittensions.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/gittensions.webp
-author: satya
+author: srisatyalokesh
 category: [dev]
 tags: [chrome, firefox, extensions, github, gitlab, featured]
 ---
