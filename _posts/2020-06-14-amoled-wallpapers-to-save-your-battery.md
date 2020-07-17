@@ -6,7 +6,7 @@ subtitle: SImple trick to increase your battery life
 description: Why AMOLED screens are so special and what's the best way to use this
 image: https://devskrate.github.io/assets/blog-banners/amoled-walls.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/amoled-walls.webp
-author: satya
+author: srisatyalokesh
 category: [mobiles]
 tags: [android, wallpapers, featured]
 ---
