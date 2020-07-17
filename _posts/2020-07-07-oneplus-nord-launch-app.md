@@ -6,7 +6,7 @@ subtitle: Oneplus just launched an app to watch AR Launch Live
 description: You don't need a pass to watch this event you just need a phone, install this now.
 image: https://devskrate.github.io/assets/blog-banners/nord-launch-app.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/nord-launch-app.webp
-author: satya
+author: srisatyalokesh
 category: [news]
 tags: [oneplus, nord, launch]
 ---
