@@ -7,7 +7,7 @@ description: OnePlus 7T is a worthy flagship, but is it worth over OnePlus 8
 image: https://devskrate.github.io/assets/blog-banners/op7tvsop8.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/op7tvsop8.webp
 category: [mobiles]
-tags: [android, oneplus]
+tags: [android, oneplus, always-a-flagship]
 author: nikhil
 paginate: false
 is_generated: true
