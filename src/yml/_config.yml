@@ -11,6 +11,26 @@ tags:
   - Gadgets
   - Tutorials
   - Code
+category:
+  - android
+  - apps
+  - code
+  - css
+  - dev
+  - gadgets
+  - howto
+  - laptops
+  - linux
+  - mobiles
+  - news
+  - reviews
+  - security
+  - tech
+  - tips
+  - travel
+  - tutorial
+  - ubuntu
+  - work
 email: contact@devskrate.com
 # disqus_username: disqus_username
 show_hero: true
@@ -48,7 +68,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://devskrate.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 google_analytics: "UA-164058434-1"
 language: "en"
 categories_folder: category
