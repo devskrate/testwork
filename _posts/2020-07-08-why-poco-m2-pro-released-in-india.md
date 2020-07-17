@@ -6,7 +6,7 @@ subtitle: What POCO is trying urge with this **Feel the Surge**?
 description: Full review and final verdict of POCO M2 Pro. Does this has any significant value in India now?
 image: https://devskrate.github.io/assets/blog-banners/poco-is-sleeping.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/poco-is-sleeping.webp
-author: satya
+author: srisatyalokesh
 category: [mobiles]
 tags: [poco, review, redmi, featured]
 ---
