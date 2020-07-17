@@ -24,10 +24,11 @@ RAM stands for `Random Access Memory`. In a nutshell, it's an extremely fast com
 
 The more RAM you have on a smartphone, the more apps and files you'll be able to fit in the RAM, which means more apps will boot up quicker. Because of the optimisations made to mobile apps in general, there's a limit to how much RAM is actually needed.
 
+
 #### RAM used by Android OS
 <div class="slide-show">
-<a href="https://devskrate.github.io/assets/images/android/pixel-3xl-android-ram.jpg" data-lightbox="image-1" data-title="Open chrome and open youtube.com"><img width="20%" src="https://devskrate.github.io/assets/images/android/pixel-3xl-android-ram.jpg" style = "border:1px solid black;display:inline" ></a>
-<a href="https://devskrate.github.io/assets/images/android/oneplus-android-os-ram-usage.jpg" data-lightbox="image-1" data-title="Click options"><img width="20%" src="https://devskrate.github.io/assets/images/android/oneplus-android-os-ram-usage.jpg" style = "border:1px solid black;display:inline" ></a>
+<a href="https://devskrate.github.io/assets/images/android/pixel-3xl-android-ram.jpg" data-lightbox="image-1" data-title="Open chrome and open youtube.com"><img width="30%" src="https://devskrate.github.io/assets/images/android/pixel-3xl-android-ram.jpg" style = "border:0px solid black;display:inline" ></a> &nbsp; &nbsp;
+<a href="https://devskrate.github.io/assets/images/android/oneplus-android-os-ram-usage.jpg" data-lightbox="image-1" data-title="Click options"><img width="30%" src="https://devskrate.github.io/assets/images/android/oneplus-android-os-ram-usage.jpg" style = "border:0px solid black;display:inline" ></a>
 </div>
 
 Even you have 4 or 8 GB of RAM, Android OS requires not morethan 2GB, So where does left 6GB RAM goes?
@@ -52,4 +53,15 @@ You may got some idea that you actually don't need 8 Gigs of RAM.
 
 Some may say that havig more RAM makes your phone future ready, But you need to know that hardware of a smartphone degrades gradually and on average we change phones for every three years according to latest survey resulsts.
 
+> Smartphone companies are keeping more RAM  just for the sake of Bechmark Tests, But actual usage will be far different than a Benchmark test.
+
 #### Here are 9 reasons why you don't need an 8GB RAM smartphone -
+
+
+1. You don't even use 6GB of RAM anytime, except  when you run **benchmark tests**.
+2. Games and Apps are designed in a way that they will consume less RAM.
+3. Smartphones are keeping more RAM just for benchmark score sake
+4. 8  Gigs of RAM will cost you more, Why will you spend on unneccasary things?
+5. 8GB RAM phone might be ‘future-proof’, but most of us will change our phones anyways, as discussed before.
+
+![no-need-of-ram](https://media.giphy.com/media/l2JedTceGTFPKCBXi/giphy.gif)
