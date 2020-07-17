@@ -11,7 +11,7 @@ optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/moto-g-g5-plus.webp
 category: [mobiles]
 tags: [moto, android, specs]
-author: satya
+author: srisatyalokesh
 ---
 
 In last 3 years we all addressed how moto G series ruled mid-range smartphone market and gave a tough competition to redmi note series. Even tough redmi offers nice features with MIUI, Moto had 100 Million mark sale with G series with stock android.
