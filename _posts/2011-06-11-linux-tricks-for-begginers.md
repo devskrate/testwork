@@ -12,7 +12,7 @@ optimized_image: >-
 tags: [Linux, beginner, os]
 category: [tips&tricks]
 author: puneeth
-is_generated: false
+is_generated: true
 ---
 
 Many of us use Linux, we mostly use Ubuntu which is beginner friendly with a good UI.

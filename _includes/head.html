@@ -103,19 +103,7 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" />
 
     <!-- Include extra styles -->
-    {% include extra-css.html %}
-
-    <!-- ServiceWorker-->  
-    <script type="text/javascript" src="/pwabuilder-sw.js"></script> 
-
-    <script type="module">
-
-    import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
-
-    const el = document.createElement('pwa-update');
-    document.body.appendChild(el);
-
-    </script>
+    {% include extra-css.html %} 
 
     <!-- JavaScript enabled/disabled -->
     <script>
