@@ -1,8 +1,8 @@
 ---
 layout: contributor
 photo: /assets/img/persons/vasavi-profile.webp
-name: Vasavi Lagishetty
-display_name: Vasavi
+name: Vasavi
+display_name: Lagishetty Vasavi
 position: Web Designer & Developer
 bio: >-
     Hello! Currently I'm working as Software Engineer at ValueLabs, Hyderabad.
