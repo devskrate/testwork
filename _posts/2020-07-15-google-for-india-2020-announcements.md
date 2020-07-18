@@ -59,7 +59,7 @@ Google will be partnering with **Prasar Bharati** to educate India's small and m
 #### 3. Teach From Home
 
 Google launched Teach From Home, an information hub in english and 8 Indian languages to facilitatr remote learning to the 320M+ Students in India.  
-[go.co/teachfromhome](go.co/teachfromhome)
+[go.co/teachfromhome](https://go.co/teachfromhome)
 
 <img src="https://devskrate.github.io/assets/images/google/teachfromhome.jpg" alt="Teach From Home" title="Teach From Home">
 
