@@ -13,7 +13,7 @@ author: puneeth
 
 > These apps were "engaged in activities which is prejudicial to sovereignty and integrity of India, defence of India, and security of state and public order"
 
-<a href="https://devskrate.github.io/assets/images/alternatives/chinese-apps/banned-chinese-apps-list.jpeg" data-lightbox="image-1" data-title="Govt Banned apps list"><img width="50%" src="{{site.baseurl}}/assets/images/alternatives/chinese-apps/banned-chinese-apps-list.jpeg"></a>
+<a href="https://devskrate.github.io/assets/images/alternatives/chinese-apps/banned-chinese-apps-list.jpeg" data-lightbox="image-1" data-title="Govt Banned apps list"><img width="50%" src="https://devskrate.github.io/assets/images/alternatives/chinese-apps/banned-chinese-apps-list.jpeg"></a>
 
 Here are some of the best alternatives to popular chinese apps..
 
