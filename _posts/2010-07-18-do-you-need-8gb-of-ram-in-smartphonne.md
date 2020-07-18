@@ -1,5 +1,5 @@
 ---
-date: 2010-07-18 10:45:02
+date: 2020-07-18 10:45:02
 layout: post
 title: "Do you need 8 GB of RAM for your phone in 2020?"
 subtitle: "How much RAM does a smartphone need?"
@@ -9,7 +9,6 @@ optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/do-we
 author: srisatyalokesh
 category: [reviews]
 tags: [android,ram,analysis]
-is_generated: True
 ---
 
 Nowadays, smartphones are getting packed with more and more gigs of memory. As a user you will get this question - **How much RAM do you really use and how much is actually necessary for smooth usage?**
