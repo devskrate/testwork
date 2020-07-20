@@ -898,11 +898,10 @@ body.has-push-menu .post-section .post-footer footer{
 .post-content .category-heading{
   color: white;
   padding: 0;
-  margin-left: 5%;
   margin-bottom: 10px;
 
-  @include media(">=sm") {
-    margin-left: 20%;
-  }
+  
+
+  
 }
 
