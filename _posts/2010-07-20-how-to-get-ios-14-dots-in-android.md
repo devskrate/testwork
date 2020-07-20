@@ -9,7 +9,7 @@ optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/ios-1
 author: srisatyalokesh
 category: [apps]
 tags: [android, ios, suggestions]
-is_generated:true
+is_generated: true
 ---
 
 Apple with iOS 14 will alert users every time any app trys to  access camera and mic in the background, These becamevery popular these days even MUI12is gonna bring something similar to this. 
