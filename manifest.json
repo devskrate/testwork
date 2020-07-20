@@ -10,7 +10,7 @@ layout: none
   "background_color": "#2a98f2",
   "display": "fullscreen",
   "Scope": "{{site.url}}{{page.url}}",
-  "start_url": "{{site.url}}",
+  "start_url": "{{site.url}}/?utm_source=homescreen",
   "prefer_related_applications": true,
   "icons": [
       {
