@@ -1,15 +1,14 @@
 ---
 date: 2020-07-20 13:00:02
 layout: post
-title: "Redmi Note 9 launched in India."
-subtitle: "Redmi Note 9, the first Meditek Helio G85"
-description: redmi launched it's Note 9 in india with Meditek Helio G85.
-image: https://devskrate.github.io/assets/blog-banners/vivo-x50-pro-launch.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/vivo-x50-pro-launch.webp
+title: "Redmi note 9 - Specs and Price"
+subtitle: "Redmi note 9 launched in India Today"
+description: Redmi note 9 equipped with Helio g85 shipset launched in india here is everything you need to know.
+image: https://devskrate.github.io/assets/blog-banners/redmi-note-9-launch.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/redmi-note-9-launch.webp
 author: mohit
 category: [mobiles]
-tags: [android,vivo,x50]
-is_generated: true
+tags: [android,redmi,note]
 ---
 Redmi launched its budget Redmi Note 9 with MediaTek Helio G85, quad rear camera, big battery, and many more.
 #### Design:
