@@ -1,15 +1,15 @@
 ---
 date: 2020-07-20 18:45:02
 layout: post
-title: "How to get  iOS 14 access indicators in Android?"
+title: "How to get iOS 14 access indicators in Android?"
 subtitle: "Get iOS14's camera and mic access indicators in Android"
-description: "Here's how you can get iOS14's camera and mic access indicators in Android"
+description: "Here's how you can get iOS14 camera and mic access indicators in Android"
 image: https://devskrate.github.io/assets/blog-banners/ios-14-dots-to-android.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimizedios-14-dots-to-android.webp
 author: srisatyalokesh
 category: [apps]
 tags: [android, ios, suggestions]
-is_generated:True
+is_generated:true
 ---
 
 Apple with iOS 14 will alert users every time any app trys to  access camera and mic in the background, These becamevery popular these days even MUI12is gonna bring something similar to this. 
