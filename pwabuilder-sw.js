@@ -53,9 +53,3 @@ function updateCache(request, response) {
     return cache.put(request, response);
   });
 }
-
-window.addEventListener('beforeinstallprompt', e => {
-  e.userChoice.then(choiceResult => {
-    ga('send', 'event', 'A2H', choiceResult.outcome);      
-  });
-});
