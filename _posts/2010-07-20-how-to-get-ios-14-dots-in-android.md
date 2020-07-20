@@ -5,7 +5,7 @@ title: "How to get iOS 14 access indicators in Android?"
 subtitle: "Get iOS14's camera and mic access indicators in Android"
 description: "Here's how you can get iOS14 camera and mic access indicators in Android"
 image: https://devskrate.github.io/assets/blog-banners/ios-14-dots-to-android.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimizedios-14-dots-to-android.webp
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/ios-14-dots-to-android.webp
 author: srisatyalokesh
 category: [apps]
 tags: [android, ios, suggestions]
