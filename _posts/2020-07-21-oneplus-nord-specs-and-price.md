@@ -24,7 +24,7 @@ OnePlus has finally launched its much-rumored value for money mid-range smartpho
 |Charging     | USB - C with warp charge 30T Fast Charging                             |
 
 #### Design & displays:
-The phone comes with a glass sandwich design. The back houses the quad-rear camera to the top-left corner, OnePlus is placed at the middle and the OnePlus branding is at the bottom. Turning to front, we find a dual punch hole on the top left to house the selfie cameras. The phone comes with a 6.44 inch AMOLED display with Full HD+ resolution. It also comes with a 90Hz refresh rate with an aspect ratio of 20:9.
+The phone comes with a glass sandwich design with plastic frame and metal buttons. The back houses the quad-rear camera to the top-left corner, OnePlus is placed at the middle and the OnePlus branding is at the bottom. Turning to front, we find a dual punch hole on the top left to house the selfie cameras. The phone comes with a 6.44 inch AMOLED display with Full HD+ resolution. It also comes with a 90Hz refresh rate with an aspect ratio of 20:9.
 
 #### Internals and Software:
 The phone is powered by the new mid-range 5G chip by Qualcomm, The Snapdragon 765 5G processor. The phone comes with a 4100 mAh battery with support for Warp Charge 30T. It also comes with 5G. The fact that it doesn't have any headphone jack is a bit disappointing. **The phone will run on Oxygen OS 10.5 based on Android 10**.
