@@ -3,7 +3,7 @@ date: 2020-07-20 13:00:02
 layout: post
 title: "Redmi note 9 - Specs and Price"
 subtitle: "Redmi note 9 launched in India Today"
-description: Redmi note 9 equipped with Helio g85 shipset launched in india here is everything you need to know.
+description: Redmi note 9 equipped with Helio g85 chipset launched in india here is everything you need to know.
 image: https://devskrate.github.io/assets/blog-banners/redmi-note-9-launch.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/redmi-note-9-launch.webp
 author: mohit
