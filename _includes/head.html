@@ -115,4 +115,16 @@
 <!--{ feed_meta }-->
 <!--{ seo }-->
 
+<!-- ServiceWorke Registration --> 
+<script type="module">
+
+    if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function() {
+        navigator.serviceWorker.register('/pwabuilder-sw.js');
+        
+    });
+    }
+
+</script>
+
 </head>
