@@ -6,6 +6,7 @@ subtitle: "OnePlus Nord launched in India Today"
 description: OnePlus Nord equipped with Snapdragon 765 5G chipset launched in india here is everything you need to know.
 image: https://devskrate.github.io/assets/blog-banners/oneplus-nord-launch.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/oneplus-nord-launch.webp
+author: mohit
 category: [mobiles]
 tags: [android,oneplus,nord]
 ---
