@@ -1,17 +1,17 @@
 ---
 date: 2020-05-03 17:08:52
 layout: post
-title: GitTensions - Exclusive Extensions for GitHub and GitLab - part 1
+title: GitExtensions - Exclusive Extensions for GitHub and GitLab - part 1
 subtitle: Let's increase our productivity in Github
 description: These are collection of browser extensions specially for GitHub
 image: https://devskrate.github.io/assets/blog-banners/gittensions.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/gittensions.webp
-author: satya
+author: srisatyalokesh
 category: [dev]
-tags: [chrome, firefox, extensions, github, gitlab]
+tags: [chrome, firefox, extensions, github, gitlab, featured]
 ---
 
-GitTesnions - This is just a funny name given to extensions exclusive to Github and GitLab to enhance your workflow and increase productivity. Trust me these gitTensions will remove all your tensions
+GitExtesnions - This is just a name given to extensions exclusive to Github and GitLab to enhance your workflow and increase productivity. Trust me these gitTensions will remove all your tensions
 
 If your answer is **YES** to any of these questions, this [mlog](https://devskrate.com/introducing-mlogs/) is for you.
 

@@ -1,8 +1,8 @@
 ---
 layout: contributor
 photo: /assets/img/persons/satya-profile.webp
-name: satya
-display_name: Satya Lokesh
+name: srisatyalokesh
+display_name: Sri Satya Lokesh
 position: Designer, Developer and Blogger
 bio: Software Engineer at <a href="https://www.dhan.ai">Dhan AI</a>.
 github_username: srisatyalokesh

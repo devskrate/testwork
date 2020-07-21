@@ -1,3 +1,7 @@
+---
+layout: none
+---
+
 {
   "lang": "en",
   "name": "DevsKrate",
@@ -5,8 +9,8 @@
   "theme_color": "#2a98f2",
   "background_color": "#2a98f2",
   "display": "fullscreen",
-  "Scope": "/",
-  "start_url": "https://devskrate.com/",
+  "Scope": "{{site.url}}{{page.url}}",
+  "start_url": "{{site.url}}/?utm_source=homescreen",
   "prefer_related_applications": true,
   "icons": [
       {
@@ -51,6 +55,5 @@
       }
   ],
   "splash_pages": null,
-  "url": "https://devskrate.com",
   "screenshots": []
 }

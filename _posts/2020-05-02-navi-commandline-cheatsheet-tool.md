@@ -6,7 +6,7 @@ subtitle: You dont need to remember hundreds of commands from now.
 description: Navi gives you freedom to search and store cheatsheet od commands you use.
 image: https://devskrate.github.io/assets/blog-banners/navi.png
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/navi.webp
-author: satya
+author: srisatyalokesh
 category: [dev]
 tags: [tips, developers, linux, mlogs]
 ---

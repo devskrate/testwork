@@ -18,6 +18,16 @@ layout: main
     {% if site.show_hero and paginator == nil or paginator.page == 1 %}
         <!-- Hero -->
         {% assign featured = posts.first %}
+        <!-- ServiceWorke Registration --> 
+            <script type="module">
+
+                import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+
+                const el = document.createElement('pwa-update');
+                document.body.appendChild(el);
+
+            </script>
+        <!-- End of ServiceWorke Registration --> 
         <section class="hero" style="background-image: url({{ featured.image }})">
             <div class="pixels"></div>
             <div class="gradient"></div>
@@ -177,8 +187,8 @@ layout: main
                     }
                 },
                 "mainEntityOfPage": "True",
-                "genre": "{{ post.category | capitalize }}",
-		        "articleSection": "{{ post.category | capitalize }}",
+                "genre": "{{ post.category.first }}",
+		        "articleSection": [{{ post.category | join: '","' | append: '"' | prepend: '"' }}],
                 "keywords": [{{ post.tags | join: '","' | append: '"' | prepend: '"' }}]
             }{% if forloop.last == false  %},{% endif %}
         {% endfor %}
@@ -187,3 +197,5 @@ layout: main
   }
 }
 </script>
+
+

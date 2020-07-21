@@ -6,7 +6,7 @@ subtitle: Vs Code experience directly to browser
 description: This is a new feature github is going to bring to set instant devlopment environment
 image: https://devskrate.github.io/assets/blog-banners/codespaces.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/codespaces.webp
-author: satya
+author: srisatyalokesh
 category: [dev]
 tags: [microsoft, vscode, github,extensions]
 ---

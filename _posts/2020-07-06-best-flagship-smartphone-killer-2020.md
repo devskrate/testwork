@@ -3,7 +3,7 @@ date: 2020-07-06 13:45:02
 layout: post
 title: "The Best Flagship Killer"
 subtitle: One Plus 8 V/s Realme X50 Pro 5G V/s Vivo iQOO 3
-description: Here is how to create your Facebook Avatar
+description: Find out the which best flagship killer
 image: https://devskrate.github.io/assets/blog-banners/best-flagship-2020-q1.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/best-flagship-2020-q1.webp
 author: mohit

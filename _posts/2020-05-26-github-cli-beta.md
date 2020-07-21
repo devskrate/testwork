@@ -4,7 +4,7 @@ layout: post
 title: GitHub CLI - Enhance your command line experience
 subtitle: Tired of switching between GitHub and Commandline
 description: sample
-author: satya
+author: srisatyalokesh
 image: https://devskrate.github.io/assets/blog-banners/github-cli.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/github-cli.webp
 category: [news]

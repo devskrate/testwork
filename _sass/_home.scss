@@ -3,6 +3,8 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   padding-top: rem(80px);
+  background-color: black;
+  isolation: isolate;
 
   @include media(">=sm") {
     padding-top: rem(100px);
@@ -211,3 +213,15 @@
     padding: rem(15px);
   }
 }
+
+.main-page .category-footer{
+  background-color: black;
+  isolation: isolate;
+}
+
+.main-page .category-footer footer{
+  background-color: black;
+  margin-top: 0;
+  isolation: isolate;
+}
+

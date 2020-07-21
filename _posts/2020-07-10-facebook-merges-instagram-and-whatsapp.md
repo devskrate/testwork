@@ -11,7 +11,7 @@ optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/facebook-merge.webp
 category: [news]
 tags: [facebook, instagram, whatsapp]
-author: satya
+author: srisatyalokesh
 ---
 
 Facebook is ruling social media by having ownership on 4 of the top 10 social media platforms. Facebook, Messenger, Instagram and WhatsApp are owned by facebook. Also facebook shows this brand monetization in each app it has like - 

@@ -54,4 +54,5 @@ This shows that one plus is not trying to cut corners against the best of samsun
 The performance is also great coming with snapdragon 865 processor.
 This phone also supports 5G and WIFI 6 making it a future proof phone. The software thats the oxygen OS gives the cleanest andriod experience.
 
-**Conclusion**: One Plus ended up making a really appealing flagship smartphone undercutting the likes samsung and apple by a good margin and offering way more specifications at this price point.
+#### Conclusion: 
+One Plus ended up making a really appealing flagship smartphone undercutting the likes samsung and apple by a good margin and offering way more specifications at this price point.

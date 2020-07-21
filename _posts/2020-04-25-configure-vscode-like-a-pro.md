@@ -6,7 +6,7 @@ subtitle: "Best Extensions for VS Code."
 description: "Best practices and most useful extensions in VS Code for good productivity"
 image: https://devskrate.github.io/assets/blog-banners/vscode-like-pro.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/vscode-like-pro.webp 
-author: satya
+author: srisatyalokesh
 category: [dev]
 tags: [developers,vscode, coding, featured]
 ---

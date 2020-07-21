@@ -6,7 +6,7 @@ subtitle: Great oppurtunity for students
 description: Detailed information on how to apply for this fellowship program
 image: https://devskrate.github.io/assets/blog-banners/github-mlh.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/github-mlh.webp
-author: satya
+author: srisatyalokesh
 category: [students]
 tags: [fellowship, internship, mlh-fellowship, github]
 ---

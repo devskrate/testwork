@@ -46,6 +46,6 @@ scan the code and you will be directed to an upload page.
 
 For more details of how to use it and installation in other platforms visit: [qrcp](https://github.com/claudiodangelis/qrcp)
 
-source: [Dev Useful Stuff](t.me/dev_useful_stuff)
+source: [Dev Useful Stuff](https://t.me/dev_useful_stuff)
 
 **Additional info**: This is an open-source project written in Golang. This project is cloned and build by others in python named [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer).
