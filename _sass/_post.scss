@@ -132,6 +132,7 @@
     font-size: rem(17px);
     margin: rem(10px) auto;
     line-height: 1.6;
+    font-weight: bolder;
 
     @include media(">=sm") {
       font-size: rem(20px);
@@ -274,14 +275,28 @@
 
   blockquote {
     @include center(rem(730px));
-    animation:shadows 2s linear infinite alternate;
-    padding:1em;
+    border-left: rem(5px) solid $texts;
+    padding: 0 rem(10px);
     margin: rem(30px) auto;
+    width: 90%;
 
     @include media(">=sm") {
+      width: 100%;
       margin: rem(50px) auto;
-      padding: 1em;
+      padding: 0 rem(30px);
     }
+
+    /*&:before{
+      content: "“";
+      font-family: Georgia;
+      font-size: 4rem;
+      color: $texts;
+      margin: -1rem 2rem 0 -2.5rem;
+      position: absolute;
+      opacity: 1;
+      float: left;
+      line-height: 1;
+    }*/
 
     p {
       font-size: rem(17px);
@@ -293,16 +308,7 @@
     }
   }
 
-  @keyframes shadows {
-    0% {
-      box-shadow:0 2px 2px -2px rgba(0,0,0,.25);
-      transform:scale(.95);
-    }
-    100% {
-      box-shadow:0 0 2px 2px rgba(0,0,0,.25);
-      transform:scale(1);
-    }
-  }
+
 
   hr {
     @include center(rem(760px));
