@@ -505,6 +505,7 @@
   bottom: -100%;
   display: block;
   width: 100%;
+  z-index:1;
   padding: rem(10px) rem(20px) rem(5px);
   transition: bottom 0.5s;
   background-color: rgba(0, 0, 0, 0.85);
@@ -897,11 +898,10 @@ body.has-push-menu .post-section .post-footer footer{
 .post-content .category-heading{
   color: white;
   padding: 0;
-  margin-left: 5%;
   margin-bottom: 10px;
 
-  @include media(">=sm") {
-    margin-left: 20%;
-  }
+  
+
+  
 }
 

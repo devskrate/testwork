@@ -1,5 +1,5 @@
 ---
-date: 2010-07-21 10:45:02
+date: 2020-07-20 10:45:02
 layout: post
 title: "Does Fast Charging affect phone's battery life?"
 subtitle: "Fast Charge for phones is safe or not?"
@@ -9,7 +9,6 @@ optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/fast-
 author: srisatyalokesh
 category: [reviews]
 tags: [android, fast-charge, analysis]
-is_genenrated: true
 ---
 
 From the start of 2020 trend of plenty of devices released which support fast charging. Evry flagship has at least 30W Fast charging and IQOO3 has 55W which surprised us all these days. But recently IQOO, Oppo, Realme launched 120W Fast charge mechanism which can charge a phone with 4000mAh battery in 15 mins and that's really insane. Even i take nearly 20 minutes of coffee break to recharge my mind with fresh thoughts.
