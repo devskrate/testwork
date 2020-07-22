@@ -53,7 +53,7 @@ Both the devices are available in various colors.
 
 Although, both the phones are equipped with the AMOLED Screens, OnPlus Nord has an edge with its **90Hz fluid display** and the 20:9 aspect ratio, which makes it easier to hold the device in hand. If, you're the fan of **full screen display** and concerned about **security**, pup-up camera in the K20 Pro would fulfill your need.
 
-**Ever felt insecure with your mobile camera wanted to get the iOS 14 access indicators in Android? Read [DevsKrate | Tech, Code and Gadgets](https://devskrate.com/how-to-get-ios-14-dots-in-android/)**
+<i class="fa fa-arrow-right" aria-hidden="true"></i>Ever felt insecure with your mobile camera wanted to get the iOS 14 access indicators in Android? Read [DevsKrate | Tech, Code and Gadgets](https://devskrate.com/how-to-get-ios-14-dots-in-android/)
 
 #### Performance
 
