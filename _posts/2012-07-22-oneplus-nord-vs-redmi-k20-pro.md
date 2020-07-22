@@ -53,7 +53,7 @@ Both the devices are available in various colors.
 
 Although, both the phones are equipped with the AMOLED Screens, OnPlus Nord has an edge with its **90Hz fluid display** and the 20:9 aspect ratio, which makes it easier to hold the device in hand. If, you're the fan of **full screen display** and concerned about **security**, pup-up camera in the K20 Pro would fulfill your need.
 
-<i class="fa fa-arrow-right" aria-hidden="true"></i>Ever felt insecure with your mobile camera wanted to get the iOS 14 access indicators in Android? Read <a href="https://devskrate.com/how-to-get-ios-14-dots-in-android/">How to get iOS 14 access indicators in Android? | DevsKrate</a>
+<i class="fa fa-arrow-right" aria-hidden="true"></i>Ever felt insecure with your mobile camera wanted to get the iOS 14 access indicators in Android? Read <a href="https://devskrate.com/how-to-get-ios-14-dots-in-android/" target="_blank">How to get iOS 14 access indicators in Android? | DevsKrate</a>
 
 #### Performance
 
@@ -86,7 +86,7 @@ The most happening processor these days is Snapdragon 765G as NORD, Pixel 4a and
 | Optical Image Stabilisation | Yes | No |
 | Flash | Single LED Flash | Dual LED Flash |
 
- Checkout [Does Megapixels Matter? | DevsKrate](https://devskrate.com/does-megapixels-matter-in-phone-camera/)
+<i class="fa fa-arrow-right" aria-hidden="true"></i> Checkout <a href="https://devskrate.com/does-megapixels-matter-in-phone-camera/" target="_blank">Does Megapixels Matter? | DevsKrate</a>
 
 OnePlus Team had hyped the Nord Camera, as if it is incredible. But the **bitter truth** is that, it is same sensor that is present on the under 15k Redmi Note 7 Pro and 7S phone. The Redmi K20 pro camera Exmor-RS CMOS sensor is too good for detailed photography and of flagship grade.
 
@@ -111,7 +111,7 @@ While the K20 Pro works on MIUI which is built on top of Android. Even though it
 | Charging time | - |0 to 58 % in 30 mins |
 | USB Type | Type-C | Type-C |
 
-> Checkout [Does Fast Charging affect phone's battery life? | DevsKrate](https://devskrate.com/how-fast-charge-affects-battery-life/)
+<i class="fa fa-arrow-right" aria-hidden="true"></i> Checkout <a href="https://devskrate.com/how-fast-charge-affects-battery-life/" target="_blank">Does Fast Charging affect phone's battery life? | DevsKrate</a>
 
 #### Misc
 
