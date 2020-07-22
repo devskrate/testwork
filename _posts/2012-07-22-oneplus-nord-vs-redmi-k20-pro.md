@@ -53,7 +53,7 @@ Both the devices are available in various colors.
 
 Although, both the phones are equipped with the AMOLED Screens, OnPlus Nord has an edge with its **90Hz fluid display** and the 20:9 aspect ratio, which makes it easier to hold the device in hand. If, you're the fan of **full screen display** and concerned about **security**, pup-up camera in the K20 Pro would fulfill your need.
 
-<i class="fa fa-arrow-right" aria-hidden="true"></i>Ever felt insecure with your mobile camera wanted to get the iOS 14 access indicators in Android? Read [DevsKrate | Tech, Code and Gadgets](https://devskrate.com/how-to-get-ios-14-dots-in-android/)
+<i class="fa fa-arrow-right" aria-hidden="true"></i>Ever felt insecure with your mobile camera wanted to get the iOS 14 access indicators in Android? Read <a href="https://devskrate.com/how-to-get-ios-14-dots-in-android/">How to get iOS 14 access indicators in Android? | DevsKrate</a>
 
 #### Performance
 
@@ -86,7 +86,7 @@ The most happening processor these days is Snapdragon 765G as NORD, Pixel 4a and
 | Optical Image Stabilisation | Yes | No |
 | Flash | Single LED Flash | Dual LED Flash |
 
-> Checkout [Does Megapixels Matter? | DevsKrate](https://devskrate.com/does-megapixels-matter-in-phone-camera/)
+ Checkout [Does Megapixels Matter? | DevsKrate](https://devskrate.com/does-megapixels-matter-in-phone-camera/)
 
 OnePlus Team had hyped the Nord Camera, as if it is incredible. But the **bitter truth** is that, it is same sensor that is present on the under 15k Redmi Note 7 Pro and 7S phone. The Redmi K20 pro camera Exmor-RS CMOS sensor is too good for detailed photography and of flagship grade.
 
