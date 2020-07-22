@@ -54,7 +54,12 @@
     <meta property="og:image" content="{{ image }}" />
     <meta property="og:description" content="{{ description }}">
     <meta property="og:site_name" content="{{ site.title }}">
+    {% if page.layout == 'post' %}
+    <meta property="og:type" content="article">
+    {% else %}
     <meta property="og:type" content="website">
+
+    {% endif %}
 
     <!-- TelegramInstant view meta Tags-->
 
