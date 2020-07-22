@@ -1,5 +1,5 @@
 ---
-date: 2020-07-17 10:25:40
+date: 2020-07-22 10:25:40
 layout: post
 title: Is OnePlus Nord better than Redmi K20 Pro?
 subtitle: Can the super hyped Nord compete with K20 Pro?
@@ -10,7 +10,7 @@ category: [mobiles]
 tags: [android, oneplus, redmi, always-a-flagship]
 author: nikhil
 paginate: false
-is_generated: true
+is_generated: false
 ---
 
 OnePlus had recently launched its OnePlus Nord starting at ₹24,999/- and entered into the mid range segment after five years. And Redmi also had it's previous flagship at the same price now.  
