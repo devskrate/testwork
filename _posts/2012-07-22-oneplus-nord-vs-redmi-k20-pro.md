@@ -22,7 +22,7 @@ Redmi K20 Pro on te other side has the previous top notch chipset, Snapdragon 85
 {:class="table table-bordered dark"}
 |Specs | OnePlus Nord | Redmi K20 Pro |
 | ----------- | ---------------------| ---------------------------|
-| |<center><img src="https://devskrate.github.io/assets/images/oneplus/oneplus-nord-render.png" alt="OnePlus Nord" title="OnePlus Nord"/></center> |<center><img src="https://devskrate.github.io/assets/images/oneplus/k20-pro-render.png" alt="Redmi K20 Pro" title="Redmi K20 Pro"/></center> |
+| |<center><img src="https://devskrate.github.io/assets/images/oneplus/oneplus-nord-render.png" alt="OnePlus Nord" title="OnePlus Nord"/></center> |<center><img src="https://devskrate.github.io/assets/images/mi/k20-pro-render.png" alt="Redmi K20 Pro" title="Redmi K20 Pro"/></center> |
 |Processor | Snapdragon 765 5G | Snapdragon 855 |
 |Rear Camera | Quad Camera 48MP(Primary)+ 8MP(Ultra-Wide)+2MP(Depth Sensor)+2MP(Macro)| Triple Camera 48MP + 13MP(Ultra Wide)+ 8MP(Macro) |
 |Front Camera | Dual camera 32MP(Primary)+ 8MP(Ultra-Wide) | Single Pop-Up Camera 20MP f/2.2 |
