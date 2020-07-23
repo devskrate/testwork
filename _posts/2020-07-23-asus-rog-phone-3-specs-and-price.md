@@ -9,7 +9,6 @@ optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/asus-
 author: mohit
 category: [mobiles]
 tags: [android,asus,rog,gaming]
-is_generated: true
 ---
 Asus finally released its gaming phone in India, ROG 3 in India with Snapdragon 865+, 144Hz, and more. This is everything about the phone.
 
