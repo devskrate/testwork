@@ -131,7 +131,7 @@
         <div class="post-footer">{% include footer.html %}</div>
         
 
-        {% assign author = site.authors | where: "name", post.author | first %}
+        {% assign author = site.authors | where: "name", page.author | first %}
 
         {% assign author_urls = '' %}
         {% if author.github_username %}

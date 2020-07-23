@@ -11,8 +11,9 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts %}
-      {% if post.is_generated == false %}
+    {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
+    {% for post in posts %}
+      
         <item>
           <title>{{ post.title | xml_escape }}</title>
           <description>{{ post.content | xml_escape | strip_html }}</description>
@@ -26,7 +27,7 @@ layout: null
           <category>{{ category | xml_escape }}</category>
           {% endfor %}
         </item>
-      {% endif %}
+
     {% endfor %}
   </channel>
 </rss>

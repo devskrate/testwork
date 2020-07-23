@@ -132,6 +132,7 @@
     font-size: rem(17px);
     margin: rem(10px) auto;
     line-height: 1.6;
+    font-weight: bolder;
 
     @include media(">=sm") {
       font-size: rem(20px);
@@ -285,6 +286,18 @@
       padding: 0 rem(30px);
     }
 
+    /*&:before{
+      content: "“";
+      font-family: Georgia;
+      font-size: 4rem;
+      color: $texts;
+      margin: -1rem 2rem 0 -2.5rem;
+      position: absolute;
+      opacity: 1;
+      float: left;
+      line-height: 1;
+    }*/
+
     p {
       font-size: rem(17px);
       color: rgba(0, 0, 0, 0.6);
@@ -294,6 +307,8 @@
       }
     }
   }
+
+
 
   hr {
     @include center(rem(760px));
