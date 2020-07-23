@@ -6,9 +6,9 @@ subtitle: "Here are detailed review, specs and price"
 description: >-
    Lenovo launched its new Legion Phone Duel with 865 Plus, 144Hz and more, this is everything you need to know
 image: >-
-  https://devskrate.github.io/assets/blog-banners/lenovo-legion-phone.jpg
+  https://devskrate.github.io/assets/blog-banners/lenovo-legion-phone-duel.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/lenovo-legion-phone.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/lenovo-legion-phone-duel.webp
 category: [mobiles]
 tags: [android,gaming,Lenovo, Legion]
 author: mohit
