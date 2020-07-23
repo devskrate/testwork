@@ -1,11 +1,11 @@
 ---
 date: 2020-07-23 13:00:02
 layout: post
-title: "ROG Phone 3 - The Spec Master"
-subtitle: "Asus ROG Phone 3- The first phone with Snapdragon 865 Plus"
+title: "ASUS ROG 3 -  BEST GAMING PHONE"
+subtitle: "SPECS LIKE Snapdragon 865+, 12  GB RAM, AIR TRIGGERS at great price"
 description: Asus ROG Phone 3 equipped with Snapdragon 865 Plus chipset launched in india here is everything you need to know.
-image: https://devskrate.github.io/assets/blog-banners/oneplus-nord-launch.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/oneplus-nord-launch.webp
+image: https://devskrate.github.io/assets/blog-banners/asus-rog-3.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/asus-rog-3.webp
 author: mohit
 category: [mobiles]
 tags: [android,asus,rog,gaming]
