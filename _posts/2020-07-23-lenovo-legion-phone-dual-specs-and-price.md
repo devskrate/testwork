@@ -2,9 +2,9 @@
 date: 2020-07-23 12:30:02
 layout: post
 title: Lenovo Legion Phone Duel launched in China
-subtitle: ''
+subtitle: "Here are detailed review, specs and price"
 description: >-
-   Lenovo new gaming smartphone is coming soon with top of the line specs
+   Lenovo launched its new Legion Phone Duel with 865 Plus, 144Hz and more, this is everything you need to know
 image: >-
   https://devskrate.github.io/assets/blog-banners/lenovo-legion-phone.jpg
 optimized_image: >-
@@ -14,7 +14,18 @@ tags: [android,gaming,Lenovo, Legion]
 author: mohit
 is_generated: true
 ---
-lenovo was always knwon for its high-end gaming stuff in laptop market and is planning to do the same good stuff to its smartphone series by launching its gaming smartphone, the Lenovo Legion Phone Duel in China and this is everythinh about the laptop.
+Lenovo was always knwon for its high-end gaming stuff in laptop market and is planning to do the same good stuff to its smartphone series by launching its gaming smartphone, the Lenovo Legion Phone Duel in China and this is everythinh about the laptop.
+
+{:class="table table-bordered dark"}
+|Name         | Specifications                                                         |
+| ----------- | -----------------------------------------------------------------------|
+|Processor    | Snapdragon 865 Plus                                                    |
+|Rear Camera  | Dual Camera 64MP(Primary)+ 16MP(Ultra-Wide)                            |
+|Front Camera | 20MP side pop-up camera                                                |
+|Display      | 6.65 inches AMOLED Display with 144HZ Refresh Rate                     |           
+|Battery      | 5000 mAH                                                               |
+|Fingerprint  | In-Display Fingerprint Sensor                                          |  
+|Charging     | USB - C with 90W Fast Charging                                         |
 
 #### Built and Display:
 Speaking of Built, like all other high-end smartphones it will also be a glass sandwich design with a metal frame to hold them together. The design on the back is super flashy with legion logo in the middle and gives a gamery wide to the phone and the front is completly bezel-less. The phone also comes with the **world's first side pop-up camera**. Talking about the display, it will be a 6.65-inch full-HD+ display with a 19.5:9 aspect ratio coupled with a **144Hz refresh rate and 240Hz touch sampling rate**.
