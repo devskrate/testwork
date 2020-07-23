@@ -12,7 +12,6 @@ optimized_image: >-
 category: [mobiles]
 tags: [android,gaming,Lenovo, Legion]
 author: mohit
-is_generated: true
 ---
 Lenovo was always knwon for its high-end gaming stuff in laptop market and is planning to do the same good stuff to its smartphone series by launching its gaming smartphone, the Lenovo Legion Phone Duel in China and this is everythinh about the laptop.
 
