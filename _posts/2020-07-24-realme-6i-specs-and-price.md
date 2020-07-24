@@ -1,5 +1,5 @@
 ---
-date: 2020-07-23 12:30:02
+date: 2020-07-24 12:30:02
 layout: post
 title: Realme 6i launched in India
 subtitle: "Here is the detailed review, complete specs and price details"
