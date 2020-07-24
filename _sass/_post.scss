@@ -434,6 +434,7 @@
     padding: rem(10px) 0;
     @include media(">=sm") {
       padding: rem(48px) 0 rem(20px);
+
     }
   }
 
@@ -444,11 +445,25 @@
     list-style: none;
 
     li {
+      
+      @include media("<sm") {
+        margin-bottom: 15px;
+        overflow: auto;
+      }
       img {
         display: block;
-        max-width: 100%;
+        max-width: 50%;
         height: auto;
+        float: left;
+        margin-right: 15px;
+        margin-bottom: 10px;
         transition: all 0.2s ease-in-out;
+
+        @include media(">=sm") {
+          max-width: 100%;
+          float: none;
+          margin-right: 0;
+        }
       }
 
       a {
@@ -459,6 +474,12 @@
 
         &:hover {
           color: $themeColor;
+        }
+
+        h3{
+          @include media("<sm") {
+            margin-top: 0;
+          }
         }
 
         h3:hover{
