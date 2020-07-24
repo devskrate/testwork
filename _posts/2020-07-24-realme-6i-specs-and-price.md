@@ -2,7 +2,7 @@
 date: 2020-07-23 12:30:02
 layout: post
 title: Realme 6i launched in India
-subtitle: "Here are detailed review, specs and price"
+subtitle: "Here is the detailed review, complete specs and price details"
 description: >-
    Realme 6i equipped with MediaTek Helio G90T chipset, 4300mAH battery and more launched in india here is everything you need to know.
 image: >-
