@@ -6,13 +6,12 @@ subtitle: "Here are detailed review, specs and price"
 description: >-
    Realme 6i equipped with MediaTek Helio G90T chipset, 4300mAH battery and more launched in india here is everything you need to know.
 image: >-
-  https://devskrate.github.io/assets/blog-banners/lenovo-legion-phone-duel.jpg
+  https://devskrate.github.io/assets/blog-banners/realme-6i-launch.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/lenovo-legion-phone-duel.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/realme-6i-launch.webp
 category: [mobiles]
 tags: [android,realme]
 author: mohit
-is_generated: true
 ---
 Realme 6i launched in India. It is not a new phone, it's a new rebranded Realme 6S which first debuted in Europe in May this year. The Realme 6i is a minor camera downgrade when compared to Realme 6 and this is everything about the phone.
 
