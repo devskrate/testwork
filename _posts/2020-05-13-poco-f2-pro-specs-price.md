@@ -1,8 +1,8 @@
 ---
-date: 2020-05-13 17:26:40
+date: 2020-07-27 17:26:40
 layout: post
-title: Poco F2 Pro Launched
-subtitle: "Here are the specs for Poco F2 Pro"
+title: Poco F2 Pro - Specs and Price
+subtitle: "True Successor of Poco F1?"
 description: >-
   Is Poco f2 pro just a rebranded Redmi k30 pro?, find out in this article.
 image: >-
@@ -10,7 +10,7 @@ image: >-
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/poco-f2-pro.webp
 category: [mobiles]
-tags: [poco, redmi, mi, smartphones]
+tags: [android, poco, redmi, mi]
 author: mohit
 ---
 
