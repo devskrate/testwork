@@ -1,5 +1,5 @@
 ---
-date: 2020-07-17 16:45:02
+date: 2020-07-27 16:45:02
 layout: post
 title: "Poco X2 vs Redmi Note 9 Pro"
 subtitle: Which suits you the best?
@@ -9,6 +9,7 @@ optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/vivo-
 author: mohit
 category: [mobiles]
 tags: [android,mi,redmi,poco]
+is_generated: true
 ---
 Poco X2, Redmi Note 9 Pro Max both seem to be good phones but which is best for you. Lets find out in this article.
 
