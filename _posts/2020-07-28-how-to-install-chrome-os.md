@@ -2,8 +2,8 @@
 date: 2020-07-28 17:26:40
 layout: post
 title: Install Chrome OS in a PC
-subtitle: Here is how to install Chrome OS on your PC
-description: Ever felt to install Chrome OS with Play Store on your PC? Here is how..
+subtitle: Dualboot Chrome OS in your PC
+description: Ever felt to install Chrome OS with Play Store on your PC? with dualboot, here is how to do it..
 image: https://devskrate.github.io/assets/blog-banners/install-chrome-os.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/install-chrome-os.webp
 category: [howto]
