@@ -1,5 +1,5 @@
 ---
-date: 2012-05-29 17:26:40
+date: 2020-07-28 17:26:40
 layout: post
 title: Install Chrome OS in a PC
 subtitle: Here is how to install Chrome OS on your PC
@@ -10,7 +10,7 @@ category: [howto]
 tags: [chrome os, google]
 author: nikhil
 paginate: false
-is_generated: true
+is_generated: false
 ---
 
 There has been many people searching for the installation of Chrome OS on a old PC or a laptop. So, today we're gonna guide you how to install full chrome OS with access to Android from within Chrome OS on an old laptop or an old PC and this isn't using Chromium OS, Cloud OS or Fade OS this is Chrome OS that you can install on pretty much any Intel based PC.
@@ -65,10 +65,14 @@ First thing we need to do is flash our drive with Linux man we're gonna start up
 
 We're gonna navigate to where we have the Linux Mint image and finally we'll click start this is gonna flash Linux Mint to that USB drive so we can boot it up live on our PC you get a couple warnings Yes and we want to write this in an ISO image mode click OK all the data on the USB Drive will be destroyed. We're now done with flashing the Linux Mint to our USB Drive.
 
+<div class="slide-show">
+    
 <a href="https://devskrate.github.io/assets/images/chromeos/rufus-1.webp" data-lightbox="image-1" data-title="Rufus"><img width="25%" src="https://devskrate.github.io/assets/images/chromeos/rufus-1.webp"></a>
 <a href="https://devskrate.github.io/assets/images/chromeos/rufus-2.webp" data-lightbox="image-1" data-title="Rufus"><img width="25%" src="https://devskrate.github.io/assets/images/chromeos/rufus-2.webp"></a>
 <a href="https://devskrate.github.io/assets/images/chromeos/rufus-3.webp" data-lightbox="image-1" data-title="Rufus"><img width="25%" src="https://devskrate.github.io/assets/images/chromeos/rufus-3.webp"></a>
 <a href="https://devskrate.github.io/assets/images/chromeos/rufus-4.webp" data-lightbox="image-1" data-title="Rufus"><img width="25%" src="https://devskrate.github.io/assets/images/chromeos/rufus-4.webp"></a>
+
+</div>
 
 Now it's time to get the other files we downloaded. Create a folder called Chrome OS and move the install.sh file that we've downloaded inside of this folder. Now extract both the files Brunch and Chrome OS image and move all the files from both of them into the Chrome OS folder you've created. Then move the Chrome OS folder into the USB Drive.
 
@@ -110,10 +114,14 @@ Now, finally your bootable drive is ready.
 
 Then your pc will be booted with Chrome OS and follow the instructions on the screen to setup the device.
 
+<div class="slide-show">
+    
 <a href="https://devskrate.github.io/assets/images/chromeos/chrome-boot-1.jpg" data-lightbox="image-1" data-title="Rufus"><img width="25%" src="https://devskrate.github.io/assets/images/chromeos/chrome-boot-1.jpg"></a>
 <a href="https://devskrate.github.io/assets/images/chromeos/chrome-boot-2.jpg" data-lightbox="image-1" data-title="Rufus"><img width="25%" src="https://devskrate.github.io/assets/images/chromeos/chrome-boot-2.jpg"></a>
 <a href="https://devskrate.github.io/assets/images/chromeos/chrome-boot-3.jpg" data-lightbox="image-1" data-title="Rufus"><img width="25%" src="https://devskrate.github.io/assets/images/chromeos/chrome-boot-3.jpg"></a>
 <a href="https://devskrate.github.io/assets/images/chromeos/chrome-boot-4.jpg" data-lightbox="image-1" data-title="Rufus"><img width="25%" src="https://devskrate.github.io/assets/images/chromeos/chrome-boot-4.jpg"></a>
+
+</div>
 
 For more detailed procedure of installation, go through the video by [Kedar Nimbalkar](https://www.youtube.com/channel/UCjQ-YHwNTbUQLVzZQFjsDsQ)
 
