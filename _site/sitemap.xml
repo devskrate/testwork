@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>http://localhost:4000/404.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/about/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/android/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/apps/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/authors/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/code/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/contact/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/contributors/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/css/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/dev/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/diet/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/feed.xml</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/gadgets/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/gaming/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/howto/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/laptops/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/linux/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/manifest.json</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/contact/message-sent/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/mobiles/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/news/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/pcs/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/assets/css/preview.css</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/reviews/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/search.json</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/security/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/sitemap.xml</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/students/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/assets/css/styles.css</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/tags/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/tech/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/tips/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/travel/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/tutorial/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/ubuntu/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/category/work/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/page/2/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/page/3/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/page/4/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/page/5/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/page/6/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/page/7/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/page/8/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/page/9/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+    
+        <url>
+            <loc>http://localhost:4000/how-to-install-chrome-os/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-28</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/poco-f2-pro-specs-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-27</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/poco-x2-vs-redmi-note-9-pro-max/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-27</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/blackrock-android-malware/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-25</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/realme-6i-specs-and-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-24</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/asus-rog-phone-3-specs-and-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-23</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lenovo-legion-phone-dual-specs-and-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-23</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/oneplus-nord-vs-redmi-k20-pro/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-22</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/oneplus-nord-specs-and-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-22</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/how-to-watch-nord-ar-launch-without-pass/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-21</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/how-to-get-ios-14-dots-in-android/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-20</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/redmi-note-9-specs-and-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-20</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/how-fast-charge-affects-battery-life/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-20</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/do-you-need-8gb-of-ram-in-smartphonne/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-18</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/vivo-x50-pro-vs-mi-10/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-17</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/should-you-buy-oneplus-7t/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-17</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/github-profile-readme-markdown/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-17</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/vivo-x50-vivo-x50-pro-specs-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-16</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/summary-of-reliance-agm-43-meet/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-16</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/boston-dynamics-dog-specs-price-review/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-16</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/jio-glasses-ar-specs-and-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-16</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/jio-tv-plus-and-setup-box/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-16</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/google-for-india-2020-announcements/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-15</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/google-to-invest-in-jio-to-build-new-phones/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-15</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/realme-30w-powerbank-specs-review/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-15</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/realme-c11-specs-and-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-14</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/does-megapixels-matter-in-phone-camera/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-14</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/how-to-make-whatsapp-call-from-google-assistant/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-14</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/buying-last-year-flagship-over-midranger/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-13</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/redmi-k20-pro-in-2020/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-13</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/apple-ar-glasses/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-11</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/facebook-merges-instagram-and-whatsapp/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-10</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/moto-g-5g-plus-specs-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-09</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/why-poco-m2-pro-released-in-india/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-08</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/oneplus-nord-launch-app/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-08</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/poco-m2pro-rebeanded-redmi-note-9-pro/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-07</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/best-budget-router-2020/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-07</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/best-flagship-smartphone-killer-2020/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-06</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/microsoft-pylance/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-03</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/oneplus-new-tv-series/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-02</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/creating-browser-extensions/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-01</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/how-to-create-your-facebook-avatar/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-01</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/why-pubg-is-not-chinese-game/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-30</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/alternatives-to-chinese-apps/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-29</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/realme-x3-and-realme-x3-superzoom-specs-and-price-in-india/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-25</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/realme-buds-q/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-25</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/lenovo-legion-gaming-phone/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-25</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/apple-watchos-and-tvos-wwdc-2020/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-23</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/apple-ipados14-and-macos-bigsur-wwdc-2020/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-23</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/apple-ios14-wwdc-2020/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-23</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what-is-moodle-how-to-use-moodle/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-21</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/mi-router-headset-and-projector/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-20</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/company-behind-oppo-vivo-oneplus-realme-and-iqoo/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-19</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/apple-new-series-iphone-os-apple-phone/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-19</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/mi-band-5-vs-mi-band-4-specs-comparison/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-18</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/listen-music-in-youtube-in-background-without-premium/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-18</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/samsung-bts-edition-of-s20-plus-and-buds-plus/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-17</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/qualcomm-launched-snapdragon-690-with-5G/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-17</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/realme-x3-specs-and-launch-date-india/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-16</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/moto-one-fusion-specs-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-16</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/oneplus8t-leaks-65w-fast-charging/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-15</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/google-testing-safe-folder-in-files-go-app/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-15</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/amoled-wallpapers-to-save-your-battery/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-14</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/playstation-5-design-and-specs/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-12</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/mi-notebook-14-horizon-edition-specs-and-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-11</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/htc-desire-20-launch-date/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-11</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/how-to-check-breached-email-details/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-07</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/difference-between-scholarship-and-fellowship/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-06-01</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/how-to-install-flutter-in-linux/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-31</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/xiaomi-laptops-mi-notebooks-india/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-28</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/realmetv-specs-and-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-27</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/samsung-student-program-offers-and-discounts/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-27</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/github-cli-beta/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-27</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/deno-js-altenative-to-node-js/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-24</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/microsoft-teams-vs-slack/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-23</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/samsung-galaxy-tab-s6-lite/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-22</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/5-cool-linux-apps/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-22</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/github-mlh-fellowship-for-students/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-20</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/compare-dell-xps-15-and-xps-17/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-19</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/google-foobar-challenge-invitation/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-18</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what-is-microsoft-student-partner/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-17</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/websites-to-visit-when-bored/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-16</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/roughviz-js/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-16</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/todays-free-game-deals-gta-v/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-15</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/google-game-changers/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-13</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/github-is-free-for-teams/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-13</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/AI-generated-memes/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-13</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/github-codespaces/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-09</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/espanso-text-expander/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-08</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/customize-microsoft-teams-background/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-07</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/best-extensions-for-github-part-1/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-03</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/navi-commandline-cheatsheet-tool/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-02</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/easy-way-to-separate-multiple-accounts/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-01</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/introducing-mlogs/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-04-30</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/transfer-files-between-computer-and-mobile-wireless/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-04-29</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/meta-tags/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-04-27</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/ubuntu20-booting-problems/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-04-25</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/configure-vscode-like-a-pro/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-04-25</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/oneplus-new-true-wireless-earbuds-leaked-specs-launch-date/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-04-23</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/miui-12-features-updates/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-04-23</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/moto-edge-series/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-04-23</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/iphones-delay-in-release/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-04-23</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/apple-iphone-se-2020/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-04-15</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/one-plus-8-spec/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-04-15</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/one-plus-8-pro-spec/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-04-15</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/google-is-shutting-down-its-neighbourly-app/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-04-02</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/google-coronavirus-website/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-04-02</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/how-to-find-trending-apps-in-any-coutry/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-04-01</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/4-steps-you-should-take-to-secure-your-gmail-account/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-03-31</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/install-chrome-in-linux/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-03-30</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/git-cheat-sheet/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-03-30</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/microsoft-xcloud-game-streaming-service-for-windows/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-03-30</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/challenges-faced-by-android-app-developers/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-03-30</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/sourcerer/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-03-20</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/realme-narzo-new-series/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-03-20</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/new-ipad-pro-2020/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-03-19</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/windows-linux-which-is-best-for-student/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-03-09</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/how-to-rank-on-first-page-of-google/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-03-03</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/android11-developer-preview-1-for-developers/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-02-28</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/android-11-developer-preview-1/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-02-20</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/simple-python-telegram-bot/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-02-18</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/alternatives-of-google-play-store/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-10-19</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/why-android-is-better-then-ios/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2012-06-20</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/best-photo-editing-apps/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2012-06-05</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/how-to-transfer-media-from-facebook-google-photos/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2012-06-05</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/buying-a-mobile-with-32gb-rom-in-2020/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2011-07-19</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/why-stock-andriod-is-better-than-custom-roms-and-custom-skins/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2011-06-01</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/linux-tricks-for-begginers/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2011-06-01</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/nokia-8.3-specs-and-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2011-05-23</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/nokia-5.3-specs-and-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2011-05-23</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/how-to-view-instagram-stories-without-account/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2010-07-16</lastmod>
+        </url>
+    
+    
+        <url>
+            <loc>http://localhost:4000/authors/akash/</loc>
+            <changefreq>monthly</changefreq>
+            <priority>0.5</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/authors/mohit/</loc>
+            <changefreq>monthly</changefreq>
+            <priority>0.5</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/authors/nikhil/</loc>
+            <changefreq>monthly</changefreq>
+            <priority>0.5</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/authors/puneeth/</loc>
+            <changefreq>monthly</changefreq>
+            <priority>0.5</priority>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/authors/srisatyalokesh/</loc>
+            <changefreq>monthly</changefreq>
+            <priority>0.5</priority>
+        </url>
+    
+</urlset>
