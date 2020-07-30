@@ -1,7 +1,7 @@
 ---
 date: 2020-07-30 04:45:02
 layout: post
-title: "Samsung Galaxy M31s Specs ad Price"
+title: "Samsung Galaxy M31s Specs and Price"
 subtitle: The Camera and Battery monster.
 description: "Samsung galaxy M31s launched it's new phone with many new features, the main highlight is the camera, and the battery is 6000mAh with 25W fast charging.."
 image: https://devskrate.github.io/assets/blog-banners/samsung-galaxy-m31s-2020.jpg
