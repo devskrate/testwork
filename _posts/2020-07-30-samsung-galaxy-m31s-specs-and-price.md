@@ -1,5 +1,5 @@
 ---
-date: 2020-07-29 12:45:02
+date: 2020-07-30 12:45:02
 layout: post
 title: "Samsung Galaxy M31s Specs ad Price"
 subtitle: The Camera and Battery monster.
