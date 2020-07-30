@@ -51,4 +51,4 @@ It is some what different compared to other learning platforms. You can try it o
 #### Jio 5G:
 Reliance also announced that it has built 5G from scratch about to start the trails in India after the availability of 5G spectrum. In next year it is gonna deploy. Iif the trials are success it will export to the other Telecom's around the world.
 
-Here is the link to read more about it: [Jio 5G and os] (https://devskrate.com/google-to-invest-in-jio-to-build-new-phones/)
+Here is the link to read more about it: [Jio 5G and os](https://devskrate.com/google-to-invest-in-jio-to-build-new-phones/)
