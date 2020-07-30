@@ -1,5 +1,5 @@
 ---
-date: 2020-07-30 12:45:02
+date: 2020-07-29 12:45:02
 layout: post
 title: "Samsung Galaxy M31s Specs ad Price"
 subtitle: The Camera and Battery monster.
@@ -16,12 +16,12 @@ Samsung Galaxy M-series to bring the latest features. It bought many new and lat
 
 The main highlights of this hpone are
 
-- The camera:
+- **The camera**:
     Samsung says Single Take Shots with Intelli-cam.
     With this camera you can take good shots with a recording. It acutally records a video and gives you the best shots from it.
-- Battery:
+- **Battery**:
     It has a huge 6000mAh battery.
-- Charging:
+- **Charging**:
     It has 25W fast charging in the box and supports reverse charging.
 
 These are key specs of this device 
