@@ -388,20 +388,20 @@ June 1, 2011
                         
                         
                             <li>
+                                <a href="/5-cool-linux-apps/">
+                                    
+                                        <img src="https://devskrate.github.io/assets/blog-banners/optimized/5-cool-linux-apps.webp" alt="5 cool Linux apps">
+                                    
+                                    <h3>5 cool Linux apps</h3>
+                                </a>
+                            </li>
+                        
+                            <li>
                                 <a href="/amoled-wallpapers-to-save-your-battery/">
                                     
                                         <img src="https://devskrate.github.io/assets/blog-banners/optimized/amoled-walls.webp" alt="How AMOLED Wallpapers can save your battery?">
                                     
                                     <h3>How AMOLED Wallpapers can save your battery?</h3>
-                                </a>
-                            </li>
-                        
-                            <li>
-                                <a href="/ubuntu20-booting-problems/">
-                                    
-                                        <img src="https://devskrate.github.io/assets/blog-banners/optimized/ubuntu-20-booting-problems.webp" alt="Ubuntu 20.04 booting problems">
-                                    
-                                    <h3>Ubuntu 20.04 booting problems</h3>
                                 </a>
                             </li>
                         
@@ -504,7 +504,11 @@ June 1, 2011
   <section class="author">
     <div class="details">
       
-        <img class="img-rounded" src="/assets/img/persons/puneeth-profile.webp" alt="Puneeth">
+         <picture>
+           <source type="image/webp" srcset="/assets/img/persons/puneeth-profile.webp">
+           <source type="image/jpg"  srcset="/assets/img/persons/puneeth-profile.jpg">
+           <img class="img-rounded" src="/assets/img/persons/puneeth-profile.jpg" alt="Puneeth">
+         </picture>
       
       <p class="def">Author</p>
       <h3 class="name">
@@ -556,7 +560,7 @@ June 1, 2011
       "@type": "Person",
       "name": "Puneeth",
       
-      "image": "/assets/img/persons/puneeth-profile.webp",
+      "image": http://localhost:4000/assets/img/user.jpg,
       
       "jobTitle": "Chief Editor",
       "url": "http://localhost:4000/authors/puneeth/",
@@ -760,7 +764,7 @@ So, it is better to use the Stock roms rather than custom skins(roms).
                 "@type": "Person",
                 "name": "Puneeth",
                 
-                "image": "/assets/img/persons/puneeth-profile.webp",
+                "image": "/assets/img/persons/puneeth-profile.jpg",
                 
                 "jobTitle": "Chief Editor",
                 "url": "http://localhost:4000/authors/puneeth/",

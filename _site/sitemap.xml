@@ -371,6 +371,13 @@
     
     
         <url>
+            <loc>http://localhost:4000/oppo-reno-4-pro-specs-and-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-31</lastmod>
+        </url>
+    
+        <url>
             <loc>http://localhost:4000/samsung-galaxy-m31s-specs-and-price/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>

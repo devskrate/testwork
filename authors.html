@@ -59,7 +59,11 @@ permalink: /authors/
             
           </td>
           <td class="author-photo">
-            <img src="{{author.photo}}">
+            <picture>
+              <source type="image/webp" srcset="{{ author.photo_webp }}">
+              <source type="image/jpg"  srcset="{{ author.photo_jpg }}">
+              <img src="{{ author.photo_jpg }}">
+            </picture>
           </td>
         </tr>
       </table> 

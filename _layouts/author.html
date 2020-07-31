@@ -3,18 +3,19 @@ layout: page
 ---
 
 <div class="staff">
-  {% if page.photo %}
+  
+  {% if page.photo_jpg %}
 
   <picture>
-    <source class="img-rounded" type="image/webp" srcset="{{ page.photo_webp }}">
-    <source class="img-rounded" type="image/jpg"  srcset="{{ page.photo_jpg }}">
+    <source type="image/webp" srcset="{{ page.photo_webp }}">
+    <source type="image/jpg"  srcset="{{ page.photo_jpg }}">
     <img class="img-rounded" src="{{ page.photo_jpg }}" alt="{{ author.display_name }}">
   </picture>
 
   {% else %}
 
     <img class="img-rounded" src="/assets/img/persons/user.jpg" alt="{{ author.display_name }}">
-    
+
   {% endif %}
 
   <h1 class="name">{{ page.display_name }}</h1>
@@ -62,8 +63,8 @@ layout: page
     "@context": "http://schema.org",
     "@type": "Person",
     "name": "{{ page.display_name }}",
-    {% if page.photo %}
-    "image": "{{ page.photo }}",
+    {% if page.photo_jpg %}
+    "image": "{{ page.photo_jpg }}",
     {% else %}
     "image": {{ "/assets/img/user.jpg" | prepend: site.baseurl | prepend: site.url }},
     {% endif %}
