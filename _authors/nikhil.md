@@ -1,6 +1,7 @@
 ---
 layout: author
-photo: /assets/img/persons/nikhil-profile.webp
+photo_jpg: /assets/img/persons/nikhil-profile.jpg
+photo_webp: /assets/img/persons/nikhil-profile.webp
 name: nikhil
 display_name: Nikhil Pyreddy
 position: Chief Editor
