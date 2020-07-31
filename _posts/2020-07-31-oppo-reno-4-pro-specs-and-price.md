@@ -29,7 +29,7 @@ Oppo after a lot of teaser has finally launched its Reno 4 Pro in India which wa
 #### Build and Design:
 The phone comes with a premium glass sandwich design with a metal frame. The back of the phone comes with a gradient finish and quad camera's on the top-left corner. The front comes has a punch-hole on the top-left for the selfie camera.
 #### Display:
-The phone comes with a 6.5-inch Full-HD+ curved AMOLED  display with a 90Hz refresh rate and 180hz touch response rate. The display also comes with HDR10 + certification with 100% DCI-P3 color gamut.
+The phone comes with a 6.5-inch Full-HD+ curved AMOLED  display with a 90Hz refresh rate and 180hz touch response rate. The display also comes with HDR10+ certification with 100% DCI-P3 color gamut.
 #### Internals and Software:
 The phone comes with ColorOS 7.2 based on ColorOS 7.2 running the show and is powered by the snapdragon 720G with 8GB of LPDDR4x RAM and 128GB built-in storage. The phone also comes with a 4000mAH and 65W SuperVOOC 2.0(0% to 100% in around 36 minutes) to charge the phone quickly. The phone also comes with 3D multi-cooling system for keeping the temperatures on check.
 ##### Camera:
