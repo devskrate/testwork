@@ -6,13 +6,12 @@ subtitle: "Here is the detailed review, complete specs and price details"
 description: >-
    Realme 6i equipped with snapdragon 720G chipset, 4000mAH battery with 65W Super Vooc 2.0 charger and more launched in india here is everything you need to know.
 image: >-
-  https://devskrate.github.io/assets/blog-banners/realme-6i-launch.jpg
+  https://devskrate.github.io/assets/blog-banners/oppo-reno-4-pro.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/realme-6i-launch.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/oppo-reno-4-pro.webp
 category: [mobiles]
 tags: [android,oppo,reno]
 author: mohit
-is-genreated: true
 ---
 Oppo after a lot of teaser has finally launched its Reno 4 Pro in India which was first unveiled in China back on may and this is everything you need to know.
 
