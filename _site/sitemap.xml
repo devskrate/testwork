@@ -385,6 +385,13 @@
         </url>
     
         <url>
+            <loc>http://localhost:4000/double-tap-back-tap-gesture/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-30</lastmod>
+        </url>
+    
+        <url>
             <loc>http://localhost:4000/how-to-install-chrome-os/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>

@@ -6,9 +6,9 @@ subtitle: "Here is the detailed review, complete specs and price details"
 description: >-
    Oppo watch equipped with Snapdragon Wear 3100 chipset, 430mAH battery and more launched in india here is everything you need to know.
 image: >-
-  https://devskrate.github.io/assets/blog-banners/oppo-reno-4-pro.jpg
+  https://devskrate.github.io/assets/blog-banners/oppo-watch-launch-2020.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/oppo-reno-4-pro.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/oppo-watch-launch-2020.webp
 category: [mobiles]
 tags: [android,oppo,reno]
 author: mohit
