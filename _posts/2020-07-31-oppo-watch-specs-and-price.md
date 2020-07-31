@@ -1,7 +1,7 @@
 ---
 date: 2020-07-31 14:00:02
 layout: post
-title: Oppo Reno 4 Pro launched in India
+title: Oppo Watch launched in India
 subtitle: "Here is the detailed review, complete specs and price details"
 description: >-
    Oppo watch equipped with Snapdragon Wear 3100 chipset, 430mAH battery and more launched in india here is everything you need to know.
