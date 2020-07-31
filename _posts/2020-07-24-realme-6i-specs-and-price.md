@@ -20,7 +20,7 @@ Realme 6i launched in India. It is not a new phone, it's a new rebranded Realme 
 | ----------- | -----------------------------------------------------------------------|
 |Processor    | MediaTek Helio G90T chipset                                            |
 |Rear Camera  | Quad Camera 48MP(Primary)+8MP(Ultra-Wide)+2MP(macro)+2MP(depth sensor) |
-|Front Camera | 16MP side pop-up camera                                                |
+|Front Camera | 16MP side camera                                                |
 |Display      | 6.5 inches IPS LCD Display with 90HZ Refresh Rate                      |           
 |Battery      | 4300 mAH                                                               |
 |Fingerprint  | Side-mounted Fingerprint Sensor                                        |  
