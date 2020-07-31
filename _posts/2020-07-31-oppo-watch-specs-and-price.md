@@ -6,13 +6,12 @@ subtitle: "Here is the detailed review, complete specs and price details"
 description: >-
    Oppo watch equipped with Snapdragon Wear 3100 chipset, 430mAH battery and more launched in india here is everything you need to know.
 image: >-
-  https://devskrate.github.io/assets/blog-banners/oppo-watch-launch-2020.jpg
+  https://devskrate.github.io/assets/blog-banners/oppo-watch-launch.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/oppo-watch-launch-2020.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/oppo-watch-launch.webp
 category: [mobiles]
 tags: [android,oppo,reno]
 author: mohit
-is_generated: true
 ---
 Oppo today launched it's first smartwatch in India starting at 14,990, so what does this bring to the market, let's find out in the article.
 #### Design:
