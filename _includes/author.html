@@ -2,8 +2,12 @@
 {% if author %}
   <section class="author">
     <div class="details">
-      {% if author.photo %}
-        <img class="img-rounded" src="{{ author.photo }}" alt="{{ author.display_name }}">
+      {% if author.photo_jpg %}
+         <picture>
+           <source type="image/webp" srcset="{{ author.photo_webp }}">
+           <source type="image/jpg"  srcset="{{ author.photo_jpg }}">
+           <img class="img-rounded" src="{{ author.photo_jpg }}" alt="{{ author.display_name }}">
+         </picture>
       {% else %}
         <img class="img-rounded" src="/assets/img/persons/user.jpg" alt="{{ author.display_name }}">
       {% endif %}

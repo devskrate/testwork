@@ -5,10 +5,81 @@
     <description>Everything about Tech, Gadgets and Development. Paradise of Developers and Techies. We are Developers by profession, Techies by Passion</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Jul 2020 16:34:17 +0530</pubDate>
-    <lastBuildDate>Fri, 31 Jul 2020 16:34:17 +0530</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2020 19:14:34 +0530</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2020 19:14:34 +0530</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
+    
+      
+        <item>
+          <title>Oppo Reno 4 Pro launched in India</title>
+          <description>&lt;p&gt;Oppo after a lot of teaser has finally launched its Reno 4 Pro in India which was first unveiled in China back on may and this is everything you need to know.&lt;/p&gt;
+
+&lt;table class=&quot;table table-bordered dark&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Processor&lt;/td&gt;
+      &lt;td&gt;Snapdragon 720G chipset&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Rear Camera&lt;/td&gt;
+      &lt;td&gt;Quad Camera 48MP(Primary)+8MP(Ultra-Wide)+2MP(macro)+2MP(Mono)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Front Camera&lt;/td&gt;
+      &lt;td&gt;32MP side camera&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Display&lt;/td&gt;
+      &lt;td&gt;6.5 inches AMOLED Display with 90HZ Refresh Rate&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Battery&lt;/td&gt;
+      &lt;td&gt;4000 mAH&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Fingerprint&lt;/td&gt;
+      &lt;td&gt;In-display Fingerprint Sensor&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Charging&lt;/td&gt;
+      &lt;td&gt;USB - C with 65W Super vooc 2.0 Fast Charging(in box)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;build-and-design&quot;&gt;Build and Design:&lt;/h4&gt;
+&lt;p&gt;The phone comes with a premium glass sandwich design with a metal frame. The back of the phone comes with a gradient finish and quad camera’s on the top-left corner. The front comes has a punch-hole on the top-left for the selfie camera.&lt;/p&gt;
+&lt;h4 id=&quot;display&quot;&gt;Display:&lt;/h4&gt;
+&lt;p&gt;The phone comes with a 6.5-inch Full-HD+ curved AMOLED  display with a 90Hz refresh rate and 180hz touch response rate. The display also comes with HDR10+ certification with 100% DCI-P3 color gamut.&lt;/p&gt;
+&lt;h4 id=&quot;internals-and-software&quot;&gt;Internals and Software:&lt;/h4&gt;
+&lt;p&gt;The phone comes with ColorOS 7.2 based on ColorOS 7.2 running the show and is powered by the snapdragon 720G with 8GB of LPDDR4x RAM and 128GB built-in storage. The phone also comes with a 4000mAH and 65W SuperVOOC 2.0(0% to 100% in around 36 minutes) to charge the phone quickly. The phone also comes with 3D multi-cooling system for keeping the temperatures on check.&lt;/p&gt;
+&lt;h5 id=&quot;camera&quot;&gt;Camera:&lt;/h5&gt;
+&lt;p&gt;The phone comes with a quad-rear camera on the back, the primary is a 48MP Sony IMX 586 sensor, the secondary is an 8MP ultra-wide, the third one is 2Mp depth senor and the last is 2MP Monochrome sensor. The selfie camera is a 32MP Sony IMX 616 sensor.&lt;/p&gt;
+&lt;h4 id=&quot;price-and-availability&quot;&gt;Price and Availability:&lt;/h4&gt;
+&lt;p&gt;The phone only comes in 8GB + 128GB variant and is priced at Rs. 34,990. The phone will go on sale from 5th August, exclusively on Flipkart.&lt;/p&gt;
+</description>
+          <pubDate>Fri, 31 Jul 2020 19:00:02 +0530</pubDate>
+          <link>http://localhost:4000/oppo-reno-4-pro-specs-and-price/</link>
+          <guid isPermaLink="true">http://localhost:4000/oppo-reno-4-pro-specs-and-price/</guid>
+          
+          <tags>android</tags>
+          
+          <tags>oppo</tags>
+          
+          <tags>reno</tags>
+              
+          
+          <category>mobiles</category>
+          
+        </item>
+
     
       
         <item>
@@ -287,210 +358,6 @@ It comes with it’s camera design of L-Shape, and a flash where all of the m ke
           <pubDate>Thu, 30 Jul 2020 10:15:02 +0530</pubDate>
           <link>http://localhost:4000/samsung-galaxy-m31s-specs-and-price/</link>
           <guid isPermaLink="true">http://localhost:4000/samsung-galaxy-m31s-specs-and-price/</guid>
-          
-          <tags>android</tags>
-          
-          <tags>oneui</tags>
-          
-          <tags>budget</tags>
-          
-          <tags>samsung</tags>
-              
-          
-          <category>mobiles</category>
-          
-        </item>
-
-    
-      
-        <item>
-          <title>Google Cloud Platform vs Amazon Web Services</title>
-          <description>&lt;h3 id=&quot;quick-intro---google-cloud-platform-gcp&quot;&gt;Quick Intro - GOOGLE CLOUD PLATFORM (GCP)&lt;/h3&gt;
-
-&lt;p&gt;Hello Techies, let’s learn about GCP first…
-Google Cloud Platform (GCP) is developed and offered by Google.
-It is announced by Google in April 2008, but the service became available in November 2011. This cloud computing platform helps a business to rise and advance. GCP is secure, smart, and highly flexible.&lt;/p&gt;
-
-&lt;h3 id=&quot;quick-intro---amazon-web-services-aws&quot;&gt;Quick Intro - AMAZON WEB SERVICES (AWS)&lt;/h3&gt;
-
-&lt;p&gt;Amazon Web Services (AWS) is a subsidiary of Amazon. It is launched in March 2006. This cloud computing platform offers reliable, scalable, flexible, cost-effective, and easy-to-use services.
-AWS offers analytics, databases, networking, storage, and deployment options to developers.&lt;/p&gt;
-
-&lt;h4 id=&quot;features&quot;&gt;Features:&lt;/h4&gt;
-
-&lt;h6 id=&quot;gcp&quot;&gt;GCP&lt;/h6&gt;
-&lt;p&gt;It has more Languages &amp;amp; Operating Systems.
-A decent User Interface (UI) that helps to improve User Experience (UX).
-Cost-efficiency because of long-term discounts.
-Broad network access.
-Offers Powerful Data Analytics&lt;/p&gt;
-
-&lt;h6 id=&quot;aws&quot;&gt;AWS&lt;/h6&gt;
-&lt;p&gt;The total cost is very low.
-It provides centralized billing and management.
-Quick access with limitless capacity.
-Deploy an application in multiple regions around the world.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Specifications&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;GCP&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;AWS&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Age&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;12 years&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;14 years&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Cost&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Cost Effective&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;little higher in terms of costs&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;File storage&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Cloud Filestore&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Amazon Elastic File System (Amazon EFS)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Backup&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Has its own built-in Google Cloud&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Amazon S3 is used for secondary backup storage&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Volume Sizes&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1 GB to 64 TB&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;500GB to 16TB&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Available zones&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;20 different regions&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;21 different zones&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Data transmission&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;In a fully encrypted format&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;In general format&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Serverless computing&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Container Engine&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;AWS Lamba&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;VM disk storage&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Persistent Disk (both HDD and SSD)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Amazon Elastic Block Store (Amazon EBS)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Pricing&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Per minute basis&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Per hour basis&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Networking framework&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;GCP has its tiered networking framework&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;AWS has no tiered networking framework&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Companies using&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Facebook, Intel, Yahoo etc&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Linkedln, Netflix, BBC etc&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;verdict&quot;&gt;Verdict&lt;/h3&gt;
-
-&lt;p&gt;GCP and AWS both are good platforms. Firstly, decide the type of features you or your organization requires and how much you can pay. Although, AWS is the market leader in the world with good features and reliability my vote will tilt towards GCP. It is because it has a vast number of features, highly secure, and cost-effective.&lt;/p&gt;
-
-&lt;h3 id=&quot;where-to-learn-gcp--aws&quot;&gt;Where to learn GCP &amp;amp; AWS?&lt;/h3&gt;
-
-&lt;p&gt;Google Cloud Platform (GCP): &lt;a href=&quot;https://www.coursera.org/specializations/gcp-architecture&quot;&gt;https://www.coursera.org/specializations/gcp-architecture&lt;/a&gt;
-Amazon Web Sevices (AWS): &lt;a href=&quot;https://www.coursera.org/aws&quot;&gt;https://www.coursera.org/aws&lt;/a&gt;&lt;/p&gt;
-
-</description>
-          <pubDate>Thu, 30 Jul 2020 10:15:02 +0530</pubDate>
-          <link>http://localhost:4000/gcp-vs-aws/</link>
-          <guid isPermaLink="true">http://localhost:4000/gcp-vs-aws/</guid>
-          
-          <tags>cloud</tags>
-          
-          <tags>tech</tags>
-          
-          <tags>cloud computing</tags>
-          
-          <tags>web services</tags>
-              
-          
-        </item>
-
-    
-      
-        <item>
-          <title>Back Double Tap gesture to any Android device with 'Tap, Tap' - iOS 14/Android 11’s Feature</title>
-          <description>&lt;p&gt;XDA is popular for app developers for modded apps and ported apps. ios14 and Android 11 has new feature called BackTap, which takes screen-shot. XDA developers ported it and bought an app, so any device with ARMv8 running with android 7.0.&lt;/p&gt;
-
-&lt;p&gt;This app is called &lt;strong&gt;Tap, Tap&lt;/strong&gt;. This app bought many features of the double back tap gesture.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Firstly you need to give Accessibility Service Permissions.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;slide-show&quot;&gt;
-
-&lt;a href=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/tap-tap-home-alpha.jpg&quot; data-lightbox=&quot;image-1&quot; data-title=&quot;tap-tap-home-alpha&quot;&gt;&lt;img width=&quot;30%&quot; alt=&quot;tap-tap-home-alpha&quot; src=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/tap-tap-home-alpha.jpg&quot; /&gt;&lt;/a&gt;
-
-&lt;/div&gt;
-
-&lt;h6 id=&quot;gesture&quot;&gt;Gesture:&lt;/h6&gt;
-&lt;p&gt;You can select Device Model and Sensitivity.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;There are 3 Device Models corresponding to the 3 TensorFlow Lite models that Google trained for the Pixel 3 XL, Pixel 4, and Pixel 4 XL.&lt;/li&gt;
-  &lt;li&gt;A sensitivity setting is shown in the app’s Gesture settings, but this will be fully implemented in a future release of the app.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;slide-show&quot;&gt;
-
-&lt;a href=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/gesture.jpg&quot; data-lightbox=&quot;image-1&quot; data-title=&quot;Gesture&quot;&gt;&lt;img width=&quot;30%&quot; alt=&quot;Gesture&quot; src=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/gesture.jpg&quot; /&gt;&lt;/a&gt;
-
-&lt;/div&gt;
-
-&lt;h6 id=&quot;actions&quot;&gt;Actions:&lt;/h6&gt;
-&lt;p&gt;You can select what should happen when you double tap on the back o the phone. There are nultiple options enabled, but only the 1st one is executed, so why others??? Because when you configure to open camera and camera is already opened, so it will perform the next action(Yup, this is cool!).&lt;/p&gt;
-
-&lt;div class=&quot;slide-show&quot;&gt;
-
-&lt;a href=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/actions.jpg&quot; data-lightbox=&quot;image-1&quot; data-title=&quot;Actions&quot;&gt;&lt;img width=&quot;30%&quot; alt=&quot;Actions&quot; src=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/actions.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/add-action.jpg&quot; data-lightbox=&quot;image-1&quot; data-title=&quot;Add new action&quot;&gt;&lt;img width=&quot;30%&quot; alt=&quot;Add new action&quot; src=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/add-action.jpg&quot; /&gt;&lt;/a&gt;
-
-&lt;/div&gt;
-
-&lt;h6 id=&quot;gates&quot;&gt;Gates:&lt;/h6&gt;
-&lt;p&gt;These are nothing but setting up the conditions when to not work, for suppose you are speaking a call, you don’t want to use this feature or while camera is opened you don’t this feature, so at this time you can set condition to turnoff this feature.&lt;/p&gt;
-
-&lt;div class=&quot;slide-show&quot;&gt;
-
-&lt;a href=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/gates.jpg&quot; data-lightbox=&quot;image-1&quot; data-title=&quot;Gates&quot;&gt;&lt;img width=&quot;30%&quot; alt=&quot;Gates&quot; src=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/gates.jpg&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/add-gate.jpg&quot; data-lightbox=&quot;image-1&quot; data-title=&quot;Add new gate&quot;&gt;&lt;img width=&quot;30%&quot; alt=&quot;Add new gate&quot; src=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/add-gate.jpg&quot; /&gt;&lt;/a&gt;
-
-&lt;/div&gt;
-
-&lt;h6 id=&quot;feedback&quot;&gt;Feedback:&lt;/h6&gt;
-&lt;p&gt;This is nothing but whenyou used this feature, i.e when you double tapped the back and got a screenshot you should notice it with a Haptic feedback like some vibration. There is other option Wake Device.&lt;/p&gt;
-
-&lt;div class=&quot;slide-show&quot;&gt;
-
-&lt;a href=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/haptic-feedback.jpg&quot; data-lightbox=&quot;image-1&quot; data-title=&quot;haptic-feedback&quot;&gt;&lt;img width=&quot;30%&quot; alt=&quot;haptic-feedback&quot; src=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/haptic-feedback.jpg&quot; /&gt;&lt;/a&gt;
-
-&lt;/div&gt;
-</description>
-          <pubDate>Thu, 30 Jul 2020 10:15:02 +0530</pubDate>
-          <link>http://localhost:4000/double-tap-back-tap-gesture/</link>
-          <guid isPermaLink="true">http://localhost:4000/double-tap-back-tap-gesture/</guid>
           
           <tags>android</tags>
           

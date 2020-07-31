@@ -1,6 +1,7 @@
 ---
 layout: contributor
-photo: /assets/img/persons/satya-profile.webp
+photo_jpg: /assets/img/persons/satya-profile.jpg
+photo_webp: /assets/img/persons/satya-profile.webp
 name: srisatyalokesh
 display_name: Sri Satya Lokesh
 position: Designer, Developer and Blogger

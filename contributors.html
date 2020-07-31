@@ -58,7 +58,11 @@ permalink: /contributors/
             
           </td>
           <td class="author-photo">
-            <img src="{{contributor.photo}}">
+            <picture>
+              <source type="image/webp" srcset="{{ contributor.photo_webp }}">
+              <source type="image/jpg"  srcset="{{ contributor.photo_jpg }}">
+              <img src="{{ contributor.photo_jpg }}">
+            </picture>
           </td>
         </tr>
       </table> 
