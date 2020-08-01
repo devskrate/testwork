@@ -1,11 +1,11 @@
 ---
-date: 2020-07-30 04:45:02
+date: 2020-08-01 12:45:02
 layout: post
 title: "Back Double Tap gesture to any Android device with 'Tap, Tap' - iOS 14/Android 11’s Feature"
 subtitle: The back double tap feature
 description: "XDA is popular for app developers for modded apps and ported apps. ios14 and Android 11 has new feature called BackTap, which takes screen-shot. XDA developers ported it..."
-image: https://devskrate.github.io/assets/blog-banners/samsung-galaxy-m31s-2020.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/samsung-galaxy-m31s-2020.webp
+image: https://devskrate.github.io/assets/blog-banners/tap-tap-app-2020-alpha.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/tap-tap-app-2020-alpha.webp
 author: puneeth
 category: [mobiles]
 tags: [android, oneui, budget, samsung]
