@@ -16,6 +16,10 @@ XDA is popular for app developers for modded apps and ported apps. ios14 and And
 
 This app is called **Tap, Tap**. This app bought many features of the double back tap gesture.
 
+Link to download from XDA-Thread : [Here](https://forum.xda-developers.com/android/apps-games/app-tap-tap-double-tap-device-gesture-t4140573)
+
+Link to Github : [https://github.com/KieronQuinn/TapTap](https://github.com/KieronQuinn/TapTap)
+
 + Firstly you need to give Accessibility Service Permissions.
 
 <div class="slide-show">

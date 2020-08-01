@@ -5,10 +5,49 @@
     <description>Everything about Tech, Gadgets and Development. Paradise of Developers and Techies. We are Developers by profession, Techies by Passion</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Jul 2020 19:14:34 +0530</pubDate>
-    <lastBuildDate>Fri, 31 Jul 2020 19:14:34 +0530</lastBuildDate>
+    <pubDate>Sat, 01 Aug 2020 14:33:52 +0530</pubDate>
+    <lastBuildDate>Sat, 01 Aug 2020 14:33:52 +0530</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
+    
+      
+        <item>
+          <title>Oppo Watch launched in India</title>
+          <description>&lt;p&gt;Oppo today launched it’s first smartwatch in India starting at 14,990, so what does this bring to the market, let’s find out in the article.&lt;/p&gt;
+&lt;h4 id=&quot;design&quot;&gt;Design:&lt;/h4&gt;
+&lt;p&gt;The design of the watch is very similar to that of the Apple Watch, the only difference being the rotating crown is replaced with tow side buttons. The watch also comes with a curved display on the sides.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://devskrate.github.io/assets/images/oppo/oppo_watch_design.png&quot; alt=&quot;Oppo Watch&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;internals-and-software&quot;&gt;Internals and Software:&lt;/h4&gt;
+&lt;p&gt;The phone comes with google’s Wear OS running the show and is powered by Qualcomm’s Snapdragon Wear 3100 chipset. The watch also comes with 1GB of RAM and 8GB of internal storage. The watch comes with a 430mAH battery and comes with a VOOC flash charge for faster top-up. The watch comes with water-resistant up to 50m and NFC.&lt;/p&gt;
+
+&lt;h4 id=&quot;display&quot;&gt;Display:&lt;/h4&gt;
+&lt;p&gt;The watch comes with 1.91-inch AMOLED curved display with 420 X 476 resolution and a 100% DCI-P3 color gamut.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://devskrate.github.io/assets/images/oppo/oppo_watch_display.png&quot; alt=&quot;Oppo Watch&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;health-features&quot;&gt;Health Features:&lt;/h4&gt;
+&lt;p&gt;The phone comes with 5 exercise sensors to monitor your workout. The watch will be able to track exercises like running, jogging, walking, swimming, and more. The watch also comes with heart rate monitoring, menstrual cycle tracking, and sleep monitoring.&lt;/p&gt;
+
+&lt;h4 id=&quot;pricing&quot;&gt;Pricing:&lt;/h4&gt;
+&lt;p&gt;The watch will be available in two variants namely the 41mm and 46mm. The 41mm is priced at ₹14,990 while the 46mm is priced at ₹19,990.&lt;/p&gt;
+</description>
+          <pubDate>Fri, 31 Jul 2020 19:30:02 +0530</pubDate>
+          <link>http://localhost:4000/oppo-watch-specs-and-price/</link>
+          <guid isPermaLink="true">http://localhost:4000/oppo-watch-specs-and-price/</guid>
+          
+          <tags>android</tags>
+          
+          <tags>oppo</tags>
+          
+          <tags>reno</tags>
+              
+          
+          <category>mobiles</category>
+          
+        </item>
+
     
       
         <item>
