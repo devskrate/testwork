@@ -371,6 +371,13 @@
     
     
         <url>
+            <loc>http://localhost:4000/double-tap-back-tap-gesture/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-08-01</lastmod>
+        </url>
+    
+        <url>
             <loc>http://localhost:4000/oppo-watch-specs-and-price/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>

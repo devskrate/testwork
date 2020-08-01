@@ -5,10 +5,91 @@
     <description>Everything about Tech, Gadgets and Development. Paradise of Developers and Techies. We are Developers by profession, Techies by Passion</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 01 Aug 2020 14:33:52 +0530</pubDate>
-    <lastBuildDate>Sat, 01 Aug 2020 14:33:52 +0530</lastBuildDate>
+    <pubDate>Sat, 01 Aug 2020 18:50:07 +0530</pubDate>
+    <lastBuildDate>Sat, 01 Aug 2020 18:50:07 +0530</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
+    
+      
+        <item>
+          <title>Back Double Tap gesture to any Android device with 'Tap, Tap' - iOS 14/Android 11’s Feature</title>
+          <description>&lt;p&gt;XDA is popular for app developers for modded apps and ported apps. ios14 and Android 11 has new feature called BackTap, which takes screen-shot. XDA developers ported it and bought an app, so any device with ARMv8 running with android 7.0.&lt;/p&gt;
+
+&lt;p&gt;This app is called &lt;strong&gt;Tap, Tap&lt;/strong&gt;. This app bought many features of the double back tap gesture.&lt;/p&gt;
+
+&lt;p&gt;Link to download from XDA-Thread : &lt;a href=&quot;https://forum.xda-developers.com/android/apps-games/app-tap-tap-double-tap-device-gesture-t4140573&quot;&gt;Here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Link to Github : &lt;a href=&quot;https://github.com/KieronQuinn/TapTap&quot;&gt;https://github.com/KieronQuinn/TapTap&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Firstly you need to give Accessibility Service Permissions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;slide-show&quot;&gt;
+
+&lt;a href=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/tap-tap-home-alpha.jpg&quot; data-lightbox=&quot;image-1&quot; data-title=&quot;tap-tap-home-alpha&quot;&gt;&lt;img width=&quot;30%&quot; alt=&quot;tap-tap-home-alpha&quot; src=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/tap-tap-home-alpha.jpg&quot; /&gt;&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;h6 id=&quot;gesture&quot;&gt;Gesture:&lt;/h6&gt;
+&lt;p&gt;You can select Device Model and Sensitivity.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;There are 3 Device Models corresponding to the 3 TensorFlow Lite models that Google trained for the Pixel 3 XL, Pixel 4, and Pixel 4 XL.&lt;/li&gt;
+  &lt;li&gt;A sensitivity setting is shown in the app’s Gesture settings, but this will be fully implemented in a future release of the app.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;slide-show&quot;&gt;
+
+&lt;a href=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/gesture.jpg&quot; data-lightbox=&quot;image-1&quot; data-title=&quot;Gesture&quot;&gt;&lt;img width=&quot;30%&quot; alt=&quot;Gesture&quot; src=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/gesture.jpg&quot; /&gt;&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;h6 id=&quot;actions&quot;&gt;Actions:&lt;/h6&gt;
+&lt;p&gt;You can select what should happen when you double tap on the back o the phone. There are nultiple options enabled, but only the 1st one is executed, so why others??? Because when you configure to open camera and camera is already opened, so it will perform the next action(Yup, this is cool!).&lt;/p&gt;
+
+&lt;div class=&quot;slide-show&quot;&gt;
+
+&lt;a href=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/actions.jpg&quot; data-lightbox=&quot;image-1&quot; data-title=&quot;Actions&quot;&gt;&lt;img width=&quot;30%&quot; alt=&quot;Actions&quot; src=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/actions.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/add-action.jpg&quot; data-lightbox=&quot;image-1&quot; data-title=&quot;Add new action&quot;&gt;&lt;img width=&quot;30%&quot; alt=&quot;Add new action&quot; src=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/add-action.jpg&quot; /&gt;&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;h6 id=&quot;gates&quot;&gt;Gates:&lt;/h6&gt;
+&lt;p&gt;These are nothing but setting up the conditions when to not work, for suppose you are speaking a call, you don’t want to use this feature or while camera is opened you don’t this feature, so at this time you can set condition to turnoff this feature.&lt;/p&gt;
+
+&lt;div class=&quot;slide-show&quot;&gt;
+
+&lt;a href=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/gates.jpg&quot; data-lightbox=&quot;image-1&quot; data-title=&quot;Gates&quot;&gt;&lt;img width=&quot;30%&quot; alt=&quot;Gates&quot; src=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/gates.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/add-gate.jpg&quot; data-lightbox=&quot;image-1&quot; data-title=&quot;Add new gate&quot;&gt;&lt;img width=&quot;30%&quot; alt=&quot;Add new gate&quot; src=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/add-gate.jpg&quot; /&gt;&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;h6 id=&quot;feedback&quot;&gt;Feedback:&lt;/h6&gt;
+&lt;p&gt;This is nothing but whenyou used this feature, i.e when you double tapped the back and got a screenshot you should notice it with a Haptic feedback like some vibration. There is other option Wake Device.&lt;/p&gt;
+
+&lt;div class=&quot;slide-show&quot;&gt;
+
+&lt;a href=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/haptic-feedback.jpg&quot; data-lightbox=&quot;image-1&quot; data-title=&quot;haptic-feedback&quot;&gt;&lt;img width=&quot;30%&quot; alt=&quot;haptic-feedback&quot; src=&quot;https://devskrate.github.io/assets/images/xda/back-double-tap/haptic-feedback.jpg&quot; /&gt;&lt;/a&gt;
+
+&lt;/div&gt;
+</description>
+          <pubDate>Sat, 01 Aug 2020 18:15:02 +0530</pubDate>
+          <link>http://localhost:4000/double-tap-back-tap-gesture/</link>
+          <guid isPermaLink="true">http://localhost:4000/double-tap-back-tap-gesture/</guid>
+          
+          <tags>android</tags>
+          
+          <tags>oneui</tags>
+          
+          <tags>budget</tags>
+          
+          <tags>samsung</tags>
+              
+          
+          <category>mobiles</category>
+          
+        </item>
+
     
       
         <item>
