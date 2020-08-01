@@ -9,7 +9,7 @@ optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/tap-t
 author: puneeth
 category: [mobiles]
 tags: [android, oneui, budget, samsung]
-is_generated: true
+is_generated: false
 ---
 
 XDA is popular for app developers for modded apps and ported apps. ios14 and Android 11 has new feature called BackTap, which takes screen-shot. XDA developers ported it and bought an app, so any device with ARMv8 running with android 7.0.
