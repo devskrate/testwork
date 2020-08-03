@@ -12,7 +12,7 @@ optimized_image: >-
 category: [mobiles]
 tags: [android,oppo,reno]
 author: mohit
-is_generated= true
+is_generated: true
 ---
 After a lot of leaks, rumors, and a lot of delays Google has finally launched the successor to its mid-range Pixel 3a, The Pixel 4a and this is everything about the phone.
 
