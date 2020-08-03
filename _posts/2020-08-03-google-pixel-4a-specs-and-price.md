@@ -1,5 +1,5 @@
 ---
-date: 2020-07-31 21:00:02
+date: 2020-08-03 21:00:02
 layout: post
 title: Pixel 4a - The best budget camera phone 2020
 subtitle: "Here are the specs, pricing and sale details of Pixel 4a"
