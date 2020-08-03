@@ -30,9 +30,9 @@ After a lot of teaser and leaks of a budget 5G phone, Realme has finally launche
 The front of the phone comes with a single punch hole on the left for the selfie camera while the back comes with a square cut-out for the camera with a different finish based on the color you choose, the silver variant comes with a matte finish with a huge Realme logo while the green and blue variants come with a two-tone matte finish with a smaller Realme logo. Talking about Display, the phone comes with a 6.5-inch Full HD+ IPS LCD with a 20:9 aspect ratio. The phone with a 90Hz refresh rate and a 180Hz touch sampling rate. 
 
 
-<a href="https://devskrate.github.io/assets/images/realme/realme-v5-blue.png" data-lightbox="image-1" data-title="Real,me v5"><img width="20%" src="https://devskrate.github.io/assets/images/realme/realme-v5-blue.png" style = "border:1.5px solid black;display:inline" ></a>
-<a href="https://devskrate.github.io/assets/images/realme/realme-v5.png" data-lightbox="image-1" data-title="realme v5"><img width="20%" src="https://devskrate.github.io/assets/images/realme/realme-v5.png" style = "border:1.5px solid black;display:inline" ></a>
-<a href="https://devskrate.github.io/assets/images/realme/realme-v5-silver.png" data-lightbox="image-1" data-title="realme v5"><img width="20%" src="https://devskrate.github.io/assets/images/realme/realme-v5-silver.png" style = "border:1.5px solid black;display:inline" ></a>
+<a href="https://devskrate.github.io/assets/images/realme/realme-v5-blue.png" data-lightbox="image-1" data-title="Real,me v5"><img width="30%" src="https://devskrate.github.io/assets/images/realme/realme-v5-blue.png"  ></a>
+<a href="https://devskrate.github.io/assets/images/realme/realme-v5.png" data-lightbox="image-1" data-title="realme v5"><img width="30%" src="https://devskrate.github.io/assets/images/realme/realme-v5.png"  ></a>
+<a href="https://devskrate.github.io/assets/images/realme/realme-v5-silver.png" data-lightbox="image-1" data-title="realme v5"><img width="30%" src="https://devskrate.github.io/assets/images/realme/realme-v5-silver.png"  ></a>
 
 #### Internals and Software:
 The phone comes with the recently announced MediaTek Dimensity 720 chipset, which is a 7nm octa-core chipset with support for dual-mode 5G connectivity (SA/ NSA) support. The phone also comes with 8GB of LPDDR4x RAM and 128GB of UFS 2.1 storage. It also comes support for microSD cards up to 256GB. 
