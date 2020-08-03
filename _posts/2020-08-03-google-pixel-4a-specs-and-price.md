@@ -39,4 +39,4 @@ The phone comes with a Snapdragon 730G processor running the show. The phone onl
 The camera is the highlight of any Pixel phone and is no different in this either, the phone comes with a single 12.2MP rear and an 8MP selfie camera. Since it is a pixel we can expect great pictures.
 
 #### Price and Availability:
-The phone for the base 6GB+128GB variant is priced at $349(~Rs. 26,237). This phone will be available in one colors namely, Matte black . They will be available in  US, UK, Ireland, Germany, Australia, Japan, and Canada.
+The phone for the base 6GB+128GB variant is priced at $349(~Rs. 26,237). This phone will be available in one colors namely, Matte black . This phone will be available in  US, UK, Ireland, Germany, Australia, Japan, and Canada.
