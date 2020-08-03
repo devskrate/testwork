@@ -19,11 +19,11 @@ After a lot of teaser and leaks of a budget 5G phone, Realme has finally launche
 |Name         | Specifications                                                         |
 | ----------- | -----------------------------------------------------------------------|
 |Processor    | MediaTek Dimensity 720 chipset                                         |
-|Rear Camera  | Quad Camera 48MP(Primary)+8MP(Ultra-Wide)+2MP(macro)+2MP(Mono)         |
+|Rear Camera  | Quad Camera 48MP(Primary)+8MP(Ultra-Wide)+2MP(macro)+2MP(depth)        |
 |Front Camera | 16MP side camera                                                       |
-|Display      | 6.5 inches IPS LCD Display with 90HZ Refresh Rate                       |           
+|Display      | 6.5 inches IPS LCD Display with 90HZ Refresh Rate                      |           
 |Battery      | 5000 mAH                                                               |
-|Fingerprint  | Side-mounted Fingerprint Sensor                                          |  
+|Fingerprint  | Side-mounted Fingerprint Sensor                                        |  
 |Charging     | USB - C with 30W Dart Charging(in box)                                 |
 
 #### Design and Display:
