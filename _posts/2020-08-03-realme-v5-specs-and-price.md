@@ -1,18 +1,17 @@
 ---
 date: 2020-08-03 13:30:02
 layout: post
-title: Realme V5 launched in China
-subtitle: "The cheapest 5G phone"
+title: Realme V5 launched in China- Specs and Price
+subtitle: "This comes with Mediatek 720 Chipset including 5g support"
 description: >-
-   Realme V5 equipped with MediaTek Dimensity 720 chipset, 5000mAH battery with 5G and more launched in india here is everything you need to know.
+   Realme V5 equipped with MediaTek Dimensity 720 chipset, 5000mAH battery with 5G and more launched in China here is everything you need to know.
 image: >-
-  https://devskrate.github.io/assets/blog-banners/oppo-reno-4-pro.jpg
+  https://devskrate.github.io/assets/blog-banners/realme-v5-specs-price.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/oppo-reno-4-pro.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/realme-v5-specs-price.webp
 category: [mobiles]
 tags: [android,realme,V5]
 author: mohit
-is_generated: true
 ---
 After a lot of teaser and leaks of a budget 5G phone, Realme has finally launched its new Realme V5 in China and this is everything about the V5.
 
