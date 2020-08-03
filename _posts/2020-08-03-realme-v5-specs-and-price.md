@@ -32,8 +32,8 @@ The front of the phone comes with a single punch hole on the left for the selfie
 <div class="slide-show">
 
 <a href="https://devskrate.github.io/assets/images/realme/realme-v5-blue.png" data-lightbox="image-1" data-title="realme v5"><img width="30%" src="https://devskrate.github.io/assets/images/realme/realme-v5-blue.png"></a>
-<a href="https://devskrate.github.io/assets/images/realme/realme-v5.png" data-lightbox="image-1" data-title=realme v5"><img width="30%" src="https://devskrate.github.io/assets/images/realme/realme-v5.png"></a>
-<a href="https://devskrate.github.io/assets/images/realme/realme-v5-silver.png" data-lightbox="image-1" data-title="realme v5"><img width="30%" src="https://devskrate.github.io/assets/images/realme/realme-v5-silver.png"></a>
+<a href="https://devskrate.github.io/assets/images/realme/realme-v5.png" data-lightbox="image-2" data-title=realme v5"><img width="30%" src="https://devskrate.github.io/assets/images/realme/realme-v5.png"></a>
+<a href="https://devskrate.github.io/assets/images/realme/realme-v5-silver.png" data-lightbox="image-3" data-title="realme v5"><img width="30%" src="https://devskrate.github.io/assets/images/realme/realme-v5-silver.png"></a>
 
 </div>
 
