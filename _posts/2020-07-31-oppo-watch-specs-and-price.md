@@ -8,7 +8,7 @@ description: >-
 image: >-
   https://devskrate.github.io/assets/blog-banners/oppo-watch-launch.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/oppo-watch-launch.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/oppo-watch-launch-2020.webp
 category: [mobiles]
 tags: [android,oppo,reno]
 author: mohit
