@@ -4,13 +4,13 @@ layout: post
 title: Pixel 4a - The best budget camera phone 2020
 subtitle: "Here are the specs, pricing and sale details of Pixel 4a"
 description: >-
-   Pixel 4A equipped with Snapdragon 730?G chipset, awesome camera features and more launched in india here is everything you need to know.
+   Pixel 4A equipped with Snapdragon 730G chipset, awesome camera features and more launched here is everything you need to know.
 image: >-
   https://devskrate.github.io/assets/blog-banners/pixel-4a-launch-specs.jpg
 optimized_image: >-
   https://devskrate.github.io/assets/blog-banners/optimized/pixel-4a-launch-specs.webp
 category: [mobiles]
-tags: [android,oppo,reno]
+tags: [android,google,pixel]
 author: mohit
 is_generated: true
 ---
