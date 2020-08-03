@@ -1,14 +1,14 @@
 ---
-date: 2020-07-31 14:00:02
+date: 2020-07-31 21:00:02
 layout: post
-title: Oppo Watch launched in India
-subtitle: "Here is the detailed review, complete specs and price details"
+title: Pixel 4a - The best budget camera phone 2020
+subtitle: "Here are the specs, pricing and sale details of Pixel 4a"
 description: >-
-   Oppo watch equipped with Snapdragon Wear 3100 chipset, 430mAH battery and more launched in india here is everything you need to know.
+   Pixel 4A equipped with Snapdragon 730?G chipset, awesome camera features and more launched in india here is everything you need to know.
 image: >-
-  https://devskrate.github.io/assets/blog-banners/oppo-watch-launch-2020.jpg
+  https://devskrate.github.io/assets/blog-banners/pixel-4a-launch-specs.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/oppo-watch-launch-2020.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/pixel-4a-launch-specs.webp
 category: [mobiles]
 tags: [android,oppo,reno]
 author: mohit
@@ -19,27 +19,24 @@ After a lot of leaks, rumors, and a lot of delays Google has finally launched th
 {:class="table table-bordered dark"}
 |Name         | Specifications                                                         |
 | ----------- | -----------------------------------------------------------------------|
-|Processor    | Snapdragon 730 chipset                                                 |
-|Rear Camera  | ?? MP Sensor                                                           |
-|Front Camera | ?? MP Sensor                                                           |
-|Display      | ?? inches IPS LCD // AMOLED Display                                    |           
-|Battery      | ???? mAH                                                               |
-|Fingerprint  | Rear-mounted Fingerprint Sensor                                        |  
-|Charging     | USB - C with ?? Charging(in box)                                 |
+|Processor    | Snapdragon 730G chipset                                                |
+|Rear Camera  | 12.2 MP Sensor                                                         |
+|Front Camera | 8 MP Sensor                                                            |
+|Display      | 5.81 inches OLED Display                                               |           
+|Battery      | 3140 mAH                                                               |
+|Fingerprint  | Rear Fingerprint Sensor                                                |  
+|Charging     | USB - C with 18W Charging(in box)                                      |
 
 #### Design and Display:
-note: 
-write about matte or ordinary finish.
-write about the construction
-The phone comes with ?? plastic body??. The back of the phone comes with a square cut out for the single camera at the back and the front comes with a single punch-hole for the selfie camera, fingerprint sensor, and Google logo at the bottom-center of the phone. The phone comes with -------- inch -----HD + resolution with ----- aspect ratio. The phone also comes with support for ------.
+
+The phone comes with plastic unibody build. The back of the phone comes with a square cut out to house the single camera and flash at the back, fingerprint sensor, and Google logo at the bottom-center of the phone. The front comes with a single punch-hole for the selfie camera The phone comes with 5.81 inch FHD+ resolution with 19.5:9 aspect ratio. The phone's display only comes a 60Hz display instead of 90Hz or 120Hz.
 
 #### Internals and Software:
-The phone comes with a Snapdragon 730 processor running the show. The phone also comes with ----- Ram and UFS --- storage. The phone only comes with a single sim. The phone comes with ------ battery. ??The phone comes with Wifi 5, Bluetooth 5 for connectivity??
+The phone comes with a Snapdragon 730G processor running the show. The phone only comes with a single sim. The phone comes with 3140 mAH battery. The phone single mono speaker on the bottom. It also comes with a headphone jack, which is great to see. The phone comes with Andriod 10 out of the box and promises 3 years od android updates.
 
 #### Camera:
-talk about camera features.
-talk about video features.
-The camera is the highlight of any Pixel phone and is no different in this either, the phone comes with a single ----MP camera and a ----MP selfie camera. The phone also brings features like -------------- 
+
+The camera is the highlight of any Pixel phone and is no different in this either, the phone comes with a single 12.2MP rear and an 8MP selfie camera. Since it is a pixel we can expect great pictures.
 
 #### Price and Availability:
-The phone for the base ------ variant is priced at ------ while the higher ----- is priced -----. This phone will be available in ---- colors namely, ------. They will be available in the US on --date----.
+The phone for the base 6GB+128GB variant is priced at $349(~Rs. 26,237). This phone will be available in one colors namely, Matte black . They will be available in  US, UK, Ireland, Germany, Australia, Japan, and Canada.
