@@ -12,7 +12,6 @@ optimized_image: >-
 category: [mobiles]
 tags: [android,ios,google,pixel,apple,iphone,oneplus,nord]
 author: mohit
-is_generated: true
 ---
 With the huge success of the pixel 3a last year all the major companies have also started focusing on making a premium mid-range smartphone and now the market has a lot of competition in the premium mid-range market from the likes of iPhone SE, OnePlus Nord, and Google's Pixel 4a, let's compare and find out which suits you the best.
 #### Build and Design:
