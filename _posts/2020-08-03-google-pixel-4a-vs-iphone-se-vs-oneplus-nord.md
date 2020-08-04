@@ -6,9 +6,9 @@ subtitle: "which suits you the best"
 description: >-
    Which suits you the best finf out in the article
 image: >-
-  https://devskrate.github.io/assets/blog-banners/pixel-4a-launch-specs.jpg
+  https://devskrate.github.io/assets/blog-banners/pixel-4a-vs-se-vs-nord.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/pixel-4a-launch-specs.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/pixel-4a-vs-se-vs-nord.webp
 category: [mobiles]
 tags: [android,ios,google,pixel,apple,iphone,oneplus,nord]
 author: mohit
