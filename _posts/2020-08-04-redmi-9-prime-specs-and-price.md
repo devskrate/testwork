@@ -30,7 +30,7 @@ Redmi launched a new budget phone in the lineup, the redmi 9 prime and this is e
 #### Design and Display:
 The Redmi 9 Prime comes with a plastic body. The back one comes with a vertical camera array at the top-center and these are surrounded by a concentric circle design, which redmi calls it "Aura 360 design", below the camera we have a fingerprint sensor and to the front, the phone comes with a waterdrop notch. The back comes with a matte finish. Talking about the display, The phone comes with a 6.53-inch FHD+ display.  
 #### Internals and software:
-The phone is powered by Mediatek Helio G80 and it comes with LPDDR 4X RAM. The comes with a 5020mAH battery and a 18W fast charging support but we only get 10W charger in the box. The phone comes with USB-C for charging and a headphone jack. The phone also comes with IR Blaster and FM radio. The phone comes with MIUI 11 based on Android 10.
+The phone is powered by Mediatek Helio G80 and it comes with LPDDR 4X RAM. The comes with a 5020mAH battery and a **18W fast charging support but we only get 10W charger in the box**. The phone comes with USB-C for charging and a headphone jack. The phone also comes with IR Blaster and FM radio. The phone comes with MIUI 11 based on Android 10.
 #### Camera:
 The phone comes with a quad rear camera, Tne primary is a 13MP sensor, the second is an 8MP ultra-wide sensor, the third is a 5MP macro lens and the last one is a 2MP depth sensor, On the selfie side of things the phone comes with an 8MP sensor. The camera also comes with AI scene recognition up to 32 categories and 5 specific Indian ones.
 #### Price and availability:
