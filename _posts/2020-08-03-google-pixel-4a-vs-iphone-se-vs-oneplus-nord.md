@@ -1,5 +1,5 @@
 ---
-date: 2020-08-03 21:00:02
+date: 2020-08-03 23:00:02
 layout: post
 title: Pixel 4a V/S iPhone SE V/S OnePlus Nord
 subtitle: "which suits you the best"
