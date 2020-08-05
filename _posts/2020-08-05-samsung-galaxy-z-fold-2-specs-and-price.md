@@ -6,11 +6,11 @@ subtitle: "This comes with Snapdragon 865 Plus Chipset, a bigger external displa
 description: >-
    The phone equipped with Snapdragon 865 Plus Chipset, a bigger external display and more. more launched here is everything you need to know.
 image: >-
-  https://devskrate.github.io/assets/blog-banners/galaxy-note-20-ultra.jpg
+  https://devskrate.github.io/assets/blog-banners/galaxy-fold-2.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/galaxy-note-20-ultra.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/galaxy-fold-2.webp
 category: [mobiles]
-tags: [android,samsung,note]
+tags: [android,samsung,fold]
 author: mohit
 is_generated: false
 ---
