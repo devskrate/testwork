@@ -22,8 +22,8 @@ The Ultra comes with a 6.9 inch 120Hz SuperAMOLED QHD Display but similar to the
 #### Internals and Software:
 The phone is powered by the Snapdragon 865 Plus, we can expect the Exynos 990 chipset in India. The phone will also come with LPDDR 5 Ram and a UFS 3.1 for memory. The device runs OneUI ??2.0?? based on Android 10. The phone will also come with WIfi 6 and Bluetooth 5. The regular comes with a 4300mAh battery while the ultra comes with a 4500mAh battery. Both of them comes with a fast 25W wired charging and fast ??10W?? wireless charging. On the software side of things, the phone runs on OneUi 2.5. The phone also comes with a Wireless Dex.
 #### Camera:
-The regular Note comes with a triple rear camera, The primary is a 12MP  sensor, the second is a 64MP telephoto camera with 3x optical zoom and 30x digital zoom capabilities. The third is a 12MP ultra-wide-angle camera. The selfie camera is a 10MP sensor inside the punch-hole.
-The ultra comes with a triple rear camera, The primary is a 108MP primary camera, the second is a 12MP ultra-wide-angle, the third is a 12MP telephoto camera with 5x optical zoom and 50x digital zoom and a laser auto-focus sensor. The selfie camera is a 40MP sensor inside the punch-hole. Both the note also come with cool video features like 8K video recording.  
+The regular Note comes with a triple rear camera, The primary is a 12MP  sensor, the second is a 64MP telephoto camera with 3x optical zoom and 30x digital zoom capabilities. The third is a 12MP ultra-wide-angle camera.
+The ultra comes with a triple rear camera, The primary is a 108MP primary camera, the second is a 12MP ultra-wide-angle, the third is a 12MP telephoto camera with 5x optical zoom and 50x digital zoom and a laser auto-focus sensor. Both the note also come with cool video features like 8K video recording.  
 #### S-Pen Features:
 With every new Note we get new S-Pen features. The Bluetooth-enabled S-Pen can be used like as pionter with a range of 10 meters. You can also recording audio and writing notes simultaneously and all the other featurs from the previous Note phones. 
 #### Price and Availability:
