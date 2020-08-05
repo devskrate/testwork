@@ -1,5 +1,5 @@
 ---
-date: 2020-08-05 12:45:02
+date: 2020-08-05 19:00:02
 layout: post
 title: "Samsung galaxy Buds(beans) everything you need to know!!"
 subtitle: "Samsung Galaxy Buds Live with more stronger battery-life"
