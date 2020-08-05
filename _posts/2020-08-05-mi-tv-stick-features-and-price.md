@@ -1,5 +1,5 @@
 ---
-date: 2020-08-04 13:00:02
+date: 2020-08-05 13:00:02
 layout: post
 title: Mi TV Stick launched in India- Features and Price
 subtitle: "This comes with upto 1080p streaming and support for Dolby Audio"
