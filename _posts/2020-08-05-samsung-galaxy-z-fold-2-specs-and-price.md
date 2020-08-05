@@ -1,19 +1,19 @@
 ---
-date: 2020-08-05 2:00:02
+date: 2020-08-05 20:00:02
 layout: post
 title: Samsung Galaxy Z Fold 2- Specs and Price
 subtitle: "This comes with Snapdragon 865 Plus Chipset, a bigger external display and more."
 description: >-
    The phone equipped with Snapdragon 865 Plus Chipset, a bigger external display and more. more launched here is everything you need to know.
 image: >-
-  https://devskrate.github.io/assets/blog-banners/galaxy-fold-2.jpg
+  https://devskrate.github.io/assets/blog-banners/galaxy-note-20-ultra.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/galaxy-fold-2.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/galaxy-note-20-ultra.webp
 category: [mobiles]
 tags: [android,samsung,note]
 author: mohit
 is_generated: false
---
+---
 Samsung along with the Note 20 also released it's new foldable Galaxy Z Fold 2, lets find out the major improvements when compared to the original fold in the article.
 
 {:class="table table-bordered dark"}
