@@ -1,7 +1,7 @@
 ---
 date: 2020-08-05 20:00:02
 layout: post
-title: Sansung Note 20 and Note 20 Ultra launched- Specs and Price
+title: Samsung Note 20 and Note 20 Ultra launched- Specs and Price
 subtitle: "This comes with Snapdragon 865 Plus Chipset, S-Pen and more."
 description: >-
    The phone equipped with Snapdragon 865 Plus Chipset, S-Pen and more launched here is everything you need to know.
