@@ -22,7 +22,8 @@ Today at  Samsung’s Unpacked 2020, Samsung has officially unveiled it's new No
 |Display           | 6.7-inch AMOLED Display                                             | 6.9-inch AMOLED with 120Hz refresh rate                                    |
 |Rear Camera       | Triple Camera 12MP(Primary)+12MP(Ultra-Wide)+64MP(Zoom)             | Triple Camera 108MP(Primary)+12MP(Ultra-Wide)+12MP(Zoom)                   |
 |Battery           | 4300 mAh                                                            | 4500 mAh                                                                   |
-|Waterproof        | IP 68                                                               | IP 68                                                                      |
+|OS                | OneUi 2.5 based on Android 10                                       | OneUi 2.5 based on Android 10                                              |
+|Fingerprint       | In-Screen                                                           | On-Screen                                                                  |
 |Waterproof        | IP 68                                                               | IP 68                                                                      |
 
 #### Build and Design:
