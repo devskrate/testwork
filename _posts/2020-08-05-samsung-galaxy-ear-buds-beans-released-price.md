@@ -9,7 +9,7 @@ optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/samsu
 author: puneeth
 category: [gadgets]
 tags: [samsung, samsung-buds, tws, samsung-beans]
-is_generated: true
+is_generated: false
 ---
 Samsung released it's samsung galaxy buds live which are of bean shaped today! These TWS are leaked and the photos are in twitter from months!
 
