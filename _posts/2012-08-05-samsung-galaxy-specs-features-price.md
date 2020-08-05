@@ -18,7 +18,7 @@ Samsung has officially launched it's Galaxy Watch at the Galaxy Unpacked event o
 ### Design:  
 Unlike other smartwatches like Oppo and Realme, who try to replicate the Apple Watch, Galaxy Watch follows its own design asthetics from the beginning of the series. Galaxy Watch 3 has a physical rotating bezel and is available in **41mm** and **45mm** size variants. They herald the return of the physical rotating bezel that made Samsung’s smartwatch series stand out, and offer updates that make it a better fitness companion, as well as features like an ECG, trip detection and blood oxygen monitor.  Watch 3 is 14 percent thinner and 15 percent lighter than the previous model, coming in at 49.2 grams for the smaller case and 53.8 grams for the 45mm version.  
 
-<img src="https://www.devskrate.github.io/assets/images/samsung/galaxy-watch-design.webp"/>
+![Galaxy Watch Design](https://devskrate.github.io/assets/images/samsung/galaxy-watch-design.webp)
 
 ### Internals:  
 Watch 3 is powered by the Samsung Exynos 9110 clocked at 1.15GHz. The Watch utilizes the full potential of the physical bezel by using the custom Tizen OS. You can get the watch in both bluetooth and LTE versions.  
@@ -28,7 +28,7 @@ Watch 3 is powered by the Samsung Exynos 9110 clocked at 1.15GHz. The Watch util
 ### Display:
 The watch 3, 41mm and 45mm models comes with 1.2-inch and 1.4-inch Super AMOLED displays respectively.
 
-<img src="https://www.devskrate.github.io/assets/images/samsung/watch-display.webp"/>
+![Galaxy Watch Design](https://devskrate.github.io/assets/images/samsung/watch-display.png)
 
 ### Full Specs:  
 
