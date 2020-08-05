@@ -1,5 +1,5 @@
 ---
-date: 2012-08-02 10:25:40
+date: 2020-08-05 19:30:02
 layout: post
 title: Samsung Galaxy Watch 3 Specs & Price
 subtitle: Here are the full features of the Galaxy Watch 3
@@ -10,7 +10,7 @@ category: [gadgets]
 tags: [samsung, watch]
 author: nikhil
 paginate: false
-is_generated: true
+is_generated: false
 ---
 
 Samsung has officially launched it's Galaxy Watch at the Galaxy Unpacked event on 5 August. Samsung Galaxy Watch 3 is the only smartwatch that can give a reasonable competition to the Apple Watch series, the giant of smartwatches. The smartwatch appeared in FCC’s database prior launch event, revealing its rear cover design and some key specifications. Now, we have our first look at the design of the Galaxy Watch 3. It is available in two different sizes, both 41mm and 45mm. The Galaxy Watch 3 has a lot of improvements from it's predecessor.
