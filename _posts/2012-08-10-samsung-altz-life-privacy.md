@@ -1,5 +1,5 @@
 ---
-date: 2020-08-05 19:30:02
+date: 2020-08-10 19:30:02
 layout: post
 title: "Samsung 'AltZLife': The Ultimate Private Mode"
 subtitle: You can now easily switch between public and private modes using AltZLife
@@ -10,7 +10,7 @@ category: [mobiles]
 tags: [samsung, altz, altzlife]
 author: nikhil
 paginate: false
-is_generated: true
+is_generated: false
 ---
 
 Samsung has launched a new ‘Make for India’ innovation called AltZLife that will further enhance your smartphone privacy level. The feature has been developed following deep consumer insights that smartphone users are seeking greater privacy, as they transition into an enhanced digital life using their mobile devices.
