@@ -4,9 +4,9 @@ layout: post
 title: "Samsung 'AltZLife': The Ultimate Private Mode"
 subtitle: You can now easily switch between public and private modes using AltZLife
 description: Here is how to maintain your private space in your smartphone.
-image: https://devskrate.github.io/assets/blog-banners/samsung-altz.jpg
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/samsung-altz.webp
-category: []
+image: https://devskrate.github.io/assets/blog-banners/samsung-altz-life.jpg
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/samsung-altz-life.webp
+category: [mobiles]
 tags: [samsung, altz, altzlife]
 author: nikhil
 paginate: false
