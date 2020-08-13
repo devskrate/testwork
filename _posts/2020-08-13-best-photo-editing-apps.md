@@ -1,5 +1,5 @@
 ---
-date: 2012-06-05 17:26:40
+date: 2020-08-13 17:26:40
 layout: post
 title: 6 photo-editing apps for mobile photographers
 subtitle: Best photo editing apps for mobile photographers
@@ -10,7 +10,7 @@ category: [apps]
 tags: [photo editing, android, ios]
 author: nikhil
 paginate: false
-is_generated: true
+is_generated: false
 ---
 
 Your phone's gallery is bursting with new pictures and photos you've taken over the years, desperate to see the light of day again and get a fresh new makeover. The iPhone app store on iOS and Google Play store on Android are full of creative apps that can give your existing shots a whole new look.
