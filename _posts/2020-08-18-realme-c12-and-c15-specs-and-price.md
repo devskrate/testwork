@@ -12,7 +12,6 @@ optimized_image: >-
 category: [mobiles]
 tags: [android,realme]
 author: mohit
-is_generated: true
 ---
 Realme launched its new c12 and c15 with a massive 6000mAH battery and Helio G35 and this is everything about the phone.
 Realme C15: Specs and Features
