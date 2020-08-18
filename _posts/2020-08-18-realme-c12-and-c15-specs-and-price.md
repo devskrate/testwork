@@ -6,13 +6,13 @@ subtitle: "Both come with massive 6000mAH battery and Helio G35 and more."
 description: >-
    Both the phones massive 6000mAH battery and Helio G35 and more launched in India here is everything you need to know.
 image: >-
-  https://devskrate.github.io/assets/blog-banners/galaxy-note-20-ultra.jpg
+  https://devskrate.github.io/assets/blog-banners/realme-c12-and-c15-launch-in-india.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/galaxy-note-20-ultra.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/realme-c12-and-c15-launch-in-india.webp
 category: [mobiles]
 tags: [android,realme]
 author: mohit
-is_generated: false
+is_generated: true
 ---
 Realme launched its new c12 and c15 with a massive 6000mAH battery and Helio G35 and this is everything about the phone.
 Realme C15: Specs and Features
