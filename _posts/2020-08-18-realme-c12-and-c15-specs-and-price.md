@@ -14,6 +14,20 @@ tags: [android,realme]
 author: mohit
 ---
 Realme launched its new c12 and c15 with a massive 6000mAH battery and Helio G35 and this is everything about the phone.
+
+here are key specs of both the phones.
+
+{:class="table table-bordered dark"}
+|Specifications    | Realme C15                                                          | Realme C12                                                                 |
+| -----------      | --------------------------------------------------------------------| ---------------------------------------------------------------------------|
+|Display           | 6.5-inch HD+ IPS LCD Display                                        | 6.5-inch HD+ IPS LCD Display                                               |
+|Rear Camera       | Quad Camera 13MP(Primary)+8MP(Ultra-Wide)+2MP(Depth)+2MP(Retro)     | Triple Camera 13MP(Primary)+2MP(Depth)+2MP(Retro)                          |
+|Selfie Camera     | 8MP                                                                 | 5MP                                                                        |
+|Battery           | 6000 mAh                                                            | 6000 mAh                                                                   |
+|OS                | Realme UI based on Android 10                                       | Realme UI based on Android 10                                              |
+|Fingerprint       | Physical                                                            | Physical                                                                   |
+|Charging          | 18W(In-Box)                                                         | 10W(In-Box)                                                                |
+
 Realme C15: Specs and Features
 The Realme C15 comes with a square cut-out on the top-left, and a physical fingerprint sensor on the top-center. The back also comes with a triangular strap on the center. On the front, the device comes with a 6.5-inch HD+ IPS LCD Display with a 20:9 aspect ratio and a waterdrop notch consisting of an 8MP selfie camera.
 
