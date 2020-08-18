@@ -43,7 +43,7 @@ The C12 is a cut-down version of the C15 which comes with the same display, Heli
 
 The quad-rear camera is replaced by a triple-rear camera with a removal of the ultra-wide lens while the other sensors remaining the same. The selfie camera is also downgraded from 8MP to 5MP.
 
-Price and Availability:
+#### Price and Availability:
 
 The C15 for the base 3GB+32GB variant is priced at Rs. 9,999 and the higher 4GB+64GB variant is priced at Rs. 10,999 in India. It will go on sale from 27th August, exclusively on Realme’s website and Flipkart.
 
