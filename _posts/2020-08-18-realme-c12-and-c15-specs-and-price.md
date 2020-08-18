@@ -28,7 +28,7 @@ here are key specs of both the phones.
 |Fingerprint       | Physical                                                            | Physical                                                                   |
 |Charging          | 18W(In-Box)                                                         | 10W(In-Box)                                                                |
 
-Realme C15: Specs and Features
+#### Realme C15: Specs and Features
 The Realme C15 comes with a square cut-out on the top-left, and a physical fingerprint sensor on the top-center. The back also comes with a triangular strap on the center. On the front, the device comes with a 6.5-inch HD+ IPS LCD Display with a 20:9 aspect ratio and a waterdrop notch consisting of an 8MP selfie camera.
 
 C15 comes with a quad-rear camera setup, the primary is a 13MP (f/2.2) sensor, the second is an 8MP ultra-wide sensor with a 119-degree FOV, the third is a 2MP depth and the last is a 2MP retro camera.
@@ -37,7 +37,7 @@ C15 is powered by MediaTek Helio G35 chipset. The phone also comes with 3 or 4GB
 
 C15 also comes with a massive 6,000mAh battery pack with 18W fast-charging out-of-the-box and support for reverse wired charging. The phone also comes with a micro USB port, along with a 3.5mm audio jack, WiFi 2.4GHz, and Bluetooth 5.
 
-Realme C12: Specs and Features
+#### Realme C12: Specs and Features
 
 The C12 is a cut-down version of the C15 which comes with the same display, Helio G35 chipset, and a 6,000mAh battery pack. The charging speed is reduced from 18W to 10W with the C12.
 
