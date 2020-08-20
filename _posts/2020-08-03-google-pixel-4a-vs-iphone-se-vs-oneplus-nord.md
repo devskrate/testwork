@@ -4,7 +4,7 @@ layout: post
 title: Pixel 4a V/S iPhone SE V/S OnePlus Nord
 subtitle: "which suits you the best"
 description: >-
-   Which suits you the best finf out in the article
+   Which suits you the best find out in the article
 image: >-
   https://devskrate.github.io/assets/blog-banners/pixel-4a-vs-se-vs-nord.jpg
 optimized_image: >-
