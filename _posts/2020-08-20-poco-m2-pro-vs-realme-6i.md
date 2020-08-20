@@ -19,9 +19,9 @@ is_generated: true
 |Specifications    | Poco M2 Pro                                                            | Realme 6i                                                              |
 | -----------      | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 |Processor         | Mediatek G90T                                                          | Snapdragon 720G                                                        |
-|Display           | 6.67-inch IPS Display with 120Hz refresh rate                          | 6.5-inch IPS Display with 90Hz Refresh Rate                            |
-|Rear Camera	     | Quad Camera 48MP(Primary)+8MP(Ultra-Wide)+5MP(macro)+2MP(depth sensor) | Quad Camera 48MP(Primary)+8MP(Ultra-Wide)+2MP(macro)+2MP(depth sensor) |
-|Front Camera	     | 16MP(Primary)                                                          | 16MP(Primary)                                                          |
+|Display           | 6.67-inch IPS Display                                                  | 6.5-inch IPS Display with 90Hz Refresh Rate                            |
+|Rear Camera	    | Quad Camera 48MP(Primary)+8MP(Ultra-Wide)+5MP(macro)+2MP(depth sensor) | Quad Camera 48MP(Primary)+8MP(Ultra-Wide)+2MP(macro)+2MP(depth sensor) |
+|Front Camera	    | 16MP(Primary)                                                          | 16MP(Primary)                                                          |
 |Battery           | 5000mAH                                                                | 4300mAH                                                                |
 |Fingerprint       | Side-mounted Fingerprint Sensor                                        | Side-mounted Fingerprint Sensor                                        |
 |Charging          | 33W fast charger(in-box)                                               | 20W fast charging(in-box)                                              |
