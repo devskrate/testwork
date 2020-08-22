@@ -3,18 +3,66 @@
   
   
     {
-      "title"    : "Mi TV Stick launched in India- Features and Price",
-      "tags"     : "androidtv, mi, and stick",
+      "title"    : "Realme C12 and C15 launched in India - Specs and Price",
+      "tags"     : "android and realme",
+      "categories" : "mobiles",
+      "url"      : "/realme-c12-and-c15-specs-and-price/",
+      "date"     : "08/18/2020"
+    } ,
+  
+    {
+      "title"    : "6 photo-editing apps for mobile photographers",
+      "tags"     : "photo editing, android, and ios",
+      "categories" : "apps",
+      "url"      : "/best-photo-editing-apps/",
+      "date"     : "08/13/2020"
+    } ,
+  
+    {
+      "title"    : "Samsung &#39;AltZLife&#39;: The Ultimate Private Mode",
+      "tags"     : "samsung, altz, and altzlife",
+      "categories" : "mobiles",
+      "url"      : "/samsung-altz-life-privacy/",
+      "date"     : "08/11/2020"
+    } ,
+  
+    {
+      "title"    : "Samsung Galaxy Z Fold 2- Specs and Price",
+      "tags"     : "android, samsung, and fold",
+      "categories" : "mobiles",
+      "url"      : "/samsung-galaxy-z-fold-2-specs-and-price/",
+      "date"     : "08/06/2020"
+    } ,
+  
+    {
+      "title"    : "Samsung Note 20 and Note 20 Ultra launched- Specs and Price",
+      "tags"     : "android, samsung, and note",
+      "categories" : "mobiles",
+      "url"      : "/samsung-galaxy-note-20-and-note-20-ultra-specs-and-price/",
+      "date"     : "08/06/2020"
+    } ,
+  
+    {
+      "title"    : "Samsung Galaxy Watch 3 Specs &amp; Price",
+      "tags"     : "samsung and watch",
       "categories" : "gadgets",
-      "url"      : "/mi-tv-stick-features-and-price/",
-      "date"     : "08/05/2020"
+      "url"      : "/samsung-galaxy-watch-3-specs-features-price/",
+      "date"     : "08/06/2020"
     } ,
   
     {
       "title"    : "Samsung galaxy Buds(beans) everything you need to know!!",
       "tags"     : "samsung, samsung-buds, tws, and samsung-beans",
       "categories" : "gadgets",
-      "url"      : "/samsung-galaxy-ear-buds-beans-released-price/",
+      "url"      : "/samsung-galaxy-ear-buds-live-beans-released-price/",
+      "date"     : "08/06/2020"
+    } ,
+  
+    {
+      "title"    : "Mi TV Stick launched in India- Features and Price",
+      "tags"     : "androidtv, mi, and stick",
+      "categories" : "gadgets",
+      "url"      : "/mi-tv-stick-features-and-price/",
       "date"     : "08/05/2020"
     } ,
   

@@ -379,14 +379,70 @@
     
     
         <url>
-            <loc>http://localhost:4000/mi-tv-stick-features-and-price/</loc>
+            <loc>http://localhost:4000/poco-m2-pro-vs-realme-6i/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
-            <lastmod>2020-08-05</lastmod>
+            <lastmod>2020-08-20</lastmod>
         </url>
     
         <url>
-            <loc>http://localhost:4000/samsung-galaxy-ear-buds-beans-released-price/</loc>
+            <loc>http://localhost:4000/realme-c12-and-c15-specs-and-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-08-18</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/how-to-view-instagram-stories-without-account/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-08-14</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/best-photo-editing-apps/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-08-13</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/samsung-altz-life-privacy/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-08-11</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/samsung-galaxy-z-fold-2-specs-and-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-08-06</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/samsung-galaxy-note-20-and-note-20-ultra-specs-and-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-08-06</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/samsung-galaxy-watch-3-specs-features-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-08-06</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/samsung-galaxy-ear-buds-live-beans-released-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-08-06</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/mi-tv-stick-features-and-price/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2020-08-05</lastmod>
@@ -939,6 +995,13 @@
         </url>
     
         <url>
+            <loc>http://localhost:4000/everything-about-dart-language/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-31</lastmod>
+        </url>
+    
+        <url>
             <loc>http://localhost:4000/how-to-install-flutter-in-linux/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
@@ -1324,13 +1387,6 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/best-photo-editing-apps/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2012-06-05</lastmod>
-        </url>
-    
-        <url>
             <loc>http://localhost:4000/how-to-transfer-media-from-facebook-google-photos/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
@@ -1363,20 +1419,6 @@
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2011-05-23</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/nokia-5.3-specs-and-price/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2011-05-23</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/how-to-view-instagram-stories-without-account/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2010-07-16</lastmod>
         </url>
     
     

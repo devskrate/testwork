@@ -6,13 +6,13 @@ subtitle: "which suits you the best"
 description: >-
    Which suits you the best find out in the article
 image: >-
-  https://devskrate.github.io/assets/blog-banners/pixel-4a-vs-se-vs-nord.jpg
+  https://devskrate.github.io/assets/blog-banners/poco-m2-pro-vs-realme-6i.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/pixel-4a-vs-se-vs-nord.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/poco-m2-pro-vs-realme-6i.webp
 category: [mobiles]
 tags: [android,realme,poco]
 author: mohit
-is_generated: true
+is_generated: false
 ---
 
 {:class="table table-bordered dark"}
