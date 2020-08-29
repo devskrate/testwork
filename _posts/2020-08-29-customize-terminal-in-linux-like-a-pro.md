@@ -56,7 +56,7 @@ I use `agnoster` theme and it looks like this..
 
 <div class="slide-show">
 
-<a href="https://devskrate.github.io/assets/images/dev/terminal/customize-terminal.jpg" data-lightbox="image-1" data-title=""><img width="20%" src="https://devskrate.github.io/assets/images/dev/terminal/customize-terminal.jpg"></a>
+<a href="https://devskrate.github.io/assets/images/dev/terminal/customize-terminal.jpg" data-lightbox="image-1" data-title=""><img width="85%" src="https://devskrate.github.io/assets/images/dev/terminal/customize-terminal.jpg"></a>
 
 </div>
 
