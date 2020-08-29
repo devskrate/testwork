@@ -377,6 +377,35 @@
             
         </url>
     
+        <url>
+            <loc>http://localhost:4000/page/11/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+    
+        <url>
+            <loc>http://localhost:4000/customize-terminal-in-linux-like-a-pro/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-08-24</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/company-behind-oppo-vivo-oneplus-realme-and-iqoo/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-08-24</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/nokia-5.3-specs-and-price/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-08-22</lastmod>
+        </url>
     
         <url>
             <loc>http://localhost:4000/poco-m2-pro-vs-realme-6i/</loc>
@@ -880,13 +909,6 @@
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2020-06-20</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/company-behind-oppo-vivo-oneplus-realme-and-iqoo/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2020-06-19</lastmod>
         </url>
     
         <url>

@@ -5,10 +5,530 @@
     <description>Everything about Tech, Gadgets and Development. Paradise of Developers and Techies. We are Developers by profession, Techies by Passion</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 Aug 2020 09:10:02 +0530</pubDate>
-    <lastBuildDate>Sat, 22 Aug 2020 09:10:02 +0530</lastBuildDate>
+    <pubDate>Sat, 29 Aug 2020 11:26:42 +0530</pubDate>
+    <lastBuildDate>Sat, 29 Aug 2020 11:26:42 +0530</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
+    
+      
+        <item>
+          <title>How to customize your terminal like a developer and for good feel</title>
+          <description>&lt;p&gt;Generally the terminals that we get from the different linux distributions are good but the only thing is, they are not good looking. Actually they are nice but lack some details that most of them like to have.&lt;/p&gt;
+
+&lt;p&gt;Here we will show you how to install most popular themes for your terminal..&lt;/p&gt;
+
+&lt;p&gt;Some of the popular themes are&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ohmyzsh&lt;/li&gt;
+  &lt;li&gt;Ohmyfish&lt;/li&gt;
+  &lt;li&gt;FancyBashPrompt and some others..&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Let’s see the installation of the Ohmyzsh. Before actually using it in your default terminal try to apply on another terminal.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I use Gnome-Terminal as my default shell, to test this I downloaded &lt;strong&gt;Terminator&lt;/strong&gt;. If you want to test it in terminator, then install terminator by &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo apt install terinator&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Now check if you have &lt;code class=&quot;highlighter-rouge&quot;&gt;zsh&lt;/code&gt; installed in your system. Type &lt;code class=&quot;highlighter-rouge&quot;&gt;zsh --version&lt;/code&gt;. If you get a version number as response, then you have already installed it!&lt;/li&gt;
+  &lt;li&gt;Now we need to install the Ohmyzsh theme.. For that install the script by using any of the following method..
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Via curl&lt;/strong&gt;
+        &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  sh &lt;span class=&quot;nt&quot;&gt;-c&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;curl &lt;span class=&quot;nt&quot;&gt;-fsSL&lt;/span&gt; https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Via wget&lt;/strong&gt;
+        &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  sh &lt;span class=&quot;nt&quot;&gt;-c&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;wget &lt;span class=&quot;nt&quot;&gt;-O-&lt;/span&gt; https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Via fetch&lt;/strong&gt;
+        &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  sh &lt;span class=&quot;nt&quot;&gt;-c&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;fetch &lt;span class=&quot;nt&quot;&gt;-o&lt;/span&gt; - https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+          <pubDate>Mon, 24 Aug 2020 22:56:40 +0530</pubDate>
+          <link>http://localhost:4000/customize-terminal-in-linux-like-a-pro/</link>
+          <guid isPermaLink="true">http://localhost:4000/customize-terminal-in-linux-like-a-pro/</guid>
+          
+          <tags>realme</tags>
+          
+          <tags>oppo</tags>
+          
+          <tags>vivo</tags>
+          
+          <tags>iqoo</tags>
+          
+          <tags>oneplus</tags>
+          
+          <tags>bbk electronics</tags>
+              
+          
+          <category>mobiles</category>
+          
+        </item>
+
+    
+      
+        <item>
+          <title>BBK Electronics - The real mastermind behind Oppo, Vivo, One Plus, Realme and iQOO</title>
+          <description>&lt;p&gt;By now, most of you might know that Oppo, Vivo, One Plus, Realme, and recently iQOO are owned by a single company called BBK Electronics. So why own multiple brands in the same industry?. To understand the real reason behind it we need to look at their history.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-foundation-of-bbk&quot;&gt;The Foundation of BBK:&lt;/h4&gt;
+
+&lt;p&gt;The founder Yong Ping Duan used to work in Subor Electronics which sold Consumer electronics like learning machines, language repeaters, electronic dictionary, reading machines, and several other products. Thereafter in 1995 stared his own company called BBK Electronics. This company also sold Consumer electronics and then further expanded into making DVD player,mp3 player, feature phone, and many more.&lt;/p&gt;
+&lt;h4 id=&quot;the-birth-of-oppo&quot;&gt;The Birth of Oppo:&lt;/h4&gt;
+
+&lt;p&gt;This was the time when sales of BBK products started reducing and the idea to overcome the challenge was to create a subsidiary brand and this gave birth to Oppo. The brand name Oppo registered in 2001 in China and launched in 2004. Tony Chen was appointed as the CEO of the company. Oppo started making several products like DVD player,mp3 player, feature phone. The first product that they sold was OPPO OPDV971H, which was a Universal DVD player. The company entered the smartphone market in the year 2008 and just within five years it became the second most profitable company in China among other players like ZTE, Huawei, Lenovo, and Xiaomi in 2013.&lt;/p&gt;
+
+&lt;p&gt;The brand started it’s international expansion in 2010 with Thailand, where it announced Find 3 and then later showcased the Find 5, which was followed by Find 7. It also started expanding its presence in other countries like Philippines, Myanmar, Vietnam, Indonesia, Malaysia, India, Bangladesh, Pakistan, and many more countries. The Company’s main advantage was that it operated locally in the regions and tried to understand the customer needs and make products accordingly. Speaking about the Indian market, at the time when Oppo entered the smartphone market in 2014, the market was just starting to grow and Oppo mainly used its advertising strategies to sell their phones and their Ad campaigns had a lot of emphasis on the selfie camera and now Oppo is a major player in the Indian smartphone market.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-birth-of-vivo&quot;&gt;The Birth of Vivo:&lt;/h4&gt;
+
+&lt;p&gt;Did you know that most of your favourite car companies such as Lamborghini, Audi, Bentley, Bugatti, Porsche, and many other car companies belong to Volkswagen? BBK also wanted to imply something like this which ended up giving birth to another sub-branded arm of the BBK Electronics called Vivo and this was founded in 2009 and Shen Wei was appointed as CEO. The company designs, develops, and manufactures smartphones, accessories, software, and online services. The brand is known for it’s High Fidelity audio experience. It’s a hardware-level technology that the company integrates in their handsets, started with at the time world’s slimmest smartphone, the X1, launched in 2012. The company not only works on hardware, but develops intuitive interactive systems connecting its users and phone, Thus, you can see that brand has their own customized Android-based operating system called Funtouch OS, which offers a range of smart features such as Smart Click, Super Screenshot, Single-handed mode and various other smart features on their handsets. Speaking of Indian presence, the company launched its first smartphone in India in December 2014 with the world’s slimmest smartphone at the time, the X5Max, which was priced quite premium around Rs 32,000. The company within two years has to spread into different segments like the X, Y, and V Series, and now it’s one of the top five smartphone brands in India.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-birth-of-oneplus&quot;&gt;The Birth of OnePlus:&lt;/h4&gt;
+
+&lt;p&gt;This was the time when Xioami, which most of the people know as Mi was completely disrupting the smartphone market by selling good and cheap smartphone online, this made Oppo release a new subsidiary brand in the year 2013 and named it OnePlus. Pete Lau Carl Pei was appointed as the CEO of One Plus. OnePlus followed the same strategy of selling phones online for cheaper price will Oppo and Vivo focus on the Offline market.&lt;/p&gt;
+
+&lt;p&gt;The company launched its first smartphone OnePlus One in the year 2014, which came with Cyanogen OS based on android was a big hit, it managed to offer flagship specs at a much lower price, but later it could not use Cyanogen in India because Micromax had a deal in which only their phones could use Cyanogen this lead to the creation of one of the best skins loved by so many people called the Oxygen Os. After the success of one plus 1 and 2, which were flagship killers, One plus wanted to make a mid-ranger phone called the OnePlus X in 2015, but that did not get much love. It later focused on Flagship Killer and even recently started making Flagship phones and it became number one in the premium market of India.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-birth-of-realme&quot;&gt;The birth of Realme:&lt;/h4&gt;
+
+&lt;p&gt;While OnePlus occupied the premium market, Xioami has entirely conquered the Indian mid-range smartphone market and became the number one smartphone manufacture beating the then-leader Samsung. This gave birth to another subsidiary company called Realme, you might wonder, why not just have OnePlus launch a mid-range phone, after all, they were supposed to be the bang for buck smartphone brand for Oppo but OnePlus is not a budget smartphone brand anymore as they have slowly increased the price and they don’t want to be seen as budget smartphone maker anymore. Coming back to Realme, this was founded in 2018 and Sky Li was appointed as CEO. It entered the Indian market with the Realme 1, which gave an instant hit to the company and from there they grew and now become the number four smartphone seller in India. The company further expanded into Europe and many other countries. This company main focus was to compete with Xioami, which they have been doing successfully.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-birth-of-iqoo&quot;&gt;The Birth of iQOO:&lt;/h4&gt;
+
+&lt;p&gt;BBK saw the rise in the market for a gaming smartphone and wanted to get into the market this gave birth to the brand iQOO which is Vivo’s subsidiary brand and Gagan Arora was appointed as CEO. iQOO entered the Chinese smartphone market in 2019 and Indian market in the year 2020 with the introduction with the iQOO 3 and that phone did great for the company and will be a tough competition to the remaining gaming brands and we will be exciting to see how this company turns out in the future.&lt;/p&gt;
+
+&lt;p&gt;Note: The fact that there are some other companies that BBK Electronics in smartphones and other electronic companies, the above were some of the game changers for BBK Electronics.&lt;/p&gt;
+
+&lt;h4 id=&quot;so-why-own-multiple-brands&quot;&gt;So why Own multiple brands?&lt;/h4&gt;
+
+&lt;p&gt;Now to the main question why does BBK own so many subsidiary brands in the same sector? Given below are three main reasons.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Since you have read the above you might have already understood the fact that all these sub-brands focus at different types of customers. OnePlus focuses on those power users whose priority is speed and to get top of the line specs, while Realme mainly focuses on those people who want value smartphones and they try to offer the best value possible. Oppo and Vivo focus on offline market and camera-centric phones. iQOO aims on people whose highest priority is gaming. With this distribution of brands, they can offer different smartphones at different price points which helps them to easily conquer the entire market.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If one company experiences a negative reputation, remaining will not be affected.
+For Ex: Maggi recently got a bad name because of objective levels of metallic lead found in it, but this did not affect the parent company nestle or it’s other sub-brands.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sharing of resources, since all the companies belong to the same parent company they can share their R&amp;amp;D, factory chains, and many other things. 
+For Example, OnePlus and Oppo, where OnePlus uses Oppo fast charging tech-Vooc technology and when you look at OnePLus phone’s they share the same design to Oppo’s phones, when you look carefully, the OnePlus One and Oppo Find 7a, you can find a lot of similarities.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Source: Internet.&lt;/p&gt;
+</description>
+          <pubDate>Mon, 24 Aug 2020 22:56:40 +0530</pubDate>
+          <link>http://localhost:4000/company-behind-oppo-vivo-oneplus-realme-and-iqoo/</link>
+          <guid isPermaLink="true">http://localhost:4000/company-behind-oppo-vivo-oneplus-realme-and-iqoo/</guid>
+          
+          <tags>realme</tags>
+          
+          <tags>oppo</tags>
+          
+          <tags>vivo</tags>
+          
+          <tags>iqoo</tags>
+          
+          <tags>oneplus</tags>
+          
+          <tags>bbk electronics</tags>
+              
+          
+          <category>mobiles</category>
+          
+        </item>
+
+    
+      
+        <item>
+          <title>Nokia 5.3 specs and price</title>
+          <description>&lt;p&gt;Nokia is famous for it’s quality and Updates. It ships all of it’s android phones with Android one program where you will get 2 Major upgrades and 3 years of security patch updates.&lt;/p&gt;
+
+&lt;p&gt;Nokia 5, 6 series are popular series in Nokia. Now it has released a new phone in 5 series - Nokia 5.3&lt;/p&gt;
+
+&lt;p&gt;These are key specs of this device&lt;/p&gt;
+
+&lt;table class=&quot;table table-bordered dark&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Specifications&lt;/th&gt;
+      &lt;th&gt;Nokia 5.3&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Processor&lt;/td&gt;
+      &lt;td&gt;Qualcomm Snapdragon 665&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Rear Camera&lt;/td&gt;
+      &lt;td&gt;13 MP f/1.8 + 2 MP depth sensor + 5 MP ultra-wide + 2 MP Macro&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Front Camera&lt;/td&gt;
+      &lt;td&gt;8MP f/2.0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Display&lt;/td&gt;
+      &lt;td&gt;6.55 inch IPS LCD&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;OS&lt;/td&gt;
+      &lt;td&gt;Android 10, Android One&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Fingerprint&lt;/td&gt;
+      &lt;td&gt;Fingerprint (rear-mounted)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RAM &amp;amp; ROM&lt;/td&gt;
+      &lt;td&gt;3, 4, 6GB RAM &amp;amp; 64GB ROM&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Battery&lt;/td&gt;
+      &lt;td&gt;4000 mAH&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Charging&lt;/td&gt;
+      &lt;td&gt;Upto 5V/2A Charging support&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Weight&lt;/td&gt;
+      &lt;td&gt;185g&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table class=&quot;table table-bordered dark&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Depth-specs&lt;/th&gt;
+      &lt;th&gt;Nokia 5.3&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;WLAN&lt;/td&gt;
+      &lt;td&gt;Wi-Fi 802.11 b/g/n/ac, Wi-Fi Direct, hotspot&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bluetooth&lt;/td&gt;
+      &lt;td&gt;4.2, A2DP, LE, aptX&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sensors&lt;/td&gt;
+      &lt;td&gt;Ambient light sensor, Proximity sensor, Accelerometer (G-sensor), Fingerprint sensor&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;GPS&lt;/td&gt;
+      &lt;td&gt;Yes, with A-GPS, GLONASS, BDS&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;NFC&lt;/td&gt;
+      &lt;td&gt;Yes&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Radio&lt;/td&gt;
+      &lt;td&gt;FM radio&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;USB&lt;/td&gt;
+      &lt;td&gt;2.0, Type-C 1.0 reversible connector, USB On-The-Go&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://devskrate.github.io/assets/images/nokia/nokia5/nokia-5.3.jpg&quot; alt=&quot;Nokia 5.3&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;display&quot;&gt;Display&lt;/h4&gt;
+
+&lt;table class=&quot;table table-bordered dark&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Specifications&lt;/th&gt;
+      &lt;th&gt;Nokia 5.3&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Display Type&lt;/td&gt;
+      &lt;td&gt;IPS LCD&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Aspect Ratio&lt;/td&gt;
+      &lt;td&gt;20:9&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Screen to Body ratio&lt;/td&gt;
+      &lt;td&gt;82.3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Screen Protection&lt;/td&gt;
+      &lt;td&gt;Corning Gorilla Glass 3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Screen Size&lt;/td&gt;
+      &lt;td&gt;6.55 inches (103.6 cm)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Screen Resolution&lt;/td&gt;
+      &lt;td&gt;720 x 1600 pixels&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Generally AMOLED get good quality of display but Nokia uses Pure View display is also good and produces good colors.&lt;/p&gt;
+
+&lt;h4 id=&quot;performance&quot;&gt;Performance&lt;/h4&gt;
+
+&lt;table class=&quot;table table-bordered dark&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Specifications&lt;/th&gt;
+      &lt;th&gt;Nokia 5.3&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Chipset&lt;/td&gt;
+      &lt;td&gt;Snapdragon 655&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Graphics&lt;/td&gt;
+      &lt;td&gt;Areno 610&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Processor&lt;/td&gt;
+      &lt;td&gt;Octa-core (4x2.0 GHz Kryo 260 Gold &amp;amp; 4x1.8 GHz Kryo 260 Silver)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RAM&lt;/td&gt;
+      &lt;td&gt;3, 4, 6 GB&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ROM&lt;/td&gt;
+      &lt;td&gt;64 GB&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The most happening processor these days in budget and mid-rangers are Snapdragon 730G, 720. But this is equipped with 655 which is used rarely. As this is stock android this can manage daily tasks but not heavy tasks.&lt;/p&gt;
+
+&lt;h4 id=&quot;camera&quot;&gt;Camera&lt;/h4&gt;
+
+&lt;table class=&quot;table table-bordered dark&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Specifications&lt;/th&gt;
+      &lt;th&gt;Nokia 5.3&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Back Camera Type&lt;/td&gt;
+      &lt;td&gt;Quad&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Back Camera&lt;/td&gt;
+      &lt;td&gt;13 MP f/1.8 + 2 MP depth sensor + 5 MP ultra-wide + 2 MP Macro&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Front Camera&lt;/td&gt;
+      &lt;td&gt;8MP f/2.0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Video Recording&lt;/td&gt;
+      &lt;td&gt;1080p@30fps&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Optical Image Stabilisation&lt;/td&gt;
+      &lt;td&gt;No&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Flash&lt;/td&gt;
+      &lt;td&gt;LED flash&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Camera wise this has 13MP main sensor. Actually we cannot judge the clarity of photos by the megapixels because the image quality not only depends in the megapixel but also the software. You can read our article on  Does Megapixels Matter? &lt;a href=&quot;https://devskrate.com/does-megapixels-matter-in-phone-camera/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;os-and-update-support&quot;&gt;OS and update support&lt;/h4&gt;
+&lt;p&gt;Android 10, Android One&lt;/p&gt;
+
+&lt;p&gt;It comes with Android 10 and is compatible with Android 11 and 12. Nokia devices are Android one, so they get 2 major upgrades and 3 yeas of security patches.&lt;/p&gt;
+
+&lt;h4 id=&quot;battery&quot;&gt;Battery&lt;/h4&gt;
+
+&lt;table class=&quot;table table-bordered dark&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Specifications&lt;/th&gt;
+      &lt;th&gt;Nokia 5.3&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Replaceable&lt;/td&gt;
+      &lt;td&gt;No&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Type&lt;/td&gt;
+      &lt;td&gt;Li-Polymer&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Capacity&lt;/td&gt;
+      &lt;td&gt;4000 mAh&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Charging&lt;/td&gt;
+      &lt;td&gt;5V/2A&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Usb Type&lt;/td&gt;
+      &lt;td&gt;Type-C&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;For day-to-day tasks, it gives very good back-up. Nokia claims 2-Day Battery life.&lt;/p&gt;
+
+&lt;h4 id=&quot;misc&quot;&gt;Misc&lt;/h4&gt;
+
+&lt;table class=&quot;table table-bordered dark&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Specifications&lt;/th&gt;
+      &lt;th&gt;Nokia 5.3&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Headphone Jack&lt;/td&gt;
+      &lt;td&gt;3.5mm&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Stereo Speakers&lt;/td&gt;
+      &lt;td&gt;No&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Fingerprint scanner&lt;/td&gt;
+      &lt;td&gt;Rear&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;verdict&quot;&gt;Verdict&lt;/h4&gt;
+&lt;p&gt;At this price range we are getting a good processors fom the chinese manufacturers, but Nokia is offering us an old gen processor though it has a good battery backup. You can purchase this device for your parents, we are not suggesting students and youth to buy this.&lt;/p&gt;
+
+</description>
+          <pubDate>Sat, 22 Aug 2020 13:15:02 +0530</pubDate>
+          <link>http://localhost:4000/nokia-5.3-specs-and-price/</link>
+          <guid isPermaLink="true">http://localhost:4000/nokia-5.3-specs-and-price/</guid>
+          
+          <tags>android</tags>
+          
+          <tags>nokia</tags>
+          
+          <tags>mid-ranger</tags>
+              
+          
+          <category>mobiles</category>
+          
+        </item>
+
+    
+      
+        <item>
+          <title>Poco M2 Pro V/S Realme 6i</title>
+          <description>&lt;table class=&quot;table table-bordered dark&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Specifications&lt;/th&gt;
+      &lt;th&gt;Poco M2 Pro&lt;/th&gt;
+      &lt;th&gt;Realme 6i&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Processor&lt;/td&gt;
+      &lt;td&gt;Mediatek G90T&lt;/td&gt;
+      &lt;td&gt;Snapdragon 720G&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Display&lt;/td&gt;
+      &lt;td&gt;6.67-inch IPS Display&lt;/td&gt;
+      &lt;td&gt;6.5-inch IPS Display with 90Hz Refresh Rate&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Rear Camera&lt;/td&gt;
+      &lt;td&gt;Quad Camera 48MP(Primary)+8MP(Ultra-Wide)+5MP(macro)+2MP(depth sensor)&lt;/td&gt;
+      &lt;td&gt;Quad Camera 48MP(Primary)+8MP(Ultra-Wide)+2MP(macro)+2MP(depth sensor)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Front Camera&lt;/td&gt;
+      &lt;td&gt;16MP(Primary)&lt;/td&gt;
+      &lt;td&gt;16MP(Primary)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Battery&lt;/td&gt;
+      &lt;td&gt;5000mAH&lt;/td&gt;
+      &lt;td&gt;4300mAH&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Fingerprint&lt;/td&gt;
+      &lt;td&gt;Side-mounted Fingerprint Sensor&lt;/td&gt;
+      &lt;td&gt;Side-mounted Fingerprint Sensor&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Charging&lt;/td&gt;
+      &lt;td&gt;33W fast charger(in-box)&lt;/td&gt;
+      &lt;td&gt;20W fast charging(in-box)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;With the sale of Realme 6i going live today, is it the best phone you can buy, or the already existing Poco M2 Pro which is priced similarly is the better one.&lt;/p&gt;
+
+&lt;h4 id=&quot;design-and-display&quot;&gt;Design and Display:&lt;/h4&gt;
+&lt;p&gt;Poco comes with a glass sandwich design with a plastic frame while the Realme comes with a plastic build. Poco also comes with a slightly bigger 6.67 inch Full-HD+ IPS LCD while the Realme comes with a 6.5 inch Full-HD+ IPS LCD but Realme comes back with a higher 90Hz Refresh Rate while the Poco comes with a standard 60Hz display.&lt;/p&gt;
+
+&lt;h4 id=&quot;internals-and-software&quot;&gt;Internals and Software:&lt;/h4&gt;
+&lt;p&gt;The 6i is powered by the Mediatek G90T and the M2 Pro is powered by Snapdragon 720G. Speaking of their performance both are almost similar but the G90T having a slightly more powerful GPU and 720G with the more powerful CPU. The 6i comes with Realme UI based on Android 10 and M2 Pro comes with Poco Launcher based on MIUI running on top of Android 10.&lt;/p&gt;
+
+&lt;h4 id=&quot;battery-and-charging&quot;&gt;Battery and Charging:&lt;/h4&gt;
+&lt;p&gt;The M2 Pro comes with a huge 5000mAh battery while the 6i only comes with a 4300mAh battery and M2 Pro also comes with a 33W charger in the box for fast charging while the 6i has support for 30W fast charging but it only comes with a 20W charger inbox.&lt;/p&gt;
+
+&lt;h4 id=&quot;camera&quot;&gt;Camera:&lt;/h4&gt;
+&lt;p&gt;Both the phones come with a quad-rear camera. The Realme comes with 48MP primary, 8MP ultrawide, 2MP macro, and 2MP depth while the Poco comes with 48MP primary, 8MP ultrawide, 5 MP macro, and 2MP depth. On the selfie side, both come with a 16MP sensor.&lt;/p&gt;
+
+&lt;h4 id=&quot;pricing&quot;&gt;Pricing:&lt;/h4&gt;
+&lt;p&gt;The Poco M2 Pro for the base 4GB+64GB variant priced at Rs. 13,999 while the 6GB+64GB variant is priced at Rs. 14,999 and the highest-end 6GB+128GB variant is priced at Rs. 16,999, while the Realme 6i for the base 4GB+64GB variant priced at Rs. 12,999 while the 6GB+64GB variant is priced at Rs. 14,999.&lt;/p&gt;
+
+&lt;h4 id=&quot;verdict&quot;&gt;Verdict:&lt;/h4&gt;
+&lt;p&gt;If your priority is gaming then the 90Hz refresh rate of the Realme 6i will be a better. If you don’t care about the 90Hz then as a whole package Poco M2 Pro looks like a better option.&lt;/p&gt;
+</description>
+          <pubDate>Thu, 20 Aug 2020 21:30:02 +0530</pubDate>
+          <link>http://localhost:4000/poco-m2-pro-vs-realme-6i/</link>
+          <guid isPermaLink="true">http://localhost:4000/poco-m2-pro-vs-realme-6i/</guid>
+          
+          <tags>android</tags>
+          
+          <tags>realme</tags>
+          
+          <tags>poco</tags>
+              
+          
+          <category>mobiles</category>
+          
+        </item>
+
     
       
         <item>
@@ -5391,82 +5911,6 @@ The word Moodle is an acronym for Modular Object-Oriented Dynamic Learning Envir
               
           
           <category>gadgets</category>
-          
-        </item>
-
-    
-      
-        <item>
-          <title>BBK Electronics - The real mastermind behind Oppo, Vivo, One Plus, Realme and iQOO</title>
-          <description>&lt;p&gt;By now, most of you might know that Oppo, Vivo, One Plus, Realme, and recently iQOO are owned by a single company called BBK Electronics. So why own multiple brands in the same industry?. To understand the real reason behind it we need to look at their history.&lt;/p&gt;
-
-&lt;h4 id=&quot;the-foundation-of-bbk&quot;&gt;The Foundation of BBK:&lt;/h4&gt;
-
-&lt;p&gt;The founder Yong Ping Duan used to work in Subor Electronics which sold Consumer electronics like learning machines, language repeaters, electronic dictionary, reading machines, and several other products. Thereafter in 1995 stared his own company called BBK Electronics. This company also sold Consumer electronics and then further expanded into making DVD player,mp3 player, feature phone, and many more.&lt;/p&gt;
-&lt;h4 id=&quot;the-birth-of-oppo&quot;&gt;The Birth of Oppo:&lt;/h4&gt;
-
-&lt;p&gt;This was the time when sales of BBK products started reducing and the idea to overcome the challenge was to create a subsidiary brand and this gave birth to Oppo. The brand name Oppo registered in 2001 in China and launched in 2004. Tony Chen was appointed as the CEO of the company. Oppo started making several products like DVD player,mp3 player, feature phone. The first product that they sold was OPPO OPDV971H, which was a Universal DVD player. The company entered the smartphone market in the year 2008 and just within five years it became the second most profitable company in China among other players like ZTE, Huawei, Lenovo, and Xiaomi in 2013.&lt;/p&gt;
-
-&lt;p&gt;The brand started it’s international expansion in 2010 with Thailand, where it announced Find 3 and then later showcased the Find 5, which was followed by Find 7. It also started expanding its presence in other countries like Philippines, Myanmar, Vietnam, Indonesia, Malaysia, India, Bangladesh, Pakistan, and many more countries. The Company’s main advantage was that it operated locally in the regions and tried to understand the customer needs and make products accordingly. Speaking about the Indian market, at the time when Oppo entered the smartphone market in 2014, the market was just starting to grow and Oppo mainly used its advertising strategies to sell their phones and their Ad campaigns had a lot of emphasis on the selfie camera and now Oppo is a major player in the Indian smartphone market.&lt;/p&gt;
-
-&lt;h4 id=&quot;the-birth-of-vivo&quot;&gt;The Birth of Vivo:&lt;/h4&gt;
-
-&lt;p&gt;Did you know that most of your favourite car companies such as Lamborghini, Audi, Bentley, Bugatti, Porsche, and many other car companies belong to Volkswagen? BBK also wanted to imply something like this which ended up giving birth to another sub-branded arm of the BBK Electronics called Vivo and this was founded in 2009 and Shen Wei was appointed as CEO. The company designs, develops, and manufactures smartphones, accessories, software, and online services. The brand is known for it’s High Fidelity audio experience. It’s a hardware-level technology that the company integrates in their handsets, started with at the time world’s slimmest smartphone, the X1, launched in 2012. The company not only works on hardware, but develops intuitive interactive systems connecting its users and phone, Thus, you can see that brand has their own customized Android-based operating system called Funtouch OS, which offers a range of smart features such as Smart Click, Super Screenshot, Single-handed mode and various other smart features on their handsets. Speaking of Indian presence, the company launched its first smartphone in India in December 2014 with the world’s slimmest smartphone at the time, the X5Max, which was priced quite premium around Rs 32,000. The company within two years has to spread into different segments like the X, Y, and V Series, and now it’s one of the top five smartphone brands in India.&lt;/p&gt;
-
-&lt;h4 id=&quot;the-birth-of-oneplus&quot;&gt;The Birth of OnePlus:&lt;/h4&gt;
-
-&lt;p&gt;This was the time when Xioami, which most of the people know as Mi was completely disrupting the smartphone market by selling good and cheap smartphone online, this made Oppo release a new subsidiary brand in the year 2013 and named it OnePlus. Pete Lau Carl Pei was appointed as the CEO of One Plus. OnePlus followed the same strategy of selling phones online for cheaper price will Oppo and Vivo focus on the Offline market.&lt;/p&gt;
-
-&lt;p&gt;The company launched its first smartphone OnePlus One in the year 2014, which came with Cyanogen OS based on android was a big hit, it managed to offer flagship specs at a much lower price, but later it could not use Cyanogen in India because Micromax had a deal in which only their phones could use Cyanogen this lead to the creation of one of the best skins loved by so many people called the Oxygen Os. After the success of one plus 1 and 2, which were flagship killers, One plus wanted to make a mid-ranger phone called the OnePlus X in 2015, but that did not get much love. It later focused on Flagship Killer and even recently started making Flagship phones and it became number one in the premium market of India.&lt;/p&gt;
-
-&lt;h4 id=&quot;the-birth-of-realme&quot;&gt;The birth of Realme:&lt;/h4&gt;
-
-&lt;p&gt;While OnePlus occupied the premium market, Xioami has entirely conquered the Indian mid-range smartphone market and became the number one smartphone manufacture beating the then-leader Samsung. This gave birth to another subsidiary company called Realme, you might wonder, why not just have OnePlus launch a mid-range phone, after all, they were supposed to be the bang for buck smartphone brand for Oppo but OnePlus is not a budget smartphone brand anymore as they have slowly increased the price and they don’t want to be seen as budget smartphone maker anymore. Coming back to Realme, this was founded in 2018 and Sky Li was appointed as CEO. It entered the Indian market with the Realme 1, which gave an instant hit to the company and from there they grew and now become the number four smartphone seller in India. The company further expanded into Europe and many other countries. This company main focus was to compete with Xioami, which they have been doing successfully.&lt;/p&gt;
-
-&lt;h4 id=&quot;the-birth-of-iqoo&quot;&gt;The Birth of iQOO:&lt;/h4&gt;
-
-&lt;p&gt;BBK saw the rise in the market for a gaming smartphone and wanted to get into the market this gave birth to the brand iQOO which is Vivo’s subsidiary brand and Gagan Arora was appointed as CEO. iQOO entered the Chinese smartphone market in 2019 and Indian market in the year 2020 with the introduction with the iQOO 3 and that phone did great for the company and will be a tough competition to the remaining gaming brands and we will be exciting to see how this company turns out in the future.&lt;/p&gt;
-
-&lt;p&gt;Note: The fact that there are some other companies that BBK Electronics in smartphones and other electronic companies, the above were some of the game changers for BBK Electronics.&lt;/p&gt;
-
-&lt;h4 id=&quot;so-why-own-multiple-brands&quot;&gt;So why Own multiple brands?&lt;/h4&gt;
-
-&lt;p&gt;Now to the main question why does BBK own so many subsidiary brands in the same sector? Given below are three main reasons.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Since you have read the above you might have already understood the fact that all these sub-brands focus at different types of customers. OnePlus focuses on those power users whose priority is speed and to get top of the line specs, while Realme mainly focuses on those people who want value smartphones and they try to offer the best value possible. Oppo and Vivo focus on offline market and camera-centric phones. iQOO aims on people whose highest priority is gaming. With this distribution of brands, they can offer different smartphones at different price points which helps them to easily conquer the entire market.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;If one company experiences a negative reputation, remaining will not be affected.
-For Ex: Maggi recently got a bad name because of objective levels of metallic lead found in it, but this did not affect the parent company nestle or it’s other sub-brands.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Sharing of resources, since all the companies belong to the same parent company they can share their R&amp;amp;D, factory chains, and many other things. 
-For Example, OnePlus and Oppo, where OnePlus uses Oppo fast charging tech-Vooc technology and when you look at OnePLus phone’s they share the same design to Oppo’s phones, when you look carefully, the OnePlus One and Oppo Find 7a, you can find a lot of similarities.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Source: Internet.&lt;/p&gt;
-</description>
-          <pubDate>Fri, 19 Jun 2020 22:56:40 +0530</pubDate>
-          <link>http://localhost:4000/company-behind-oppo-vivo-oneplus-realme-and-iqoo/</link>
-          <guid isPermaLink="true">http://localhost:4000/company-behind-oppo-vivo-oneplus-realme-and-iqoo/</guid>
-          
-          <tags>realme</tags>
-          
-          <tags>oppo</tags>
-          
-          <tags>vivo</tags>
-          
-          <tags>iqoo</tags>
-          
-          <tags>oneplus</tags>
-          
-          <tags>bbk electronics</tags>
-              
-          
-          <category>mobiles</category>
           
         </item>
 
