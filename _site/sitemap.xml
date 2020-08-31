@@ -390,7 +390,7 @@
             <loc>http://localhost:4000/customize-terminal-in-linux-like-a-pro/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
-            <lastmod>2020-08-24</lastmod>
+            <lastmod>2020-08-31</lastmod>
         </url>
     
         <url>
@@ -538,6 +538,13 @@
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2020-07-31</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/install-ohmyzsh-for-terminal/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-07-30</lastmod>
         </url>
     
         <url>

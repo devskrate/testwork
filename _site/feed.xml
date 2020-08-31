@@ -5,8 +5,8 @@
     <description>Everything about Tech, Gadgets and Development. Paradise of Developers and Techies. We are Developers by profession, Techies by Passion</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Aug 2020 11:26:42 +0530</pubDate>
-    <lastBuildDate>Sat, 29 Aug 2020 11:26:42 +0530</lastBuildDate>
+    <pubDate>Mon, 31 Aug 2020 21:13:36 +0530</pubDate>
+    <lastBuildDate>Mon, 31 Aug 2020 21:13:36 +0530</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
     
@@ -17,54 +17,94 @@
 
 &lt;p&gt;Here we will show you how to install most popular themes for your terminal..&lt;/p&gt;
 
-&lt;p&gt;Some of the popular themes are&lt;/p&gt;
+&lt;p&gt;Some of the popular tools to install themes are&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Ohmyzsh&lt;/li&gt;
   &lt;li&gt;Ohmyfish&lt;/li&gt;
-  &lt;li&gt;FancyBashPrompt and some others..&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Let’s see the installation of the Ohmyzsh. Before actually using it in your default terminal try to apply on another terminal.&lt;/p&gt;
+&lt;p&gt;In both of the above mentioned tools, we prefer ohmyfish because it has more good themes compared to ohmyzsh. If you want to install ohmyzsh, refer &lt;a href=&quot;https://devskrate.com/install-ohmyzsh-for-terminal/&quot;&gt;this&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Let’s see the installation of the Ohmyfish. Before actually using it in your default terminal try to apply on another terminal.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;I use Gnome-Terminal as my default shell, to test this I downloaded &lt;strong&gt;Terminator&lt;/strong&gt;. If you want to test it in terminator, then install terminator by &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo apt install terinator&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Now check if you have &lt;code class=&quot;highlighter-rouge&quot;&gt;zsh&lt;/code&gt; installed in your system. Type &lt;code class=&quot;highlighter-rouge&quot;&gt;zsh --version&lt;/code&gt;. If you get a version number as response, then you have already installed it!&lt;/li&gt;
-  &lt;li&gt;Now we need to install the Ohmyzsh theme.. For that install the script by using any of the following method..
+  &lt;li&gt;
+    &lt;p&gt;I use Gnome-Terminal as my default shell, to test this I downloaded &lt;strong&gt;Terminator&lt;/strong&gt;. If you want to test it in terminator, then install terminator by &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo apt install terinator&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Now check if you have &lt;code class=&quot;highlighter-rouge&quot;&gt;fish&lt;/code&gt; installed in your system. Type &lt;code class=&quot;highlighter-rouge&quot;&gt;fish --version&lt;/code&gt;. If you get a version number as response, then you have already installed it!. If you don’t have it, install it using &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo apt install fish&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Now we need to install the Ohmyfish tool.. For that install the script by using any of the following method..&lt;/p&gt;
     &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Via curl&lt;/strong&gt;
-        &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  sh &lt;span class=&quot;nt&quot;&gt;-c&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;curl &lt;span class=&quot;nt&quot;&gt;-fsSL&lt;/span&gt; https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+      &lt;li&gt;&lt;strong&gt;Via direct curl&lt;/strong&gt;
+        &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  curl &lt;span class=&quot;nt&quot;&gt;-L&lt;/span&gt; https://get.oh-my.fish | fish
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;p&gt;If you face errors from the above one, try to usee the below one.&lt;/p&gt;
       &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Via wget&lt;/strong&gt;
-        &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  sh &lt;span class=&quot;nt&quot;&gt;-c&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;wget &lt;span class=&quot;nt&quot;&gt;-O-&lt;/span&gt; https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Via fetch&lt;/strong&gt;
-        &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  sh &lt;span class=&quot;nt&quot;&gt;-c&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;fetch &lt;span class=&quot;nt&quot;&gt;-o&lt;/span&gt; - https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+      &lt;li&gt;&lt;strong&gt;Via git&lt;/strong&gt;
+        &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git clone https://github.com/oh-my-fish/oh-my-fish
+  &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;oh-my-fish
+  &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;bin/install &lt;span class=&quot;nt&quot;&gt;--offline&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Boom, you have just installed the tool! But you need more to do for customizing it..&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to this link &lt;a href=&quot;https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md&quot;&gt;https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md&lt;/a&gt; and note down the name of the theme you like.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Now just type &lt;code class=&quot;highlighter-rouge&quot;&gt;omf install &amp;lt;theme-name&amp;gt;&lt;/code&gt; in the terminal.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;After it is installed, type &lt;code class=&quot;highlighter-rouge&quot;&gt;omf theme &amp;lt;theme-name&amp;gt;&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt; :
+Some of the themes may need &lt;a href=&quot;https://github.com/powerline/fonts&quot;&gt;PowerLine Fonts&lt;/a&gt;. You can directly install it if you are in a Debian or Ubuntu based systems by &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo apt-get install fonts-powerline&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here are some of the themes that we use..&lt;/p&gt;
+
+&lt;div class=&quot;slide-show&quot;&gt;
+
+&lt;a href=&quot;https://devskrate.github.io/assets/images/dev/terminal/ohmyfish-batman.png&quot; data-lightbox=&quot;image-1&quot; data-title=&quot;Ohmyfish Batman theme&quot;&gt;&lt;img width=&quot;85%&quot; src=&quot;https://devskrate.github.io/assets/images/dev/terminal/ohmyfish-batman.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://devskrate.github.io/assets/images/dev/terminal/ohmyfish-bobthefish.png&quot; data-lightbox=&quot;image-1&quot; data-title=&quot;Ohmyfish Bobthefish theme&quot;&gt;&lt;img width=&quot;85%&quot; src=&quot;https://devskrate.github.io/assets/images/dev/terminal/ohmyfish-bobthefish.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://devskrate.github.io/assets/images/dev/terminal/ohmyzsh-agnoster.jpg&quot; data-lightbox=&quot;image-1&quot; data-title=&quot;Ohmyzsh agnoster theme&quot;&gt;&lt;img width=&quot;85%&quot; src=&quot;https://devskrate.github.io/assets/images/dev/terminal/ohmyzsh-agnoster.jpg&quot; /&gt;&lt;/a&gt;
+
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Links for devs and interested (Misc)&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ohmyfish : &lt;a href=&quot;https://github.com/oh-my-fish/oh-my-fish&quot;&gt;https://github.com/oh-my-fish/oh-my-fish&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PowerLineFonts : &lt;a href=&quot;https://github.com/powerline/fonts&quot;&gt;https://github.com/powerline/fonts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ohmyzsh : &lt;a href=&quot;https://github.com/ohmyzsh/ohmyzsh&quot;&gt;https://github.com/ohmyzsh/ohmyzsh&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-          <pubDate>Mon, 24 Aug 2020 22:56:40 +0530</pubDate>
+          <pubDate>Mon, 31 Aug 2020 17:56:40 +0530</pubDate>
           <link>http://localhost:4000/customize-terminal-in-linux-like-a-pro/</link>
           <guid isPermaLink="true">http://localhost:4000/customize-terminal-in-linux-like-a-pro/</guid>
           
-          <tags>realme</tags>
+          <tags>terminal</tags>
           
-          <tags>oppo</tags>
+          <tags>linux</tags>
           
-          <tags>vivo</tags>
+          <tags>pro</tags>
           
-          <tags>iqoo</tags>
+          <tags>debian</tags>
           
-          <tags>oneplus</tags>
-          
-          <tags>bbk electronics</tags>
+          <tags>terminator</tags>
               
           
-          <category>mobiles</category>
+          <category>dev</category>
           
         </item>
 
@@ -1717,6 +1757,84 @@ Amazon Web Sevices (AWS): &lt;a href=&quot;https://www.coursera.org/aws&quot;&gt
               
           
           <category>mobiles</category>
+          
+        </item>
+
+    
+      
+        <item>
+          <title>How to customize your terminal like a developer using zsh</title>
+          <description>&lt;p&gt;Let’s see the installation of the Ohmyzsh. Before actually using it in your default terminal try to apply on another terminal.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I use Gnome-Terminal as my default shell, to test this I downloaded &lt;strong&gt;Terminator&lt;/strong&gt;. If you want to test it in terminator, then install terminator by &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo apt install terinator&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Now check if you have &lt;code class=&quot;highlighter-rouge&quot;&gt;zsh&lt;/code&gt; installed in your system. Type &lt;code class=&quot;highlighter-rouge&quot;&gt;zsh --version&lt;/code&gt;. If you get a version number as response, then you have already installed it!. If you don’t have, install it by using &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo apt install zsh&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Now we need to install the Ohmyzsh tool.. For that install the script by using any of the following method..
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Via curl&lt;/strong&gt;
+        &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  sh &lt;span class=&quot;nt&quot;&gt;-c&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;curl &lt;span class=&quot;nt&quot;&gt;-fsSL&lt;/span&gt; https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Via wget&lt;/strong&gt;
+        &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  sh &lt;span class=&quot;nt&quot;&gt;-c&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;wget &lt;span class=&quot;nt&quot;&gt;-O-&lt;/span&gt; https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Via fetch&lt;/strong&gt;
+        &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  sh &lt;span class=&quot;nt&quot;&gt;-c&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;fetch &lt;span class=&quot;nt&quot;&gt;-o&lt;/span&gt; - https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;p&gt;Boom, you have just installed the theme! But you need more to do for customizing it..&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to this link &lt;a href=&quot;https://github.com/ohmyzsh/ohmyzsh/wiki/Themes&quot;&gt;https://github.com/ohmyzsh/ohmyzsh/wiki/Themes&lt;/a&gt; and note down the name of the theme you like.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Now just type &lt;code class=&quot;highlighter-rouge&quot;&gt;nano ~/.zshrc&lt;/code&gt; in the terminal. We are using nano editor for editing the &lt;code class=&quot;highlighter-rouge&quot;&gt;.zshrc&lt;/code&gt; file. You can also use your own one’s but recommended is nano.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You can see a line &lt;code class=&quot;highlighter-rouge&quot;&gt;ZSH_THEME=&quot;robbyrussell&quot;&lt;/code&gt;. Now in the place of &lt;code class=&quot;highlighter-rouge&quot;&gt;robbyrussell&lt;/code&gt; or any other insert your theme name that you liked in the above step.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Note&lt;/strong&gt; :
+Some of the themes need &lt;a href=&quot;https://github.com/powerline/fonts&quot;&gt;PowerLine Fonts&lt;/a&gt;. You can directly install it if you are in a Debian or Ubuntu based systems by &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo apt-get install fonts-powerline&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here are some of the themes that we use..&lt;/p&gt;
+
+&lt;div class=&quot;slide-show&quot;&gt;
+
+&lt;a href=&quot;https://devskrate.github.io/assets/images/dev/terminal/ohmyzsh-agnoster.jpg&quot; data-lightbox=&quot;image-1&quot; data-title=&quot;Ohmyzsh agnoster theme&quot;&gt;&lt;img width=&quot;85%&quot; src=&quot;https://devskrate.github.io/assets/images/dev/terminal/ohmyzsh-agnoster.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://devskrate.github.io/assets/images/dev/terminal/ohmyfish-batman.png&quot; data-lightbox=&quot;image-1&quot; data-title=&quot;Ohmyfish Batman theme&quot;&gt;&lt;img width=&quot;85%&quot; src=&quot;https://devskrate.github.io/assets/images/dev/terminal/ohmyfish-batman.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://devskrate.github.io/assets/images/dev/terminal/ohmyfish-bobthefish.png&quot; data-lightbox=&quot;image-1&quot; data-title=&quot;Ohmyfish Bobthefish theme&quot;&gt;&lt;img width=&quot;85%&quot; src=&quot;https://devskrate.github.io/assets/images/dev/terminal/ohmyfish-bobthefish.png&quot; /&gt;&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Links for devs and interested&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ohmyzsh : &lt;a href=&quot;https://github.com/ohmyzsh/ohmyzsh&quot;&gt;https://github.com/ohmyzsh/ohmyzsh&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PowerLineFonts : &lt;a href=&quot;https://github.com/powerline/fonts&quot;&gt;https://github.com/powerline/fonts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ohmyfish : &lt;a href=&quot;https://github.com/oh-my-fish/oh-my-fish&quot;&gt;https://github.com/oh-my-fish/oh-my-fish&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+          <pubDate>Thu, 30 Jul 2020 21:56:40 +0530</pubDate>
+          <link>http://localhost:4000/install-ohmyzsh-for-terminal/</link>
+          <guid isPermaLink="true">http://localhost:4000/install-ohmyzsh-for-terminal/</guid>
+          
+          <tags>terminal</tags>
+          
+          <tags>linux</tags>
+          
+          <tags>pro</tags>
+          
+          <tags>debian</tags>
+          
+          <tags>terminator</tags>
+              
+          
+          <category>dev</category>
           
         </item>
 
