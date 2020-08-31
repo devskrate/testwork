@@ -4,10 +4,10 @@
   
     {
       "title"    : "How to customize your terminal like a developer and for good feel",
-      "tags"     : "realme, oppo, vivo, iqoo, oneplus, and bbk electronics",
-      "categories" : "mobiles",
+      "tags"     : "terminal, linux, pro, debian, and terminator",
+      "categories" : "dev",
       "url"      : "/customize-terminal-in-linux-like-a-pro/",
-      "date"     : "08/24/2020"
+      "date"     : "08/31/2020"
     } ,
   
     {
@@ -160,6 +160,14 @@
       "categories" : "mobiles",
       "url"      : "/oppo-reno-4-pro-specs-and-price/",
       "date"     : "07/31/2020"
+    } ,
+  
+    {
+      "title"    : "How to customize your terminal like a developer using zsh",
+      "tags"     : "terminal, linux, pro, debian, and terminator",
+      "categories" : "dev",
+      "url"      : "/install-ohmyzsh-for-terminal/",
+      "date"     : "07/30/2020"
     } ,
   
     {

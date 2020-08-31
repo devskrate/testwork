@@ -7,7 +7,7 @@ description: The best SEO tips for everyone
 image: https://devskrate.github.io/assets/blog-banners/google-rank.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/google-rank.webp
 category: [howto]
-tags: [seo, google, sarch]
+tags: [seo, google, search]
 author: nikhil
 paginate: false
 is_generated: true
