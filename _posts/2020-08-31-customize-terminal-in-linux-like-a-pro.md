@@ -23,7 +23,7 @@ Some of the popular tools to install themes are
 + Ohmyzsh
 + Ohmyfish
 
-In both of them, we prefer ohmyfish because it has more good themes compared to ohmyzsh. If you want to install ohmyzsh, refer [this](https://devskrate.com/install-ohmyzsh-for-terminal/)
+In both of the above mentioned tools, we prefer ohmyfish because it has more good themes compared to ohmyzsh. If you want to install ohmyzsh, refer [this](https://devskrate.com/install-ohmyzsh-for-terminal/)
 
 Let's see the installation of the Ohmyfish. Before actually using it in your default terminal try to apply on another terminal.
 
