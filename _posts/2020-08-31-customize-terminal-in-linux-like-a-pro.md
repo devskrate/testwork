@@ -1,7 +1,7 @@
 ---
 date: 2020-08-31 12:26:40
 layout: post
-title: How to customize your terminal like a developer and for good feel
+title: How to customize your terminal like a developer and pro
 subtitle: "Turn your Terminal like a pro"
 description: >-
   Generally the terminals that we get from the different linux distributions are good but the only thing is, they are not good looking.
@@ -27,7 +27,7 @@ In both of the above mentioned tools, we prefer ohmyfish because it has more goo
 
 Let's see the installation of the Ohmyfish. Before actually using it in your default terminal try to apply on another terminal.
 
-+ I use Gnome-Terminal as my default shell, to test this I downloaded **Terminator**. If you want to test it in terminator, then install terminator by `sudo apt install terinator`
++ I use Gnome-Terminal as my default shell, to test this I downloaded **Terminator**. If you want to test it in terminator, then install terminator by `sudo apt install terminator`
 
 + Now check if you have `fish` installed in your system. Type `fish --version`. If you get a version number as response, then you have already installed it!. If you don't have it, install it using `sudo apt install fish`.
 

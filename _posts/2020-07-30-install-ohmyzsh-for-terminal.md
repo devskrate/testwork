@@ -17,7 +17,7 @@ is_generated: false
 
 Let's see the installation of the Ohmyzsh. Before actually using it in your default terminal try to apply on another terminal.
 
-+ I use Gnome-Terminal as my default shell, to test this I downloaded **Terminator**. If you want to test it in terminator, then install terminator by `sudo apt install terinator`
++ I use Gnome-Terminal as my default shell, to test this I downloaded **Terminator**. If you want to test it in terminator, then install terminator by `sudo apt install terminator`
 + Now check if you have `zsh` installed in your system. Type `zsh --version`. If you get a version number as response, then you have already installed it!. If you don't have, install it by using `sudo apt install zsh`
 
 + Now we need to install the Ohmyzsh tool.. For that install the script by using any of the following method..
