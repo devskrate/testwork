@@ -1,5 +1,5 @@
 ---
-date: 2020-08-31 16:26:40
+date: 2020-07-30 16:26:40
 layout: post
 title: How to customize your terminal like a developer using zsh
 subtitle: "Turn your Terminal like a pro using zsh"
@@ -12,7 +12,7 @@ optimized_image: >-
 category: [dev]
 tags: [terminal, linux, pro, debian, terminator]
 author: puneeth
-is_generated: true
+is_generated: false
 ---
 
 Let's see the installation of the Ohmyzsh. Before actually using it in your default terminal try to apply on another terminal.

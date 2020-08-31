@@ -12,7 +12,7 @@ optimized_image: >-
 category: [dev]
 tags: [terminal, linux, pro, debian, terminator]
 author: puneeth
-is_generated: true
+is_generated: false
 ---
 
 Generally the terminals that we get from the different linux distributions are good but the only thing is, they are not good looking. Actually they are nice but lack some details that most of them like to have. 
