@@ -1,14 +1,14 @@
 ---
-date: 2020-08-29 09:26:40
+date: 2020-08-31 16:26:40
 layout: post
 title: How to customize your terminal like a developer using zsh
 subtitle: "Turn your Terminal like a pro using zsh"
 description: >-
   Customize terminal using zsh.
 image: >-
-  https://devskrate.github.io/assets/blog-banners/bbk-tech.jpg
+  https://devskrate.github.io/assets/blog-banners/ohmyzsh-terminal-installation.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/bbk-tech.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/ohmyzsh-terminal-installation.webp
 category: [dev]
 tags: [terminal, linux, pro, debian, terminator]
 author: puneeth

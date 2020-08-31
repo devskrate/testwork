@@ -1,14 +1,14 @@
 ---
-date: 2020-08-29 09:26:40
+date: 2020-08-31 12:26:40
 layout: post
 title: How to customize your terminal like a developer and for good feel
 subtitle: "Turn your Terminal like a pro"
 description: >-
   Generally the terminals that we get from the different linux distributions are good but the only thing is, they are not good looking.
 image: >-
-  https://devskrate.github.io/assets/blog-banners/bbk-tech.jpg
+  https://devskrate.github.io/assets/blog-banners/customize-linux-terminal-like-a-pro.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/bbk-tech.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/customize-linux-terminal-like-a-pro.webp
 category: [dev]
 tags: [terminal, linux, pro, debian, terminator]
 author: puneeth
@@ -23,7 +23,7 @@ Some of the popular tools to install themes are
 + Ohmyzsh
 + Ohmyfish
 
-In both of them, we prefer ohmyfish because it has more good themes compared to ohmyzsh.
+In both of them, we prefer ohmyfish because it has more good themes compared to ohmyzsh. If you want to install ohmyzsh, refer [this](https://devskrate.com/install-ohmyzsh-for-terminal/)
 
 Let's see the installation of the Ohmyfish. Before actually using it in your default terminal try to apply on another terminal.
 
