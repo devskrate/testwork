@@ -26,9 +26,9 @@ The TV shows that Netflix is offering are
 7. Grace and Frankie.
 
 The movies that Netflix is offering are
-1.Murder Mystery.
-2.Bird Box.
-3.The Two Popes.
+1. Murder Mystery.
+2. Bird Box.
+3. The Two Popes.
 
 You might be thinking that great we can watch some Netflix content for free but there is a catch on the TV shows only 1st episode of it is free and the quality is also not 4K.
 
