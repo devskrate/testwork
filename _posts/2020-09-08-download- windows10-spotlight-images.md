@@ -12,7 +12,7 @@ optimized_image: >-
 category: [tips&tricks]
 tags: [windows, windows10, spotlight, images, hack]
 author: puneeth
-is_generated: false
+is_generated: true
 ---
 
 The images shown in lockscreen of windows10 are really good, many want to get that pictures. They are also called as spotlight pictures, so here is the way to get that pictures. 
