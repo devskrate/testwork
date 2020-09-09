@@ -1,5 +1,5 @@
 ---
-date: 2020-09-09 12:26:40
+date: 2020-09-09 11:26:40
 layout: post
 title: What is the difference between open-source software, free software and freeware.
 subtitle: "What is free and open-source software"
