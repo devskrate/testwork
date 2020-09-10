@@ -9,7 +9,7 @@ optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/samsu
 author: nikhil
 category: [mobiles]
 tags: [android, oneui, budget, samsung]
-is_generated: true
+is_generated: false
 ---
 
 Samsung India introduced Galaxy M51 as the **BATTERY MONSTER** into its Galaxy M Series Phones as the India's First 7000mAh Battery Phone.
