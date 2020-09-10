@@ -1,9 +1,9 @@
 ---
 date: 2020-09-10 02:30:02
 layout: post
-title: "Samsung Galaxy M51 : The Battery Monster"
-subtitle: ""
-description: ""
+title: "Samsung Galaxy M51:The Battery Monster"
+subtitle: "Galaxy M51 has a huge 7000mAh Battery"
+description: "This is the India's first 7000mAh Battery Phone"
 image: https://devskrate.github.io/assets/blog-banners/samsung-galaxy-m51.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/samsung-galaxy-m51.webp
 author: nikhil
@@ -18,8 +18,8 @@ The main highlights of this phone are
 
 - **Battery**:
   It has a huge 7000mAh battery.
-  - **Charging**:
-    It has 25W fast charging in the box and supports reverse charging.
+- **Charging**:
+  It has 25W fast charging in the box and supports reverse charging.
 - **Display**:
   It is packed with the 6.7" sAMOLED Plus display, which is 43% slimmer and 28% lighter than a regular AmoLED display.
   These are key specs of this device
