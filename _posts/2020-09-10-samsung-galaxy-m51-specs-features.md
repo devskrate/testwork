@@ -18,8 +18,8 @@ The main highlights of this phone are
 
 - **Battery**:
   It has a huge 7000mAh battery.
-  - **Charging**:
-    It has 25W fast charging in the box and supports reverse charging.
+- **Charging**:
+  It has 25W fast charging in the box and supports reverse charging.
 - **Display**:
   It is packed with the 6.7" sAMOLED Plus display, which is 43% slimmer and 28% lighter than a regular AmoLED display.
   These are key specs of this device
