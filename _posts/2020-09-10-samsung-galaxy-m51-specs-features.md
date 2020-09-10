@@ -1,9 +1,9 @@
 ---
 date: 2020-09-10 02:30:02
 layout: post
-title: "Samsung Galaxy M51 : The Battery Monster"
-subtitle: ""
-description: ""
+title: "Samsung Galaxy M51:The Battery Monster"
+subtitle: "Galaxy M51 has a huge 7000mAh Battery"
+description: "This is the India's first 7000mAh Battery Phone"
 image: https://devskrate.github.io/assets/blog-banners/samsung-galaxy-m51.jpg
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/samsung-galaxy-m51.webp
 author: nikhil
