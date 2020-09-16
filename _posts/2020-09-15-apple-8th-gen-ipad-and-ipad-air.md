@@ -1,18 +1,18 @@
 ---
-date: 2020-09-15 23:26:40
+date: 2020-09-16 12:26:40
 layout: post
-title: Unveling Apple watch series 6 and watch SE
-subtitle: "On charger out-of-the box :("
+title: Apple iPad air and ipad 8th gen details, specs and features.
+subtitle: "The A14 chip is stunning!"
 description: >-
-  Apple launched it's two apple watches namely Apple watch series 6 and watch SE.
+  Apple launched it's iPad Air 4th gen and iPad 8th gen.
 image: >-
-  https://devskrate.github.io/assets/blog-banners/difference-between-open-source-software-free-software-and-freeware.jpg
+  https://devskrate.github.io/assets/blog-banners/apple-ipad-air-and-8th-gen-2020.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/difference-between-open-source-software-free-software-and-freeware.webp
+  https://devskrate.github.io/assets/blog-banners/optimized/apple-ipad-air-and-8th-gen-2020.webp
 category: [news]
 tags: [apple, ipad]
 author: puneeth
-is_generated: true
+is_generated: false
 ---
 
 Apple has announced it's new ipad's, Apple 8th gen ipad and new ipad air.
