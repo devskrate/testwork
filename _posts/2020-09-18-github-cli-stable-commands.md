@@ -9,7 +9,7 @@ optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/githu
 author: nikhil
 category: [dev]
 tags: [github, git, cli]
-is_generated: true
+is_generated: false
 ---
 
 GitHub CLI brings GitHub to your terminal. It reduces context switching, helps you focus, and enables you to more easily script and create your own workflows. Earlier this year, GitHub announced the beta of GitHub CLI. Since it released the beta, users have created over **250,000 pull requests**, performed over **350,000 merges**, and created over **20,000 issues** with GitHub CLI. And finally, GitHub CLI is out of beta and available to download on [Windows, macOS, and Linux](https://cli.github.com/).
