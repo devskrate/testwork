@@ -12,7 +12,6 @@ optimized_image: >-
 tags: [apple, student-offers, discounts]
 category: [news]
 author: puneeth
-is_generated: true
 ---
 
 Apple is offering great discounts to students in India. 
