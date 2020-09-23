@@ -40,11 +40,14 @@ Here are the discounts with iPads as a student.
 
 If you observe we get some good deals with the Mac Books, but coming to the iPad's they are not that great deal. We only get a discount from Rs.1000 to Rs.4000/-. Ofcourse according to the price they have given discounts.
 
+> But, sadly under this offer we only get discounts on MacBook and iPad's but on any other Apple products :(.
+
 + For availing the discounts go to this [apple site](https://www.apple.com/in/shop/campaigns/education-pricing) and follow the instructions.
 
 + Firstly you need to register with the UNiDAYS to verify your student or staff status. Once registered and verified, you can avail the discounts.
 
 + For detailed process of registration with photos, click [here](https://devskrate.com/how-to-get-apple-student-discount/).
+
 
 {:class="table table-bordered dark"}
 |Product        | Student    | Original  | 
