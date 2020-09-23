@@ -12,7 +12,7 @@ optimized_image: >-
 tags: [apple, student-offers, discounts]
 category: [news]
 author: puneeth
-is_generated: false
+is_generated: true
 ---
 
 Apple is offering great discounts to students in India. 
@@ -27,7 +27,7 @@ Here are some of the offers for Mac Books that you get as a student.
 
 </div>
 
-If you observe the price difference you are getting around Rs.10,000/- discount and greater on the iMac Pro Desktop.
+If you observe the price difference you are getting around Rs.10,000/- discount and greater on the iMac Pro Desktop and for some others.
 
 Here are the discounts with iPads as a student.
 
