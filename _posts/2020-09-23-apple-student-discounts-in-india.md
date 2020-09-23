@@ -44,7 +44,7 @@ If you observe we get some good deals with the Mac Books, but coming to the iPad
 
 + Firstly you need to register with the UNiDAYS to verify your student or staff status. Once registered and verified, you can avail the discounts.
 
-+ For detailed process of registration with photos, click here.
++ For detailed process of registration with photos, click [here](https://devskrate.com/how-to-get-apple-student-discount/).
 
 {:class="table table-bordered dark"}
 |Product        | Student    | Original  | 
