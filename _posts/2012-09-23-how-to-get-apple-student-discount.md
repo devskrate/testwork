@@ -4,8 +4,8 @@ layout: post
 title: "How to get Apple Student Discounts?"
 subtitle: "Here's how to avail Apple Student Discouts"
 description: "Here's how to avail Apple Student Discouts"
-image: https://devskrate.github.io/assets/blog-banners/how-to-apple student-discount.png
-optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/how-to-apple student-discount.webp
+image: https://devskrate.github.io/assets/blog-banners/apple-students-offer.png
+optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/apple-students-offer.webp
 author: nikhil
 category: [students]
 tags: []
