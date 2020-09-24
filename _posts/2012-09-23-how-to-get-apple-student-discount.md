@@ -1,8 +1,8 @@
 ---
 date: 2012-09-23 02:37:02
 layout: post
-title: "How to get Apple Student Discounts?"
-subtitle: "Here's how to avail Apple Student Discouts"
+title: "How to avail Apple Student Discounts?"
+subtitle: "Here's how to get the Apple Student Discouts"
 description: "Here's how to avail Apple Student Discouts"
 image: https://devskrate.github.io/assets/blog-banners/apple-students-offer.png
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/apple-students-offer.webp
