@@ -8,7 +8,7 @@ image: https://devskrate.github.io/assets/blog-banners/apple-students-offer.png
 optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/apple-students-offer.webp
 author: nikhil
 category: [students]
-tags: []
+tags: [apple, student-offers, discounts]
 is_generated: true
 ---
 
@@ -27,7 +27,7 @@ Here's how to avail the student discounts using your college mail.
   ![Apple Student Store](https://devskrate.github.io/assets/images/apple/apple-store-student-how-to/apple-store-student-2.webp)
 - Then click **Continue**.  
   ![Apple Student Store](https://devskrate.github.io/assets/images/apple/apple-store-student-how-to/apple-store-student-4.webp)
-- Then log into your UNiDAYS account to verify you as a student.  
+- Then Sign into your UNiDAYS account to verify you as a student.  
   ![Apple Student Store](https://devskrate.github.io/assets/images/apple/apple-store-student-how-to/apple-store-student-5.webp)
 - Yayy🎉🎉. You can avail the wide range of student discounts on all the products.  
   ![Apple Student Store](https://devskrate.github.io/assets/images/apple/apple-store-student-how-to/apple-store-student-6.webp)
