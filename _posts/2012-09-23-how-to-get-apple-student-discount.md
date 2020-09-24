@@ -1,5 +1,5 @@
 ---
-date: 2012-09-23 02:37:02
+date: 2020-09-24 04:00:02
 layout: post
 title: "How to avail Apple Student Discounts?"
 subtitle: "Here's how to get the Apple Student Discouts"
@@ -9,7 +9,7 @@ optimized_image: https://devskrate.github.io/assets/blog-banners/optimized/apple
 author: nikhil
 category: [students]
 tags: [apple, student-offers, discounts]
-is_generated: true
+is_generated: false
 ---
 
 Apple Store Online has launched in India today, September 23, providing customers not only the ability to purchase products directly from the Apple Store, but also get direct customer support as well as trade-ins, student discounts, and financing options.
