@@ -14,7 +14,7 @@ is_generated: false
 
 Apple Store Online has launched in India today, September 23, providing customers not only the ability to purchase products directly from the Apple Store, but also get direct customer support as well as trade-ins, student discounts, and financing options.
 
-Apple had also introduced the new **Apple Store for Education**. Check out all the offers available for Students on Apple Store here.
+Apple had also introduced the new **Apple Store for Education**. Check out all the offers available for Students on Apple Store [here](https://devskrate.com/apple-student-discounts-in-india/).
 
 Here's how to avail the student discounts using your college mail.
 
