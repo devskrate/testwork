@@ -12,6 +12,7 @@ optimized_image: >-
 category: [mobiles]
 tags: [apple]
 author: mohit
+is_generated: true
 ---
 In the ‘Hi, Speed’ Apple event Apple has launched four new iPhones namely iPhone 12 mini, iPhone 12, iPhone 12 Pro, and iPhone 12 Pro Max with the world’s first 5nm A14 Bionic chipset, 5G support and more and this is everything about you need to know.
 
