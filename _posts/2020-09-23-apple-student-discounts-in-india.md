@@ -33,7 +33,7 @@ Here are the discounts with iPads as a student.
 <div class="slide-show">
 
 <a href="https://devskrate.github.io/assets/images/apple/student_offer/apple-student-offer-ipad.jpg" data-lightbox="image-1" data-title="Student discount for iPad. Image-source:Apple"><img width="50%" alt="Student discount for iPad" src="https://devskrate.github.io/assets/images/apple/student_offer/apple-student-offer-ipad.jpg"></a>
-<a href="https://devskrate.github.io/assets/images/apple/student_offer/apple-ipad-comparision-2020.png" data-lightbox="image-1" data-title="IOriginal Price of iPad's. mage-source:Apple"><img width="50%" alt="iPad" src="https://devskrate.github.io/assets/images/apple/student_offer/apple-ipad-comparision-2020.png"></a>
+<a href="https://devskrate.github.io/assets/images/apple/student_offer/apple-ipad-comparision-2020.png" data-lightbox="image-1" data-title="Original Price of iPad's. Image-source:Apple"><img width="50%" alt="iPad" src="https://devskrate.github.io/assets/images/apple/student_offer/apple-ipad-comparision-2020.png"></a>
 
 </div>
 

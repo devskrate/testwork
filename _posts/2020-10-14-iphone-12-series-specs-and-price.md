@@ -2,17 +2,17 @@
 date: 2020-10-14 01:26:40
 layout: post
 title: Apple iPhone 12 series specs and features.
-subtitle: "the iPhone 12 comes A14 Bionic chipset, the world’s first chipset based on the 5nm architecture"
+subtitle: "The iPhone 12 comes with A14 Bionic chipset, the world’s first chipset based on the 5nm architecture"
 description: >-
   Apple launched the new iPhone 12 series.
 image: >-
-  https://devskrate.github.io/assets/blog-banners/bbk-tech.jpg
+  https://raw.githubusercontent.com/devskrate/assets/master/blog-banners/iphone-12.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/bbk-tech.webp
+  https://raw.githubusercontent.com/devskrate/assets/master/blog-banners/optimized/iphone-12.webp
 category: [mobiles]
 tags: [apple]
 author: mohit
-is_generated: true
+is_generated: false
 ---
 In the ‘Hi, Speed’ Apple event Apple has launched four new iPhones namely iPhone 12 mini, iPhone 12, iPhone 12 Pro, and iPhone 12 Pro Max with the world’s first 5nm A14 Bionic chipset, 5G support and more and this is everything about you need to know.
 
@@ -35,6 +35,15 @@ As for the Pro series, They come with a triple camera setup along with a LIDAR s
 #### MagSafe Wireless Charger:
 
 If you are someone who used Macbooks back in 2014, you might be familiar with the MagSafe feature while Apple ditch it later in favor of a Type-c charging, Apple now decided to revive the feature for the iPhone 12 series in the form of a new magnetic wireless charging solution. There are now magnets built into Apple’s new phones, along with the wireless charging coil, that enables users to properly align and snap chargers onto the back. 
+
+<div class="slide-show">
+
+<a href="https://raw.githubusercontent.com/devskrate/assets/master/images/apple/iphone12/iphone12-mini.png" data-lightbox="image-1" data-title="iPhone12 mini. Image-source:Apple"><img width="40%" alt="iPhone12 mini." src="https://raw.githubusercontent.com/devskrate/assets/master/images/apple/iphone12/iphone12-mini.png"></a>
+<a href="https://raw.githubusercontent.com/devskrate/assets/master/images/apple/iphone12/iphone12.jpg" data-lightbox="image-1" data-title="iPhone12  Image-source:Apple"><img width="40%" alt="iPhone12" src="https://raw.githubusercontent.com/devskrate/assets/master/images/apple/iphone12/iphone12.jpg"></a>
+<a href="https://raw.githubusercontent.com/devskrate/assets/master/images/apple/iphone12/iphone12-pro.jpg" data-lightbox="image-1" data-title="iPhone12 pro Image-source:Apple"><img width="40%" alt="iPhone12 pro" src="https://raw.githubusercontent.com/devskrate/assets/master/images/apple/iphone12/iphone12-pro.jpg"></a>
+<a href="https://raw.githubusercontent.com/devskrate/assets/master/images/apple/iphone12/iphone12-max.jpg" data-lightbox="image-1" data-title="iPhone12 pro max Image-source:Apple"><img width="40%" alt="iPhone12 max" src="https://raw.githubusercontent.com/devskrate/assets/master/images/apple/iphone12/iphone12-max.jpg"></a>
+
+</div>
 
 #### Price and Availability:
 

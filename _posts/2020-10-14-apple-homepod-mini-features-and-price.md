@@ -1,18 +1,18 @@
 ---
 date: 2020-10-14 01:25:40
 layout: post
-title: Apple iPhone 12 series specs and features.
-subtitle: "the iPhone 12 comes A14 Bionic chipset, the world’s first chipset based on the 5nm architecture"
+title: Apple HomePod mini specs and features.
+subtitle: "Apple is making up it's eco system and also copying others for forcing users to use their products."
 description: >-
-  Apple launched the new iPhone 12 series.
+  Apple launched Google Home/ Echo dot like device called HomePod Mini along with iPhone 12.
 image: >-
-  https://devskrate.github.io/assets/blog-banners/bbk-tech.jpg
+  https://raw.githubusercontent.com/devskrate/assets/master/blog-banners/apple-homepod-mini-2020.jpg
 optimized_image: >-
-  https://devskrate.github.io/assets/blog-banners/optimized/bbk-tech.webp
-category: [mobiles]
+  https://raw.githubusercontent.com/devskrate/assets/master/blog-banners/optimized/apple-homepod-mini-2020.webp
+category: [gadgets]
 tags: [apple]
 author: mohit
-is_generated: true
+is_generated: false
 ---
 Apple is today's event along with the iPhone has also launched the smaller variant of the HomePod, HomePod Mini.
 
@@ -23,6 +23,13 @@ The HomePod Mini similar to the original HomePod comes with a fabric mesh and in
 The HomePod mini comes with a main driver, two passive radiators, and an acoustic waveguide at the bottom “for an immersive 360-degree audio experience”, says Apple. The Mini comes with Apple’s S5 chip to enable computational audio technology that adjusts how the music sounds 180 times per second. You can also pair 2 HomePod mini speakers for stereo sound.
 
 The HomePod mini also connects to your iPhone letting you make and answer your phone calls, check your messages, and many more.
+
+<div class="slide-show">
+
+<a href="https://raw.githubusercontent.com/devskrate/assets/master/images/apple/apple-homepod-mini.png" data-lightbox="image-1" data-title="Apple HomePod mini. Image-source:Apple"><img width="45%" alt="Apple HomePod mini." src="https://raw.githubusercontent.com/devskrate/assets/master/images/apple/apple-homepod-mini.png"></a>
+<a href="https://raw.githubusercontent.com/devskrate/assets/master/images/apple/apple-homepod-mini-internal.png" data-lightbox="image-1" data-title="Apple HomePod mini Internal Image-source:Apple"><img width="45%" alt="Apple HomePod mini internals" src="https://raw.githubusercontent.com/devskrate/assets/master/images/apple/apple-homepod-mini-internal.png"></a>
+
+</div>
 
 #### Price and Availability:
 
