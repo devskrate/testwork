@@ -1,14 +1,14 @@
 ---
-date: 2020-10-15 01:26:40
+date: 2020-10-16 01:26:40
 layout: post
 title: Install WhatsApp in Linux
 subtitle: "Install whatsapp in linux/debian/ubuntu without any third-party softwares."
 description: >-
   Whatsapp is not officially available for linux, but we can use whatsapp using many third-pirty clients but many of us don't trust them. Here is the method
 image: >-
-  https://raw.githubusercontent.com/devskrate/assets/master/blog-banners/iphone-12.jpg
+  https://raw.githubusercontent.com/devskrate/assets/master/blog-banners/install-whatsapp-in-linux.jpg
 optimized_image: >-
-  https://raw.githubusercontent.com/devskrate/assets/master/blog-banners/optimized/iphone-12.webp
+  https://raw.githubusercontent.com/devskrate/assets/master/blog-banners/optimized/install-whatsapp-in-linux.webp
 category: [linux]
 tags: [linux, whatsapp, install]
 author: puneeth
@@ -18,9 +18,9 @@ is_generated: true
 Whatsapp is not officially available for linux, but we can use whatsapp using many third-pirty clients but many of us don't trust them. Here is the method to download it.
 
 
-Hope everyone are aware of weebapps, if not, they are websites installed in our phone or dekstop systems as app, but have the functionalites of websites.
+Hope everyone are aware of webapps, if not, they are websites installed in our phone or dekstop systems as app, but have the functionalites of websites.
 
-If you open [flipkart.com](https://flipkart.com) in phone it will prompt us to use the webapp, as it is light weight and has all the functionlaties of a website. WebApps are also momre trustable and get updates easily.
+If you open [flipkart.com](https://flipkart.com) in phone it will prompt us to use the webapp, as it is light weight and has all the functionalties of a website. WebApps are also more trustable and get updated easily. [DevsKrate.com](https://devskrate.com) has a webapp, you can try it if you want by opening the site and clicking **Add to HomeScreen**.
 
 So, now we are going to install whatsapp as a webapp. This functionality is not provided by Google Chrome and Firefox until and unless the website supports it. But Gnome Browser has this functionality, so any website can be installed as an app even if it's uspports or not.
 
