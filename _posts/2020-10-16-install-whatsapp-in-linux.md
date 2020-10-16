@@ -12,7 +12,7 @@ optimized_image: >-
 category: [linux]
 tags: [linux, whatsapp, install]
 author: puneeth
-is_generated: true
+is_generated: false
 ---
 
 Whatsapp is not officially available for linux, but we can use whatsapp using many third-pirty clients but many of us don't trust them. Here is the method to download it.
