@@ -102,3 +102,36 @@ In the Amazon Great Indian Festival amazon is offering some good deals on mobile
 | Price         | Rs. 22,999         | Rs. 22,499         | Rs. 29,499         |
 | Link          | [https://amzn.to/2TdS3t1](https://amzn.to/2TdS3t1) | [https://amzn.to/35jaG4C](https://amzn.to/35jaG4C) | [https://amzn.to/35zSx2H](https://amzn.to/35zSx2H) |
 
+
+### 4. Mobiles from 30K to 50K:
+
+<div class="slide-show">
+
+<a href="https://raw.githubusercontent.com/devskrate/assets/master/images/sale/amazon-2020/amazon-GIS-30k-to-50k-2020.png" data-lightbox="image-1" data-title=""><img width="70%" alt="amazon-GIS-30k-to-50k-2020" src="https://raw.githubusercontent.com/devskrate/assets/master/images/sale/amazon-2020/amazon-GIS-30k-to-50k-2020.png"></a>
+<a href="https://raw.githubusercontent.com/devskrate/assets/master/images/sale/amazon-2020/amazon-GIS-30k-to-50k-1-2020.png" data-lightbox="image-1" data-title=""><img width="70%" alt="amazon-GIS-30k-to-50k-2020" src="https://raw.githubusercontent.com/devskrate/assets/master/images/sale/amazon-2020/amazon-GIS-30k-to-50k-1-2020.png"></a>
+
+</div>
+
+{:class="table table-bordered dark"}
+|Specifications | OnePlus 8 5G  | Samsung Galaxy Note 10 Lite | Mi 10 5G           | 
+| ------------- | ------------- | --------------------------- | ------------------ |
+| Screen        | 6.55" 90Hz    | 6.7" 60Hz                   | 6.67" 90Hz         |
+| RAM + ROM     | 6GB + 128GB   | 6GB + 128GB                 | 8GB + 128GB        |
+| Processor     | Snapdragon 865| Exynos 9611                 | Snapdragon 865     |
+| Battery       | 4300mAh - 30W | 4500mAh - 25W               | 4780mAH - 30W      |
+| Screen Type   | Amoled        | Super Amoled                | FHD+ Amoled        |
+| Camera        | Triple Camera | Triple Camera               | Quad Camera        |
+| Price         | Rs. 39,999    | Rs. 37,499                  | Rs. 44,999         |
+| Link          | [https://amzn.to/2Hp15kk](https://amzn.to/2Hp15kk) | [https://amzn.to/2IUS5UW](https://amzn.to/2IUS5UW) | [https://amzn.to/37wNkeg](https://amzn.to/37wNkeg) |
+
+{:class="table table-bordered dark"}
+|Specifications | OnePlus 8T 5G | Samsung Galaxy S10 Plus     | iPhone 11          | 
+| ------------- | ------------- | --------------------------- | ------------------ |
+| Screen        | 6.55" 120Hz   | 6.4" 60Hz                   | 6.1" 60Hz          |
+| RAM + ROM     | 6GB + 128GB   | 6GB + 128GB                 | 4GB + 64GB         |
+| Processor     | Snapdragon 865| Exynos 9820                 | Snapdragon 865     |
+| Battery       | 4500mAh - 65W | 4100mAh - 25W               | 4780mAH - 30W      |
+| Screen Type   | Amoled        | Super Amoled                | Liquid Retina HD LCD|
+| Camera        | Quad Camera   | Triple Camera               | Dual Camera        |
+| Price         | Rs. 42,999    | Rs. 44,499                  | Rs. 49,999         |
+| Link          | [https://amzn.to/2FQRUZF](https://amzn.to/2FQRUZF) | [https://amzn.to/3ogfmAS](https://amzn.to/3ogfmAS) | [https://amzn.to/2Hg7RJG](https://amzn.to/2Hg7RJG) |
