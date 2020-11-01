@@ -12,7 +12,7 @@ optimized_image: >-
 category: [sale]
 tags: [amazon, flipkart, e-commerce]
 author: puneeth
-is_generated: false
+is_generated: true
 ---
 
 In the Amazon Great Indian Festival amazon is offering some good deals on mobiles.
