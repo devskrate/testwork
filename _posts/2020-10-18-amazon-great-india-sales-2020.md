@@ -41,11 +41,7 @@ In the Amazon Great Indian Festival amazon is offering some good deals on mobile
 
 ### 2. Mobiles from 10K to 15K:
 
-<div class="slide-show">
 
-<a href="https://raw.githubusercontent.com/devskrate/assets/master/images/sale/amazon-2020/amazon-GIS-under-15k-2020.png" data-lightbox="image-1" data-title=""><img width="70%" alt="amazon-GIS-under-15k-2020" src="https://raw.githubusercontent.com/devskrate/assets/master/images/sale/amazon-2020/amazon-GIS-under-15k-2020.png"></a>
-
-</div>
 
 {:class="table table-bordered dark"}
 |Specifications | Redmi Note 9 | Redmi Note 9 Pro | Samsung Galaxy M21 | Nokia 5.3  | 
@@ -62,11 +58,7 @@ In the Amazon Great Indian Festival amazon is offering some good deals on mobile
 
 ### 3. Mobiles from 15K to 20K:
 
-<div class="slide-show">
 
-<a href="https://raw.githubusercontent.com/devskrate/assets/master/images/sale/amazon-2020/amazon-GIS-15k-to-20k-2020.png" data-lightbox="image-1" data-title=""><img width="70%" alt="amazon-GIS-15k-to-20k-2020" src="https://raw.githubusercontent.com/devskrate/assets/master/images/sale/amazon-2020/amazon-GIS-15k-to-20k-2020.png"></a>
-
-</div>
 
 {:class="table table-bordered dark"}
 |Specifications | Redmi Note 9 Pro Max | Samsung Galaxy M31 | Samsung Galaxy M31S | 
@@ -83,11 +75,7 @@ In the Amazon Great Indian Festival amazon is offering some good deals on mobile
 
 ### 4. Mobiles from 20K to 30K:
 
-<div class="slide-show">
 
-<a href="https://raw.githubusercontent.com/devskrate/assets/master/images/sale/amazon-2020/amazon-GIS-20k-to-30k-2020.png" data-lightbox="image-1" data-title=""><img width="70%" alt="amazon-GIS-20k-to-30k-2020" src="https://raw.githubusercontent.com/devskrate/assets/master/images/sale/amazon-2020/amazon-GIS-20k-to-30k-2020.png"></a>
-
-</div>
 
 {:class="table table-bordered dark"}
 |Specifications | Samsung Galaxy A51 | Samsung Galaxy M51 | Samsung Galaxy A71 | 
@@ -105,12 +93,7 @@ In the Amazon Great Indian Festival amazon is offering some good deals on mobile
 
 ### 4. Mobiles from 30K to 50K:
 
-<div class="slide-show">
 
-<a href="https://raw.githubusercontent.com/devskrate/assets/master/images/sale/amazon-2020/amazon-GIS-30k-to-50k-2020.png" data-lightbox="image-1" data-title=""><img width="70%" alt="amazon-GIS-30k-to-50k-2020" src="https://raw.githubusercontent.com/devskrate/assets/master/images/sale/amazon-2020/amazon-GIS-30k-to-50k-2020.png"></a>
-<a href="https://raw.githubusercontent.com/devskrate/assets/master/images/sale/amazon-2020/amazon-GIS-30k-to-50k-1-2020.png" data-lightbox="image-1" data-title=""><img width="70%" alt="amazon-GIS-30k-to-50k-2020" src="https://raw.githubusercontent.com/devskrate/assets/master/images/sale/amazon-2020/amazon-GIS-30k-to-50k-1-2020.png"></a>
-
-</div>
 
 {:class="table table-bordered dark"}
 |Specifications | OnePlus 8 5G  | Samsung Galaxy Note 10 Lite | Mi 10 5G           | 
