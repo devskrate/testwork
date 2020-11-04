@@ -19,11 +19,6 @@ In the Amazon Great Indian Festival amazon is offering some good deals on mobile
 
 ### 1. Mobiles under 10K:
 
-<div class="slide-show">
-
-<a href="https://raw.githubusercontent.com/devskrate/assets/master/images/sale/amazon-2020/amazon-GIS-under-10k-2020.png" data-lightbox="image-1" data-title=""><img width="70%" alt="amazon-GIS-under-10k-2020" src="https://raw.githubusercontent.com/devskrate/assets/master/images/sale/amazon-2020/amazon-GIS-under-10k-2020.png"></a>
-
-</div>
 
 {:class="table table-bordered dark"}
 |Specifications | Redmi 9 Prime | Oppo A5    | Redmi 9     | Redmi 8A Dual | 
